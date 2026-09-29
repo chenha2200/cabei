@@ -1,0 +1,13 @@
+{
+  "name": "cabei-taiwan-opportunity-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-data.mjs",
+    "check": "node --check public/app.js && node --check scripts/update-data.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
