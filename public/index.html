@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="依產業、國家、截止日期與台灣供應能力篩選 CABEI 公開採購商機。">
+  <title>CABEI 機構採購｜台灣商機雷達</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <nav class="topbar" aria-label="主要導覽">
+        <div class="brand"><span class="brand-mark" id="brand-count">—</span><span>CABEI 台灣商機雷達｜機構採購版</span></div>
+        <a class="source-link" href="https://www.bcie.org/adquisiciones-institucionales/en-curso" target="_blank" rel="noopener">開啟 CABEI 機構採購頁 ↗</a>
+      </nav>
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow" style="color:#9fe4cf">Institutional procurement · Green edition</p>
+          <h1>把進行中採購，<br>縮成值得追的幾筆。</h1>
+          <p class="hero-copy">用台灣擅長的資通訊、資安、智慧城市、安防與專業顧問能力，快速交叉篩選 CABEI 機構採購；先看適配理由，再回官方文件做投標判斷。</p>
+          <span class="snapshot" id="snapshot">正在載入最新資料…</span>
+        </div>
+        <div class="hero-stats" aria-label="資料摘要">
+          <div class="hero-stat"><strong id="stat-opportunities">—</strong><span>本次收錄、更新時尚未截止的案件</span></div>
+          <div class="hero-stat"><strong id="stat-countries">—</strong><span>國別／區域範圍</span></div>
+          <div class="hero-stat"><strong id="stat-highfit">—</strong><span>高適配商機 ≥ 85</span></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="workspace" id="opportunities">
+    <div class="shell workspace-grid">
+      <button class="filter-toggle" id="filter-toggle" type="button" aria-expanded="false">開啟篩選條件</button>
+      <aside class="filters" id="filters" aria-label="商機篩選">
+        <div class="filter-heading"><h2>縮小範圍</h2><button class="link-button" id="reset" type="button">全部重設</button></div>
+        <div class="field">
+          <label for="search">關鍵字</label>
+          <input id="search" type="search" placeholder="標案、技術、案號…" autocomplete="off">
+        </div>
+        <div class="field">
+          <label for="industry">產業</label>
+          <select id="industry"><option value="all">所有產業</option></select>
+        </div>
+        <div class="field">
+          <label for="country">國家</label>
+          <select id="country"><option value="all">所有國家／區域</option></select>
+        </div>
+        <div class="field">
+          <label for="deadline">截止日</label>
+          <select id="deadline">
+            <option value="all">所有尚未截止</option>
+            <option value="3">3 天內</option>
+            <option value="7">7 天內</option>
+            <option value="14">14 天內</option>
+            <option value="30">30 天內</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="fit">最低適配分數</label>
+          <div class="range-row"><input id="fit" type="range" min="0" max="90" step="5" value="0"><span class="range-value" id="fit-value">0</span></div>
+        </div>
+        <div class="field">
+          <label>台灣供應能力（可複選）</label>
+          <div class="capabilities" id="capabilities"></div>
+        </div>
+      </aside>
+
+      <section class="results" aria-live="polite">
+        <div class="results-bar">
+          <div>
+            <p class="eyebrow">Procurement opportunities</p>
+            <h2>優先追蹤商機</h2>
+            <div class="result-meta" id="result-meta">正在整理結果…</div>
+          </div>
+          <select class="sort" id="sort" aria-label="排序方式">
+            <option value="fit">適配度：高到低</option>
+            <option value="deadline">截止日：近到遠</option>
+            <option value="newest">公告日：新到舊</option>
+          </select>
+        </div>
+        <div class="active-filters" id="active-filters"></div>
+        <div class="cards" id="cards"></div>
+        <div class="empty" id="empty"><strong>目前沒有符合條件的商機</strong>降低最低適配分數，或移除一個供應能力條件試試。</div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="method">
+    <div class="shell method-grid">
+      <div>
+        <p class="eyebrow">How scoring works</p>
+        <h2>分數是導航，<br>不是投標結論。</h2>
+        <p>適配分數綜合台灣產業供應成熟度、跨境交付可行性、技術門檻與當地執行依賴度。點開每筆商機即可查看判斷理由及官方來源。</p>
+      </div>
+      <div>
+        <div class="method-points">
+          <div class="method-point"><strong>供應優勢</strong><span>資通訊、精密製造、醫材、安防、水處理、電力與智慧農業。</span></div>
+          <div class="method-point"><strong>跨境可行性</strong><span>設備、軟體與系統整合通常高於在地人力或純土建。</span></div>
+          <div class="method-point"><strong>需再核對</strong><span>資格、預算、語言、稅務與文件版本仍以官方公告為準。</span></div>
+        </div>
+        <div class="disclaimer">非 CABEI 官方網站。本網站每日從 CABEI「進行中機構採購」公開資料介面同步官方欄位與附件；台灣供應鏈研判為規則式初步分類。公告若有更正、延長或撤回，請以原始文件為準。追蹤星號只儲存在你的瀏覽器。</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
