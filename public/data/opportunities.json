@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:51:15.237Z",
+  "generatedAt": "2026-09-30T00:13:59.462Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -32,72 +32,6 @@
         "至少 5 年 VMware 授權／導入／支援經驗及至少 5 件相似合約或專案證明；配置熟悉 VMware 授權與企業虛擬化管理的技術人員。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03748379-045%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated"
-    },
-    {
-      "id": "131013",
-      "document": "781",
-      "process": "035/2026",
-      "country": "區域",
-      "industry": "智慧城市與顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-08-26",
-      "deadlineUtc": "2026-09-30T23:00:00.000Z",
-      "fit": 88,
-      "title": "中美洲與多明尼加智慧城市區域投資計畫",
-      "originalTitle": "035/2026 Consulting services for the development of the Regional Smart Cities Investment Program in Central America and the Dominican Republic",
-      "summary": "提供顧問服務，規劃中美洲與多明尼加共和國的區域智慧城市投資計畫，整合政策、專案與投資路徑。",
-      "capabilities": [
-        "智慧城市",
-        "數位治理",
-        "投資規劃",
-        "專案顧問"
-      ],
-      "reason": "台灣具智慧交通、城市治理、IoT 與數位公共服務實績，適合由顧問公司整合科技業者並與西語區域夥伴組隊。",
-      "caveat": "主投標人必須是韓國顧問公司；台灣廠商只能以聯盟成員、分包商或個別專家角色參與。",
-      "amount": "上限 US$650,000",
-      "documentSummary": "TOR 要求 9 個月內建立中美洲及多明尼加智慧城市區域投資計畫，篩選示範城市，完成智慧交通、安全、水務、廢棄物、資料治理與融資方案，並安排最多 5 名官員赴韓交流。CABEI負擔機票、住宿與日支；顧問負擔韓國境內交通、翻譯與場地。",
-      "qualifications": [
-        "韓國顧問公司必須擔任主投標人，且須自行達到最低經驗；可與台灣及其他國際／在地公司聯盟或分包。",
-        "至少 3 年智慧城市設計／導入經驗及多邊機構融資的國家或區域計畫經驗。",
-        "至少 3 件大型智慧城市案、3 件投資額逾 US$20m 的智慧城市前期案，並具整合交通、安全、水務與固廢、投資計畫及培訓經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03725256-Notice.pdf",
-      "analysisMode": "curated"
-    },
-    {
-      "id": "138011",
-      "document": "789",
-      "process": "047/2026",
-      "country": "尼加拉瓜",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-10",
-      "deadlineUtc": "2026-09-30T23:00:00.000Z",
-      "fit": 28,
-      "title": "CABEI 尼加拉瓜辦公室綜合設施服務",
-      "originalTitle": "047/2026 Servicios de Mantenimiento, Limpieza, Cafetería, Conducción, Jardinería, Monitoreo Ambiental y otros servicios relacionados para la Gerencia de País Nicaragua",
-      "summary": "為 CABEI 尼加拉瓜國家管理處提供維護、清潔、咖啡服務、車輛駕駛、園藝、環境監測及其他相關在地服務。",
-      "capabilities": [
-        "設施管理",
-        "環境監測",
-        "清潔服務",
-        "車輛駕駛"
-      ],
-      "reason": "本案以尼加拉瓜在地人力、日常派駐與即時履約為核心，台灣跨境供應優勢有限，較不建議台灣廠商直接投入。",
-      "caveat": "需具當地人員招募、勞動法遵、保險、車輛與駕照管理、現場主管、環境監測及長期服務能力；投標成本可能高於商業效益。",
-      "noCompanyReason": "本案屬高度在地化的綜合設施與人力服務，暫不建議配置台灣廠商；如有策略性需求，應由尼加拉瓜合格服務商主導。",
-      "amount": "總額未載明",
-      "amountNote": "TOR 規定各職務最低稅後月薪 US$570–1,500，非契約總額。",
-      "documentSummary": "TOR 採購尼加拉瓜辦公室 2027 年清潔咖啡、園藝、駕駛／信差、維護、環境監測等派駐服務，可逐年續約最長 5 年。須 100% 補足人力，缺勤 24 小時內替補；最低稅後月薪依職務為 US$570–1,500，另報加班、餐費及交通津貼。",
-      "qualifications": [
-        "廠商至少 5 年為多邊機構、外交單位、金融機構或相似複雜組織提供外包營運／行政支援。",
-        "近 5 年至少提供 3 份企業或機構客戶之綜合清潔、餐飲、維護、園藝、信差、駕駛等履約證明。",
-        "各職務須符合 TOR 的學歷、經驗、駕照／證照；未另訂年限者至少 3 年相關經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752243-047%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "analysisMode": "curated"
     },
     {
@@ -166,19 +100,19 @@
       "analysisMode": "rules"
     },
     {
-      "id": "141013",
-      "document": "796",
+      "id": "300000028820429",
+      "document": "796,1",
       "process": "050/2026",
       "country": "區域",
       "industry": "永續與環境顧問",
       "category": "顧問服務",
       "method": "公開詢價",
-      "published": "2026-09-25",
+      "published": "2026-09-29",
       "deadlineUtc": "2026-10-06T23:00:00.000Z",
       "fit": 72,
-      "title": "CABEI 五國據點零廢棄掩埋認證診斷與準備顧問",
+      "title": "“Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
       "originalTitle": "050 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
-      "summary": "CABEI 公開採購「CABEI 五國據點零廢棄掩埋認證診斷與準備顧問」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "CABEI 公開採購「“Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
       "capabilities": [
         "環境影響評估",
         "ESG",
@@ -187,12 +121,44 @@
       "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
       "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：Aviso.pdf、050 2026 Términos de Referencia.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：050 2026 Términos de Referencia.pdf、Aviso.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
       "qualifications": [
         "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
       ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03779031-Aviso.pdf",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "analysisMode": "rules"
+    },
+    {
+      "id": "131013",
+      "document": "781",
+      "process": "035/2026",
+      "country": "區域",
+      "industry": "智慧城市與顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-08-26",
+      "deadlineUtc": "2026-10-14T23:00:00.000Z",
+      "fit": 88,
+      "title": "中美洲與多明尼加智慧城市區域投資計畫",
+      "originalTitle": "035/2026 Consulting services for the development of the Regional Smart Cities Investment Program in Central America and the Dominican Republic",
+      "summary": "提供顧問服務，規劃中美洲與多明尼加共和國的區域智慧城市投資計畫，整合政策、專案與投資路徑。",
+      "capabilities": [
+        "智慧城市",
+        "數位治理",
+        "投資規劃",
+        "專案顧問"
+      ],
+      "reason": "台灣具智慧交通、城市治理、IoT 與數位公共服務實績，適合由顧問公司整合科技業者並與西語區域夥伴組隊。",
+      "caveat": "主投標人必須是韓國顧問公司；台灣廠商只能以聯盟成員、分包商或個別專家角色參與。",
+      "amount": "上限 US$650,000",
+      "documentSummary": "TOR 要求 9 個月內建立中美洲及多明尼加智慧城市區域投資計畫，篩選示範城市，完成智慧交通、安全、水務、廢棄物、資料治理與融資方案，並安排最多 5 名官員赴韓交流。CABEI負擔機票、住宿與日支；顧問負擔韓國境內交通、翻譯與場地。",
+      "qualifications": [
+        "韓國顧問公司必須擔任主投標人，且須自行達到最低經驗；可與台灣及其他國際／在地公司聯盟或分包。",
+        "至少 3 年智慧城市設計／導入經驗及多邊機構融資的國家或區域計畫經驗。",
+        "至少 3 件大型智慧城市案、3 件投資額逾 US$20m 的智慧城市前期案，並具整合交通、安全、水務與固廢、投資計畫及培訓經驗。"
+      ],
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03725256-Notice.pdf",
+      "analysisMode": "curated"
     },
     {
       "id": "140011",
@@ -283,6 +249,40 @@
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03780386-050%202026%20%20T%C3%A9rminos%20de%20Referencia.pdf",
       "analysisMode": "rules"
+    },
+    {
+      "id": "138011",
+      "document": "789",
+      "process": "047/2026",
+      "country": "尼加拉瓜",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-09-10",
+      "deadlineUtc": "2026-10-14T23:00:00.000Z",
+      "fit": 28,
+      "title": "CABEI 尼加拉瓜辦公室綜合設施服務",
+      "originalTitle": "047/2026 Servicios de Mantenimiento, Limpieza, Cafetería, Conducción, Jardinería, Monitoreo Ambiental y otros servicios relacionados para la Gerencia de País Nicaragua",
+      "summary": "為 CABEI 尼加拉瓜國家管理處提供維護、清潔、咖啡服務、車輛駕駛、園藝、環境監測及其他相關在地服務。",
+      "capabilities": [
+        "設施管理",
+        "環境監測",
+        "清潔服務",
+        "車輛駕駛"
+      ],
+      "reason": "本案以尼加拉瓜在地人力、日常派駐與即時履約為核心，台灣跨境供應優勢有限，較不建議台灣廠商直接投入。",
+      "caveat": "需具當地人員招募、勞動法遵、保險、車輛與駕照管理、現場主管、環境監測及長期服務能力；投標成本可能高於商業效益。",
+      "noCompanyReason": "本案屬高度在地化的綜合設施與人力服務，暫不建議配置台灣廠商；如有策略性需求，應由尼加拉瓜合格服務商主導。",
+      "amount": "總額未載明",
+      "amountNote": "TOR 規定各職務最低稅後月薪 US$570–1,500，非契約總額。",
+      "documentSummary": "TOR 採購尼加拉瓜辦公室 2027 年清潔咖啡、園藝、駕駛／信差、維護、環境監測等派駐服務，可逐年續約最長 5 年。須 100% 補足人力，缺勤 24 小時內替補；最低稅後月薪依職務為 US$570–1,500，另報加班、餐費及交通津貼。",
+      "qualifications": [
+        "廠商至少 5 年為多邊機構、外交單位、金融機構或相似複雜組織提供外包營運／行政支援。",
+        "近 5 年至少提供 3 份企業或機構客戶之綜合清潔、餐飲、維護、園藝、信差、駕駛等履約證明。",
+        "各職務須符合 TOR 的學歷、經驗、駕照／證照；未另訂年限者至少 3 年相關經驗。"
+      ],
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752243-047%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "analysisMode": "curated"
     },
     {
       "id": "139011",
@@ -422,16 +422,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03778503-Aviso.pdf"
       }
     ],
-    "141013": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03779031-Aviso.pdf"
-      },
-      {
-        "name": "050 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03779030-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
     "142011": [
       {
         "name": "050 2026 Términos de Referencia.pdf",
@@ -450,6 +440,16 @@
       {
         "name": "Anexo 8 Especificaciones Tecnicas BCIE Nicaragua.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03780126-Anexo%208%20Especificaciones%20Tecnicas%20BCIE%20Nicaragua.docx"
+      }
+    ],
+    "300000028820429": [
+      {
+        "name": "050 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03785148-Aviso.pdf"
       }
     ]
   },
@@ -526,26 +526,6 @@
     ],
     "141011": [],
     "141012": [],
-    "141013": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
     "142011": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -566,6 +546,26 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000028794692": []
+    "300000028794692": [],
+    "300000028820429": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   }
 }
