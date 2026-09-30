@@ -8,14 +8,21 @@ const FILES_API = "https://www.bcie.org/api/adquisitions/files";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = path.join(ROOT, "public", "data", "opportunities.json");
 
-const titleOverrides = {
-  "142011": "CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程",
-  "141013": "CABEI 五國據點零廢棄掩埋認證診斷與準備顧問",
-  "141012": "CABEI 官方發言人策略溝通培訓",
-  "141011": "CABEI 尼加拉瓜國家管理處實體安全服務",
-  "140011": "PureStorage 儲存設備支援續約",
-  "139011": "CABEI 瓜地馬拉國家管理處安全服務"
-};
+// CABEI may republish the same procurement under a new internal ID. Match the
+// stable process number together with title keywords instead of AUCTION_HEADER_ID.
+const titleRules = [
+  { process: "035/2026", test: /smart cities|ciudades inteligentes/i, title: "中美洲與多明尼加智慧城市區域投資計畫" },
+  { process: "044/2026", test: /lago ilopango|coatepeque/i, title: "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫" },
+  { process: "045/2026", test: /vmware/i, title: "VMware 平台授權更新" },
+  { process: "046/2026", test: /drenaje pluvial|sistema de drenaje/i, title: "CABEI 尼加拉瓜辦公大樓雨水排水系統改善與擴建" },
+  { process: "047/2026", test: /mantenimiento.*limpieza|limpieza.*cafeter[ií]a/i, title: "CABEI 尼加拉瓜辦公室綜合設施服務" },
+  { process: "048/2026", test: /purestorage/i, title: "PureStorage 儲存設備支援續約" },
+  { process: "048/2026", test: /seguridad.*guatemala|gerencia de pa[ií]s.*guatemala/i, title: "CABEI 瓜地馬拉國家管理處安全服務" },
+  { process: "049/2026", test: /voceros|comunicaci[oó]n/i, title: "CABEI 官方發言人策略溝通培訓" },
+  { process: "050/2026", test: /zero waste to landfill/i, title: "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務" },
+  { process: "050/2026", test: /rehabilitaci[oó]n.*cubierta|cubierta.*balcones/i, title: "CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程" },
+  { process: "052/2026", test: /seguridad f[ií]sica.*nicaragua|edificio.*nicaragua/i, title: "CABEI 尼加拉瓜國家管理處實體安全服務" }
+];
 
 const companyCatalog = {
   cloud: [
@@ -61,6 +68,12 @@ function processNumber(...values) {
   const text = values.map(normalizeText).join(" ");
   const match = text.match(/\b(\d{3})\s*\/?\s*(20\d{2})\b/);
   return match ? `${match[1]}/${match[2]}` : "未載明";
+}
+
+function localizedTitle(process, originalTitle) {
+  const matched = titleRules.find(rule => rule.process === process && rule.test.test(originalTitle));
+  if (matched) return matched.title;
+  return originalTitle.replace(/^\s*\d{3}\s*\/?\s*20\d{2}\s*[–—:-]?\s*/i, "");
 }
 
 function inferCountry(text) {
@@ -172,7 +185,7 @@ const opportunities = await Promise.all(rows.map(async row => {
     ? current.taiwanCompanySuggestions[previousId]
     : suggestionsFor(classification);
 
-  const generatedTitle = titleOverrides[id] || originalTitle.replace(/^\s*\d{3}\s*\/?\s*20\d{2}\s*[–—:-]?\s*/i, "");
+  const generatedTitle = localizedTitle(process, originalTitle);
   const generatedSummary = `CABEI 公開採購「${generatedTitle}」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。`;
   const generatedDocumentSummary = attachments.length
     ? `CABEI 官方案件頁目前提供 ${attachments.length} 份文件：${attachments.map(file => file.name).join("、")}。請逐份核對最新版本、修正通知、資格及投標格式。`
