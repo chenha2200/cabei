@@ -1,76 +1,7 @@
 {
-  "generatedAt": "2026-09-30T06:23:14.220Z",
+  "generatedAt": "2026-10-01T00:14:05.907Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "136011",
-      "document": "786",
-      "process": "045/2026",
-      "country": "區域／未載明",
-      "industry": "數位與資通訊",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-07",
-      "deadlineUtc": "2026-09-30T23:00:00.000Z",
-      "fit": 94,
-      "title": "VMware 平台授權更新",
-      "originalTitle": "045/2026 Renovación de Licenciamiento de plataforma VMware",
-      "summary": "CABEI 擬更新 VMware 平台授權，維持既有虛擬化基礎架構的合法使用、支援與持續營運。",
-      "capabilities": [
-        "軟體授權",
-        "虛擬化",
-        "資料中心",
-        "系統維運"
-      ],
-      "reason": "台灣具完整企業 IT 通路、資料中心整合與虛擬化維運能力；若具 VMware 原廠授權資格，可快速切入。",
-      "caveat": "應先核對授權層級、數量、訂閱期間、原廠夥伴資格、報價幣別與跨境供應限制。",
-      "amount": "未載明",
-      "documentSummary": "TOR 採購 VMware vSphere Foundation（VVF）376 cores、36 個月授權與原廠支援，期間為 2027/1/1–2029/12/31，須延續既有合約編號 52866505，包含版本更新、修補與技術支援；按年度驗收付款。",
-      "qualifications": [
-        "至少 5 年企業級科技授權之銷售、供應、續約或管理經驗。",
-        "須為有效 VMware by Broadcom 授權夥伴，提交原廠證明。",
-        "至少 5 年 VMware 授權／導入／支援經驗及至少 5 件相似合約或專案證明；配置熟悉 VMware 授權與企業虛擬化管理的技術人員。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03748379-045%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated"
-    },
-    {
-      "id": "300000028794692",
-      "document": "790,1",
-      "process": "046/2026",
-      "country": "尼加拉瓜",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-25",
-      "deadlineUtc": "2026-09-30T23:00:00.000Z",
-      "fit": 24,
-      "title": "CABEI 尼加拉瓜辦公大樓雨水排水系統改善與擴建",
-      "originalTitle": "046/2026 Servicio de Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio del BCIE en Managua Nicaragua",
-      "summary": "改善並擴建 CABEI 馬納瓜辦公大樓雨水排水系統，包含土建、水力、入滲、管線、檢查設施、測試與場地復原。",
-      "capabilities": [
-        "雨水排水",
-        "水利工程",
-        "土木施工",
-        "管線工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與水利供應鏈可提供排水設計審查、材料或技術，但本案以尼加拉瓜現地施工、人力、機具與即時管理為核心，直接投標適配度偏低。",
-      "caveat": "9 月 17 日馬納瓜現場技術訪查為強制要求，未出席將被取消資格；另須符合當地施工、財務與西語投標條件。台灣業者較適合作為尼加拉瓜主承包商的技術或材料分包。",
-      "noCompanyReason": "本案須強制現勘並以尼加拉瓜現地土建施工為主，暫不列台灣直接投標候選；可由當地合格主承包商另洽台灣工程顧問或材料供應商分包。",
-      "amount": "未載明",
-      "briefing": "2026/09/17 10:30–12:00 或 14:30–16:00（馬納瓜，強制出席）",
-      "questionsDue": "2026/09/18 17:00（宏都拉斯時間）",
-      "language": "西班牙文",
-      "documentSummary": "TOR 要求在 3 至 5 個月內改善 CABEI 馬納瓜大樓雨水系統，供應材料、人力與機具，施工涵蓋地下雨水管、集水口、檢查井、入滲設施、法式排水、開挖、測量、測試及鋪面復原；須維持營運、管控職安與品質。9 月 17 日兩梯次現勘須擇一出席。",
-      "qualifications": [
-        "至少 10 年土建、擴建、修復或改善工程經驗，範圍須含水利、衛生、雨水或建築外部基礎設施。",
-        "至少完成 3 件相似排水／水利工程，每件契約金額不低於 US$250,000，並附完工驗收或履約證明。",
-        "平均年營收至少 US$665,000、營運資金至少 US$133,000；並配置具 10 年經驗的土木駐地工程師及符合 TOR 年資的工地主任、測量、職安、管線與電氣人員。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03780127-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx",
-      "analysisMode": "curated"
-    },
     {
       "id": "141012",
       "document": "795",
@@ -339,6 +270,35 @@
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03775203-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
       "analysisMode": "rules"
+    },
+    {
+      "id": "143012",
+      "document": "799",
+      "process": "051/2026",
+      "country": "區域／未載明",
+      "industry": "永續與環境顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-09-30",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 72,
+      "title": "Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1",
+      "originalTitle": "051/2026 Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1",
+      "summary": "CABEI 公開採購「Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：Aviso.pdf、051 2026 Términos de Referencia.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "qualifications": [
+        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+      ],
+      "analysisMode": "rules",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf"
     }
   ],
   "officialAttachments": {
@@ -350,16 +310,6 @@
       {
         "name": "035 2026 Terms of Reference.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03725255-035%202026%20Terms%20of%20Reference.pdf"
-      }
-    ],
-    "136011": [
-      {
-        "name": "045 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03748379-045%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 7 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03748212-Anexo%207%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "137011": [
@@ -432,14 +382,14 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03780374-Aviso.pdf"
       }
     ],
-    "300000028794692": [
+    "143012": [
       {
-        "name": "Anexo 9 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03780127-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf"
       },
       {
-        "name": "Anexo 8 Especificaciones Tecnicas BCIE Nicaragua.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03780126-Anexo%208%20Especificaciones%20Tecnicas%20BCIE%20Nicaragua.docx"
+        "name": "051 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03787641-051%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
     "300000028820429": [
@@ -472,20 +422,6 @@
         "role": "IoT 技術夥伴",
         "why": "城市 IoT、邊緣運算與平台能力可提供可落地的技術方案。",
         "url": "https://www.advantech.com/"
-      }
-    ],
-    "136011": [
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "授權與系統整合",
-        "why": "具企業 IT、系統整合與維運能力；須確認投標時仍具合格 VMware 夥伴資格。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      },
-      {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "授權整合候選",
-        "why": "企業軟體與資料中心服務能力適合承接授權更新及技術支援，原廠資格須另核。",
-        "url": "https://www.systex.com/"
       }
     ],
     "137011": [
@@ -546,7 +482,26 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000028794692": [],
+    "143012": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
     "300000028820429": [
       {
         "name": "中華顧問工程司（CECI）",
