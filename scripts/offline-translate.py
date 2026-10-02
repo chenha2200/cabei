@@ -288,6 +288,11 @@ class Translator:
                         r"電信設備，且須符合",
                         translated,
                     )
+                    translated = re.sub(
+                        r"CABEI\s*\(\s*CABEI\s*\)\s*年?", "CABEI", translated
+                    )
+                    translated = translated.replace("CABEI個設施", "CABEI 設施")
+                    translated = translated.replace("CABEI號大樓", "CABEI 辦公大樓")
                 results.append(translated)
         return results
 
@@ -368,7 +373,11 @@ def main() -> None:
         qualification_translations = translated[:len(qualification_parts)]
 
         if scope_translations:
-            summary_zh = truncate(" ".join(scope_translations), MAX_SUMMARY_CHARS)
+            summary_zh = truncate(
+                f"CABEI 公開採購「{title_zh}」。"
+                + " ".join(scope_translations),
+                MAX_SUMMARY_CHARS,
+            )
         else:
             summary_zh = f"CABEI 公開採購「{title_zh}」。完整工作範圍請以官方 TOR 為準。"
 
