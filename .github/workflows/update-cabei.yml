@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  models: read
 
 concurrency:
   group: update-cabei-opportunities
@@ -16,7 +17,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -26,7 +27,13 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Fetch CABEI data and attachments
+      - name: Install PDF text extractor
+        run: sudo apt-get update && sudo apt-get install --yes poppler-utils
+
+      - name: Fetch, translate and analyze CABEI data
+        env:
+          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_MODELS_MODEL: openai/gpt-4o-mini
         run: node scripts/update-data.mjs
 
       - name: Commit changed JSON
