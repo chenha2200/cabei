@@ -21,6 +21,7 @@ const titleRules = [
   { process: "049/2026", test: /voceros|comunicaci[oó]n/i, title: "CABEI 官方發言人策略溝通培訓" },
   { process: "050/2026", test: /zero waste to landfill/i, title: "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務" },
   { process: "050/2026", test: /rehabilitaci[oó]n.*cubierta|cubierta.*balcones/i, title: "CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程" },
+  { process: "051/2026", test: /indicadores.*ambientales.*sociales.*gobernanza|sistema.*monitoreo.*evaluaci[oó]n/i, title: "制定環境、社會和治理指標監測和評估系統 — 第一階段" },
   { process: "052/2026", test: /seguridad f[ií]sica.*nicaragua|edificio.*nicaragua/i, title: "CABEI 尼加拉瓜國家管理處實體安全服務" },
   { process: "053/2026", test: /plataforma central.*procesamiento.*telecomunicaciones|telecomunicaciones.*procesamiento/i, title: "CABEI 核心運算與電信平台更新（二期）" }
 ];
