@@ -271,7 +271,10 @@ companyGroup：只能填 cloud、ict、engineering、smartCity 或 null。`;
         const detail = truncateText(await response.text(), 300);
         throw new Error(`${response.status} ${response.statusText}: ${detail}`);
       }
-      const payload = await response.json();
+      // GitHub Models may prefix the JSON payload with a short status line
+      // (for example "OK") on some Actions runners. Extract the outer JSON
+      // object instead of assuming the entire response body is JSON.
+      const payload = parseModelJson(await response.text());
       return validateModelAnalysis(parseModelJson(payload?.choices?.[0]?.message?.content));
     } catch (error) {
       lastError = error;
