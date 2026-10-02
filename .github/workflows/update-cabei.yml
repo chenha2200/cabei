@@ -1,11 +1,6 @@
 name: Update CABEI opportunities
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "scripts/update-data.mjs"
-      - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
     - cron: "0 0 * * *"
@@ -13,7 +8,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 concurrency:
   group: update-cabei-opportunities
@@ -22,24 +16,45 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: "20"
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Cache offline translation model
+        uses: actions/cache@v5
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/pip
+          key: cabei-offline-es-zh-v1-${{ runner.os }}
 
       - name: Install PDF text extractor
         run: sudo apt-get update && sudo apt-get install --yes poppler-utils
 
-      - name: Fetch, translate and analyze CABEI data
-        env:
-          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_MODELS_MODEL: openai/gpt-4o-mini
+      - name: Install offline translation engine
+        run: |
+          python -m pip install --disable-pip-version-check --index-url https://download.pytorch.org/whl/cpu torch
+          python -m pip install --disable-pip-version-check "transformers>=4.45,<5" sentencepiece sacremoses
+
+      - name: Fetch CABEI data and attachments
         run: node scripts/update-data.mjs
+
+      - name: Translate titles and TOR text to Traditional Chinese
+        env:
+          HF_HUB_DISABLE_TELEMETRY: "1"
+          TOKENIZERS_PARALLELISM: "false"
+        run: python scripts/offline-translate.py
 
       - name: Commit changed JSON
         shell: bash
