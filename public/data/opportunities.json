@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:13:33.999Z",
+  "generatedAt": "2026-10-02T01:49:01.982Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -28,7 +28,8 @@
         "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03778504-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "rules"
+      "analysisMode": "rules",
+      "companyGroup": null
     },
     {
       "id": "300000028820429",
@@ -57,7 +58,8 @@
         "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "rules"
+      "analysisMode": "rules",
+      "companyGroup": "engineering"
     },
     {
       "id": "131013",
@@ -89,7 +91,8 @@
         "至少 3 件大型智慧城市案、3 件投資額逾 US$20m 的智慧城市前期案，並具整合交通、安全、水務與固廢、投資計畫及培訓經驗。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03725256-Notice.pdf",
-      "analysisMode": "curated"
+      "analysisMode": "curated",
+      "companyGroup": "smartCity"
     },
     {
       "id": "140011",
@@ -106,9 +109,9 @@
       "originalTitle": "048/2026 Renovación de Soporte para equipos de almacenamiento PureStorage",
       "summary": "CABEI 公開採購「PureStorage 儲存設備支援續約」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
       "capabilities": [
-        "軟體授權",
-        "資料中心",
-        "系統維運"
+        "資訊基礎設施",
+        "網路與電信",
+        "系統整合"
       ],
       "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
       "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
@@ -118,7 +121,8 @@
         "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03772905-Aviso.pdf",
-      "analysisMode": "rules"
+      "analysisMode": "rules",
+      "companyGroup": "ict"
     },
     {
       "id": "137011",
@@ -150,7 +154,8 @@
         "至少配置 10 類核心專家；專案經理 15 年，其餘衛生、水力、水文地質、地質、結構、機電、氣候與成本專家多要求 5–10 年及相似案實績。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752008-044%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated"
+      "analysisMode": "curated",
+      "companyGroup": "engineering"
     },
     {
       "id": "142011",
@@ -179,7 +184,8 @@
         "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03780386-050%202026%20%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "rules"
+      "analysisMode": "rules",
+      "companyGroup": "engineering"
     },
     {
       "id": "138011",
@@ -203,7 +209,6 @@
       ],
       "reason": "本案以尼加拉瓜在地人力、日常派駐與即時履約為核心，台灣跨境供應優勢有限，較不建議台灣廠商直接投入。",
       "caveat": "需具當地人員招募、勞動法遵、保險、車輛與駕照管理、現場主管、環境監測及長期服務能力；投標成本可能高於商業效益。",
-      "noCompanyReason": "本案屬高度在地化的綜合設施與人力服務，暫不建議配置台灣廠商；如有策略性需求，應由尼加拉瓜合格服務商主導。",
       "amount": "總額未載明",
       "amountNote": "TOR 規定各職務最低稅後月薪 US$570–1,500，非契約總額。",
       "documentSummary": "TOR 採購尼加拉瓜辦公室 2027 年清潔咖啡、園藝、駕駛／信差、維護、環境監測等派駐服務，可逐年續約最長 5 年。須 100% 補足人力，缺勤 24 小時內替補；最低稅後月薪依職務為 US$570–1,500，另報加班、餐費及交通津貼。",
@@ -213,7 +218,8 @@
         "各職務須符合 TOR 的學歷、經驗、駕照／證照；未另訂年限者至少 3 年相關經驗。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752243-047%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated"
+      "analysisMode": "curated",
+      "companyGroup": "engineering"
     },
     {
       "id": "139011",
@@ -241,7 +247,8 @@
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "rules"
+      "analysisMode": "rules",
+      "companyGroup": null
     },
     {
       "id": "141011",
@@ -269,7 +276,38 @@
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03775203-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "rules"
+      "analysisMode": "rules",
+      "companyGroup": null
+    },
+    {
+      "id": "143013",
+      "document": "800",
+      "process": "053/2026",
+      "country": "區域／未載明",
+      "industry": "數位與資通訊",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-01",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 86,
+      "title": "CABEI 核心運算與電信平台更新（二期）",
+      "originalTitle": "053/2026 Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
+      "summary": "CABEI 公開採購「CABEI 核心運算與電信平台更新（二期）」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "capabilities": [
+        "資訊基礎設施",
+        "網路與電信",
+        "系統整合"
+      ],
+      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "amount": "未載明",
+      "documentSummary": "CABEI 官方案件頁目前提供 3 份文件：Aviso.pdf、053 2026 Términos de Referencia.pdf、Anexo 6 - Formato de Oferta Técnica.docx。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "qualifications": [
+        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+      ],
+      "analysisMode": "rules",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf",
+      "companyGroup": "ict"
     },
     {
       "id": "143012",
@@ -298,35 +336,8 @@
         "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
       ],
       "analysisMode": "rules",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf"
-    },
-    {
-      "id": "143013",
-      "document": "800",
-      "process": "053/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-01",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 35,
-      "title": "Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
-      "originalTitle": "053/2026 Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
-      "summary": "CABEI 公開採購「Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 3 份文件：Aviso.pdf、053 2026 Términos de Referencia.pdf、Anexo 6 - Formato de Oferta Técnica.docx。請逐份核對最新版本、修正通知、資格及投標格式。",
-      "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
-      ],
-      "analysisMode": "rules",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf"
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf",
+      "companyGroup": "engineering"
     }
   ],
   "officialAttachments": {
@@ -544,7 +555,20 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "143013": [],
+    "143013": [
+      {
+        "name": "精誠資訊（SYSTEX）",
+        "role": "企業 IT 整合",
+        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
+        "url": "https://www.systex.com/"
+      },
+      {
+        "name": "資拓宏宇（IISI）",
+        "role": "系統整合與維運",
+        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
+        "url": "https://www.iisigroup.com/en/about-en/services/"
+      }
+    ],
     "300000028820429": [
       {
         "name": "中華顧問工程司（CECI）",
