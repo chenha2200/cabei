@@ -14,6 +14,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import torch
+from opencc import OpenCC
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 
@@ -22,7 +23,9 @@ DATA_FILE = ROOT / "public" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
     "CABEI_TRANSLATION_MODEL", "Helsinki-NLP/opus-tatoeba-es-zh"
 )
-TARGET_PREFIX = ">>cmn_Hant<< "
+TRANSLATION_VERSION = "offline-es-zh-v2"
+TARGET_PREFIX = ">>cmn_Hans<< "
+OPENCC = OpenCC("s2twp")
 MAX_SUMMARY_CHARS = 320
 MAX_DOCUMENT_SUMMARY_CHARS = 500
 
@@ -51,6 +54,7 @@ def truncate(value: str, limit: int) -> str:
 
 def fingerprint(item: dict, attachments: list[dict]) -> str:
     source = {
+        "translationVersion": TRANSLATION_VERSION,
         "originalTitle": item.get("originalTitle", ""),
         "document": item.get("document", ""),
         "attachments": [
@@ -65,6 +69,21 @@ def fingerprint(item: dict, attachments: list[dict]) -> str:
 def strip_process_number(title: str) -> str:
     value = re.sub(r"^\s*\d{3}\s*/?\s*20\d{2}\s*[–—:.-]?\s*", "", title)
     return value.strip(" \t\r\n\"'“”")
+
+
+def taiwan_chinese(value: str) -> str:
+    converted = OPENCC.convert(normalize(value))
+    terminology = {
+        "BCIE": "CABEI",
+        "指示器": "指標",
+        "通信平台": "通訊平台",
+        "第1步": "第一階段",
+        "第 1 步": "第一階段",
+        "-- --": "—",
+    }
+    for source, target in terminology.items():
+        converted = converted.replace(source, target)
+    return normalize(converted)
 
 
 def download_pdf_text(file: dict, index: int) -> str:
@@ -174,7 +193,7 @@ class Translator:
                     early_stopping=True,
                 )
             results.extend(
-                normalize(value)
+                taiwan_chinese(value)
                 for value in self.tokenizer.batch_decode(generated, skip_special_tokens=True)
             )
         return results
@@ -229,7 +248,9 @@ def main() -> None:
         source_values.extend(qualification_parts)
         translated = translator.translate_many(source_values)
 
-        title_zh = translated.pop(0) if translated else item.get("title", title_source)
+        machine_title = translated.pop(0) if translated else item.get("title", title_source)
+        rule_title = taiwan_chinese(item.get("ruleTitle", ""))
+        title_zh = rule_title if re.search(r"[\u3400-\u9fff]", rule_title) else machine_title
         if not re.search(r"[\u3400-\u9fff]", title_zh):
             title_zh = item.get("title", title_source)
 
@@ -262,7 +283,8 @@ def main() -> None:
                 "amount": explicit_usd_amount(document_text),
                 "analysisMode": "offline-translation",
                 "translationFingerprint": current_fingerprint,
-                "translationModel": f"{MODEL_NAME} (cmn_Hant)",
+                "translationModel": f"{MODEL_NAME} (cmn_Hans) + OpenCC s2twp",
+                "translationVersion": TRANSLATION_VERSION,
                 "translationUpdatedAt": datetime.now(timezone.utc).isoformat(),
             }
         )
