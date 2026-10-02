@@ -23,7 +23,7 @@ DATA_FILE = ROOT / "public" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
     "CABEI_TRANSLATION_MODEL", "Helsinki-NLP/opus-tatoeba-es-zh"
 )
-TRANSLATION_VERSION = "offline-es-zh-v4"
+TRANSLATION_VERSION = "offline-es-zh-v5"
 TARGET_PREFIX = ">>cmn_Hans<< "
 OPENCC = OpenCC("s2twp")
 MAX_SUMMARY_CHARS = 320
@@ -120,6 +120,10 @@ def taiwan_chinese(value: str) -> str:
         "型別": "類型",
         "起碼": "最低",
         "質量": "品質",
+        "裝置": "設備",
+        "解決辦法": "解決方案",
+        "原始說明函": "原廠證明函",
+        "許可證認證水平": "授權認證等級",
         "第1步": "第一階段",
         "第 1 步": "第一階段",
         "-- --": "—",
@@ -133,11 +137,11 @@ def prepare_source(value: str) -> str:
     prepared = normalize(value)
     prepared = re.sub(
         r"Banco\s+Centroamericano\s+de\s+Integraci[oó]n\s+Econ[oó]mica",
-        "OpenAI",
+        "917304",
         prepared,
         flags=re.I,
     )
-    prepared = re.sub(r"\bBCIE\b", "OpenAI", prepared, flags=re.I)
+    prepared = re.sub(r"\bBCIE\b", "917304", prepared, flags=re.I)
     return prepared
 
 
@@ -249,7 +253,7 @@ class Translator:
         for start in range(0, len(values), 6):
             source_batch = values[start:start + 6]
             prepared_batch = [prepare_source(value) for value in source_batch]
-            protected_org = ["OpenAI" in value for value in prepared_batch]
+            protected_org = ["917304" in value for value in prepared_batch]
             batch = [TARGET_PREFIX + value for value in prepared_batch]
             encoded = self.tokenizer(
                 batch,
@@ -269,8 +273,7 @@ class Translator:
             for value, protect_org in zip(decoded, protected_org):
                 translated = taiwan_chinese(value)
                 if protect_org:
-                    translated = translated.replace("OpenAI", "CABEI")
-                    translated = translated.replace("開放人工智慧", "CABEI")
+                    translated = translated.replace("917304", "CABEI")
                 results.append(translated)
         return results
 
