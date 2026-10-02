@@ -13,9 +13,9 @@
       "published": "2026-09-24",
       "deadlineUtc": "2026-10-02T23:00:00.000Z",
       "fit": 46,
-      "title": "CABEI 官方發言人策略溝通培訓",
+      "title": "官方发言人的策略培训",
       "originalTitle": "049/2026 Capacitación Estratégica para Voceros Oficiales",
-      "summary": "CABEI 公開採購「CABEI 官方發言人策略溝通培訓」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "本参考术语文件是依照BCIE的《商品采购、服務合同和机构咨询政策》制定的,是BCIE的財產,未经BCIE同意,不得用机械或電子手段复制或再分配其内容。",
       "capabilities": [
         "專案顧問"
       ],
@@ -23,13 +23,20 @@
       "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：049 2026 Términos de Referencia.pdf、Aviso.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "· 出价人至少要證明五(5)年中在中途經過的三(3)次中途經驗、言論訓練、面試管理、危機傳播或高曝光率組織的媒體管理。 出價人必須提供服務部領導人和每名被提名的调解人的履歷,清楚指出每名職員的作用及經驗,以確認他們是否符合要求。 出價人至少要證明五(5)年中在策略性通訊、媒體關係、名譽、企業事務或行政訓練方面至少有五(5)年的經驗。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "提供人至少要證實過去5年中至少完成的三項服務,",
+        "申請人將提供一份提議的履歷表,",
+        "申請人必須提供服務局領導人及每一個推介人的履歷表,",
+        "經驗至少5年, 包括策略性通訊服務、媒體關係、名譽、企業事務或行政訓練。",
+        "經過5年的中間訓練、發言人訓練、面試管理、危機傳播或媒體管理,"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03778504-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "rules",
-      "companyGroup": null
+      "analysisMode": "offline-translation",
+      "companyGroup": null,
+      "translationFingerprint": "1270c4d575a3bd1d7defdb148b11aa725c2069b27fcc36cfc6366dd79039d836",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:05:10.053144+00:00"
     },
     {
       "id": "300000028820429",
@@ -42,9 +49,9 @@
       "published": "2026-09-29",
       "deadlineUtc": "2026-10-06T23:00:00.000Z",
       "fit": 72,
-      "title": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
+      "title": "在洪都拉斯、萨尔瓦多、瓜地馬拉、哥斯大黎加、尼加拉瓜等地,",
       "originalTitle": "050 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
-      "summary": "CABEI 公開採購「CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "1.1 中美洲經濟整合銀行在致力以可持续和负责任的方式管理與其活动相關的環境影響方面,已建立符合ISO 14001:2015的環境管理体系(SGA),其中包括在洪都拉斯、萨尔瓦多、危地马拉、哥斯大黎加和尼加拉瓜的設施。 該咨询公司在提供可持续性、环境管理、循环經濟、全面废物管理方面的咨询和/或咨询方面至少要有10年的一般經驗。",
       "capabilities": [
         "環境影響評估",
         "ESG",
@@ -53,13 +60,20 @@
       "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
       "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：050 2026 Términos de Referencia.pdf、Aviso.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "企業公司在提供可持续能力、环境管理、循环經濟、综合废物管理方面的咨询和(或)咨询方面至少要有10年的一般經驗。 企業公司要支持公共和(或)私人組織研究、设计和实施旨在改善其业绩和可持续管理的战略、方案和行动。 中美洲经济一体化银行(中美洲经济一体化银行)在可持续能力及对其活动所造成环境影响的负责任的管理方面,在BCIE的財產政策下,由BCIE所有,在BCIE的技術或電子媒體上,不能再复制它的内容,也不得未经BCIE的允許,不得再再重新發展它的内容。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "1.3.1.3 向ZWL过渡的路线图",
+        "協助公共及(或)私人組織研判、設計及執行策略、計畫與行動, 以提升企業性能與可持續管理。",
+        "使用的方法应由顾问團體明确确定,提出甄选理由,并解释任何认证的适用标准、水平或要求。",
+        "o 废物管理的成熟度。",
+        "1.8.4 承诺提供提案中包含的主要人員,如果被取代,提供同等或更合格的人員,由BCIE事先知道并批准。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "rules",
-      "companyGroup": "engineering"
+      "analysisMode": "offline-translation",
+      "companyGroup": "engineering",
+      "translationFingerprint": "69571b082b42bda583a2561d810e96043a82d8d4a9535e3998f7845f112fb03f",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:05:25.708792+00:00"
     },
     {
       "id": "131013",
@@ -105,9 +119,9 @@
       "published": "2026-09-21",
       "deadlineUtc": "2026-10-14T23:00:00.000Z",
       "fit": 86,
-      "title": "PureStorage 儲存設備支援續約",
+      "title": "PureStorage 儲存裝置支援更新",
       "originalTitle": "048/2026 Renovación de Soporte para equipos de almacenamiento PureStorage",
-      "summary": "CABEI 公開採購「PureStorage 儲存設備支援續約」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "1. 本参考术语文件是在BCIE的《商品采购、服務合同和机构咨询政策》下制定的,是BCIE的財產,未经BCIE同意,不得用机械或電子手段复制或再分配其内容。",
       "capabilities": [
         "資訊基礎設施",
         "網路與電信",
@@ -115,14 +129,21 @@
       ],
       "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
       "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 3 份文件：Aviso.pdf、048 2026 Términos de Referencia.pdf、Anexo 6 - Formato de Oferta Técnica.docx。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "amount": "US$10,000",
+      "documentSummary": "企業企業資源的銷售、提供、更新和(或)提供支持和维护企業基礎的企業基礎,經驗至少5年或10年,經驗至少5年或10年,經驗至少5年,經驗至少5年,經驗至少5年,經驗至少5年,經驗至少5年,經驗至少5年。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "出價人至少需要5年或10年的一般經驗, 包括5年的銷售、供應、1年的一般經驗,",
+        "提供企業技術基礎設施的推銷、供應、更新及(或)提供支援及維修等,",
+        "經驗应通过滿足、合同、定购單和可核查的收货記錄加以證實,最长期限可达3年,以辨明客戶、客戶、客戶、客戶、客戶、客戶、客戶、客戶、合同、定购單和滿足期。",
+        "由PureStorage提供經證實的技術人員, 經驗可證實如何管理及支持這些解決方案,",
+        "在PureStorage公司儲存解决方案的銷售、更新和(或)提供支持和维护方面,至少要有5年的具体經驗。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03772905-Aviso.pdf",
-      "analysisMode": "rules",
-      "companyGroup": "ict"
+      "analysisMode": "offline-translation",
+      "companyGroup": "ict",
+      "translationFingerprint": "cc2fd8ce300f2eabd7312bad4c8875df3c0c5150fc7f9144a030fca93fd11166",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:05:35.784914+00:00"
     },
     {
       "id": "137011",
@@ -168,9 +189,9 @@
       "published": "2026-09-25",
       "deadlineUtc": "2026-10-14T23:00:00.000Z",
       "fit": 48,
-      "title": "CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程",
+      "title": "哥斯大黎加BCIE大樓的甲板、甲板和辅助區域重建工程。",
       "originalTitle": "050/2026 Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
-      "summary": "CABEI 公開採購「CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "1.1 哥斯大黎加中美洲经济一体化銀行(BCIE)的建筑在2024年进行了全面翻修,主要目的是翻修目前状况良好的室内建筑,包括地板、天花板、涂料、牆壁和油漆。 1.3.1 服务的范围",
       "capabilities": [
         "土木施工",
         "水利工程",
@@ -179,13 +200,20 @@
       "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
       "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：050 2026 Términos de Referencia.pdf、Aviso.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "266. 本参考术语文件是在BCIE的财产购置、服务合同和机构咨询政策下起草的,由BCIE所有,其内容不得通过机械或电子手段复制,也不得在未经BCIE同意的情况下重新分发。 作为招标的一部分,投标人必须提出一般执行方法和初步时间表,酌情包括拆除、拆除现有部件、平整面积、建设性修理、修复受损部件、修复排水系统、安装防水系统、完成、测试、清理和交付工程。 投标人应根据设计图纸、技术规格、数量表和其他合同文件进行必要的核查和分析,以便把所有资源、材料、设备、准入、保护和必要活动纳入交付和完成工程。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "承包商在建筑、改建、改造、修复或改造方面,包括土木工程、建筑完工、建築修理、防水化和在建工程方面至少应有5年的可核查經驗。",
+        "以及至少五(5)年的建築、改造、修復、改造或改造建築的經驗。",
+        "希望參與公開廣告的出價人, 需要發送電子郵件給adqsors@bcie. org,",
+        "發价人將提出一般的操作方法及初步的時間框架, 酌情包括拆除、移除現有物件、平整地塊、建设性修復、重置受影響的物件、修復排水管、防水系統、完成、測試、清理和交付工程。",
+        "出价人应根据圖案、技術规格、數目表和其他合同文件进行必要的檢查和分析,以便将所有必要的資源、材料、人力、设备、通道、保護和工作纳入出價,以便妥善完成工程。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03780386-050%202026%20%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "rules",
-      "companyGroup": "engineering"
+      "analysisMode": "offline-translation",
+      "companyGroup": "engineering",
+      "translationFingerprint": "0a060259c69c7711e157026f593db430193475a80821b11e0d460822a408603d",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:06:08.230263+00:00"
     },
     {
       "id": "138011",
@@ -232,23 +260,30 @@
       "published": "2026-09-18",
       "deadlineUtc": "2026-10-14T23:00:00.000Z",
       "fit": 22,
-      "title": "CABEI 瓜地馬拉國家管理處安全服務",
+      "title": "瓜地馬拉國家安全部",
       "originalTitle": "048/2026 Servicios de Seguridad para la Gerencia de País del BCIE en la República de Guatemala",
-      "summary": "CABEI 公開採購「CABEI 瓜地馬拉國家管理處安全服務」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "1.8.7 承包者在提供安保服务期间,应对损害、損失或損失承担赔偿责任,但意外事故、不可抗力事件或表明事件發生在不由其控制的情形除外。",
       "capabilities": [
         "設施管理"
       ],
       "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
       "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 1 份文件：048 2026 Términos de Referencia.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "1.8.7 本参考术语文件是在BCIE的《物資采购、服務合同和机构咨询政策》下制定的,是BCIE的財產,未经BCIE同意,不得用机械或電子手段复制或再分配。 在承包商提供安保服務的這段時間里,它要對損失、損失或損壞負責,但意外事件、不可抗力事件或表明事件發生在BCIE無法避免的情形下。 In Union VEZ DE 1.10.4 BCIE用支票或銀行转账支付,要人提供銀行的名和帳號,按照附件2中的指示,至少要5次。 在過去5年中(金融机构、国际机构或具有BCIB等級设施的企業),它要對金融机构、IBCI公司或BCI等級企業提供安保服务。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "1.10.4 BCIE 以支票或銀行轉帳方式支付,",
+        "1.8.31 承诺提供提案中包含的主要人員,如果被取代,提供同等或更合格的人員,由BCIE事先知道并批准。",
+        "近五年來, 至少有五項類似安全服務(金融機構、國際機構或企業,",
+        "經驗是向金融机构、國際機構或企業提供安保,",
+        "企業將按附件8所列格式附上每名被提名人的履歷表。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "rules",
-      "companyGroup": null
+      "analysisMode": "offline-translation",
+      "companyGroup": null,
+      "translationFingerprint": "8f54257cac38b995506883bc20b36306610185300c466179ad5da8d67ee330f0",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:06:27.117688+00:00"
     },
     {
       "id": "141011",
@@ -261,23 +296,30 @@
       "published": "2026-09-22",
       "deadlineUtc": "2026-10-21T23:00:00.000Z",
       "fit": 22,
-      "title": "CABEI 尼加拉瓜國家管理處實體安全服務",
+      "title": "尼加拉瓜BCIE国家管理大楼物理安全部",
       "originalTitle": "052/2026 Servicios de Seguridad Física para el Edificio de la Gerencia de País del BCIE en Nicaragua",
-      "summary": "CABEI 公開採購「CABEI 尼加拉瓜國家管理處實體安全服務」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "1.2.2 本参考术语文件是依照BCIE的《商品采购、服務合同和机构咨询政策》制定的,是BCIE的財產,未经BCIE同意,不得用机械或電子手段复制或再分配其内容。 提供此类服务包括:按照最高标准,即质量、效率、及时性、保密性和遵守适用性,持续实施和監視人身安全方案,并对紧急情况作出反应。 承包者在提供私人保安和監控服务方面至少要有10年的经验,要展示全面管理所需服务的操作、行政和技术技能,以及按照尼加拉瓜共和国的适用条例,正式建立程序,以招募、甄选、征聘、培训和督导安保人员。",
       "capabilities": [
         "設施管理"
       ],
       "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
       "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：052 2026 Términos de Referencia.pdf、Aviso.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "在提供保安和私人保安服务方面,承包商必须至少提供10年的經驗,同时提供文件,以证明它的经验、形成和遵守上述参考条款的要求。 参考条款的条件,以及正式建立的程序,以便按照尼加拉瓜共和国的規定,招募、甄选、雇用、訓練和监督保安人员。 不得使用任何机械或电子手段,也不得在未经机构同意的情况下,复制其内容。 如果所提供物品和服务不符合合同要求,BCIE应通知承包商,要求承包商在不超过5个工作日的期限内进行补救。 参考条款的条件, 参考条款, 参考条款,以及正式建立的程序, 这些文件是在BCIE采购政策下制定的,是BCIE公司的财产,它是BCIE公司的财产,在未征得该机构同意的情况下,不得再复制其内容。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "(a) 公司在申請函中应附上最初提议供提供服务的人的履歷表,以及证明其經驗、訓練和符合本参考条款要求的文件。",
+        "2. 承包者应按照尼加拉瓜共和国的适用条例,在提供私人保安和安全服务方面至少应有10年的經驗,展示全面管理所需服务的操作、行政和技术能力,以及正式确立的安保人员的征聘、甄选、征聘、培训和督导程序。",
+        "1.9.9 按《尼加拉瓜共和国劳动法》的规定,每年清算被指派到BCIE的員工,支付相应的工作负债。",
+        "希望參與公開廣告的投資者, 必須發送電子郵件至adqsors@bcie.",
+        "出價將用電子方式上傳到BCIE供應商門口。"
       ],
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03775203-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "rules",
-      "companyGroup": null
+      "analysisMode": "offline-translation",
+      "companyGroup": null,
+      "translationFingerprint": "2f917f19bf089c8245043c8b78cbbf33fba6088ccf7da63dc6aab5f2c89931c4",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:06:44.634707+00:00"
     },
     {
       "id": "143013",
@@ -290,9 +332,9 @@
       "published": "2026-10-01",
       "deadlineUtc": "2026-10-28T23:00:00.000Z",
       "fit": 86,
-      "title": "CABEI 核心運算與電信平台更新（二期）",
+      "title": "更新中央处理和通信平台二",
       "originalTitle": "053/2026 Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
-      "summary": "CABEI 公開採購「CABEI 核心運算與電信平台更新（二期）」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "2.2.1 技術考核的目的在于考核技術考核是否符合技援署所要聘用的服務性能和提供商所要完成的關鍵方面。 1.2 技援署在危地马拉、萨尔瓦多、洪都拉斯、哥斯达黎加、巴拿馬和多明尼加等地的办事处,",
       "capabilities": [
         "資訊基礎設施",
         "網路與電信",
@@ -301,13 +343,20 @@
       "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
       "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 3 份文件：Aviso.pdf、053 2026 Términos de Referencia.pdf、Anexo 6 - Formato de Oferta Técnica.docx。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "2.2.1 技術考核的目的是考核技術考核技術考核局是否滿足了所要聘用的服務的性格,以及监察官是否遵守了要求提前交付的價值;如果监察官要求提前交付的证券,在支付前必须提供100%(100%)的銀行保证金,且國安局和申請人之间有共同的協定,且不能在未征得國安局同意的情况下再重新發放。 2.2.80% 2.2.1 技術考核的目的是估评考核國安局是否遵守了所要聘用的服務的性格,以及是否遵守了申請金的關注。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "提供商在賣賣Cisco的設備和溶液方面,",
+        "如果提供人要求提前交付证券,他必须在付款前提供百分之百(100%)的銀行保证金,根据合同种类和其他商定的經濟条件,由投資司和申购单位共同商定。",
+        "2.11.1 如有疑問或疑問,请通过BCIE的供货商门户网站,在“管理商業問題”的标签下提出。",
+        "2.11.4 如有必要,展延提交期限的申請应在2026年10月26日之前通过供應商门户网站或向Adq Organization@bcie.org發送,由BCIE批准展延期限,并通过供應商门户网站通知其答复。",
+        "2.9 出价介质 出价以電子方式上傳到BCIE供應商端口,"
       ],
-      "analysisMode": "rules",
+      "analysisMode": "offline-translation",
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf",
-      "companyGroup": "ict"
+      "companyGroup": "ict",
+      "translationFingerprint": "cf1233ad959857de35c855c5c4dc1885be8a609661304e6329be54e72534c0e7",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:06:59.625202+00:00"
     },
     {
       "id": "143012",
@@ -320,9 +369,9 @@
       "published": "2026-09-30",
       "deadlineUtc": "2026-10-28T23:00:00.000Z",
       "fit": 72,
-      "title": "Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1",
+      "title": "建立環境、社会和治理指示器的监测和评估系統 -- -- 第1步",
       "originalTitle": "051/2026 Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1",
-      "summary": "CABEI 公開採購「Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "summary": "1.2.5 SME-ASG的實施、設定、整合、啟動和穩定不屬于本合同的範圍。 (l) 一份概述性文件,以及今后实施SME-ASG的建議,包括功能性、技术性、操作性、集成性、數據移動、改變管理、訓練、風險和關鍵成功因素等考量,可用作今后机构决定和可能的采购程序的投入。",
       "capabilities": [
         "環境影響評估",
         "ESG",
@@ -331,13 +380,20 @@
       "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
       "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
       "amount": "未載明",
-      "documentSummary": "CABEI 官方案件頁目前提供 2 份文件：Aviso.pdf、051 2026 Términos de Referencia.pdf。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "documentSummary": "o 公司必须至少有10年的經驗經驗經驗經驗經驗經驗經驗經驗經驗經驗提供中度和高度複雜的企業。",
       "qualifications": [
-        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+        "o 公司至少要有10年的經驗,",
+        "展覽必須包括BCIE的相关技術及使用者, 并允許對功能、整合能力、可見工具、報告產生、使用者經驗、可追蹤性、資料治理等,",
+        "希望參與公開廣告的投資者, 必須發送電子郵件至adqsors@bcie.",
+        "相關資訊管理及使用專業科技平台的經驗,",
+        "· 咨询公司在提供咨询、项目管理和技術咨询方面有經驗。"
       ],
-      "analysisMode": "rules",
+      "analysisMode": "offline-translation",
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf",
-      "companyGroup": "engineering"
+      "companyGroup": "engineering",
+      "translationFingerprint": "4ebbb3b422f4afddd392be5ed1076f2a80f124c25bbc49725e5a0fae9d154cac",
+      "translationModel": "Helsinki-NLP/opus-tatoeba-es-zh (cmn_Hant)",
+      "translationUpdatedAt": "2026-10-02T02:07:09.112895+00:00"
     }
   ],
   "officialAttachments": {
