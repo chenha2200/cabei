@@ -23,7 +23,7 @@ DATA_FILE = ROOT / "public" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
     "CABEI_TRANSLATION_MODEL", "Helsinki-NLP/opus-tatoeba-es-zh"
 )
-TRANSLATION_VERSION = "offline-es-zh-v3"
+TRANSLATION_VERSION = "offline-es-zh-v4"
 TARGET_PREFIX = ">>cmn_Hans<< "
 OPENCC = OpenCC("s2twp")
 MAX_SUMMARY_CHARS = 320
@@ -57,6 +57,10 @@ QUALIFICATION_EXCLUDES = (
     "preguntas", "presentación de ofertas", "presentacion de ofertas",
     "garantía bancaria por el cien", "garantia bancaria por el cien",
     "garantía de anticipo", "garantia de anticipo",
+)
+SCOPE_EXCLUDES = (
+    "evaluación técnica", "evaluacion tecnica",
+    "calificación técnica", "calificacion tecnica",
 )
 
 
@@ -92,7 +96,7 @@ def taiwan_chinese(value: str) -> str:
     organization_aliases = (
         "中美洲經濟一體化銀行", "中美洲經濟整合銀行",
         "國際清算銀行", "國際結算銀行", "金融情報室", "金融情報股",
-        "舉報機構",
+        "舉報機構", "《環境倡議》",
     )
     for alias in organization_aliases:
         converted = converted.replace(alias, "CABEI")
@@ -101,6 +105,11 @@ def taiwan_chinese(value: str) -> str:
         "指示器": "指標",
         "通信平台": "通訊平台",
         "電信平臺": "電信平台",
+        "平臺": "平台",
+        "本檔案": "本文件",
+        "提供商": "供應商",
+        "目的或目的": "目的為",
+        "更新、更新或": "升級、汰換或",
         "參考術語檔案": "工作說明書（TOR）",
         "參考術語文件": "工作說明書（TOR）",
         "訂約服務": "擬採購服務",
@@ -124,11 +133,11 @@ def prepare_source(value: str) -> str:
     prepared = normalize(value)
     prepared = re.sub(
         r"Banco\s+Centroamericano\s+de\s+Integraci[oó]n\s+Econ[oó]mica",
-        "CABEI",
+        "OpenAI",
         prepared,
         flags=re.I,
     )
-    prepared = re.sub(r"\bBCIE\b", "CABEI", prepared, flags=re.I)
+    prepared = re.sub(r"\bBCIE\b", "OpenAI", prepared, flags=re.I)
     return prepared
 
 
@@ -238,7 +247,10 @@ class Translator:
             return []
         results: list[str] = []
         for start in range(0, len(values), 6):
-            batch = [TARGET_PREFIX + prepare_source(value) for value in values[start:start + 6]]
+            source_batch = values[start:start + 6]
+            prepared_batch = [prepare_source(value) for value in source_batch]
+            protected_org = ["OpenAI" in value for value in prepared_batch]
+            batch = [TARGET_PREFIX + value for value in prepared_batch]
             encoded = self.tokenizer(
                 batch,
                 return_tensors="pt",
@@ -253,10 +265,13 @@ class Translator:
                     max_new_tokens=320,
                     early_stopping=True,
                 )
-            results.extend(
-                taiwan_chinese(value)
-                for value in self.tokenizer.batch_decode(generated, skip_special_tokens=True)
-            )
+            decoded = self.tokenizer.batch_decode(generated, skip_special_tokens=True)
+            for value, protect_org in zip(decoded, protected_org):
+                translated = taiwan_chinese(value)
+                if protect_org:
+                    translated = translated.replace("OpenAI", "CABEI")
+                    translated = translated.replace("開放人工智慧", "CABEI")
+                results.append(translated)
         return results
 
 
@@ -298,10 +313,18 @@ def main() -> None:
         title_source = strip_process_number(item.get("originalTitle", ""))
         document_text = official_text(attachments)
         scope_parts = select_sentences(
-            document_text, SCOPE_WEIGHTS, 2, minimum_score=3
+            document_text,
+            SCOPE_WEIGHTS,
+            2,
+            minimum_score=3,
+            excludes=SCOPE_EXCLUDES,
         )
         detail_parts = select_sentences(
-            document_text, DETAIL_WEIGHTS, 5, minimum_score=4
+            document_text,
+            DETAIL_WEIGHTS,
+            5,
+            minimum_score=4,
+            excludes=SCOPE_EXCLUDES,
         )
         qualification_parts = select_sentences(
             document_text,
