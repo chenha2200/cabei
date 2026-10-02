@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:14:05.907Z",
+  "generatedAt": "2026-10-02T00:13:33.999Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -299,6 +299,34 @@
       ],
       "analysisMode": "rules",
       "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf"
+    },
+    {
+      "id": "143013",
+      "document": "800",
+      "process": "053/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-01",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 35,
+      "title": "Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
+      "originalTitle": "053/2026 Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
+      "summary": "CABEI 公開採購「Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II」。完整工作範圍、交付內容與驗收方式請以官方 TOR 為準。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "CABEI 官方案件頁目前提供 3 份文件：Aviso.pdf、053 2026 Términos de Referencia.pdf、Anexo 6 - Formato de Oferta Técnica.docx。請逐份核對最新版本、修正通知、資格及投標格式。",
+      "qualifications": [
+        "CABEI 公開清單未載明完整資格；請下載 TOR 核對公司年資、相似實績、財務能力、原廠授權與核心人員要求。"
+      ],
+      "analysisMode": "rules",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf"
     }
   ],
   "officialAttachments": {
@@ -390,6 +418,20 @@
       {
         "name": "051 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03787641-051%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "143013": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf"
+      },
+      {
+        "name": "053 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03790807-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03790794-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "300000028820429": [
@@ -502,6 +544,7 @@
         "url": "https://www.ctci.com/"
       }
     ],
+    "143013": [],
     "300000028820429": [
       {
         "name": "中華顧問工程司（CECI）",
