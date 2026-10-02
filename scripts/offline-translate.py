@@ -23,7 +23,7 @@ DATA_FILE = ROOT / "public" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
     "CABEI_TRANSLATION_MODEL", "Helsinki-NLP/opus-tatoeba-es-zh"
 )
-TRANSLATION_VERSION = "offline-es-zh-v5"
+TRANSLATION_VERSION = "offline-es-zh-v6"
 TARGET_PREFIX = ">>cmn_Hans<< "
 OPENCC = OpenCC("s2twp")
 MAX_SUMMARY_CHARS = 320
@@ -130,6 +130,9 @@ def taiwan_chinese(value: str) -> str:
     }
     for source, target in terminology.items():
         converted = converted.replace(source, target)
+    converted = re.sub(r"(?<=[\u3400-\u9fff]),", "，", converted)
+    converted = re.sub(r",(?=[\u3400-\u9fff])", "，", converted)
+    converted = re.sub(r"(?<=[\u3400-\u9fff]);", "；", converted)
     return normalize(converted)
 
 
@@ -273,7 +276,14 @@ class Translator:
             for value, protect_org in zip(decoded, protected_org):
                 translated = taiwan_chinese(value)
                 if protect_org:
-                    translated = translated.replace("917304", "CABEI")
+                    translated = re.sub(r"917304\s*年?", "CABEI", translated)
+                    translated = re.sub(
+                        r"為(.{10,180}?)CABEI辦事處購置和翻新電信設備"
+                        r"的目的為[，,]\s*符合",
+                        r"本案旨在為 CABEI 位於\1的辦事處採購並更新"
+                        r"電信設備，且須符合",
+                        translated,
+                    )
                 results.append(translated)
         return results
 
