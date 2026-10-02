@@ -21,10 +21,11 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "public" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
-    "CABEI_TRANSLATION_MODEL", "Helsinki-NLP/opus-tatoeba-es-zh"
+    "CABEI_TRANSLATION_MODEL", "facebook/m2m100_418M"
 )
-TRANSLATION_VERSION = "offline-es-zh-v6"
-TARGET_PREFIX = ">>cmn_Hans<< "
+TRANSLATION_VERSION = "offline-es-zh-v7-m2m100"
+SOURCE_LANG = "es"
+TARGET_LANG = "zh"
 OPENCC = OpenCC("s2twp")
 MAX_SUMMARY_CHARS = 320
 MAX_DOCUMENT_SUMMARY_CHARS = 500
@@ -246,6 +247,8 @@ class Translator:
         os.environ.setdefault("HF_HUB_DISABLE_TELEMETRY", "1")
         torch.set_num_threads(max(1, min(4, os.cpu_count() or 1)))
         self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+        self.tokenizer.src_lang = SOURCE_LANG
+        self.target_lang_id = self.tokenizer.get_lang_id(TARGET_LANG)
         self.model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
         self.model.eval()
 
@@ -253,11 +256,11 @@ class Translator:
         if not values:
             return []
         results: list[str] = []
-        for start in range(0, len(values), 6):
-            source_batch = values[start:start + 6]
+        for start in range(0, len(values), 3):
+            source_batch = values[start:start + 3]
             prepared_batch = [prepare_source(value) for value in source_batch]
             protected_org = ["917304" in value for value in prepared_batch]
-            batch = [TARGET_PREFIX + value for value in prepared_batch]
+            batch = prepared_batch
             encoded = self.tokenizer(
                 batch,
                 return_tensors="pt",
@@ -268,7 +271,8 @@ class Translator:
             with torch.inference_mode():
                 generated = self.model.generate(
                     **encoded,
-                    num_beams=4,
+                    forced_bos_token_id=self.target_lang_id,
+                    num_beams=2,
                     max_new_tokens=320,
                     early_stopping=True,
                 )
@@ -404,7 +408,7 @@ def main() -> None:
                 "amount": explicit_usd_amount(document_text),
                 "analysisMode": "offline-translation",
                 "translationFingerprint": current_fingerprint,
-                "translationModel": f"{MODEL_NAME} (cmn_Hans) + OpenCC s2twp",
+                "translationModel": f"{MODEL_NAME} ({SOURCE_LANG}→{TARGET_LANG}) + OpenCC s2twp",
                 "translationVersion": TRANSLATION_VERSION,
                 "translationUpdatedAt": datetime.now(timezone.utc).isoformat(),
             }
