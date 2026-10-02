@@ -1,6 +1,12 @@
 name: Update CABEI opportunities
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update-data.mjs"
+      - "scripts/offline-translate.py"
+      - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
     - cron: "0 0 * * *"
@@ -37,7 +43,7 @@ jobs:
           path: |
             ~/.cache/huggingface
             ~/.cache/pip
-          key: cabei-offline-es-zh-v2-${{ runner.os }}
+          key: cabei-m2m100-es-zh-v1-${{ runner.os }}
 
       - name: Install PDF text extractor
         run: sudo apt-get update && sudo apt-get install --yes poppler-utils
