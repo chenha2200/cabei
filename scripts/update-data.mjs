@@ -275,7 +275,12 @@ companyGroup：只能填 cloud、ict、engineering、smartCity 或 null。`;
       // (for example "OK") on some Actions runners. Extract the outer JSON
       // object instead of assuming the entire response body is JSON.
       const payload = parseModelJson(await response.text());
-      return validateModelAnalysis(parseModelJson(payload?.choices?.[0]?.message?.content));
+      const modelContent = payload?.choices?.[0]?.message?.content
+        ?? payload?.content
+        ?? payload;
+      return validateModelAnalysis(
+        typeof modelContent === "string" ? parseModelJson(modelContent) : modelContent
+      );
     } catch (error) {
       lastError = error;
       if (attempt < 3) await new Promise(resolve => setTimeout(resolve, attempt * 2500));
