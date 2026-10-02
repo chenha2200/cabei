@@ -21,7 +21,8 @@ const titleRules = [
   { process: "049/2026", test: /voceros|comunicaci[oó]n/i, title: "CABEI 官方發言人策略溝通培訓" },
   { process: "050/2026", test: /zero waste to landfill/i, title: "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務" },
   { process: "050/2026", test: /rehabilitaci[oó]n.*cubierta|cubierta.*balcones/i, title: "CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程" },
-  { process: "052/2026", test: /seguridad f[ií]sica.*nicaragua|edificio.*nicaragua/i, title: "CABEI 尼加拉瓜國家管理處實體安全服務" }
+  { process: "052/2026", test: /seguridad f[ií]sica.*nicaragua|edificio.*nicaragua/i, title: "CABEI 尼加拉瓜國家管理處實體安全服務" },
+  { process: "053/2026", test: /plataforma central.*procesamiento.*telecomunicaciones|telecomunicaciones.*procesamiento/i, title: "CABEI 核心運算與電信平台更新（二期）" }
 ];
 
 const companyCatalog = {
@@ -48,7 +49,7 @@ const companyCatalog = {
 
 const classificationRules = [
   { test: /microsoft|azure|o365|securityscorecard|ciber|cyber|seguridad (?:informática|en la nube|de proveedores)/i, industry: "雲端與資安", capabilities: ["雲端資安", "網路資安", "系統整合"], fit: 91, companies: "cloud" },
-  { test: /purestorage|vmware|licenciamiento|almacenamiento|software|soporte para equipos/i, industry: "數位與資通訊", capabilities: ["軟體授權", "資料中心", "系統維運"], fit: 86, companies: "ict" },
+  { test: /purestorage|vmware|licenciamiento|almacenamiento|software|soporte para equipos|plataforma central.*procesamiento.*telecomunicaciones/i, industry: "數位與資通訊", capabilities: ["資訊基礎設施", "網路與電信", "系統整合"], fit: 86, companies: "ict" },
   { test: /smart cities|ciudades inteligentes/i, industry: "智慧城市與顧問", capabilities: ["智慧城市", "數位治理", "IoT 感測"], fit: 84, companies: "smartCity" },
   { test: /zero waste|residuos|ambiental|saneamiento|lago|sostenibilidad/i, industry: "永續與環境顧問", capabilities: ["環境影響評估", "ESG", "環境工程"], fit: 72, companies: "engineering" },
   { test: /drenaje|pluvial|rehabilitación|cubierta|balcones|obra|construcción/i, industry: "水利與土木工程", capabilities: ["土木施工", "水利工程", "測量與施工管理"], fit: 48, companies: "engineering" },
