@@ -1,12 +1,6 @@
 name: Update CABEI opportunities
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "scripts/update-data.mjs"
-      - "scripts/offline-translate.py"
-      - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
     - cron: "0 0 * * *"
