@@ -205,6 +205,7 @@ const opportunities = await Promise.all(rows.map(async row => {
     deadlineUtc: new Date(row.CLOSE_BIDDING_DATE).toISOString(),
     fit: preserveAnalysis ? previous.fit : classification.fit,
     title: preserveAnalysis ? previous.title : generatedTitle,
+    ruleTitle: generatedTitle,
     originalTitle,
     summary: preserveAnalysis ? previous.summary : generatedSummary,
     capabilities: preserveAnalysis ? previous.capabilities : classification.capabilities,
