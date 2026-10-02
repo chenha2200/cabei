@@ -23,24 +23,40 @@ DATA_FILE = ROOT / "public" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
     "CABEI_TRANSLATION_MODEL", "Helsinki-NLP/opus-tatoeba-es-zh"
 )
-TRANSLATION_VERSION = "offline-es-zh-v2"
+TRANSLATION_VERSION = "offline-es-zh-v3"
 TARGET_PREFIX = ">>cmn_Hans<< "
 OPENCC = OpenCC("s2twp")
 MAX_SUMMARY_CHARS = 320
 MAX_DOCUMENT_SUMMARY_CHARS = 500
 
-SCOPE_KEYWORDS = (
-    "objeto", "objetivo", "alcance", "contratar", "contratación",
-    "adquisición", "servicio", "consultoría", "suministro", "renovación",
-    "plataforma", "implementación", "entregable", "actividades",
+SCOPE_WEIGHTS = {
+    "objeto": 9, "objetivo": 9, "alcance": 8, "renovación": 5,
+    "implementación": 5, "suministro": 4, "plataforma": 4,
+    "contratar": 3, "contratación": 3, "adquisición": 3,
+    "consultoría": 3, "entregable": 3, "actividades": 2, "servicio": 1,
+}
+QUALIFICATION_WEIGHTS = {
+    "experiencia": 9, "certificación": 9, "personal clave": 8,
+    "capacidad técnica": 8, "capacidad financiera": 8, "elegible": 7,
+    "años": 6, "requisito": 5, "debe contar": 4, "empresa": 2,
+    "oferente": 1, "proveedor": 1, "deberá": 1,
+}
+DETAIL_WEIGHTS = {
+    **SCOPE_WEIGHTS,
+    **QUALIFICATION_WEIGHTS,
+    "plazo": 6, "duración": 6, "cronograma": 5, "pago": 4,
+    "usd": 5, "us$": 5, "dólares": 5,
+}
+BOILERPLATE_PHRASES = (
+    "política para la adquisición", "propiedad del bcie",
+    "no podrá ser reproducido", "no podra ser reproducido",
+    "medios mecánicos o electrónicos", "medios mecanicos o electronicos",
 )
-QUALIFICATION_KEYWORDS = (
-    "experiencia", "años", "requisito", "deberá", "debe contar",
-    "oferente", "proveedor", "empresa", "certificación", "personal clave",
-    "elegible", "capacidad técnica", "capacidad financiera",
-)
-DETAIL_KEYWORDS = SCOPE_KEYWORDS + QUALIFICATION_KEYWORDS + (
-    "plazo", "duración", "cronograma", "pago", "usd", "us$", "dólares",
+QUALIFICATION_EXCLUDES = (
+    "portal de proveedores", "prórroga", "prorroga", "consultas",
+    "preguntas", "presentación de ofertas", "presentacion de ofertas",
+    "garantía bancaria por el cien", "garantia bancaria por el cien",
+    "garantía de anticipo", "garantia de anticipo",
 )
 
 
@@ -73,10 +89,28 @@ def strip_process_number(title: str) -> str:
 
 def taiwan_chinese(value: str) -> str:
     converted = OPENCC.convert(normalize(value))
+    organization_aliases = (
+        "中美洲經濟一體化銀行", "中美洲經濟整合銀行",
+        "國際清算銀行", "國際結算銀行", "金融情報室", "金融情報股",
+        "舉報機構",
+    )
+    for alias in organization_aliases:
+        converted = converted.replace(alias, "CABEI")
     terminology = {
         "BCIE": "CABEI",
         "指示器": "指標",
         "通信平台": "通訊平台",
+        "電信平臺": "電信平台",
+        "參考術語檔案": "工作說明書（TOR）",
+        "參考術語文件": "工作說明書（TOR）",
+        "訂約服務": "擬採購服務",
+        "採購服務": "擬採購服務",
+        "商貿中心": "CABEI 採購中心",
+        "招標程式": "招標程序",
+        "正式程式": "正式程序",
+        "型別": "類型",
+        "起碼": "最低",
+        "質量": "品質",
         "第1步": "第一階段",
         "第 1 步": "第一階段",
         "-- --": "—",
@@ -84,6 +118,18 @@ def taiwan_chinese(value: str) -> str:
     for source, target in terminology.items():
         converted = converted.replace(source, target)
     return normalize(converted)
+
+
+def prepare_source(value: str) -> str:
+    prepared = normalize(value)
+    prepared = re.sub(
+        r"Banco\s+Centroamericano\s+de\s+Integraci[oó]n\s+Econ[oó]mica",
+        "CABEI",
+        prepared,
+        flags=re.I,
+    )
+    prepared = re.sub(r"\bBCIE\b", "CABEI", prepared, flags=re.I)
+    return prepared
 
 
 def download_pdf_text(file: dict, index: int) -> str:
@@ -145,20 +191,35 @@ def sentences(text: str) -> list[str]:
     return output
 
 
-def select_sentences(text: str, keywords: tuple[str, ...], limit: int) -> list[str]:
+def select_sentences(
+    text: str,
+    weights: dict[str, int],
+    limit: int,
+    *,
+    minimum_score: int = 1,
+    excludes: tuple[str, ...] = (),
+    fallback: bool = True,
+) -> list[str]:
     candidates = sentences(text)
-
-    def score(value: str) -> tuple[int, int]:
+    scored: list[tuple[int, int, str]] = []
+    for index, value in enumerate(candidates):
         lowered = value.casefold()
-        keyword_score = sum(1 for keyword in keywords if keyword in lowered)
-        return keyword_score, min(len(value), 260)
+        if any(phrase in lowered for phrase in BOILERPLATE_PHRASES + excludes):
+            continue
+        score = sum(weight for keyword, weight in weights.items() if keyword in lowered)
+        if score >= minimum_score:
+            scored.append((score, index, value))
 
-    ranked = sorted(candidates, key=score, reverse=True)
-    selected = [value for value in ranked if score(value)[0] > 0][:limit]
-    if len(selected) < min(2, limit):
+    ranked = sorted(scored, key=lambda entry: (-entry[0], entry[1]))[:limit]
+    selected = [value for _, _, value in sorted(ranked, key=lambda entry: entry[1])]
+    if fallback and len(selected) < min(2, limit):
         for value in candidates:
-            if value not in selected:
-                selected.append(value)
+            lowered = value.casefold()
+            if value in selected or any(
+                phrase in lowered for phrase in BOILERPLATE_PHRASES
+            ):
+                continue
+            selected.append(value)
             if len(selected) >= limit:
                 break
     return selected[:limit]
@@ -177,7 +238,7 @@ class Translator:
             return []
         results: list[str] = []
         for start in range(0, len(values), 6):
-            batch = [TARGET_PREFIX + normalize(value) for value in values[start:start + 6]]
+            batch = [TARGET_PREFIX + prepare_source(value) for value in values[start:start + 6]]
             encoded = self.tokenizer(
                 batch,
                 return_tensors="pt",
@@ -236,16 +297,22 @@ def main() -> None:
     for item, attachments, current_fingerprint in candidates:
         title_source = strip_process_number(item.get("originalTitle", ""))
         document_text = official_text(attachments)
-        scope_parts = select_sentences(document_text, SCOPE_KEYWORDS, 3)
-        detail_parts = select_sentences(document_text, DETAIL_KEYWORDS, 7)
-        qualification_parts = select_sentences(document_text, QUALIFICATION_KEYWORDS, 5)
+        scope_parts = select_sentences(
+            document_text, SCOPE_WEIGHTS, 2, minimum_score=3
+        )
+        detail_parts = select_sentences(
+            document_text, DETAIL_WEIGHTS, 5, minimum_score=4
+        )
+        qualification_parts = select_sentences(
+            document_text,
+            QUALIFICATION_WEIGHTS,
+            5,
+            minimum_score=5,
+            excludes=QUALIFICATION_EXCLUDES,
+            fallback=False,
+        )
 
-        source_values = [title_source]
-        if scope_parts:
-            source_values.append(" ".join(scope_parts))
-        if detail_parts:
-            source_values.append(" ".join(detail_parts))
-        source_values.extend(qualification_parts)
+        source_values = [title_source, *scope_parts, *detail_parts, *qualification_parts]
         translated = translator.translate_many(source_values)
 
         machine_title = translated.pop(0) if translated else item.get("title", title_source)
@@ -254,13 +321,29 @@ def main() -> None:
         if not re.search(r"[\u3400-\u9fff]", title_zh):
             title_zh = item.get("title", title_source)
 
-        if scope_parts and translated:
-            summary_zh = truncate(translated.pop(0), MAX_SUMMARY_CHARS)
+        scope_translations = translated[:len(scope_parts)]
+        translated = translated[len(scope_parts):]
+        detail_translations = translated[:len(detail_parts)]
+        translated = translated[len(detail_parts):]
+        qualification_translations = translated[:len(qualification_parts)]
+
+        if scope_translations:
+            summary_zh = truncate(" ".join(scope_translations), MAX_SUMMARY_CHARS)
         else:
             summary_zh = f"CABEI 公開採購「{title_zh}」。完整工作範圍請以官方 TOR 為準。"
 
-        if detail_parts and translated:
-            document_summary_zh = truncate(translated.pop(0), MAX_DOCUMENT_SUMMARY_CHARS)
+        document_parts: list[str] = []
+        for value in [
+            *scope_translations,
+            *detail_translations,
+            *qualification_translations,
+        ]:
+            if value and value not in document_parts:
+                document_parts.append(value)
+        if document_parts:
+            document_summary_zh = truncate(
+                " ".join(document_parts), MAX_DOCUMENT_SUMMARY_CHARS
+            )
         elif attachments:
             names = "、".join(file.get("name", "官方附件") for file in attachments)
             document_summary_zh = truncate(
@@ -270,7 +353,9 @@ def main() -> None:
         else:
             document_summary_zh = "官方案件頁目前沒有可下載附件。"
 
-        qualifications_zh = [truncate(value, 180) for value in translated if value]
+        qualifications_zh = [
+            truncate(value, 180) for value in qualification_translations if value
+        ]
         if not qualifications_zh:
             qualifications_zh = ["官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"]
 
