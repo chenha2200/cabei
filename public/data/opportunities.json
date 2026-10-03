@@ -1,45 +1,7 @@
 {
-  "generatedAt": "2026-10-02T02:53:08.254Z",
+  "generatedAt": "2026-10-03T00:14:22.190Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "141012",
-      "document": "795",
-      "process": "049/2026",
-      "country": "區域／未載明",
-      "industry": "教育訓練與傳播",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-09-24",
-      "deadlineUtc": "2026-10-02T23:00:00.000Z",
-      "fit": 46,
-      "title": "CABEI 官方發言人策略溝通培訓",
-      "originalTitle": "049/2026 Capacitación Estratégica para Voceros Oficiales",
-      "summary": "CABEI 公開採購「CABEI 官方發言人策略溝通培訓」。具有學士學位或同等學位的專業人士在通訊，新聞，公共關係，行銷，社會科學，國際關係，管理，或相關領域與採購的物件相關。 具有學士學位或通訊、新聞、公共關係、行銷、社會科學或其他相關學科等級的大學學位。",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "具有學士學位或同等學位的專業人士在通訊，新聞，公共關係，行銷，社會科學，國際關係，管理，或相關領域與採購的物件相關。 具有學士學位或通訊、新聞、公共關係、行銷、社會科學或其他相關學科等級的大學學位。 供應商必須在戰略通訊服務、媒體關係、聲譽、企業事務或相關執行培訓方面獲得至少五年經驗。 供應商必須提交服務領袖和每個提議的便利者的簡歷，明確地確定每個專業人士將扮演的角色，以及能夠驗證符合所設定的要求的經驗。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在最長5個工作日內進行糾正，並且可以保留支付，直到全部滿足。 沒有類似的 0 體驗 包括練習、模擬面試、危機場景、媒體管理和活動 20 個符合所需範圍的實踐。 • 提供者必須提供提議人員的履歷，以證明經驗的年份，中等培訓/講話能力和媒體管理的經驗，必須證明提供者或工作團隊的經驗和個人資料。 至少7年(7)在通訊、新聞、公共關係、企業通訊、聲譽、公共事務、媒體管理或相關領域的專業經驗。 至少有五(五)年的通訊、新聞、公共關係、媒體、企業通訊、聲譽或相關領域的專業經驗。",
-      "qualifications": [
-        "供應商必須在戰略通訊服務、媒體關係、聲譽、企業事務或相關執行培訓方面獲得至少五年經驗。",
-        "至少7年(7)在通訊、新聞、公共關係、企業通訊、聲譽、公共事務、媒體管理或相關領域的專業經驗。",
-        "至少有五(五)年的通訊、新聞、公共關係、媒體、企業通訊、聲譽或相關領域的專業經驗。",
-        "供應商必須提交服務領袖和每個提議的便利者的簡歷，明確地確定每個專業人士將扮演的角色，以及能夠驗證符合所設定的要求的經驗。",
-        "• 提供者必須提供提議人員的履歷，以證明經驗的年份，中等培訓/講話能力和媒體管理的經驗，必須證明提供者或工作團隊的經驗和個人資料。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03778504-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "offline-translation",
-      "companyGroup": null,
-      "translationFingerprint": "df86bc7af9d69712f36c70957dc229ac0681869143c8e0e753767b0f46323fbe",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-02T03:17:03.257421+00:00",
-      "ruleTitle": "CABEI 官方發言人策略溝通培訓",
-      "translationVersion": "offline-es-zh-v7-m2m100"
-    },
     {
       "id": "300000028820429",
       "document": "796,1",
@@ -299,6 +261,39 @@
       "translationVersion": "offline-es-zh-v7-m2m100"
     },
     {
+      "id": "143014",
+      "document": "801",
+      "process": "049/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-02",
+      "deadlineUtc": "2026-10-21T23:00:00.000Z",
+      "fit": 35,
+      "title": "社交俱樂部廚房擴充套件 CABEI",
+      "ruleTitle": "Ampliación de Cocina Club Social BCIE",
+      "originalTitle": "049/2026 Ampliación de Cocina Club Social BCIE",
+      "summary": "CABEI 公開採購「社交俱樂部廚房擴充套件 CABEI」。第CABEI號需要採購建築和/或修復專業的公司，以執行第CABEI號“社會俱樂部廚房擴充套件和修復”專案，旨在加強用於準備和服務的設施的運營能力、功能性、效率和安全性，從而為使用這些設施的員工、合作夥伴和客人提供更好的服務。 第CABEI號需要採購一家專門從事建築和/或修復的公司，以執行第CABEI號“社會俱樂部廚房擴充套件和修復”專案，旨在加強用於準備和服務的設施的運營能力、功能性、效率和安全性，從而為這些設施提供更好的服務，併為這些設施提供更好的服務，併為這些設施提供更好的服務，併為這些設施提供更好的服務。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "第CABEI號需要採購建築和/或修復專業的公司，以執行第CABEI號“社會俱樂部廚房擴充套件和修復”專案，旨在加強用於準備和服務的設施的運營能力、功能性、效率和安全性，從而為使用這些設施的員工、合作夥伴和客人提供更好的服務。 第CABEI號需要採購一家專門從事建築和/或修復的公司，以執行第CABEI號“社會俱樂部廚房擴充套件和修復”專案，旨在加強用於準備和服務的設施的運營能力、功能性、效率和安全性，從而為這些設施提供更好的服務，併為這些設施提供更好的服務，併為這些設施提供更好的服務，併為這些設施提供更好的服務。 第CABEI條規定，根據計劃、技術規格、工作量框架和其他構成本程序的檔案，為社會俱樂部廚房擴充套件和重新裝修工作，以加強這些設施的運營能力、功能性和安全性。 為了儘量減少對社會俱樂部CABEI的運營影響，承包商應在其建設方法、工作計劃、資源、成本和契約期限內考慮一項執行序列，優先考慮外部工作、初級工作、補充設施和其他活動，這些活動可以發展，而不會直接影響廚房運營。 門，窗戶和鋁和玻璃元素 範圍包括供應，製造，安裝，調整和封閉的門，窗戶，吉洛丁和其他鋁和玻璃元素，在技術表格和檔案",
+      "qualifications": [
+        "拆除必須透過控制的程式進行，避免對殘留在服務的結構、設施、終端和設備造成損害。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03792816-Aviso.pdf",
+      "translationFingerprint": "4edf75f85c5cf40ee0a2cd7070a9a58d0095afba4b4f8658cc99276296b0fd9b",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-es-zh-v7-m2m100",
+      "translationUpdatedAt": "2026-10-03T00:14:58.115854+00:00"
+    },
+    {
       "id": "141011",
       "document": "794",
       "process": "052/2026",
@@ -476,16 +471,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03775199-Aviso.pdf"
       }
     ],
-    "141012": [
-      {
-        "name": "049 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03778504-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03778503-Aviso.pdf"
-      }
-    ],
     "142011": [
       {
         "name": "050 2026 Términos de Referencia.pdf",
@@ -518,6 +503,16 @@
       {
         "name": "Anexo 6 - Formato de Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03790794-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "143014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03792816-Aviso.pdf"
+      },
+      {
+        "name": "049 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03792806-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
     "300000028820429": [
@@ -589,7 +584,6 @@
       }
     ],
     "141011": [],
-    "141012": [],
     "142011": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -644,6 +638,7 @@
         "url": "https://www.iisigroup.com/en/about-en/services/"
       }
     ],
+    "143014": [],
     "300000028820429": [
       {
         "name": "中華顧問工程司（CECI）",
