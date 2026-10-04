@@ -60,8 +60,12 @@ def apply_revision(item,revisions):
     if revision.get("originalTitle")!=item.get("originalTitle"): return False
     old=item.get("title","")
     for field in ("title","summary","documentSummary","qualifications"):
-        if field in revision: item[field]=revision[field]
+        if field in revision:
+            if field in ("summary","documentSummary") and revision.get("originalSummary") and revision["originalSummary"] != item.get("officialSummary"): continue
+            item[field]=revision[field]
     if old and revision.get("title"):
         item["summary"]=item.get("summary","").replace(old,revision["title"])
+    if revision.get("originalDocumentAccess") == item.get("documentAccess") and "documentAccessZh" in revision:
+        item["documentAccessZh"] = revision["documentAccessZh"]
     item["revisionSourceTitle"]=revision["originalTitle"]
     return True
