@@ -8,6 +8,8 @@ on:
       - "scripts/offline-translate.py"
       - "scripts/update-projects.mjs"
       - "scripts/translate-projects.py"
+      - "scripts/translation_guard.py"
+      - "scripts/translation-revisions.json"
       - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
@@ -67,6 +69,9 @@ jobs:
         run: |
           python scripts/offline-translate.py
           python scripts/translate-projects.py
+
+      - name: Validate translation guard
+        run: python scripts/test-translation-guard.py
 
       - name: Commit changed JSON
         shell: bash

@@ -13,6 +13,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+from translation_guard import VERSION as GUARD_VERSION, protect, restore, issues, cache_key, apply_revision
+
 import torch
 from opencc import OpenCC
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
@@ -23,7 +25,7 @@ DATA_FILE = ROOT / "public" / "projects" / "data" / "opportunities.json"
 MODEL_NAME = os.environ.get(
     "CABEI_TRANSLATION_MODEL", "facebook/m2m100_418M"
 )
-TRANSLATION_VERSION = "offline-project-v1"
+TRANSLATION_VERSION = "offline-guard-v1"
 SOURCE_LANG = "es"
 TARGET_LANG = "zh"
 OPENCC = OpenCC("s2twp")
@@ -76,6 +78,8 @@ def truncate(value: str, limit: int) -> str:
 def fingerprint(item: dict, attachments: list[dict]) -> str:
     source = {
         "translationVersion": TRANSLATION_VERSION,
+        "guardVersion": GUARD_VERSION,
+        "revision": json.loads((ROOT / "scripts" / "translation-revisions.json").read_text(encoding="utf-8")).get(item.get("process"), {}),
         "originalTitle": item.get("originalTitle", ""),
         "document": item.get("document", ""),
         "officialSummary": item.get("officialSummary", ""),
@@ -272,7 +276,7 @@ def select_sentences(
 
 
 class Translator:
-    def __init__(self) -> None:
+    def __init__(self, cache=None) -> None:
         os.environ.setdefault("HF_HUB_DISABLE_TELEMETRY", "1")
         torch.set_num_threads(max(1, min(4, os.cpu_count() or 1)))
         self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
@@ -280,49 +284,65 @@ class Translator:
         self.target_lang_id = self.tokenizer.get_lang_id(TARGET_LANG)
         self.model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
         self.model.eval()
+        self.cache = cache if cache is not None else {}
 
     def translate_many(self, values: list[str]) -> list[str]:
-        if not values:
-            return []
-        results: list[str] = []
-        for start in range(0, len(values), 3):
-            source_batch = values[start:start + 3]
-            prepared_batch = [prepare_source(value) for value in source_batch]
-            protected_org = ["917304" in value for value in prepared_batch]
-            batch = prepared_batch
-            encoded = self.tokenizer(
-                batch,
-                return_tensors="pt",
-                padding=True,
-                truncation=True,
-                max_length=512,
-            )
-            with torch.inference_mode():
-                generated = self.model.generate(
-                    **encoded,
-                    forced_bos_token_id=self.target_lang_id,
-                    num_beams=2,
-                    max_new_tokens=320,
-                    early_stopping=True,
-                )
-            decoded = self.tokenizer.batch_decode(generated, skip_special_tokens=True)
-            for value, protect_org in zip(decoded, protected_org):
-                translated = taiwan_chinese(value)
-                if protect_org:
-                    translated = re.sub(r"917304\s*年?", "CABEI", translated)
-                    translated = re.sub(
-                        r"為(.{10,180}?)CABEI辦事處購置和翻新電信設備"
-                        r"的目的為[，,]\s*符合",
-                        r"本案旨在為 CABEI 位於\1的辦事處採購並更新"
-                        r"電信設備，且須符合",
-                        translated,
+        results = []
+        for source in values:
+            language = self.tokenizer.src_lang
+            key = cache_key(source, language, MODEL_NAME)
+            if key in self.cache:
+                results.append(self.cache[key])
+                continue
+            # Split at punctuation, then spaces. Never silently truncate long input.
+            chunks = re.split(r"(?<=[.;!?])\s+", normalize(source))
+            parts = []
+            for chunk in chunks:
+                words = chunk.split()
+                pending = ""
+                for word in words:
+                    if pending and len(pending) + len(word) > 320:
+                        parts.append(pending)
+                        pending = ""
+                    pending = (pending + " " + word).strip()
+                if pending:
+                    parts.append(pending)
+            outputs = []
+            for part in parts:
+                prepared, mapping = protect(part)
+                encoded = self.tokenizer(prepared, return_tensors="pt", truncation=False)
+                if encoded["input_ids"].shape[-1] > 512:
+                    outputs.append("【待校訂：原文過長】" + part)
+                    continue
+                with torch.inference_mode():
+                    generated = self.model.generate(
+                        **encoded, forced_bos_token_id=self.target_lang_id,
+                        num_beams=2, max_new_tokens=420, early_stopping=True,
                     )
-                    translated = re.sub(
-                        r"CABEI\s*\(\s*CABEI\s*\)\s*年?", "CABEI", translated
-                    )
-                    translated = translated.replace("CABEI個設施", "CABEI 設施")
-                    translated = translated.replace("CABEI號大樓", "CABEI 辦公大樓")
-                results.append(translated)
+                decoded = self.tokenizer.batch_decode(generated, skip_special_tokens=True)[0]
+                restored = restore(decoded, mapping)
+                if restored is None:
+                    # Retry without sending protected values to the model.
+                    # Context can be weaker, so keep a visible review flag.
+                    fragments = re.split(r"(ZXQ\d+QXZ)", prepared)
+                    safe = []
+                    for fragment in fragments:
+                        if fragment in mapping:
+                            safe.append(mapping[fragment])
+                        elif fragment.strip():
+                            fragment_input = self.tokenizer(fragment, return_tensors="pt", truncation=False)
+                            with torch.inference_mode():
+                                fragment_output = self.model.generate(
+                                    **fragment_input, forced_bos_token_id=self.target_lang_id,
+                                    num_beams=2, max_new_tokens=420, early_stopping=True,
+                                )
+                            safe.append(taiwan_chinese(self.tokenizer.batch_decode(fragment_output, skip_special_tokens=True)[0]))
+                    outputs.append("【待校訂：分段保護翻譯】" + " ".join(safe))
+                else:
+                    outputs.append(taiwan_chinese(restored))
+            translated = " ".join(outputs)
+            self.cache[key] = translated
+            results.append(translated)
         return results
 
 
@@ -338,6 +358,8 @@ def explicit_usd_amount(text: str) -> str:
 def main() -> None:
     data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     attachment_map = data.get("officialAttachments", {})
+    revisions = json.loads((ROOT / "scripts" / "translation-revisions.json").read_text(encoding="utf-8"))
+    cache = data.get("translationCache", {})
     candidates: list[tuple[dict, list[dict], str]] = []
 
     for item in data.get("opportunities", []):
@@ -357,7 +379,7 @@ def main() -> None:
         return
 
     print(f"離線翻譯：載入 {MODEL_NAME}，處理 {len(candidates)} 筆案件。")
-    translator = Translator()
+    translator = Translator(cache)
     translated_count = 0
 
     for item, attachments, current_fingerprint in candidates:
@@ -457,9 +479,15 @@ def main() -> None:
                 "translationUpdatedAt": datetime.now(timezone.utc).isoformat(),
             }
         )
+        apply_revision(item, revisions)
+        item["translationWarnings"] = sorted(set(
+            flag for value in [item["title"], item["summary"], item["documentSummary"], *item["qualifications"]]
+            for flag in (issues(value) + (["重要資料檢查未通過，保留原文"] if "【待校訂：" in value else []))
+        ))
         translated_count += 1
         print(f"離線翻譯完成：{item.get('process')} {item.get('title')}")
 
+    data["translationCache"] = dict(list(cache.items())[-2000:])
     DATA_FILE.write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )

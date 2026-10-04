@@ -134,7 +134,7 @@ function cardTemplate(item) {
     </div>
     <h3>${escapeHTML(item.title)}</h3>
     <div class="card-id"><a href="${detailUrl(item)}" target="_blank" rel="noopener">案號 ${escapeHTML(item.process)} ↗</a><span> · CABEI 系統文件 ${escapeHTML(item.document)}</span></div>
-    <p class="summary">${escapeHTML(item.summary)}</p>
+    <p class="summary">${escapeHTML(item.summary)}</p>${item.translationWarnings?.length ? `<p class="qualification-note">翻譯待校訂：${escapeHTML(item.translationWarnings.join("、"))}；請核對官方原文。</p>` : ""}
     <div class="card-grid">
       <div class="metric amount-metric"><span>公告金額</span><strong>${escapeHTML(item.amount)}</strong>${item.amountNote ? `<small>${escapeHTML(item.amountNote)}</small>` : ""}</div>
       <div class="metric"><span>採購方式</span><strong>${escapeHTML(item.method)}／${escapeHTML(item.category)}</strong></div>
