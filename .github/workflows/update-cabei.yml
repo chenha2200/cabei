@@ -6,6 +6,8 @@ on:
     paths:
       - "scripts/update-data.mjs"
       - "scripts/offline-translate.py"
+      - "scripts/update-projects.mjs"
+      - "scripts/translate-projects.py"
       - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
@@ -22,7 +24,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 55
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
@@ -54,23 +56,27 @@ jobs:
           python -m pip install --disable-pip-version-check "transformers>=4.45,<5" sentencepiece sacremoses opencc-python-reimplemented
 
       - name: Fetch CABEI data and attachments
-        run: node scripts/update-data.mjs
+        run: |
+          node scripts/update-data.mjs
+          node scripts/update-projects.mjs
 
       - name: Translate titles and TOR text to Traditional Chinese
         env:
           HF_HUB_DISABLE_TELEMETRY: "1"
           TOKENIZERS_PARALLELISM: "false"
-        run: python scripts/offline-translate.py
+        run: |
+          python scripts/offline-translate.py
+          python scripts/translate-projects.py
 
       - name: Commit changed JSON
         shell: bash
         run: |
-          if git diff --quiet -- public/data/opportunities.json; then
+          if git diff --quiet -- public/data/opportunities.json public/projects/data/opportunities.json; then
             echo "CABEI data has not changed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/opportunities.json
+          git add public/data/opportunities.json public/projects/data/opportunities.json
           git commit -m "data: update CABEI opportunities"
           git push

@@ -1,0 +1,728 @@
+{
+  "generatedAt": "2026-10-04T12:36:35.266Z",
+  "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
+  "opportunities": [
+    {
+      "id": "272",
+      "document": "272",
+      "process": "SLV-2026-2362-33483-CI",
+      "originalTitle": "Contratación de un Asistente de Administración para la Unidad Ejecutora del BCIE ( Contratación de una persona responsable de asistir al Administrador de la Unidad Ejecutora en todas las funcione que este le indique y que sean de su competencia ) 48 Meses",
+      "title": "Contratación de un Asistente de Administración para la Unidad Ejecutora del BCIE ( Contratación de una persona responsable de asistir al Administrador de la Unidad Ejecutora en todas las funcione que este le indique y que sean de su competencia ) 48 Meses",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/272-SLV-2026-2362-33483-CI",
+      "officialSummary": "Contratar los servicios de un profesional para realizar las funciones de Asistente Administrativo quien Asistirá al Coordinador y Administrador de la Unidad Ejecutora en todas las funciones que este este le indique y que sea de su competencia en el programa de construcción de Infraestructura y Rescate de escenarios Deportivos FASE II- PRODEPORTE II",
+      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "Comparación de Calificaciones-N/A-No Aplica",
+      "published": "2026-09-24",
+      "deadlineUtc": "2026-10-05T06:00:00.000Z",
+      "deadlineDate": "2026-10-05",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "129600.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "e.moreno@indes.gob.sv e.moreno@indes.gob.sv"
+    },
+    {
+      "id": "271",
+      "document": "271",
+      "process": "NIC-2025-2263-22778-B",
+      "originalTitle": "Adquisición de Insecticidas y fungicidas",
+      "title": "Adquisición de Insecticidas y fungicidas",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/271-NIC-2025-2263-22778-B",
+      "officialSummary": "Fortalecer la vigilancia fitosanitaria para el monitoreo de plagas en los cultivos de cacao, café y granos básicos.",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "農業與化工",
+      "category": "貨品",
+      "method": "Comparación de Precios-CP-Comparación de Precios",
+      "published": "2026-09-21",
+      "deadlineUtc": "2026-10-05T06:00:00.000Z",
+      "deadlineDate": "2026-10-05",
+      "capabilities": [
+        "整批供應"
+      ],
+      "fit": 52,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "50000.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "adquisicionescgpp-mhcp2@mhcp.gob.ni; con copia Allan.Arroyo@mhcp.gob.ni; Julio.Rodriguez1@mhcp.gob.ni Coordinación General de Programas y Proyectos del MHCP"
+    },
+    {
+      "id": "270",
+      "document": "270",
+      "process": "NIC-2025-2263-19948-B",
+      "originalTitle": "Adquisición de Equipos de Seguridad Personal para Brigadas Incendios Forestales",
+      "title": "Adquisición de Equipos de Seguridad Personal para Brigadas Incendios Forestales",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/270-NIC-2025-2263-19948-B",
+      "officialSummary": "Equipar con equipos de seguridad a las brigadas comunitarias voluntarias del MARENA para la prevención y mitigación de incendios forestales.",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "設備與安全用品",
+      "category": "貨品",
+      "method": "Comparación de Precios-CP-Comparación de Precios",
+      "published": "2026-09-21",
+      "deadlineUtc": "2026-10-05T06:00:00.000Z",
+      "deadlineDate": "2026-10-05",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "fit": 63,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "50000.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "adquisicionescgpp-mhcp2@mhcp.gob.ni; con copia Allan.Arroyo@mhcp.gob.ni; Julio.Rodriguez1@mhcp.gob.ni Coordinación General de Programas y Proyectos"
+    },
+    {
+      "id": "251",
+      "document": "251",
+      "process": "ARG-2026-2280-34795-B",
+      "originalTitle": "Modernización de la Infraestructura de Cómputo, Procesamiento, Resguardo y Recuperación Data Center Ministerio de Justicia",
+      "title": "Modernización de la Infraestructura de Cómputo, Procesamiento, Resguardo y Recuperación Data Center Ministerio de Justicia",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/251-ARG-2026-2280-34795-B",
+      "officialSummary": "El objetivo central del proyecto es modernizar la infraestructura tecnológica y asegurar la continuidad operativa, el resguardo de los sistemas y de los datos del organismo, y de esta forma garantizar la continuidad operativa mediante una arquitectura escalable, segura y resiliente capaz de satisfacer las necesidades operativas actuales y futuras mediante la incorporación de nuevos servicios, tecnologías de vanguardia y equipamiento de marcas de primer nivel reconocidas mundialmente.",
+      "executor": "Ministerio de Justicia de Argentina",
+      "sourceLanguage": "es",
+      "country": "阿根廷",
+      "industry": "數位與資通訊",
+      "category": "貨品",
+      "method": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-08-18",
+      "deadlineUtc": "2026-10-05T12:00:00.000Z",
+      "deadlineDate": "2026-10-05",
+      "capabilities": [
+        "資料中心",
+        "系統整合"
+      ],
+      "fit": 88,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "7500000.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "AdquisicionesDiprose@jus.gob.ar https://drive.google.com/drive/u/0/folders/1dKeqpB0SZTqUXjzgCC8TBuaKv40_5iIt"
+    },
+    {
+      "id": "274",
+      "document": "274",
+      "process": "SLV-2026-2362-33491-CI",
+      "originalTitle": "Contratación de Técnico Administrativo Contable para la Unidad Ejecutora del BCIE. ( Contratación de persona responsable de asistir al administrador de la Unidad Ejecutora en todas las funciones que este le asigne y que sean de su competencia ) 48 Meses",
+      "title": "Contratación de Técnico Administrativo Contable para la Unidad Ejecutora del BCIE. ( Contratación de persona responsable de asistir al administrador de la Unidad Ejecutora en todas las funciones que este le asigne y que sean de su competencia ) 48 Meses",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/274-SLV-2026-2362-33491-CI",
+      "officialSummary": "Contratar los servicios de un profesional para realizar las funciones de un TÉCNICO ADMINISTRATIVO CONTABLE quien Contribuirá con los procesos y procedimientos contables y financieros, con el fin de brindar información contable útil, pertinente, confiable y oportuna para la toma de decisiones para el Programa de Construcción de Infraestructura y Rescate de escenarios Deportivos FASE II- PRODEPORTE II",
+      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "Comparación de Calificaciones-N/A-No Aplica",
+      "published": "2026-09-29",
+      "deadlineUtc": "2026-10-08T06:00:00.000Z",
+      "deadlineDate": "2026-10-08",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "72000.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "e.moreno@indes.gob.sv e.moreno@indes.gob.sv"
+    },
+    {
+      "id": "263",
+      "document": "263",
+      "process": "NIC-2025-2263-22782-B",
+      "originalTitle": "Adquisición de Equipos para el área de Fisicoquímica y Cromatografía de LABAL (Evaporador rotativo con Condensador Diagonal, Unidad de destilación para proteínas, Unidad Basica de digestión para proteína y Gabinete desecador)",
+      "title": "Adquisición de Equipos para el área de Fisicoquímica y Cromatografía de LABAL (Evaporador rotativo con Condensador Diagonal, Unidad de destilación para proteínas, Unidad Basica de digestión para proteína y Gabinete desecador)",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/263-NIC-2025-2263-22782-B",
+      "officialSummary": "Fortalecimiento de las capacidades técnicas del Laboratorio de Tecnología Alimentos (LABAL) en cuanto a equipos especializados y actualización de técnicas analíticas, para cubrir la demanda de los servicios de tablas nutricionales que incluyen el análisis de micro y macro nutrientes solicitados por las pequeñas y medianas empresas, lo cual permitirá generar resultados confiables y acordes a los requisitos del cliente",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "實驗室設備",
+      "category": "貨品",
+      "method": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-09-08",
+      "deadlineUtc": "2026-10-08T06:00:00.000Z",
+      "deadlineDate": "2026-10-08",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "fit": 72,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "100000.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "adquisicionescgpp-mhcp2@mhcp.gob.ni, con copia los correos allan.arroyo@mhcp.gob.ni y julio.rodriguez1@mhcp.gob.ni Oficinas de Coordinación General de Programas y Proyectos, del Ministerio de Hacienda y Crédito Público, ubicada de la Estatua de Montoya 2c, al norte, mano izquierda 2do piso"
+    },
+    {
+      "id": "253",
+      "document": "253",
+      "process": "ARG-2026-2314-34885-CF",
+      "originalTitle": "Sistema de Gestión Integral DNM",
+      "title": "Sistema de Gestión Integral DNM",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/253-ARG-2026-2314-34885-CF",
+      "officialSummary": "El objetivo general del Programa consiste en contribuir a la modernización y fortalecimiento de la seguridad y capacidad de respuesta de los servicios de identidad y de migraciones que realiza la Dirección Nacional de Migraciones (DNM), en el marco del crecimiento de la economía digital.",
+      "executor": "Dirección General de Programas y Proyectos Sectoriales y Especiales (DiGePPSE)",
+      "sourceLanguage": "es",
+      "country": "阿根廷",
+      "industry": "數位與資通訊",
+      "category": "顧問服務",
+      "method": "Concurso Público Acelerado-SBCC-Selección Basada en Calidad y Costo",
+      "published": "2026-08-24",
+      "deadlineUtc": "2026-10-09T03:00:00.000Z",
+      "deadlineDate": "2026-10-09",
+      "capabilities": [
+        "資料中心",
+        "系統整合"
+      ],
+      "fit": 88,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "1501696.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "LPI@migraciones.gob.ar https://comprar.gob.ar LPI@migraciones.gob.ar"
+    },
+    {
+      "id": "276",
+      "document": "276",
+      "process": "GTM-2026-2181JUDICIAL-38194-CI",
+      "originalTitle": "Asistente Legal/Procurador",
+      "title": "Asistente Legal/Procurador",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/276-GTM-2026-2181JUDICIAL-38194-CI",
+      "officialSummary": "Asistir y apoyar legalmente en los diferentes procesos de los proyectos a cargo de la Unidad Especial de Ejecución del Contrato de Préstamo –UEEP- del Organismo Judicial como parte de la ejecución del Programa de Inversión y Modernización para el Sector Justicia, Préstamo No. 2181 del Banco Centroamericano de Integración Económica –BCIE-.",
+      "executor": "Organismo Judicial Guatemala (OJ)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-10-01",
+      "deadlineUtc": "2026-10-09T06:00:00.000Z",
+      "deadlineDate": "2026-10-09",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "45128.21",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "Invitación a participar a consultores previamente identificados. Solamente pueden participar consultores invitados por correo electrónico. En invitación a participar enviada por correo electrónico a consultores previamente identificados."
+    },
+    {
+      "id": "266",
+      "document": "266",
+      "process": "CRI-2025-2317-12550-O",
+      "originalTitle": "Contratación de diseño detallado y construcción de obras de estabilización de taludes, construcción de obras de drenaje, y diseño detallado y construcción de pasos de fauna en la Ruta Nacional No. 32, KM 28, KM 31 y KM 39, en el sector Parque Nacional Braulio Carrillo",
+      "title": "Contratación de diseño detallado y construcción de obras de estabilización de taludes, construcción de obras de drenaje, y diseño detallado y construcción de pasos de fauna en la Ruta Nacional No. 32, KM 28, KM 31 y KM 39, en el sector Parque Nacional Braulio Carrillo",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/266-CRI-2025-2317-12550-O",
+      "officialSummary": "Contratación de diseño detallado y construcción de obras de estabilización de taludes, construcción de obras de drenaje, y diseño detallado y construcción de pasos de fauna en la Ruta Nacional No. 32, KM 28, KM 31 y KM 39, en el sector Parque Nacional Braulio Carrillo.",
+      "executor": "Consejo Nacional de Vialidad (CONAVI)",
+      "sourceLanguage": "es",
+      "country": "哥斯大黎加",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "Licitación Pública Internacional-1E-2S-Una etapa - dos sobres",
+      "published": "2026-09-09",
+      "deadlineUtc": "2026-10-12T06:00:00.000Z",
+      "deadlineDate": "2026-10-12",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "11048116.82",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "https://e-proeri.org/#/. https://e-proeri.org/#/."
+    },
+    {
+      "id": "256",
+      "document": "256",
+      "process": "BLZ-MDFDEEI-2147-8880-B",
+      "originalTitle": "Equipment for BDF (Essential Operating Kits)",
+      "title": "Equipment for BDF (Essential Operating Kits)",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/256-BLZ-MDFDEEI-2147-8880-B",
+      "officialSummary": "Acquisition and Delivery of Essential Operating Kits",
+      "executor": "Ministry of Economic Development (MED)",
+      "sourceLanguage": "en",
+      "country": "貝里斯",
+      "industry": "設備與安全用品",
+      "category": "貨品",
+      "method": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-08-28",
+      "deadlineUtc": "2026-10-12T06:00:00.000Z",
+      "deadlineDate": "2026-10-12",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "fit": 63,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "534967.76",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "projectmanager.rsp@met.gov.bz copy: adminassistant.bisp@met.gov.bz projectmanager.rsp@met.gov.bz copy: adminassistant.bisp@met.gov.bz"
+    },
+    {
+      "id": "254",
+      "document": "254",
+      "process": "NIC-2025-2338-16044-O",
+      "originalTitle": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
+      "title": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/254-NIC-2025-2338-16044-O",
+      "officialSummary": "El proyecto de Ampliación y Mejoramiento del Sistema de Agua Potable de la ciudad de Camoapa comprende la ejecución de obras destinadas a mejorar la cobertura, calidad, continuidad y sostenibilidad del servicio de agua potable, contribuyendo a satisfacer la demanda actual y futura de la población beneficiaria.",
+      "executor": "Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-08-25",
+      "deadlineUtc": "2026-10-12T06:00:00.000Z",
+      "deadlineDate": "2026-10-12",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "19263247.01",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "adquisiciones.pisash@enacal.com.ni con copia a adquis6.pisash@enacal.com.ni El contratante pone a disposición de los interesados toda la documentación relacionada con esta licitación, necesaria para la preparación de las ofertas"
+    },
+    {
+      "id": "277",
+      "document": "277",
+      "process": "SLV-2026-2362-34634-CI",
+      "originalTitle": "Contratación de 4 Ingenieros de Proyecto para la Unidad Ejecutora del BCIE ( Responsable de cooordinar y Supervisar la ejecución de los componentes técnicos del programa ( 48 meses)",
+      "title": "Contratación de 4 Ingenieros de Proyecto para la Unidad Ejecutora del BCIE ( Responsable de cooordinar y Supervisar la ejecución de los componentes técnicos del programa ( 48 meses)",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/277-SLV-2026-2362-34634-CI",
+      "officialSummary": "Este proceso tiene por objeto seleccionar y contratar cuatro profesionales para la ejecución de servicios como Ingenieros de proyecto para la UEP, quienes tendrán coma atribución principal dirigir y coordinar las empresas constructoras y consultores de supervisión para la ejecución de los proyectos el “Programa de Construcción de Infraestructura y Rescate de escenarios FASE II PRODEPORTE II, garantizando que los mismos se desarrollen conforme a especificaciones técnicas establecidas en cada uno de ellos; y otras actividades que el Ingeniero Líder de Proyecto les indique;",
+      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "Comparación de Calificaciones-N/A-No Aplica",
+      "published": "2026-02-21",
+      "deadlineUtc": "2026-10-13T06:00:00.000Z",
+      "deadlineDate": "2026-10-13",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "768000.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4 e.moreno@indes.gob.sv"
+    },
+    {
+      "id": "269",
+      "document": "269",
+      "process": "BLZ-2026-2147-35706-CI",
+      "originalTitle": "Procurement Officer",
+      "title": "Procurement Officer",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/269-BLZ-2026-2147-35706-CI",
+      "officialSummary": "Consultancy for Procurement Specialist",
+      "executor": "Ministry of Economic Development (MED)",
+      "sourceLanguage": "en",
+      "country": "貝里斯",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-09-18",
+      "deadlineUtc": "2026-10-13T06:00:00.000Z",
+      "deadlineDate": "2026-10-13",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "31500.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "ProjectManager.rsp@met.gov.bz ProjectManager.rsp@met.gov.bz adminassistant.bisp@met.gov.bz"
+    },
+    {
+      "id": "264",
+      "document": "264",
+      "process": "CRI-2026-2345-33825-O",
+      "originalTitle": "Construcción de obras civiles y electromecánicas bahías Agua Caliente -Sandino y La Virgen -Fortuna",
+      "title": "Construcción de obras civiles y electromecánicas bahías Agua Caliente -Sandino y La Virgen -Fortuna",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/264-CRI-2026-2345-33825-O",
+      "officialSummary": "El objetivo del presente Documento de SDO es detallar los requerimientos que deben de cumplir los Oferentes para proveer las obras de Construcción de las Bahías de Acceso a las Subestaciones de Agua Caliente (Honduras), Sandino (Nicaragua), La Virgen (Nicaragua) y Fortuna (Costa Rica), del Segundo Circuito de la Línea SIEPAC en los países indicados.",
+      "executor": "Sistema de Interconexión Eléctrica para Países de América Central (SIEPAC)",
+      "sourceLanguage": "es",
+      "country": "哥斯大黎加",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "Solicitud de Ofertas-1E-2S-Una Etapa-Dos Sobres",
+      "published": "2026-09-09",
+      "deadlineUtc": "2026-10-30T06:00:00.000Z",
+      "deadlineDate": "2026-10-30",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "8884800.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "proveeduriasubestaciones@eprsiepac.com Las empresas interesadas deberán solicitar su inscripción al correo electrónico proveeduriasubestaciones@eprsiepac.com y una vez completada la información general solicitada por EPR, se le creará un usuario para el acceso al Sistema de Compras FILEON de la EPR. https://epr.file-on.com/index.aspx"
+    },
+    {
+      "id": "275",
+      "document": "275",
+      "process": "MHCP-CGPP-2263-LPI-B-01-2026",
+      "originalTitle": "Compra de alimentos 2026 - 2027 de la merienda escolar (granos básicos y aceite vegetal) primera fase",
+      "title": "Compra de alimentos 2026 - 2027 de la merienda escolar (granos básicos y aceite vegetal) primera fase",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/275-MHCP-CGPP-2263-LPI-B-01-2026",
+      "officialSummary": "Contribuir de manera sostenida al mejoramiento de los indicadores de educación, salud y nutrición de estudiantes en Centros Educativos en 32 municipios seleccionados, pertenecientes al Sector Minero y 5 departamentos del país: Sector Minero (4 municipios), Estelí (1 municipio), Jinotega (8 municipios), Madriz (2 municipios), Matagalpa (9 municipios) y Nueva Segovia (8 municipios), mediante la Compra de alimentos 2026 - 2027 de la merienda escolar Primera Fase, la cual detalla la adquisición de: 52,621 galones de aceite vegetal de soya; 28,441 sacos de arroz; 20,848 sacos de frijol rojo variedad; y 25,362 sacos de maíz blanco (todos los sacos con una presentación de 50 lbs / 22.68 kg).",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "食品與農業",
+      "category": "工程／服務",
+      "method": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-01",
+      "deadlineUtc": "2026-11-16T06:00:00.000Z",
+      "deadlineDate": "2026-11-16",
+      "capabilities": [
+        "整批供應"
+      ],
+      "fit": 42,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "3872681.42",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "www.nicaraguacompra.gob.ni Oficinas de Coordinación General de Programas y Proyectos, Ubicada de la Estatua de Montoya 2 c, al norte, mano izquierda 2do piso, Managua"
+    },
+    {
+      "id": "273",
+      "document": "273",
+      "process": "CRI-2026-2345-33818-CF",
+      "originalTitle": "Supervisión Proyecto Agua Caliente - Sandino- La Virgen- Fortuna",
+      "title": "Supervisión Proyecto Agua Caliente - Sandino- La Virgen- Fortuna",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/273-CRI-2026-2345-33818-CF",
+      "officialSummary": "Contratar una Firma consultora que realice la Supervisión Externa de las Obras del Segundo Circuito SIEPAC en Honduras, Nicaragua y Costa Rica.",
+      "executor": "Sistema de Interconexión Eléctrica para Países de América Central (SIEPAC)",
+      "sourceLanguage": "es",
+      "country": "哥斯大黎加",
+      "industry": "基礎設施與工程",
+      "category": "顧問服務",
+      "method": "Selección Basada en Calidad y Costo-LC_Sin-SEI-Lista Corta (Sin SEI)",
+      "published": "2026-09-28",
+      "deadlineUtc": "2026-11-18T06:00:00.000Z",
+      "deadlineDate": "2026-11-18",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "631308.00",
+      "summary": "CABEI 專案公開採購。完整範疇請查官方公告。",
+      "qualifications": [
+        "官方清單未載明完整資格；請向執行機構取得招標文件，核對經驗、財務、人員、原廠授權與當地登記要求。"
+      ],
+      "documentSummary": "尚未擷取文件文字；請開啟官方文件取得入口。",
+      "analysisMode": "rules",
+      "documentAccess": "proveeduriasupervision@eprsiepac.com La EPR pone a disposición de los interesados toda la documentación relacionada con esta consultoría únicamente mediante Sistema de Compras FILEON de la EPR. Las empresas interesadas deberán solicitar su inscripción al correo electrónico proveeduriasupervision@eprsiepac.com con ello se le creará un usuario para el acceso al Sistema de Compras FILEON de la EPR."
+    }
+  ],
+  "officialAttachments": {
+    "251": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://drive.google.com/drive/u/0/folders/1dKeqpB0SZTqUXjzgCC8TBuaKv40_5iIt"
+      }
+    ],
+    "253": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://comprar.gob.ar"
+      }
+    ],
+    "254": [],
+    "256": [],
+    "263": [],
+    "264": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://epr.file-on.com/index.aspx"
+      }
+    ],
+    "266": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://e-proeri.org/#/"
+      }
+    ],
+    "269": [],
+    "270": [],
+    "271": [],
+    "272": [],
+    "273": [],
+    "274": [],
+    "275": [],
+    "276": [],
+    "277": [
+      {
+        "name": "官方招標文件.pdf",
+        "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
+      }
+    ]
+  },
+  "taiwanCompanySuggestions": {
+    "251": [
+      {
+        "name": "精誠資訊（SYSTEX）",
+        "role": "企業 IT 整合",
+        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
+        "url": "https://www.systex.com/"
+      },
+      {
+        "name": "資拓宏宇（IISI）",
+        "role": "系統整合與維運",
+        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
+        "url": "https://www.iisigroup.com/en/about-en/services/"
+      }
+    ],
+    "253": [
+      {
+        "name": "精誠資訊（SYSTEX）",
+        "role": "企業 IT 整合",
+        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
+        "url": "https://www.systex.com/"
+      },
+      {
+        "name": "資拓宏宇（IISI）",
+        "role": "系統整合與維運",
+        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
+        "url": "https://www.iisigroup.com/en/about-en/services/"
+      }
+    ],
+    "254": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "256": [],
+    "263": [],
+    "264": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "266": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "269": [],
+    "270": [],
+    "271": [],
+    "272": [],
+    "273": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "274": [],
+    "275": [],
+    "276": [],
+    "277": []
+  }
+}

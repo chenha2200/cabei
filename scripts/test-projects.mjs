@@ -1,0 +1,37 @@
+import fs from "node:fs";
+import vm from "node:vm";
+import assert from "node:assert/strict";
+const data=JSON.parse(fs.readFileSync("public/projects/data/opportunities.json","utf8"));
+const els=new Map();
+const el=s=>{if(!els.has(s))els.set(s,{value:s==="#fit"?"0":s==="#sort"?"fit":"all",textContent:"",innerHTML:"",style:{},addEventListener(){},insertAdjacentHTML(){},classList:{toggle(){},remove(){}}});return els.get(s);};
+el("#search").value="";
+const code=fs.readFileSync("public/projects/app.js","utf8").replace(/initialize\(\);\s*$/,"");
+const ctx=vm.createContext({document:{querySelector:el,querySelectorAll:()=>[]},localStorage:{getItem:()=>null,setItem(){}},console,Intl,Date,Set});
+vm.runInContext(code+"\nopportunities="+JSON.stringify(data.opportunities)+";taiwanCompanySuggestions="+JSON.stringify(data.taiwanCompanySuggestions)+";officialAttachments="+JSON.stringify(data.officialAttachments)+";",ctx);
+const run=s=>vm.runInContext(s,ctx);
+assert.equal(run("filteredData().length"),data.opportunities.length);
+el("#country").value=data.opportunities[0].country;
+assert.equal(run("filteredData().length"),data.opportunities.filter(x=>x.country===el("#country").value).length);
+el("#country").value="all";
+el("#industry").value=data.opportunities[0].industry;
+assert.equal(run("filteredData().length"),data.opportunities.filter(x=>x.industry===el("#industry").value).length);
+el("#industry").value="all";
+el("#search").value=data.opportunities[0].process;
+assert.equal(run("filteredData().length"),1);
+el("#search").value="unlikely-search-no-results";
+assert.equal(run("filteredData().length"),0);
+run("resetFilters()");
+assert.equal(run("filteredData().length"),data.opportunities.length);
+el("#deadline").value="7";
+assert.equal(run("filteredData().length"),data.opportunities.filter(x=>Math.ceil((new Date(x.deadlineUtc)-Date.now())/86400000)<=7).length);
+el("#deadline").value="all";
+run('activeCapabilities.add("數位科技")');
+assert.ok(run("filteredData().every(x=>x.capabilities.includes('資料中心'))"));
+run("activeCapabilities.clear()");
+for(const item of data.opportunities){
+ assert.ok(item.sourceUrl.startsWith(data.source+"/"));
+ assert.ok(Array.isArray(data.taiwanCompanySuggestions[item.id]));
+ assert.ok(item.qualifications.length);
+ assert.ok(run("cardTemplate(opportunities.find(x=>x.id==="+JSON.stringify(item.id)+"))").includes("招標文件／附件摘要"));
+}
+console.log("PASS: country, industry, search, empty, reset, deadline, capability and detail rendering; "+data.opportunities.length+" records.");
