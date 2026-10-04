@@ -67,6 +67,6 @@ opportunities.sort((a,b)=>a.deadlineUtc.localeCompare(b.deadlineUtc));
 const core={source:SOURCE_PAGE,opportunities,officialAttachments,taiwanCompanySuggestions};
 const before={source:current.source,opportunities:current.opportunities,officialAttachments:current.officialAttachments,taiwanCompanySuggestions:current.taiwanCompanySuggestions};
 await fs.mkdir(new URL("../public/projects/data/",import.meta.url),{recursive:true});
-await fs.writeFile(DATA_FILE,JSON.stringify({generatedAt:JSON.stringify(core)===JSON.stringify(before)?current.generatedAt:new Date().toISOString(),...core},null,2)+"\n");
+await fs.writeFile(DATA_FILE,JSON.stringify({generatedAt:JSON.stringify(core)===JSON.stringify(before)?current.generatedAt:new Date().toISOString(),...core,translationCache:current.translationCache||{}},null,2)+"\n");
 console.log("Project procurement synchronized: "+opportunities.length);
 

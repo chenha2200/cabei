@@ -233,7 +233,8 @@ const currentCore = {
 const changed = JSON.stringify(core) !== JSON.stringify(currentCore);
 const output = {
   generatedAt: changed ? new Date().toISOString() : current.generatedAt,
-  ...core
+  ...core,
+  translationCache: current.translationCache || {}
 };
 
 await fs.writeFile(DATA_FILE, `${JSON.stringify(output, null, 2)}\n`);
