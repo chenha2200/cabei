@@ -10,6 +10,8 @@ on:
       - "scripts/translate-projects.py"
       - "scripts/translation_guard.py"
       - "scripts/translation-revisions.json"
+      - "scripts/email-status.py"
+      - "scripts/opus_backend.py"
       - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
@@ -21,10 +23,12 @@ permissions:
 
 concurrency:
   group: update-cabei-opportunities
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
+    outputs:
+      data_sha: ${{ steps.commit.outputs.data_sha }}
     runs-on: ubuntu-latest
     timeout-minutes: 55
     steps:
@@ -47,15 +51,18 @@ jobs:
           path: |
             ~/.cache/huggingface
             ~/.cache/pip
-          key: cabei-m2m100-es-zh-v1-${{ runner.os }}
+          key: cabei-opus-es-en-zh-v1-${{ runner.os }}
 
       - name: Install PDF text extractor
         run: sudo apt-get update && sudo apt-get install --yes poppler-utils
 
       - name: Install offline translation engine
         run: |
-          python -m pip install --disable-pip-version-check --index-url https://download.pytorch.org/whl/cpu torch
-          python -m pip install --disable-pip-version-check "transformers>=4.45,<5" sentencepiece sacremoses opencc-python-reimplemented
+          python -m pip install --disable-pip-version-check --index-url https://download.pytorch.org/whl/cpu "torch==2.14.1"
+          python -m pip install --disable-pip-version-check "transformers==4.57.1" sentencepiece sacremoses opencc-python-reimplemented
+
+      - name: Validate offline translation on real procurement samples
+        run: python scripts/test-opus-quality.py
 
       - name: Fetch CABEI data and attachments
         run: |
@@ -74,9 +81,11 @@ jobs:
         run: python scripts/test-translation-guard.py
 
       - name: Commit changed JSON
+        id: commit
         shell: bash
         run: |
           if git diff --quiet -- public/data/opportunities.json public/projects/data/opportunities.json; then
+            echo "data_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
             echo "CABEI data has not changed."
             exit 0
           fi
@@ -85,3 +94,33 @@ jobs:
           git add public/data/opportunities.json public/projects/data/opportunities.json
           git commit -m "data: update CABEI opportunities"
           git push
+          echo "data_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  email:
+    name: Email update result
+    needs: update
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    permissions:
+      contents: read
+      checks: read
+      actions: read
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ needs.update.outputs.data_sha || github.sha }}
+      - name: Test email status logic
+        run: python scripts/test-email-status.py
+      - name: Send status email
+        env:
+          UPDATE_RESULT: ${{ needs.update.result }}
+          DATA_SHA: ${{ needs.update.outputs.data_sha || github.sha }}
+          GH_TOKEN: ${{ github.token }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          SMTP_HOST: ${{ vars.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+        run: python scripts/email-status.py

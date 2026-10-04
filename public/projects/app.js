@@ -160,7 +160,7 @@ function cardTemplate(item) {
         <section class="notice-section"><h4>二、主要工作／供應範疇</h4><ul class="notice-list">${scopeItemsFor(item).map(text => `<li>${escapeHTML(text)}</li>`).join("")}</ul></section>
         <section class="notice-section"><h4>三、投標廠商資格</h4><ul class="notice-list qualification-list">${item.qualifications.map(text => `<li>${escapeHTML(text)}</li>`).join("")}</ul><p class="qualification-note">此處為 TOR 主要門檻摘要；表單、聲明、財務、保證、稅務與其他完整要求仍以官方文件為準。</p></section>
         <section class="notice-section"><h4>四、適合接洽的台灣廠商</h4>${companySuggestionsTemplate(item)}<p class="company-disclaimer">名單依各公司公開產品與服務能力初步配對，不代表該公司已表達投標意願、符合本案全部資格，亦不構成 CABEI 或標案機關背書。請先取得完整招標文件並直接向公司確認供貨、認證與合作意願。</p></section>
-        <section class="notice-section document-summary"><h4>五、招標文件／附件摘要</h4><p>${escapeHTML(item.documentSummary)}</p>${attachmentsTemplate(item)}<p class="attachment-note">附件名稱與連結取自 CABEI 官方案件頁；若官方後續修正，請以案號連結所列最新文件為準。</p></section>
+        <section class="notice-section document-summary"><h4>五、招標文件／附件摘要</h4><p>${escapeHTML(item.documentSummary)}</p>${item.documentAccessZh ? `<p>官方文件取得方式：${escapeHTML(item.documentAccessZh)}</p>` : ""}${attachmentsTemplate(item)}<p class="attachment-note">附件名稱與連結取自 CABEI 官方案件頁；若官方後續修正，請以案號連結所列最新文件為準。</p></section>
       </div>
     </div></div>
   </article>`;

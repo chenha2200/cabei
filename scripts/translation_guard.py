@@ -14,6 +14,10 @@ GLOSSARY = {
  "data center":"資料中心", "agua potable":"飲用水",
  "estabilización de taludes":"邊坡穩定", "pasos de fauna":"野生動物通道",
  "procurement officer":"採購專員",
+ "Honduras":"宏都拉斯", "Nicaragua":"尼加拉瓜", "Costa Rica":"哥斯大黎加",
+ "El Salvador":"薩爾瓦多", "Guatemala":"瓜地馬拉",
+ "Agua Caliente":"Agua Caliente", "Sandino":"Sandino",
+ "La Virgen":"La Virgen", "Fortuna":"Fortuna",
 }
 PATTERN = re.compile(
  "|".join(re.escape(x) for x in sorted(GLOSSARY,key=len,reverse=True))
@@ -21,7 +25,7 @@ PATTERN = re.compile(
 # Case-sensitive acronym matching is deliberately separate from glossary matching.
 TERMS = re.compile("|".join(re.escape(x) for x in sorted(GLOSSARY,key=len,reverse=True)),re.I)
 LOWER_GLOSSARY = {key.lower(): value for key, value in GLOSSARY.items()}
-PROTECTED = re.compile(r"https?://[^\s<>]+|\b[A-Z][A-Z0-9-]{1,}\b|\d[\d.,:/-]*")
+PROTECTED = re.compile(r"https?://[^\s<>]+|[\w.+-]+@[\w.-]+\.[a-zA-Z]{2,}|\b[A-Z][A-Z0-9-]{1,}\b|\d[\d.,:/-]*")
 def protect(text):
     matches = [(m.start(),m.end(),LOWER_GLOSSARY[m.group().lower()]) for m in TERMS.finditer(text)]
     for m in PROTECTED.finditer(text):

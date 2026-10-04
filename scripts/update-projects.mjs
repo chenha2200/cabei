@@ -34,6 +34,13 @@ const rules=[
  [/alimento|granos|aceite/i,"食品與農業",["整批供應"],42,null]
 ];
 const countries={"El Salvador":"薩爾瓦多",Guatemala:"瓜地馬拉",Nicaragua:"尼加拉瓜","Costa Rica":"哥斯大黎加",Belice:"貝里斯",Honduras:"宏都拉斯",Argentina:"阿根廷",Panamá:"巴拿馬","República Dominicana":"多明尼加共和國"};
+function methodLabel(value=""){
+ const pairs=[["Licitación Pública Internacional","國際公開招標"],["Licitación Pública Nacional","國內公開招標"],["Comparación de Calificaciones","資格比較"],["Comparación de Precios","價格比較"],["Selección Basada en Calidad y Costo","品質與價格評選"],["Solicitud de Ofertas","徵求報價"],["Concurso Público Acelerado","加速公開徵選"]];
+ const match=pairs.find(([source])=>value.startsWith(source));
+ if(!match)return norm(value)||"未載明";
+ const stages=/1E-2S/.test(value)?"／一階段兩信封":/1E-1S/.test(value)?"／一階段一信封":"";
+ return match[1]+stages;
+}
 async function get(url){const r=await fetch(url,{signal:AbortSignal.timeout(60000)});if(!r.ok)throw new Error("CABEI HTTP "+r.status);return r.json();}
 let current={opportunities:[],officialAttachments:{},taiwanCompanySuggestions:{}};
 try{current=JSON.parse(await fs.readFile(DATA_FILE,"utf8"));}catch(e){if(e.code!=="ENOENT")throw e;}
@@ -52,8 +59,8 @@ const opportunities=rows.filter(r=>r.reception_date&&new Date(r.reception_date)>
  return {...old,id,document:id,process:norm(r.process_number)||"未載明",originalTitle:text,title:old.title||text,
  sourceUrl:SOURCE_PAGE+"/"+id+"-"+encodeURIComponent(r.process_number),officialSummary:norm(r.object),executor:norm(r.executor),
  sourceLanguage:r.country==="Belice"?"en":"es",country:countries[r.country]||r.country,industry:individual?"個人顧問":industry,
- category:individual?"個人顧問":/Consult/i.test(r.category)?"顧問服務":/-B$/.test(r.process_number)?"貨品":"工程／服務",
- method:norm(r.modality_description)||"未載明",published:(r.start_date_sale||r.createdAt).slice(0,10),
+ category:individual?"個人顧問":/Consult/i.test(r.category)?"顧問服務":/-B(?:-|$)/.test(r.process_number)?"貨品":"工程／服務",
+ method:methodLabel(r.modality_description),originalMethod:norm(r.modality_description),published:(r.start_date_sale||r.createdAt).slice(0,10),
  deadlineUtc:r.reception_date,deadlineDate:r.reception_date.slice(0,10),capabilities,fit:individual?20:fit,
  reason:individual?"本案採購個人顧問，不應以台灣企業名單替代個人資格審查。":group?"台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。":"可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
  noCompanyReason:individual?"個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。":"暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
@@ -69,4 +76,3 @@ const before={source:current.source,opportunities:current.opportunities,official
 await fs.mkdir(new URL("../public/projects/data/",import.meta.url),{recursive:true});
 await fs.writeFile(DATA_FILE,JSON.stringify({generatedAt:JSON.stringify(core)===JSON.stringify(before)?current.generatedAt:new Date().toISOString(),...core,translationCache:current.translationCache||{}},null,2)+"\n");
 console.log("Project procurement synchronized: "+opportunities.length);
-

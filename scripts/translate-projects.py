@@ -17,15 +17,13 @@ from translation_guard import VERSION as GUARD_VERSION, protect, restore, issues
 
 import torch
 from opencc import OpenCC
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+from opus_backend import Translator, MODEL_ID
 
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "public" / "projects" / "data" / "opportunities.json"
-MODEL_NAME = os.environ.get(
-    "CABEI_TRANSLATION_MODEL", "facebook/m2m100_418M"
-)
-TRANSLATION_VERSION = "offline-guard-v1"
+MODEL_NAME = MODEL_ID
+TRANSLATION_VERSION = "offline-opus-v2"
 SOURCE_LANG = "es"
 TARGET_LANG = "zh"
 OPENCC = OpenCC("s2twp")
@@ -275,77 +273,6 @@ def select_sentences(
     return selected[:limit]
 
 
-class Translator:
-    def __init__(self, cache=None) -> None:
-        os.environ.setdefault("HF_HUB_DISABLE_TELEMETRY", "1")
-        torch.set_num_threads(max(1, min(4, os.cpu_count() or 1)))
-        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-        self.tokenizer.src_lang = SOURCE_LANG
-        self.target_lang_id = self.tokenizer.get_lang_id(TARGET_LANG)
-        self.model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
-        self.model.eval()
-        self.cache = cache if cache is not None else {}
-
-    def translate_many(self, values: list[str]) -> list[str]:
-        results = []
-        for source in values:
-            language = self.tokenizer.src_lang
-            key = cache_key(source, language, MODEL_NAME)
-            if key in self.cache:
-                results.append(self.cache[key])
-                continue
-            # Split at punctuation, then spaces. Never silently truncate long input.
-            chunks = re.split(r"(?<=[.;!?])\s+", normalize(source))
-            parts = []
-            for chunk in chunks:
-                words = chunk.split()
-                pending = ""
-                for word in words:
-                    if pending and len(pending) + len(word) > 320:
-                        parts.append(pending)
-                        pending = ""
-                    pending = (pending + " " + word).strip()
-                if pending:
-                    parts.append(pending)
-            outputs = []
-            for part in parts:
-                prepared, mapping = protect(part)
-                encoded = self.tokenizer(prepared, return_tensors="pt", truncation=False)
-                if encoded["input_ids"].shape[-1] > 512:
-                    outputs.append("【待校訂：原文過長】" + part)
-                    continue
-                with torch.inference_mode():
-                    generated = self.model.generate(
-                        **encoded, forced_bos_token_id=self.target_lang_id,
-                        num_beams=2, max_new_tokens=420, early_stopping=True,
-                    )
-                decoded = self.tokenizer.batch_decode(generated, skip_special_tokens=True)[0]
-                restored = restore(decoded, mapping)
-                if restored is None:
-                    # Retry without sending protected values to the model.
-                    # Context can be weaker, so keep a visible review flag.
-                    fragments = re.split(r"(ZXQ\d+QXZ)", prepared)
-                    safe = []
-                    for fragment in fragments:
-                        if fragment in mapping:
-                            safe.append(mapping[fragment])
-                        elif fragment.strip():
-                            fragment_input = self.tokenizer(fragment, return_tensors="pt", truncation=False)
-                            with torch.inference_mode():
-                                fragment_output = self.model.generate(
-                                    **fragment_input, forced_bos_token_id=self.target_lang_id,
-                                    num_beams=2, max_new_tokens=420, early_stopping=True,
-                                )
-                            safe.append(taiwan_chinese(self.tokenizer.batch_decode(fragment_output, skip_special_tokens=True)[0]))
-                    outputs.append("【待校訂：分段保護翻譯】" + " ".join(safe))
-                else:
-                    outputs.append(taiwan_chinese(restored))
-            translated = " ".join(outputs)
-            self.cache[key] = translated
-            results.append(translated)
-        return results
-
-
 def explicit_usd_amount(text: str) -> str:
     match = re.search(
         r"(?:US\$|USD)\s*\d[\d.,]*(?:\s*(?:millones?|mil))?",
@@ -400,6 +327,10 @@ def main() -> None:
             minimum_score=4,
             excludes=SCOPE_EXCLUDES,
         )
+        if item.get("officialSummary"):
+            # The public project object is often one long paragraph. Do not
+            # discard it just because the sentence selector's limit is 500.
+            scope_parts = [item["officialSummary"]]
         qualification_parts = select_sentences(
             document_text,
             QUALIFICATION_WEIGHTS,
@@ -457,7 +388,7 @@ def main() -> None:
                 MAX_DOCUMENT_SUMMARY_CHARS,
             )
         else:
-            document_summary_zh = "官方清單提供文件取得方式：" + item.get("documentAccess", "未載明")
+            document_summary_zh = "文件取得方式請查看官方案號連結；目前沒有可直接擷取的附件。"
 
         qualifications_zh = [
             truncate(value, 180) for value in qualification_translations if value
@@ -479,6 +410,10 @@ def main() -> None:
                 "translationUpdatedAt": datetime.now(timezone.utc).isoformat(),
             }
         )
+        if item.get("documentAccess") and re.search(r"[a-z]{3,}\s+[a-z]{3,}", item["documentAccess"], re.I):
+            item["documentAccessZh"] = truncate(translator.translate_many([item["documentAccess"]])[0], 450)
+        else:
+            item["documentAccessZh"] = item.get("documentAccess", "未載明")
         apply_revision(item, revisions)
         item["translationWarnings"] = sorted(set(
             flag for value in [item["title"], item["summary"], item["documentSummary"], *item["qualifications"]]
