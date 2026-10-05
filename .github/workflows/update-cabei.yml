@@ -34,6 +34,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v6
@@ -93,8 +95,23 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data/opportunities.json public/projects/data/opportunities.json
           git commit -m "data: update CABEI opportunities"
-          git push
-          echo "data_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          # Another writer may advance main while fetching and translating.
+          # Rebase preserves remote commits; conflicts must never overwrite data.
+          for attempt in 1 2 3; do
+            git fetch --no-tags origin main
+            if ! git rebase origin/main; then
+              git rebase --abort
+              echo "::error::Remote main conflicts with generated CABEI data. Rerun from the latest main; no remote changes were overwritten."
+              exit 1
+            fi
+            if git push origin HEAD:main; then
+              echo "data_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "::warning::Push attempt $attempt failed; fetching remote main before retry."
+          done
+          echo "::error::Could not push CABEI data after 3 attempts. See git push output above."
+          exit 1
 
   email:
     name: Email update result
