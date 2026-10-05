@@ -1,179 +1,7 @@
 {
-  "generatedAt": "2026-10-04T13:18:53.093Z",
+  "generatedAt": "2026-10-05T12:23:13.888Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "272",
-      "document": "272",
-      "process": "SLV-2026-2362-33483-CI",
-      "originalTitle": "Contratación de un Asistente de Administración para la Unidad Ejecutora del BCIE ( Contratación de una persona responsable de asistir al Administrador de la Unidad Ejecutora en todas las funcione que este le indique y que sean de su competencia ) 48 Meses",
-      "title": "CABEI 專案執行單位行政助理（48 個月）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/272-SLV-2026-2362-33483-CI",
-      "officialSummary": "Contratar los servicios de un profesional para realizar las funciones de Asistente Administrativo quien Asistirá al Coordinador y Administrador de la Unidad Ejecutora en todas las funciones que este este le indique y que sea de su competencia en el programa de construcción de Infraestructura y Rescate de escenarios Deportivos FASE II- PRODEPORTE II",
-      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
-      "sourceLanguage": "es",
-      "country": "薩爾瓦多",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "published": "2026-09-24",
-      "deadlineUtc": "2026-10-05T06:00:00.000Z",
-      "deadlineDate": "2026-10-05",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "129600.00",
-      "summary": "CABEI 公開採購「CABEI 專案執行單位行政助理（48 個月）」。聘用一名專業人員履行行政助理的職能,行政助理將協助執行股協調員兼署長履行他向其表示的所有職能,而且執行股在基礎設施建設和建設方案方面的職能屬於他的職權範圍。 【待校訂：分段翻譯】體育階段救援 FASE II - PRODEPORTE II",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：聘用一名專業人員履行行政助理的職能,行政助理將協助執行股協調員兼署長履行他向其表示的所有職能,而且執行股在基礎設施建設和建設方案方面的職能屬於他的職權範圍。 【待校訂：分段翻譯】體育階段救援 FASE II - PRODEPORTE II",
-      "analysisMode": "offline-translation",
-      "documentAccess": "e.moreno@indes.gob.sv e.moreno@indes.gob.sv",
-      "translationFingerprint": "4ba1e76ef379d1878a916c3d937f6e1826f1dcd81c0a72d83dc3550324bfb26c",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:14:46.052742+00:00",
-      "documentAccessZh": "e.moreno@indes.gob.sv e.moreno@indes.gob.sv",
-      "revisionSourceTitle": "Contratación de un Asistente de Administración para la Unidad Ejecutora del BCIE ( Contratación de una persona responsable de asistir al Administrador de la Unidad Ejecutora en todas las funcione que este le indique y que sean de su competencia ) 48 Meses",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ],
-      "originalMethod": "Comparación de Calificaciones-N/A-No Aplica"
-    },
-    {
-      "id": "271",
-      "document": "271",
-      "process": "NIC-2025-2263-22778-B",
-      "originalTitle": "Adquisición de Insecticidas y fungicidas",
-      "title": "殺蟲劑及殺菌劑採購",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/271-NIC-2025-2263-22778-B",
-      "officialSummary": "Fortalecer la vigilancia fitosanitaria para el monitoreo de plagas en los cultivos de cacao, café y granos básicos.",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "農業與化工",
-      "category": "貨品",
-      "method": "價格比較",
-      "published": "2026-09-21",
-      "deadlineUtc": "2026-10-05T06:00:00.000Z",
-      "deadlineDate": "2026-10-05",
-      "capabilities": [
-        "整批供應"
-      ],
-      "fit": 52,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "50000.00",
-      "summary": "CABEI 公開採購「殺蟲劑及殺菌劑採購」。加強對可可、咖啡和基本穀物作物蟲害監測的植物檢疫監測。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：加強對可可、咖啡和基本穀物作物蟲害監測的植物檢疫監測。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "adquisicionescgpp-mhcp2@mhcp.gob.ni; con copia Allan.Arroyo@mhcp.gob.ni; Julio.Rodriguez1@mhcp.gob.ni Coordinación General de Programas y Proyectos del MHCP",
-      "translationFingerprint": "995e374ef8afd284ea98d83be28c8fc888181840face3173f26d7f943dee1f52",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:14:47.183792+00:00",
-      "documentAccessZh": "adquisicionescgpp-mhcp2@mhcp.gob.ni; 帶有 Allan.Arroyo@mhcp.gob.ni 副本; Julio.Rodriguez1@mhcp.gob.ni MHCP方案和專案總協調",
-      "revisionSourceTitle": "Adquisición de Insecticidas y fungicidas",
-      "translationWarnings": [],
-      "originalMethod": "Comparación de Precios-CP-Comparación de Precios"
-    },
-    {
-      "id": "270",
-      "document": "270",
-      "process": "NIC-2025-2263-19948-B",
-      "originalTitle": "Adquisición de Equipos de Seguridad Personal para Brigadas Incendios Forestales",
-      "title": "森林消防隊個人防護裝備採購",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/270-NIC-2025-2263-19948-B",
-      "officialSummary": "Equipar con equipos de seguridad a las brigadas comunitarias voluntarias del MARENA para la prevención y mitigación de incendios forestales.",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "設備與安全用品",
-      "category": "貨品",
-      "method": "價格比較",
-      "published": "2026-09-21",
-      "deadlineUtc": "2026-10-05T06:00:00.000Z",
-      "deadlineDate": "2026-10-05",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "fit": 63,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "50000.00",
-      "summary": "CABEI 公開採購「森林消防隊個人防護裝備採購」。Epp配有安全裝置,MARENA自願社群旅,以預防和減輕森林火災。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：Epp配有安全裝置,MARENA自願社群旅,以預防和減輕森林火災。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "adquisicionescgpp-mhcp2@mhcp.gob.ni; con copia Allan.Arroyo@mhcp.gob.ni; Julio.Rodriguez1@mhcp.gob.ni Coordinación General de Programas y Proyectos",
-      "translationFingerprint": "5a6b17c8a6242d01a995171b5f9d611a482ce06dcce46b1c01e782caac0a2a5b",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:14:50.773271+00:00",
-      "documentAccessZh": "adquisicionescgpp-mhcp2@mhcp.gob.ni; 帶有 Allan.Arroyo@mhcp.gob.ni 副本; Julio.Rodriguez1@mhcp.gob.ni方案和專案總協調",
-      "revisionSourceTitle": "Adquisición de Equipos de Seguridad Personal para Brigadas Incendios Forestales",
-      "translationWarnings": [],
-      "originalMethod": "Comparación de Precios-CP-Comparación de Precios"
-    },
-    {
-      "id": "251",
-      "document": "251",
-      "process": "ARG-2026-2280-34795-B",
-      "originalTitle": "Modernización de la Infraestructura de Cómputo, Procesamiento, Resguardo y Recuperación Data Center Ministerio de Justicia",
-      "title": "阿根廷司法部資料中心運算、處理、備份與復原基礎設施現代化",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/251-ARG-2026-2280-34795-B",
-      "officialSummary": "El objetivo central del proyecto es modernizar la infraestructura tecnológica y asegurar la continuidad operativa, el resguardo de los sistemas y de los datos del organismo, y de esta forma garantizar la continuidad operativa mediante una arquitectura escalable, segura y resiliente capaz de satisfacer las necesidades operativas actuales y futuras mediante la incorporación de nuevos servicios, tecnologías de vanguardia y equipamiento de marcas de primer nivel reconocidas mundialmente.",
-      "executor": "Ministerio de Justicia de Argentina",
-      "sourceLanguage": "es",
-      "country": "阿根廷",
-      "industry": "數位與資通訊",
-      "category": "貨品",
-      "method": "國際公開招標／一階段一信封",
-      "published": "2026-08-18",
-      "deadlineUtc": "2026-10-05T12:00:00.000Z",
-      "deadlineDate": "2026-10-05",
-      "capabilities": [
-        "資料中心",
-        "系統整合"
-      ],
-      "fit": 88,
-      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "7500000.00",
-      "summary": "CABEI 公開採購「阿根廷司法部資料中心運算、處理、備份與復原基礎設施現代化」。該專案的主要目標是使技術基礎設施現代化,確保機構的執行連續性、系統和資料得到保護,並以此方式,透過一個能夠擴充套件、安全和具有復原力的架構,確保業務的連續性。 滿足當前和未來的業務需要,將新服務、最新技術和裝置納入世界知名頂級品牌。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：該專案的主要目標是使技術基礎設施現代化,確保機構的執行連續性、系統和資料得到保護,並以此方式,透過一個能夠擴充套件、安全和具有復原力的架構,確保業務的連續性。 滿足當前和未來的業務需要,將新服務、最新技術和裝置納入世界知名頂級品牌。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "AdquisicionesDiprose@jus.gob.ar https://drive.google.com/drive/u/0/folders/1dKeqpB0SZTqUXjzgCC8TBuaKv40_5iIt",
-      "translationFingerprint": "cd13049e52164cb6a67040e4b26be3fd60439dfd2395697fd3b666a3fe16c204",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:14:56.447570+00:00",
-      "documentAccessZh": "AdquisicionesDiprose@jus.gob.ar https://drive.google.com/drive/u/0/folders/1dKeqpB0SZTqUXjzgCC8TBuaKv40_5iIt",
-      "revisionSourceTitle": "Modernización de la Infraestructura de Cómputo, Procesamiento, Resguardo y Recuperación Data Center Ministerio de Justicia",
-      "translationWarnings": [],
-      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre"
-    },
     {
       "id": "274",
       "document": "274",
@@ -701,12 +529,6 @@
     }
   ],
   "officialAttachments": {
-    "251": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://drive.google.com/drive/u/0/folders/1dKeqpB0SZTqUXjzgCC8TBuaKv40_5iIt"
-      }
-    ],
     "253": [
       {
         "name": "官方文件取得入口",
@@ -729,9 +551,6 @@
       }
     ],
     "269": [],
-    "270": [],
-    "271": [],
-    "272": [],
     "273": [],
     "274": [],
     "275": [],
@@ -744,20 +563,6 @@
     ]
   },
   "taiwanCompanySuggestions": {
-    "251": [
-      {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "企業 IT 整合",
-        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
-        "url": "https://www.systex.com/"
-      },
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "系統整合與維運",
-        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      }
-    ],
     "253": [
       {
         "name": "精誠資訊（SYSTEX）",
@@ -835,9 +640,6 @@
       }
     ],
     "269": [],
-    "270": [],
-    "271": [],
-    "272": [],
     "273": [
       {
         "name": "中華顧問工程司（CECI）",
