@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:23:13.888Z",
+  "generatedAt": "2026-10-06T00:15:14.650Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -440,6 +440,49 @@
       "originalMethod": "Solicitud de Ofertas-1E-2S-Una Etapa-Dos Sobres"
     },
     {
+      "id": "278",
+      "document": "278",
+      "process": "SLV-2026-2240-32705-B",
+      "originalTitle": "Adquisición de Ambulancias, Microbús y Montacargas para las diferentes unidades del Comando de Sanidad Militar y la PNC",
+      "title": "為軍事衛生指揮部和PNC的不同單位購置救護車、微型客車和叉車",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/278-SLV-2026-2240-32705-B",
+      "officialSummary": "Modernizar la flota de ambulancias de la Policía Nacional Civil (PNC) y del Ministerio de la Defensa Nacional (MDN), de tal forma que permitan ampliar los servicios de atención médica en beneficio del talento humano de ambas instituciones y de la población en general según corresponda.",
+      "executor": "Dirección Nacional de Compras (DINAC)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人／專業顧問",
+      "category": "貨品",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-05",
+      "deadlineUtc": "2026-11-05T06:00:00.000Z",
+      "deadlineDate": "2026-11-05",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "3306762.00",
+      "summary": "CABEI 公開採購「為軍事衛生指揮部和PNC的不同單位購置救護車、微型客車和叉車」。【待校訂：分段翻譯】使國家民警救護隊現代化 PNC 和國防部 MDN 以適當的方式擴大保健服務,使兩個機構的人才和普通民眾受益。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】使國家民警救護隊現代化 PNC 和國防部 MDN 以適當的方式擴大保健服務,使兩個機構的人才和普通民眾受益。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "www.dinac.gob.sv Oficinas de la Unidad Ejecutora del Programa (UEP) del BCIE-DINAC: Final 71ª Avenida Norte y 5ª Calle Poniente # 363, Colonia Escalón, distrito de San Salvador, municipio de San Salvador Centro, departamento de San Salvador.",
+      "translationFingerprint": "ca87d7fdb569742ba5f3a4b12f92408e61cca53cc2c59ad14655acbe2b060e23",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-06T00:15:24.809840+00:00",
+      "documentAccessZh": "【待校訂：分段翻譯】方案執行股辦公室(www.dinac.gob.sv) UEP 段 次 頁 次 BCIE-DINAC 目標:最終目標 71 a 北邊大道和 5 向西街進發 363, Colonia Escalon,聖薩爾瓦多區,聖薩爾瓦多市中心,聖薩爾瓦多省。",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "275",
       "document": "275",
       "process": "MHCP-CGPP-2263-LPI-B-01-2026",
@@ -560,7 +603,8 @@
         "name": "官方招標文件.pdf",
         "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
       }
-    ]
+    ],
+    "278": []
   },
   "taiwanCompanySuggestions": {
     "253": [
@@ -663,7 +707,8 @@
     "274": [],
     "275": [],
     "276": [],
-    "277": []
+    "277": [],
+    "278": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -744,6 +789,9 @@
     "6b86bc1eb08d98ec0723152ced252435237f1c9f31ebb31f4c8e7ad35c0704c5": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,位於馬那瓜蒙託亞2c角,向北,左手2do樓",
     "3eb897e5091da88eef0d84e30b1e09a9bce8b4d7f65b835e120d77bc6eabcd2a": "Agua Caliente-Sandino-La Virgen-Fortuna監測專案",
     "ed5085e17de0c4c728846e1da61a55b225d4e1040c17a9ff68155b48b01796ac": "聘請一家顧問公司在宏都拉斯、尼加拉瓜和哥斯大黎加對第二電路SIEPAC進行外部監督。",
-    "ad77bdb04be3389d76d9877c014d122d74328480f9ae4a4055d1139cb68e72f6": "【待校訂：分段翻譯】proveeduriasupervision@eprsiepac.com 縮略語 EPR 僅透過採購系統向有關各方提供與這一諮詢有關的所有檔案 FILEON 聯 合 國 日 刊 EPR 感興趣的公司應申請在電子郵件上登記。 【待校訂：分段翻譯】proveeduriasupervision@eprsiepac.com 這將建立使用者訪問採購系統 FILEON 聯 合 國 日 刊 EPR ."
+    "ad77bdb04be3389d76d9877c014d122d74328480f9ae4a4055d1139cb68e72f6": "【待校訂：分段翻譯】proveeduriasupervision@eprsiepac.com 縮略語 EPR 僅透過採購系統向有關各方提供與這一諮詢有關的所有檔案 FILEON 聯 合 國 日 刊 EPR 感興趣的公司應申請在電子郵件上登記。 【待校訂：分段翻譯】proveeduriasupervision@eprsiepac.com 這將建立使用者訪問採購系統 FILEON 聯 合 國 日 刊 EPR .",
+    "e4b6215f26347505b49de3d571cccde688f24e11b4712b5ced79e6caf0b3b496": "為軍事衛生指揮部和PNC的不同單位購置救護車、微型客車和叉車",
+    "179073436262020133810dad9e2fea45b212dbbcba6542c1590539c2fedd199c": "【待校訂：分段翻譯】使國家民警救護隊現代化 PNC 和國防部 MDN 以適當的方式擴大保健服務,使兩個機構的人才和普通民眾受益。",
+    "642b77668fddfce5614d274dad3809a0b1305ca7d51193ad5aa52d9c5c0b6e63": "【待校訂：分段翻譯】方案執行股辦公室(www.dinac.gob.sv) UEP 段 次 頁 次 BCIE-DINAC 目標:最終目標 71 a 北邊大道和 5 向西街進發 363, Colonia Escalon,聖薩爾瓦多區,聖薩爾瓦多市中心,聖薩爾瓦多省。"
   }
 }
