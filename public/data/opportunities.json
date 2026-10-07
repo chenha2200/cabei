@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:15:13.619Z",
+  "generatedAt": "2026-10-07T00:15:57.944Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -195,6 +195,46 @@
       "translationWarnings": []
     },
     {
+      "id": "144012",
+      "document": "803",
+      "process": "053/2025",
+      "country": "薩爾瓦多",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-06",
+      "deadlineUtc": "2026-10-14T23:00:00.000Z",
+      "fit": 35,
+      "title": "薩爾瓦多的餐飲和客廳租賃服務",
+      "ruleTitle": "Servicio de alimentación y renta de salones para eventos propios en El Salvador",
+      "originalTitle": "053/2025 Servicio de alimentación y renta de salones para eventos propios en El Salvador",
+      "summary": "CABEI 公開採購「薩爾瓦多的餐飲和客廳租賃服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$10,000",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。 供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調: CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。 【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更",
+      "qualifications": [
+        "【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。",
+        "供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調:",
+        "供應商應為契約提供有組織和組織機構活動的經驗的工作團隊，其中至少包括:",
+        "CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。",
+        "【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200 人或更多的人， 5 百分比 5 PTS 5 與他們相匹配 1 A 2 品質標準活動和 3 衛生保健；"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799751-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "90241751c11ca1d448427b80fea1b80eb06d0944b2ebd7f07ce853414de5d7ae",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-07T00:17:21.706500+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "138011",
       "document": "789",
       "process": "047/2026",
@@ -266,6 +306,47 @@
       "translationUpdatedAt": "2026-10-04T13:11:50.887161+00:00",
       "ruleTitle": "CABEI 瓜地馬拉國家管理處安全服務",
       "translationVersion": "offline-guard-v1",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "144011",
+      "document": "802",
+      "process": "058/2026",
+      "country": "宏都拉斯",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-06",
+      "deadlineUtc": "2026-10-21T23:00:00.000Z",
+      "fit": 48,
+      "title": "【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯",
+      "ruleTitle": "\"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
+      "originalTitle": "058/2026 \"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
+      "summary": "CABEI 公開採購「【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯」。1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。 承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。 1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。 進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。 供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。 替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。",
+      "qualifications": [
+        "承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。",
+        "供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。",
+        "1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。",
+        "進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。",
+        "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799255-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "5774f41c1eacacf89fb9cd2f88b8136cf72526c27440e7edc35310f2b6212ece",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-07T00:18:33.345465+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -535,6 +616,30 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03792806-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
+    "144011": [
+      {
+        "name": "058 2026 Términos de Referencia .pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03799255-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03799249-Aviso.pdf"
+      }
+    ],
+    "144012": [
+      {
+        "name": "053 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03799751-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03799745-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 7 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03799732-Anexo%207%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "300000028820429": [
       {
         "name": "050 2026 Términos de Referencia.pdf",
@@ -659,6 +764,27 @@
       }
     ],
     "143014": [],
+    "144011": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "144012": [],
     "300000028820429": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -747,6 +873,22 @@
     "e25a5df37a3edd4ef97de90f1c1b919b2f3438d0c3bf4539e378f32198ddcbbe": "• 諮詢公司必須在提供諮詢服務、專案管理和專業技術諮詢方面的經驗。",
     "81e35196167fc1e9a3466b4473364f31cbd1c06fc9b2380211c925380026c165": "簽名必須至少有10年(10)在提供諮詢服務的經驗，證明中等和高複雜的專案的持續軌道。",
     "24759357c0584e66b56a745fbbc92b3c7b6cd8127f092ac37ccc42d9c99b6694": "Benchmarking 應考慮:",
-    "cd1ef55074cfe45f47dad9fb80d9e93471f0999397f412a2955b069167aeb16f": "示範應涉及 CABEI 相關技術和使用者領域，並允許實用評估功能、整合能力、視覺工具、報告生成、使用者體驗、跟蹤性、資料管理等相關方面。 做出決策。"
+    "cd1ef55074cfe45f47dad9fb80d9e93471f0999397f412a2955b069167aeb16f": "示範應涉及 CABEI 相關技術和使用者領域，並允許實用評估功能、整合能力、視覺工具、報告生成、使用者體驗、跟蹤性、資料管理等相關方面。 做出決策。",
+    "8953775723e71e955d09cba36431b53c6d31c34d0bd67be2b895d178837101c9": "薩爾瓦多的餐飲和客廳租賃服務",
+    "d04ee907a123330060786a0d70a626c321768f843a640b9869bc40a4ad6492e0": "CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
+    "1720638ed577b416b96e403090f23738656f6bdf79d3642dff0ea931c0fca3c9": "【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。",
+    "bd659e40856cc48aaa3b0aae55bf33ef61747f6b7272e2a6402a9e2be92d6d28": "供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調:",
+    "6f9e4b2a81ae01d17b670558bcf319a39f608e6c274e294214e130b9a2da1b98": "CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。",
+    "9d468778c582f3ad4372fdaab036709eb9ac4d50318714e4d71203ce798f499a": "【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200 人或更多的人， 5 百分比 5 PTS 5 與他們相匹配 1 A 2 品質標準活動和 3 衛生保健；",
+    "8cf261033623a22776c5978dce3bfed5e1e168528594ec76bd8c1c2bf99a52bd": "【待校訂：分段保護翻譯】3.3.1 公務員或活躍的員工，前職員或例外人員和退休人員 CABEI 兩個時間( 2 (四)自其排斥之日起，未經配偶或家庭同事，未經親屬，因獻血，直到第四級或親屬，直到第二級，包括官員或官員。 CABEI的活躍員工。",
+    "3631ea0f7da48d977bcc912d9496dbf750910d32f96136c757a53f3d3977cc6c": "供應商應為契約提供有組織和組織機構活動的經驗的工作團隊，其中至少包括:",
+    "892df3daf601ee55940455c542c4920f7beae532eba84a75b313bd552c362255": "【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯",
+    "9e942cb5e8cc192b88fa5a57216bd8a31526ca69666f274ea4eff33ac173b7ed": "1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。",
+    "e281f2adc7b47f85eecd85267642495ad8cfa6aba5c0ed853231739aeb04d5ca": "承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。",
+    "604b02e2712c135eb4e571f0a165edbd41867cefd78556528b9469971b952816": "承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。",
+    "4eb876ee8f1a832f2aace1031a0139ecb00f063dbb6014e58157ff3fab1f74c6": "1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。",
+    "2d11bc7770fdc3fae45a7bab39372d14dc44cd6026e045fcc21cb3661276bd43": "進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。",
+    "aacdfeb497aec78ccb0d518f18a59fabc8ac8c48d956cf15f67ce2b1c8b27826": "供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。",
+    "a9e8f2708b5c860e9d26ad63e997849724c7700bf0d74355254a0f0b9bee79d8": "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。"
   }
 }

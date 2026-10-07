@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:15:14.650Z",
+  "generatedAt": "2026-10-07T00:15:58.490Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -569,6 +569,49 @@
       "revisionSourceTitle": "Supervisión Proyecto Agua Caliente - Sandino- La Virgen- Fortuna",
       "translationWarnings": [],
       "originalMethod": "Selección Basada en Calidad y Costo-LC_Sin-SEI-Lista Corta (Sin SEI)"
+    },
+    {
+      "id": "279",
+      "document": "279",
+      "process": "SLV-2026-2362-33452-B",
+      "originalTitle": "Adquisición de 8 vehiculos tipo Pick Up Doble Cabina 4x4 y una Motocicleta para uso la Unidad Ejecutora y una Motocicleta",
+      "title": "【待校訂：分段翻譯】購置 8 雙人車廂 4 頁:1 4 以及供執行單位使用的摩托車和摩托車",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/279-SLV-2026-2362-33452-B",
+      "officialSummary": "Objetivos generales de la adquisición de OCHO Vehículos Pick Ups y Motocicleta a fin Fortalecer a la Unidad Ejecutora del proyecto a efecto de los Consultores (referentes de proyectos) que tenga movilidad adecuada para llevar a cabo las supervisiones de los escenarios deportivos a nivel nacional asimismo apoyar directamente la realización de diferentes actividades que realiza la Unidad Ejecutora de Proyectos",
+      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人／專業顧問",
+      "category": "貨品",
+      "method": "徵求報價／一階段一信封",
+      "originalMethod": "Solicitud de Ofertas-1E-1S-Una Etapa-Un Sobre",
+      "published": "2026-10-06",
+      "deadlineUtc": "2026-11-20T06:00:00.000Z",
+      "deadlineDate": "2026-11-20",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "498000.00",
+      "summary": "CABEI 公開採購「【待校訂：分段翻譯】購置 8 雙人車廂 4 頁:1 4 以及供執行單位使用的摩托車和摩托車」。購置OCHO車輛提款機和摩托車的一般目標,以加強專案執行股,為具有適當機動性以在國家一級對體育場進行監督的顧問(專案推薦人)服務 直接支援專案執行股開展的各種活動",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：購置OCHO車輛提款機和摩托車的一般目標,以加強專案執行股,為具有適當機動性以在國家一級對體育場進行監督的顧問(專案推薦人)服務 直接支援專案執行股開展的各種活動",
+      "analysisMode": "offline-translation",
+      "documentAccess": "Sitio web de COMPRASAL e.moreno@indes.gob.sv",
+      "translationFingerprint": "200498f2f25e9a26f16de5edd5e34483a7ff367af19fdf3b56aae7666d25d7a9",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-07T00:18:45.821695+00:00",
+      "documentAccessZh": "【待校訂：分段翻譯】網址 COMPRASAL e.moreno@indes.gob.sv",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     }
   ],
   "officialAttachments": {
@@ -604,7 +647,8 @@
         "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
       }
     ],
-    "278": []
+    "278": [],
+    "279": []
   },
   "taiwanCompanySuggestions": {
     "253": [
@@ -708,7 +752,8 @@
     "275": [],
     "276": [],
     "277": [],
-    "278": []
+    "278": [],
+    "279": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -792,6 +837,9 @@
     "ad77bdb04be3389d76d9877c014d122d74328480f9ae4a4055d1139cb68e72f6": "【待校訂：分段翻譯】proveeduriasupervision@eprsiepac.com 縮略語 EPR 僅透過採購系統向有關各方提供與這一諮詢有關的所有檔案 FILEON 聯 合 國 日 刊 EPR 感興趣的公司應申請在電子郵件上登記。 【待校訂：分段翻譯】proveeduriasupervision@eprsiepac.com 這將建立使用者訪問採購系統 FILEON 聯 合 國 日 刊 EPR .",
     "e4b6215f26347505b49de3d571cccde688f24e11b4712b5ced79e6caf0b3b496": "為軍事衛生指揮部和PNC的不同單位購置救護車、微型客車和叉車",
     "179073436262020133810dad9e2fea45b212dbbcba6542c1590539c2fedd199c": "【待校訂：分段翻譯】使國家民警救護隊現代化 PNC 和國防部 MDN 以適當的方式擴大保健服務,使兩個機構的人才和普通民眾受益。",
-    "642b77668fddfce5614d274dad3809a0b1305ca7d51193ad5aa52d9c5c0b6e63": "【待校訂：分段翻譯】方案執行股辦公室(www.dinac.gob.sv) UEP 段 次 頁 次 BCIE-DINAC 目標:最終目標 71 a 北邊大道和 5 向西街進發 363, Colonia Escalon,聖薩爾瓦多區,聖薩爾瓦多市中心,聖薩爾瓦多省。"
+    "642b77668fddfce5614d274dad3809a0b1305ca7d51193ad5aa52d9c5c0b6e63": "【待校訂：分段翻譯】方案執行股辦公室(www.dinac.gob.sv) UEP 段 次 頁 次 BCIE-DINAC 目標:最終目標 71 a 北邊大道和 5 向西街進發 363, Colonia Escalon,聖薩爾瓦多區,聖薩爾瓦多市中心,聖薩爾瓦多省。",
+    "4138319423a8a986d41373be7c281422b7a9e7235dd11567a9fcec8449269aa2": "【待校訂：分段翻譯】購置 8 雙人車廂 4 頁:1 4 以及供執行單位使用的摩托車和摩托車",
+    "c03e7fdb8b663d36748b989fb0252e1f654a101a3b1e7dfc82441594e87a68e1": "購置OCHO車輛提款機和摩托車的一般目標,以加強專案執行股,為具有適當機動性以在國家一級對體育場進行監督的顧問(專案推薦人)服務 直接支援專案執行股開展的各種活動",
+    "ccb10ec844c7dea61371f9f396216f8c610970e87808f292f9d3c8d978f09e33": "【待校訂：分段翻譯】網址 COMPRASAL e.moreno@indes.gob.sv"
   }
 }
