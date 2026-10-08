@@ -1,94 +1,7 @@
 {
-  "generatedAt": "2026-10-07T00:15:58.490Z",
+  "generatedAt": "2026-10-08T22:07:27.663Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "274",
-      "document": "274",
-      "process": "SLV-2026-2362-33491-CI",
-      "originalTitle": "Contratación de Técnico Administrativo Contable para la Unidad Ejecutora del BCIE. ( Contratación de persona responsable de asistir al administrador de la Unidad Ejecutora en todas las funciones que este le asigne y que sean de su competencia ) 48 Meses",
-      "title": "CABEI 專案執行單位行政會計技術人員（48 個月）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/274-SLV-2026-2362-33491-CI",
-      "officialSummary": "Contratar los servicios de un profesional para realizar las funciones de un TÉCNICO ADMINISTRATIVO CONTABLE quien Contribuirá con los procesos y procedimientos contables y financieros, con el fin de brindar información contable útil, pertinente, confiable y oportuna para la toma de decisiones para el Programa de Construcción de Infraestructura y Rescate de escenarios Deportivos FASE II- PRODEPORTE II",
-      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
-      "sourceLanguage": "es",
-      "country": "薩爾瓦多",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "published": "2026-09-29",
-      "deadlineUtc": "2026-10-08T06:00:00.000Z",
-      "deadlineDate": "2026-10-08",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "72000.00",
-      "summary": "CABEI 公開採購「CABEI 專案執行單位行政會計技術人員（48 個月）」。聘請一名專業人員履行ADMINISTRATIVO CONTABLE技術職能,該技術將為會計和財務過程和程式作出貢獻,以便為決策提供有用、相關、可靠和及時的會計資訊。 【待校訂：分段翻譯】基礎設施建設和體育救援方案 FASE II - PRODEPORTE II",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：聘請一名專業人員履行ADMINISTRATIVO CONTABLE技術職能,該技術將為會計和財務過程和程式作出貢獻,以便為決策提供有用、相關、可靠和及時的會計資訊。 【待校訂：分段翻譯】基礎設施建設和體育救援方案 FASE II - PRODEPORTE II",
-      "analysisMode": "offline-translation",
-      "documentAccess": "e.moreno@indes.gob.sv e.moreno@indes.gob.sv",
-      "translationFingerprint": "f68c57ac72ea5fca0a776f60e23b9cc983b39fa3601d1511eb3c550c81f04738",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:05.010048+00:00",
-      "documentAccessZh": "e.moreno@indes.gob.sv e.moreno@indes.gob.sv",
-      "revisionSourceTitle": "Contratación de Técnico Administrativo Contable para la Unidad Ejecutora del BCIE. ( Contratación de persona responsable de asistir al administrador de la Unidad Ejecutora en todas las funciones que este le asigne y que sean de su competencia ) 48 Meses",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ],
-      "originalMethod": "Comparación de Calificaciones-N/A-No Aplica"
-    },
-    {
-      "id": "263",
-      "document": "263",
-      "process": "NIC-2025-2263-22782-B",
-      "originalTitle": "Adquisición de Equipos para el área de Fisicoquímica y Cromatografía de LABAL (Evaporador rotativo con Condensador Diagonal, Unidad de destilación para proteínas, Unidad Basica de digestión para proteína y Gabinete desecador)",
-      "title": "LABAL 物理化學與層析分析設備採購（旋轉蒸發器、蛋白質蒸餾與消化設備、乾燥櫃）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/263-NIC-2025-2263-22782-B",
-      "officialSummary": "Fortalecimiento de las capacidades técnicas del Laboratorio de Tecnología Alimentos (LABAL) en cuanto a equipos especializados y actualización de técnicas analíticas, para cubrir la demanda de los servicios de tablas nutricionales que incluyen el análisis de micro y macro nutrientes solicitados por las pequeñas y medianas empresas, lo cual permitirá generar resultados confiables y acordes a los requisitos del cliente",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "實驗室設備",
-      "category": "貨品",
-      "method": "國內公開招標／一階段一信封",
-      "published": "2026-09-08",
-      "deadlineUtc": "2026-10-08T06:00:00.000Z",
-      "deadlineDate": "2026-10-08",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "fit": 72,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "100000.00",
-      "summary": "CABEI 公開採購「LABAL 物理化學與層析分析設備採購（旋轉蒸發器、蛋白質蒸餾與消化設備、乾燥櫃）」。加強食品技術實驗室(LABAL)在專門裝置和更新分析技術方面的技術能力,以滿足對營養表服務的需求,其中包括根據以下要求進行的微量和宏觀營養分析: 中小型企業,從而有可能產生符合客戶要求的可靠結果",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：加強食品技術實驗室(LABAL)在專門裝置和更新分析技術方面的技術能力,以滿足對營養表服務的需求,其中包括根據以下要求進行的微量和宏觀營養分析: 中小型企業,從而有可能產生符合客戶要求的可靠結果",
-      "analysisMode": "offline-translation",
-      "documentAccess": "adquisicionescgpp-mhcp2@mhcp.gob.ni, con copia los correos allan.arroyo@mhcp.gob.ni y julio.rodriguez1@mhcp.gob.ni Oficinas de Coordinación General de Programas y Proyectos, del Ministerio de Hacienda y Crédito Público, ubicada de la Estatua de Montoya 2c, al norte, mano izquierda 2do piso",
-      "translationFingerprint": "7c0a1d9172780f5f2df692c672d0223629a63fe73638b5ae8185a4e30756c72c",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:09.884184+00:00",
-      "documentAccessZh": "【待校訂：分段翻譯】adquisicionescgpp-mhcp2@mhcp.gob.ni ,同時複製電子郵件 allan.arroyo@mhcp.gob.ni 與 julio.rodriguez1@mhcp.gob.ni 財政和公共信貸部方案和專案總協調辦公室,設在蒙託亞州 2 c, 北部, 左手 2 倒在地上 倒在地板上",
-      "revisionSourceTitle": "Adquisición de Equipos para el área de Fisicoquímica y Cromatografía de LABAL (Evaporador rotativo con Condensador Diagonal, Unidad de destilación para proteínas, Unidad Basica de digestión para proteína y Gabinete desecador)",
-      "translationWarnings": [],
-      "originalMethod": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre"
-    },
     {
       "id": "253",
       "document": "253",
@@ -483,6 +396,48 @@
       ]
     },
     {
+      "id": "280",
+      "document": "280",
+      "process": "NIC-2026-2263-34813-B",
+      "originalTitle": "Equipamiento para Laboratorio y Accesorios para Acuicultura",
+      "title": "實驗室裝置和水產養殖設施",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/280-NIC-2026-2263-34813-B",
+      "officialSummary": "Contribuir a elevar los niveles de producción de peces de agua dulce con la adquisición de equipamiento para laboratorio de peces de agua dulce en San Carlos, Río San Juan y accesorios para acuicultura para la generación de ingresos alternativos de las familias nicaragüenses y el autoconsumo, garantizando la seguridad alimentaria",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "實驗室設備",
+      "category": "貨品",
+      "method": "國內公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-09",
+      "deadlineUtc": "2026-11-12T06:00:00.000Z",
+      "deadlineDate": "2026-11-12",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "fit": 72,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "155650.00",
+      "summary": "CABEI 公開採購「實驗室裝置和水產養殖設施」。幫助提高淡水魚類生產水平,在聖卡洛斯、里奧聖胡安購置淡水魚類實驗室裝置,併為尼加拉瓜家庭購置水產養殖配件,以替代創收和自食其力, 確保糧食安全",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：幫助提高淡水魚類生產水平,在聖卡洛斯、里奧聖胡安購置淡水魚類實驗室裝置,併為尼加拉瓜家庭購置水產養殖配件,以替代創收和自食其力, 確保糧食安全",
+      "analysisMode": "offline-translation",
+      "documentAccess": "www.nicaraguacompra.gob.ni. Oficinas de Coordinación General de Programas y Proyectos, del Ministerio de Hacienda y Crédito Público, ubicada de la Estatua de Montoya 2 c, al norte, mano izquierda 2do piso",
+      "translationFingerprint": "60dd6b132caa7bf5e218d9387a9c2bcfecf657eec9087099d9737b66dd3a8747",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-08T22:07:36.086367+00:00",
+      "documentAccessZh": "www.nicaraguacompra.gob.ni. 財政和公共信貸部方案和專案總協調辦公室,位於蒙託亞州立2c北部,左手2d樓",
+      "translationWarnings": []
+    },
+    {
       "id": "275",
       "document": "275",
       "process": "MHCP-CGPP-2263-LPI-B-01-2026",
@@ -623,7 +578,6 @@
     ],
     "254": [],
     "256": [],
-    "263": [],
     "264": [
       {
         "name": "官方文件取得入口",
@@ -638,7 +592,6 @@
     ],
     "269": [],
     "273": [],
-    "274": [],
     "275": [],
     "276": [],
     "277": [
@@ -648,7 +601,8 @@
       }
     ],
     "278": [],
-    "279": []
+    "279": [],
+    "280": []
   },
   "taiwanCompanySuggestions": {
     "253": [
@@ -686,7 +640,6 @@
       }
     ],
     "256": [],
-    "263": [],
     "264": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -748,12 +701,12 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "274": [],
     "275": [],
     "276": [],
     "277": [],
     "278": [],
-    "279": []
+    "279": [],
+    "280": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -840,6 +793,9 @@
     "642b77668fddfce5614d274dad3809a0b1305ca7d51193ad5aa52d9c5c0b6e63": "【待校訂：分段翻譯】方案執行股辦公室(www.dinac.gob.sv) UEP 段 次 頁 次 BCIE-DINAC 目標:最終目標 71 a 北邊大道和 5 向西街進發 363, Colonia Escalon,聖薩爾瓦多區,聖薩爾瓦多市中心,聖薩爾瓦多省。",
     "4138319423a8a986d41373be7c281422b7a9e7235dd11567a9fcec8449269aa2": "【待校訂：分段翻譯】購置 8 雙人車廂 4 頁:1 4 以及供執行單位使用的摩托車和摩托車",
     "c03e7fdb8b663d36748b989fb0252e1f654a101a3b1e7dfc82441594e87a68e1": "購置OCHO車輛提款機和摩托車的一般目標,以加強專案執行股,為具有適當機動性以在國家一級對體育場進行監督的顧問(專案推薦人)服務 直接支援專案執行股開展的各種活動",
-    "ccb10ec844c7dea61371f9f396216f8c610970e87808f292f9d3c8d978f09e33": "【待校訂：分段翻譯】網址 COMPRASAL e.moreno@indes.gob.sv"
+    "ccb10ec844c7dea61371f9f396216f8c610970e87808f292f9d3c8d978f09e33": "【待校訂：分段翻譯】網址 COMPRASAL e.moreno@indes.gob.sv",
+    "2e46c8a926bf2ee7fc3eb37dfaf24dc200a83e6ec2634f341bc2f59eb99c523a": "實驗室裝置和水產養殖設施",
+    "886460af28073a4ea7453b5d10f40802df1eab5b771230d923f2793843689117": "幫助提高淡水魚類生產水平,在聖卡洛斯、里奧聖胡安購置淡水魚類實驗室裝置,併為尼加拉瓜家庭購置水產養殖配件,以替代創收和自食其力, 確保糧食安全",
+    "0cafd0cd62f4b103c1fba337bb47e02ae5873504e18e7874ab44f0bfad705b94": "www.nicaraguacompra.gob.ni. 財政和公共信貸部方案和專案總協調辦公室,位於蒙託亞州立2c北部,左手2d樓"
   }
 }
