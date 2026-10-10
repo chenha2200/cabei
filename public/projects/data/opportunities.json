@@ -1,92 +1,7 @@
 {
-  "generatedAt": "2026-10-08T22:07:27.663Z",
+  "generatedAt": "2026-10-10T00:15:33.305Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "253",
-      "document": "253",
-      "process": "ARG-2026-2314-34885-CF",
-      "originalTitle": "Sistema de Gestión Integral DNM",
-      "title": "DNM 整合管理系統",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/253-ARG-2026-2314-34885-CF",
-      "officialSummary": "El objetivo general del Programa consiste en contribuir a la modernización y fortalecimiento de la seguridad y capacidad de respuesta de los servicios de identidad y de migraciones que realiza la Dirección Nacional de Migraciones (DNM), en el marco del crecimiento de la economía digital.",
-      "executor": "Dirección General de Programas y Proyectos Sectoriales y Especiales (DiGePPSE)",
-      "sourceLanguage": "es",
-      "country": "阿根廷",
-      "industry": "數位與資通訊",
-      "category": "顧問服務",
-      "method": "加速公開徵選",
-      "published": "2026-08-24",
-      "deadlineUtc": "2026-10-09T03:00:00.000Z",
-      "deadlineDate": "2026-10-09",
-      "capabilities": [
-        "資料中心",
-        "系統整合"
-      ],
-      "fit": 88,
-      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "1501696.00",
-      "summary": "CABEI 公開採購「DNM 整合管理系統」。該方案的總目標是在數字經濟發展的背景下,促進國家移民局(DNM)開展的身份和移民服務安全和應對能力的現代化和加強。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：該方案的總目標是在數字經濟發展的背景下,促進國家移民局(DNM)開展的身份和移民服務安全和應對能力的現代化和加強。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "LPI@migraciones.gob.ar https://comprar.gob.ar LPI@migraciones.gob.ar",
-      "translationFingerprint": "8b35a39e656989fff8b25b71d36df3eadca09dd33862fff4d8487e0b039cfccb",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:16.581265+00:00",
-      "documentAccessZh": "LPI@migraciones.gob.ar https://comprar.gob.ar LPI@migraciones.gob.ar",
-      "revisionSourceTitle": "Sistema de Gestión Integral DNM",
-      "translationWarnings": [],
-      "originalMethod": "Concurso Público Acelerado-SBCC-Selección Basada en Calidad y Costo"
-    },
-    {
-      "id": "276",
-      "document": "276",
-      "process": "GTM-2026-2181JUDICIAL-38194-CI",
-      "originalTitle": "Asistente Legal/Procurador",
-      "title": "法律助理／法律事務代理人",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/276-GTM-2026-2181JUDICIAL-38194-CI",
-      "officialSummary": "Asistir y apoyar legalmente en los diferentes procesos de los proyectos a cargo de la Unidad Especial de Ejecución del Contrato de Préstamo –UEEP- del Organismo Judicial como parte de la ejecución del Programa de Inversión y Modernización para el Sector Justicia, Préstamo No. 2181 del Banco Centroamericano de Integración Económica –BCIE-.",
-      "executor": "Organismo Judicial Guatemala (OJ)",
-      "sourceLanguage": "es",
-      "country": "瓜地馬拉",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "published": "2026-10-01",
-      "deadlineUtc": "2026-10-09T06:00:00.000Z",
-      "deadlineDate": "2026-10-09",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "45128.21",
-      "summary": "CABEI 公開採購「法律助理／法律事務代理人」。在執行司法部門投資和現代化方案(銀行第2181號貸款)過程中,司法部門貸款合同執行特別股(UEEP)的不同專案過程中提供法律協助和支助 中美洲經濟一體化-BCIE-。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：在執行司法部門投資和現代化方案(銀行第2181號貸款)過程中,司法部門貸款合同執行特別股(UEEP)的不同專案過程中提供法律協助和支助 中美洲經濟一體化-BCIE-。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "Invitación a participar a consultores previamente identificados. Solamente pueden participar consultores invitados por correo electrónico. En invitación a participar enviada por correo electrónico a consultores previamente identificados.",
-      "translationFingerprint": "ffcefa665c44b89eba6a2fb9f6dff287c8b1e2527dfd86d0b88ec40877748cb2",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:20.241125+00:00",
-      "documentAccessZh": "邀請先前確定的顧問參加,透過電子郵件邀請的顧問只能參加,透過電郵邀請以前確定的顧問參加。",
-      "revisionSourceTitle": "Asistente Legal/Procurador",
-      "translationWarnings": [],
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones"
-    },
     {
       "id": "266",
       "document": "266",
@@ -570,12 +485,6 @@
     }
   ],
   "officialAttachments": {
-    "253": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://comprar.gob.ar"
-      }
-    ],
     "254": [],
     "256": [],
     "264": [
@@ -593,7 +502,6 @@
     "269": [],
     "273": [],
     "275": [],
-    "276": [],
     "277": [
       {
         "name": "官方招標文件.pdf",
@@ -605,20 +513,6 @@
     "280": []
   },
   "taiwanCompanySuggestions": {
-    "253": [
-      {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "企業 IT 整合",
-        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
-        "url": "https://www.systex.com/"
-      },
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "系統整合與維運",
-        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      }
-    ],
     "254": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -702,7 +596,6 @@
       }
     ],
     "275": [],
-    "276": [],
     "277": [],
     "278": [],
     "279": [],
