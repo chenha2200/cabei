@@ -1,49 +1,7 @@
 {
-  "generatedAt": "2026-10-07T00:15:57.944Z",
+  "generatedAt": "2026-10-13T00:17:35.411Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "300000028820429",
-      "document": "796,1",
-      "process": "050/2026",
-      "country": "區域",
-      "industry": "永續與環境顧問",
-      "category": "顧問服務",
-      "method": "公開詢價",
-      "published": "2026-09-29",
-      "deadlineUtc": "2026-10-12T23:00:00.000Z",
-      "fit": 72,
-      "title": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
-      "originalTitle": "050 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
-      "summary": "CABEI 公開採購「CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務」。【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 誰的 範圍包括其設施在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 諮詢機構應瞭解對設施的準備水平進行全面的診斷。 CABEI 位於宏都拉斯(總部和附件)，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜，面對國際認可的方法 零廢物(Zero W",
-      "capabilities": [
-        "環境影響評估",
-        "ESG",
-        "環境工程"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 誰的 範圍包括其設施在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 諮詢機構應瞭解對設施的準備水平進行全面的診斷。 CABEI 位於宏都拉斯(總部和附件)，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜，面對國際認可的方法 零廢物(Zero Waste to Landfill,ZWL) 諮詢公司必須擁有至少(10)年在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務方面的總體經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。 經過認證的經驗: 在至少一個(1)技術輔導專案中獲得經驗，並且已成功獲得 Zero Waste to Landfill (ZWL) 或同等標準的認證、認證或驗證。 領導，規劃和 • 最低10年(10",
-      "qualifications": [
-        "使用的方法必須由諮詢團隊清楚地確定，並證明其選擇，並解釋適用於可能的認證的標準、水平或要求。",
-        "諮詢公司必須擁有至少(10)年在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務方面的總體經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。",
-        "經過認證的經驗:",
-        "在至少一個(1)技術輔導專案中獲得經驗，並且已成功獲得 Zero Waste to Landfill (ZWL) 或同等標準的認證、認證或驗證。",
-        "• 至少一個(1)專案的經驗與ZWL實施或認證相關。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "offline-translation",
-      "companyGroup": "engineering",
-      "translationFingerprint": "074485de1c0f88c8892b9aac82c26120bc5873211dd5183dbe7c9e1e9fb9fa76",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:09:37.290497+00:00",
-      "ruleTitle": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "131013",
       "document": "781",
@@ -305,6 +263,48 @@
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationUpdatedAt": "2026-10-04T13:11:50.887161+00:00",
       "ruleTitle": "CABEI 瓜地馬拉國家管理處安全服務",
+      "translationVersion": "offline-guard-v1",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "300000028820429",
+      "document": "796,1",
+      "process": "050/2026",
+      "country": "區域",
+      "industry": "永續與環境顧問",
+      "category": "顧問服務",
+      "method": "公開詢價",
+      "published": "2026-09-29",
+      "deadlineUtc": "2026-10-16T23:00:00.000Z",
+      "fit": 72,
+      "title": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
+      "originalTitle": "050 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
+      "summary": "CABEI 公開採購「CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務」。【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 誰的 範圍包括其設施在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 諮詢機構應瞭解對設施的準備水平進行全面的診斷。 CABEI 位於宏都拉斯(總部和附件)，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜，面對國際認可的方法 零廢物(Zero W",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 誰的 範圍包括其設施在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 諮詢機構應瞭解對設施的準備水平進行全面的診斷。 CABEI 位於宏都拉斯(總部和附件)，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜，面對國際認可的方法 零廢物(Zero Waste to Landfill,ZWL) 諮詢公司必須擁有至少(10)年在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務方面的總體經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。 經過認證的經驗: 在至少一個(1)技術輔導專案中獲得經驗，並且已成功獲得 Zero Waste to Landfill (ZWL) 或同等標準的認證、認證或驗證。 領導，規劃和 • 最低10年(10",
+      "qualifications": [
+        "使用的方法必須由諮詢團隊清楚地確定，並證明其選擇，並解釋適用於可能的認證的標準、水平或要求。",
+        "諮詢公司必須擁有至少(10)年在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務方面的總體經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。",
+        "經過認證的經驗:",
+        "在至少一個(1)技術輔導專案中獲得經驗，並且已成功獲得 Zero Waste to Landfill (ZWL) 或同等標準的認證、認證或驗證。",
+        "• 至少一個(1)專案的經驗與ZWL實施或認證相關。"
+      ],
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "analysisMode": "offline-translation",
+      "companyGroup": "engineering",
+      "translationFingerprint": "074485de1c0f88c8892b9aac82c26120bc5873211dd5183dbe7c9e1e9fb9fa76",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationUpdatedAt": "2026-10-04T13:09:37.290497+00:00",
+      "ruleTitle": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
       "translationVersion": "offline-guard-v1",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"

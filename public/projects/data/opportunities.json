@@ -1,140 +1,7 @@
 {
-  "generatedAt": "2026-10-10T00:15:33.305Z",
+  "generatedAt": "2026-10-13T00:17:36.339Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "266",
-      "document": "266",
-      "process": "CRI-2025-2317-12550-O",
-      "originalTitle": "Contratación de diseño detallado y construcción de obras de estabilización de taludes, construcción de obras de drenaje, y diseño detallado y construcción de pasos de fauna en la Ruta Nacional No. 32, KM 28, KM 31 y KM 39, en el sector Parque Nacional Braulio Carrillo",
-      "title": "國道 32 號邊坡穩定、排水及野生動物通道詳細設計與施工（KM 28、31、39）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/266-CRI-2025-2317-12550-O",
-      "officialSummary": "Contratación de diseño detallado y construcción de obras de estabilización de taludes, construcción de obras de drenaje, y diseño detallado y construcción de pasos de fauna en la Ruta Nacional No. 32, KM 28, KM 31 y KM 39, en el sector Parque Nacional Braulio Carrillo.",
-      "executor": "Consejo Nacional de Vialidad (CONAVI)",
-      "sourceLanguage": "es",
-      "country": "哥斯大黎加",
-      "industry": "基礎設施與工程",
-      "category": "工程／服務",
-      "method": "國際公開招標／一階段兩信封",
-      "published": "2026-09-09",
-      "deadlineUtc": "2026-10-12T06:00:00.000Z",
-      "deadlineDate": "2026-10-12",
-      "capabilities": [
-        "水利工程",
-        "土木施工",
-        "測量與施工管理"
-      ],
-      "fit": 65,
-      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "11048116.82",
-      "summary": "CABEI 公開採購「國道 32 號邊坡穩定、排水及野生動物通道詳細設計與施工（KM 28、31、39）」。【待校訂：分段翻譯】詳細設計合同和建造坡坡穩定工程,建造排水工程,以及詳細設計和建造國家道路號上的野生生物步驟。 32, KM 28, KM 31 與 KM 39, 在布勞里奧卡里略國家公園區。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】詳細設計合同和建造坡坡穩定工程,建造排水工程,以及詳細設計和建造國家道路號上的野生生物步驟。 32, KM 28, KM 31 與 KM 39, 在布勞里奧卡里略國家公園區。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://e-proeri.org/#/. https://e-proeri.org/#/.",
-      "translationFingerprint": "9033819f1383fa44b6628ebe47abb00db270baeacb13a97a6f5bf85792133b44",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:31.584176+00:00",
-      "documentAccessZh": "https://e-proeri.org/#/. https://e-proeri.org/#/.",
-      "revisionSourceTitle": "Contratación de diseño detallado y construcción de obras de estabilización de taludes, construcción de obras de drenaje, y diseño detallado y construcción de pasos de fauna en la Ruta Nacional No. 32, KM 28, KM 31 y KM 39, en el sector Parque Nacional Braulio Carrillo",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ],
-      "originalMethod": "Licitación Pública Internacional-1E-2S-Una etapa - dos sobres"
-    },
-    {
-      "id": "256",
-      "document": "256",
-      "process": "BLZ-MDFDEEI-2147-8880-B",
-      "originalTitle": "Equipment for BDF (Essential Operating Kits)",
-      "title": "BDF 設備採購（基本作業套件）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/256-BLZ-MDFDEEI-2147-8880-B",
-      "officialSummary": "Acquisition and Delivery of Essential Operating Kits",
-      "executor": "Ministry of Economic Development (MED)",
-      "sourceLanguage": "en",
-      "country": "貝里斯",
-      "industry": "設備與安全用品",
-      "category": "貨品",
-      "method": "國際公開招標／一階段一信封",
-      "published": "2026-08-28",
-      "deadlineUtc": "2026-10-12T06:00:00.000Z",
-      "deadlineDate": "2026-10-12",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "fit": 63,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "534967.76",
-      "summary": "CABEI 公開採購「BDF 設備採購（基本作業套件）」。購置和提供基本手術用品",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：購置和提供基本手術用品",
-      "analysisMode": "offline-translation",
-      "documentAccess": "projectmanager.rsp@met.gov.bz copy: adminassistant.bisp@met.gov.bz projectmanager.rsp@met.gov.bz copy: adminassistant.bisp@met.gov.bz",
-      "translationFingerprint": "5da4e2c9ff74213fe2824fdd9bbd348593cb981512bbb017111921f80f5fd9d7",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:32.055971+00:00",
-      "documentAccessZh": "projectmanager.rsp@met.gov.bz copy: adminassistant.bisp@met.gov.bz projectmanager.rsp@met.gov.bz copy: adminassistant.bisp@met.gov.bz",
-      "revisionSourceTitle": "Equipment for BDF (Essential Operating Kits)",
-      "translationWarnings": [],
-      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre"
-    },
-    {
-      "id": "254",
-      "document": "254",
-      "process": "NIC-2025-2338-16044-O",
-      "originalTitle": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
-      "title": "Camoapa 市飲用水系統改善與擴建",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/254-NIC-2025-2338-16044-O",
-      "officialSummary": "El proyecto de Ampliación y Mejoramiento del Sistema de Agua Potable de la ciudad de Camoapa comprende la ejecución de obras destinadas a mejorar la cobertura, calidad, continuidad y sostenibilidad del servicio de agua potable, contribuyendo a satisfacer la demanda actual y futura de la población beneficiaria.",
-      "executor": "Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "基礎設施與工程",
-      "category": "工程／服務",
-      "method": "國際公開招標／一階段一信封",
-      "published": "2026-08-25",
-      "deadlineUtc": "2026-10-12T06:00:00.000Z",
-      "deadlineDate": "2026-10-12",
-      "capabilities": [
-        "水利工程",
-        "土木施工",
-        "測量與施工管理"
-      ],
-      "fit": 65,
-      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "19263247.01",
-      "summary": "CABEI 公開採購「Camoapa 市飲用水系統改善與擴建」。擴大和改善卡莫阿帕市飲用水系統的專案包括開展旨在提高飲用水服務覆蓋面、質量、連續性和可持續性的工程,幫助滿足人民當前和未來的需求。 受益者。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：擴大和改善卡莫阿帕市飲用水系統的專案包括開展旨在提高飲用水服務覆蓋面、質量、連續性和可持續性的工程,幫助滿足人民當前和未來的需求。 受益者。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "adquisiciones.pisash@enacal.com.ni con copia a adquis6.pisash@enacal.com.ni El contratante pone a disposición de los interesados toda la documentación relacionada con esta licitación, necesaria para la preparación de las ofertas",
-      "translationFingerprint": "65d78169953ddbc43201a45c79fb7459b70dc84f4ef6f1706e0c58221e82edbb",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:15:34.559070+00:00",
-      "documentAccessZh": "【待校訂：分段翻譯】adquisiciones.pisash@enacal.com.ni 複製到 adquis6.pisash@enacal.com.ni 承包者向有關各方提供與這一招標書有關的所有檔案,這是編寫投標書所必需的",
-      "revisionSourceTitle": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
-      "translationWarnings": [],
-      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre"
-    },
     {
       "id": "277",
       "document": "277",
@@ -485,18 +352,10 @@
     }
   ],
   "officialAttachments": {
-    "254": [],
-    "256": [],
     "264": [
       {
         "name": "官方文件取得入口",
         "url": "https://epr.file-on.com/index.aspx"
-      }
-    ],
-    "266": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://e-proeri.org/#/"
       }
     ],
     "269": [],
@@ -513,48 +372,7 @@
     "280": []
   },
   "taiwanCompanySuggestions": {
-    "254": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
-    "256": [],
     "264": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
-    "266": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",
