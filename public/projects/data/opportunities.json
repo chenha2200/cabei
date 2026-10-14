@@ -1,95 +1,7 @@
 {
-  "generatedAt": "2026-10-13T00:17:36.339Z",
+  "generatedAt": "2026-10-14T00:23:01.833Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "277",
-      "document": "277",
-      "process": "SLV-2026-2362-34634-CI",
-      "originalTitle": "Contratación de 4 Ingenieros de Proyecto para la Unidad Ejecutora del BCIE ( Responsable de cooordinar y Supervisar la ejecución de los componentes técnicos del programa ( 48 meses)",
-      "title": "CABEI 專案執行單位 4 名專案工程師（48 個月）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/277-SLV-2026-2362-34634-CI",
-      "officialSummary": "Este proceso tiene por objeto seleccionar y contratar cuatro profesionales para la ejecución de servicios como Ingenieros de proyecto para la UEP, quienes tendrán coma atribución principal dirigir y coordinar las empresas constructoras y consultores de supervisión para la ejecución de los proyectos el “Programa de Construcción de Infraestructura y Rescate de escenarios FASE II PRODEPORTE II, garantizando que los mismos se desarrollen conforme a especificaciones técnicas establecidas en cada uno de ellos; y otras actividades que el Ingeniero Líder de Proyecto les indique;",
-      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
-      "sourceLanguage": "es",
-      "country": "薩爾瓦多",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "published": "2026-02-21",
-      "deadlineUtc": "2026-10-13T06:00:00.000Z",
-      "deadlineDate": "2026-10-13",
-      "capabilities": [
-        "水利工程",
-        "土木施工",
-        "測量與施工管理"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "US$ 150,000.000.00",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "768000.00",
-      "summary": "CABEI 公開採購「CABEI 專案執行單位 4 名專案工程師（48 個月）」。這項工作旨在挑選和僱用四名專業人員,作為UEP專案工程師提供服務,他們將領頭領導和協調建築公司和監測專案執行顧問。 【待校訂：分段翻譯】基礎設施與救援方案 FASE II PRODEPORTE II 確保它們按照各自確定的技術規格制定;以及專案牽頭工程師指示的其他活動;",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "這項工作旨在挑選和僱用四名專業人員,作為UEP專案工程師提供服務,他們將領頭領導和協調建築公司和監測專案執行顧問。 【待校訂：分段翻譯】基礎設施與救援方案 FASE II PRODEPORTE II 確保它們按照各自確定的技術規格制定;以及專案牽頭工程師指示的其他活動; 【待校訂：分段翻譯】2362 縮略語 INSTITUTO NACIONAL DE LOS DEPORTES DE EL SALVADOR INDES 已經獲得相當於 CIENTO CINCUENTA MILLONES DE DOLARES DE LOS ESTADOS UNIDOS DE AMERICA ( US $ 150,000.000.00 中美洲經濟一體化銀行支付下列費用: 基礎設施建設和體育救援方案II PRODEPORTE I階段,並打算將部分收入用於根據該專案承包的貨物、工程、相關服務和諮詢服務的付款。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4 e.moreno@indes.gob.sv",
-      "translationFingerprint": "5b1adaeff5611176017602a5ffb83df14ac9cfcb7ec1874c5f3c35caeab0823e",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:16:05.696886+00:00",
-      "documentAccessZh": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4 e.moreno@indes.gob.sv",
-      "revisionSourceTitle": "Contratación de 4 Ingenieros de Proyecto para la Unidad Ejecutora del BCIE ( Responsable de cooordinar y Supervisar la ejecución de los componentes técnicos del programa ( 48 meses)",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ],
-      "originalMethod": "Comparación de Calificaciones-N/A-No Aplica"
-    },
-    {
-      "id": "269",
-      "document": "269",
-      "process": "BLZ-2026-2147-35706-CI",
-      "originalTitle": "Procurement Officer",
-      "title": "採購專員",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/269-BLZ-2026-2147-35706-CI",
-      "officialSummary": "Consultancy for Procurement Specialist",
-      "executor": "Ministry of Economic Development (MED)",
-      "sourceLanguage": "en",
-      "country": "貝里斯",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "published": "2026-09-18",
-      "deadlineUtc": "2026-10-13T06:00:00.000Z",
-      "deadlineDate": "2026-10-13",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "31500.00",
-      "summary": "CABEI 公開採購「採購專員」。採購專家諮詢",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：採購專家諮詢",
-      "analysisMode": "offline-translation",
-      "documentAccess": "ProjectManager.rsp@met.gov.bz ProjectManager.rsp@met.gov.bz adminassistant.bisp@met.gov.bz",
-      "translationFingerprint": "edeba15567285f1a6a89967cb120bfc92a36c7c21f73cf1a9cf1c24fabe679ea",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:16:05.928374+00:00",
-      "documentAccessZh": "ProjectManager.rsp@met.gov.bz ProjectManager.rsp@met.gov.bz adminassistant.bisp@met.gov.bz",
-      "revisionSourceTitle": "Procurement Officer",
-      "translationWarnings": [],
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones"
-    },
     {
       "id": "264",
       "document": "264",
@@ -217,6 +129,50 @@
       "translationVersion": "offline-opus-v2",
       "translationUpdatedAt": "2026-10-08T22:07:36.086367+00:00",
       "documentAccessZh": "www.nicaraguacompra.gob.ni. 財政和公共信貸部方案和專案總協調辦公室,位於蒙託亞州立2c北部,左手2d樓",
+      "translationWarnings": []
+    },
+    {
+      "id": "254",
+      "document": "254",
+      "process": "NIC-2025-2338-16044-O",
+      "originalTitle": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
+      "title": "Camoapa 市飲用水系統改善與擴建",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/254-NIC-2025-2338-16044-O",
+      "officialSummary": "El proyecto de Ampliación y Mejoramiento del Sistema de Agua Potable de la ciudad de Camoapa comprende la ejecución de obras destinadas a mejorar la cobertura, calidad, continuidad y sostenibilidad del servicio de agua potable, contribuyendo a satisfacer la demanda actual y futura de la población beneficiaria.",
+      "executor": "Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-08-25",
+      "deadlineUtc": "2026-11-12T12:00:00.000Z",
+      "deadlineDate": "2026-11-12",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "19263247.01",
+      "summary": "CABEI 公開採購「Camoapa 市飲用水系統改善與擴建」。擴大和改善卡莫阿帕市飲用水系統的專案包括開展旨在提高飲用水服務覆蓋面、質量、連續性和可持續性的工程,幫助滿足人民當前和未來的需求。 受益者。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：擴大和改善卡莫阿帕市飲用水系統的專案包括開展旨在提高飲用水服務覆蓋面、質量、連續性和可持續性的工程,幫助滿足人民當前和未來的需求。 受益者。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "adquisiciones.pisash@enacal.com.ni con copia a adquis6.pisash@enacal.com.ni El contratante pone a disposición de los interesados toda la documentación relacionada con esta licitación, necesaria para la preparación de las ofertas",
+      "translationFingerprint": "65d78169953ddbc43201a45c79fb7459b70dc84f4ef6f1706e0c58221e82edbb",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-14T00:23:10.579363+00:00",
+      "documentAccessZh": "【待校訂：分段翻譯】adquisiciones.pisash@enacal.com.ni 複製到 adquis6.pisash@enacal.com.ni 承包者向有關各方提供與這一招標書有關的所有檔案,這是編寫投標書所必需的",
+      "revisionSourceTitle": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
       "translationWarnings": []
     },
     {
@@ -352,26 +308,40 @@
     }
   ],
   "officialAttachments": {
+    "254": [],
     "264": [
       {
         "name": "官方文件取得入口",
         "url": "https://epr.file-on.com/index.aspx"
       }
     ],
-    "269": [],
     "273": [],
     "275": [],
-    "277": [
-      {
-        "name": "官方招標文件.pdf",
-        "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
-      }
-    ],
     "278": [],
     "279": [],
     "280": []
   },
   "taiwanCompanySuggestions": {
+    "254": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
     "264": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -392,7 +362,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "269": [],
     "273": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -414,7 +383,6 @@
       }
     ],
     "275": [],
-    "277": [],
     "278": [],
     "279": [],
     "280": []

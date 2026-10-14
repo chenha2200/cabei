@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:17:35.411Z",
+  "generatedAt": "2026-10-14T00:23:00.718Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -79,40 +79,6 @@
       ]
     },
     {
-      "id": "137011",
-      "document": "787",
-      "process": "044/2026",
-      "country": "薩爾瓦多",
-      "industry": "水資源與環境",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-09-09",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 83,
-      "title": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫",
-      "originalTitle": "044/2026 Programa integral de saneamiento y recuperación del Lago Ilopango y Coatepeque, El Salvador",
-      "summary": "CABEI 徵求顧問服務，規劃薩爾瓦多 Ilopango 湖與 Coatepeque 湖的綜合污染整治、環境改善及生態復育方案。",
-      "capabilities": [
-        "水污染治理",
-        "湖泊復育",
-        "環境工程",
-        "環境影響評估"
-      ],
-      "reason": "台灣具水質監測、污水處理、環境工程與流域治理經驗，可提供技術規劃與系統方案；宜與熟悉薩國法規及社區協調的西語團隊聯盟。",
-      "caveat": "需確認服務範圍是前期規劃、可行性研究或設計監督，以及核心專家、現地採樣、社會參與、執業資格與西語成果要求。",
-      "amount": "上限 US$1,200,000",
-      "documentSummary": "TOR 要求為 Ilopango、Coatepeque 兩湖建立整體整治投資方案，包含污染源與基線、固體廢棄物、污水下水道與處理廠可行性、現地調查與採樣、工程初步設計、CAPEX／OPEX、經濟財務、氣候韌性、環社與利害關係人工作，形成可供融資的優先專案。",
-      "qualifications": [
-        "多專業顧問公司／聯盟須具至少 15 年固廢、污水處理廠設計或環境專案經驗。",
-        "至少 5 件相似掩埋場設計、5 件相似下水道及污水處理廠設計、2 件環境永續案，且具拉丁美洲相似經驗。",
-        "至少配置 10 類核心專家；專案經理 15 年，其餘衛生、水力、水文地質、地質、結構、機電、氣候與成本專家多要求 5–10 年及相似案實績。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752008-044%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated",
-      "companyGroup": "engineering",
-      "ruleTitle": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫"
-    },
-    {
       "id": "142011",
       "document": "797",
       "process": "050/2026",
@@ -153,46 +119,6 @@
       "translationWarnings": []
     },
     {
-      "id": "144012",
-      "document": "803",
-      "process": "053/2025",
-      "country": "薩爾瓦多",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-06",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 35,
-      "title": "薩爾瓦多的餐飲和客廳租賃服務",
-      "ruleTitle": "Servicio de alimentación y renta de salones para eventos propios en El Salvador",
-      "originalTitle": "053/2025 Servicio de alimentación y renta de salones para eventos propios en El Salvador",
-      "summary": "CABEI 公開採購「薩爾瓦多的餐飲和客廳租賃服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "US$10,000",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。 供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調: CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。 【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更",
-      "qualifications": [
-        "【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。",
-        "供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調:",
-        "供應商應為契約提供有組織和組織機構活動的經驗的工作團隊，其中至少包括:",
-        "CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。",
-        "【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200 人或更多的人， 5 百分比 5 PTS 5 與他們相匹配 1 A 2 品質標準活動和 3 衛生保健；"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799751-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "90241751c11ca1d448427b80fea1b80eb06d0944b2ebd7f07ce853414de5d7ae",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-07T00:17:21.706500+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
       "id": "138011",
       "document": "789",
       "process": "047/2026",
@@ -226,47 +152,6 @@
       "analysisMode": "curated",
       "companyGroup": "engineering",
       "ruleTitle": "CABEI 尼加拉瓜辦公室綜合設施服務"
-    },
-    {
-      "id": "139011",
-      "document": "792",
-      "process": "048/2026",
-      "country": "瓜地馬拉",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-18",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 22,
-      "title": "CABEI 瓜地馬拉國家管理處安全服務",
-      "originalTitle": "048/2026 Servicios de Seguridad para la Gerencia de País del BCIE en la República de Guatemala",
-      "summary": "CABEI 公開採購「CABEI 瓜地馬拉國家管理處安全服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。 至少有10年(10)的安全服務經驗。 提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。 至少四年(4)安全工作和人員監督經驗。 至少有三年(3)安全工作經驗。 1.8.7 在契約提供其安全服務的期間，將負責損害，損失或損壞，除非偶然的情況，強度或情況證明，這些事件發生在情況下，避免這些事件不在上述範圍內。 個人。 1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
-      "qualifications": [
-        "1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
-        "至少有10年(10)的安全服務經驗。",
-        "提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。",
-        "至少四年(4)安全工作和人員監督經驗。",
-        "至少有三年(3)安全工作經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "offline-translation",
-      "companyGroup": null,
-      "translationFingerprint": "a94498c1a60c957488cdf9588688e0000cdfb449eaaba53499f769e062a72b59",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:11:50.887161+00:00",
-      "ruleTitle": "CABEI 瓜地馬拉國家管理處安全服務",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
     },
     {
       "id": "300000028820429",
@@ -306,6 +191,46 @@
       "translationUpdatedAt": "2026-10-04T13:09:37.290497+00:00",
       "ruleTitle": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
       "translationVersion": "offline-guard-v1",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "144012",
+      "document": "803",
+      "process": "053/2025",
+      "country": "薩爾瓦多",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-06",
+      "deadlineUtc": "2026-10-19T23:00:00.000Z",
+      "fit": 35,
+      "title": "薩爾瓦多的餐飲和客廳租賃服務",
+      "ruleTitle": "Servicio de alimentación y renta de salones para eventos propios en El Salvador",
+      "originalTitle": "053/2025 Servicio de alimentación y renta de salones para eventos propios en El Salvador",
+      "summary": "CABEI 公開採購「薩爾瓦多的餐飲和客廳租賃服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$10,000",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。 供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調: CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。 【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更",
+      "qualifications": [
+        "【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。",
+        "供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調:",
+        "供應商應為契約提供有組織和組織機構活動的經驗的工作團隊，其中至少包括:",
+        "CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。",
+        "【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200 人或更多的人， 5 百分比 5 PTS 5 與他們相匹配 1 A 2 品質標準活動和 3 衛生保健；"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799751-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "90241751c11ca1d448427b80fea1b80eb06d0944b2ebd7f07ce853414de5d7ae",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-07T00:17:21.706500+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -429,6 +354,47 @@
       ]
     },
     {
+      "id": "139011",
+      "document": "792",
+      "process": "048/2026",
+      "country": "瓜地馬拉",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-09-18",
+      "deadlineUtc": "2026-10-21T23:00:00.000Z",
+      "fit": 22,
+      "title": "CABEI 瓜地馬拉國家管理處安全服務",
+      "originalTitle": "048/2026 Servicios de Seguridad para la Gerencia de País del BCIE en la República de Guatemala",
+      "summary": "CABEI 公開採購「CABEI 瓜地馬拉國家管理處安全服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。 至少有10年(10)的安全服務經驗。 提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。 至少四年(4)安全工作和人員監督經驗。 至少有三年(3)安全工作經驗。 1.8.7 在契約提供其安全服務的期間，將負責損害，損失或損壞，除非偶然的情況，強度或情況證明，這些事件發生在情況下，避免這些事件不在上述範圍內。 個人。 1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
+      "qualifications": [
+        "1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
+        "至少有10年(10)的安全服務經驗。",
+        "提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。",
+        "至少四年(4)安全工作和人員監督經驗。",
+        "至少有三年(3)安全工作經驗。"
+      ],
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "analysisMode": "offline-translation",
+      "companyGroup": null,
+      "translationFingerprint": "a94498c1a60c957488cdf9588688e0000cdfb449eaaba53499f769e062a72b59",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationUpdatedAt": "2026-10-04T13:11:50.887161+00:00",
+      "ruleTitle": "CABEI 瓜地馬拉國家管理處安全服務",
+      "translationVersion": "offline-guard-v1",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "143013",
       "document": "800",
       "process": "053/2026",
@@ -469,6 +435,40 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "137011",
+      "document": "787",
+      "process": "044/2026",
+      "country": "薩爾瓦多",
+      "industry": "水資源與環境",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-09-09",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 83,
+      "title": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫",
+      "originalTitle": "044/2026 Programa integral de saneamiento y recuperación del Lago Ilopango y Coatepeque, El Salvador",
+      "summary": "CABEI 徵求顧問服務，規劃薩爾瓦多 Ilopango 湖與 Coatepeque 湖的綜合污染整治、環境改善及生態復育方案。",
+      "capabilities": [
+        "水污染治理",
+        "湖泊復育",
+        "環境工程",
+        "環境影響評估"
+      ],
+      "reason": "台灣具水質監測、污水處理、環境工程與流域治理經驗，可提供技術規劃與系統方案；宜與熟悉薩國法規及社區協調的西語團隊聯盟。",
+      "caveat": "需確認服務範圍是前期規劃、可行性研究或設計監督，以及核心專家、現地採樣、社會參與、執業資格與西語成果要求。",
+      "amount": "上限 US$1,200,000",
+      "documentSummary": "TOR 要求為 Ilopango、Coatepeque 兩湖建立整體整治投資方案，包含污染源與基線、固體廢棄物、污水下水道與處理廠可行性、現地調查與採樣、工程初步設計、CAPEX／OPEX、經濟財務、氣候韌性、環社與利害關係人工作，形成可供融資的優先專案。",
+      "qualifications": [
+        "多專業顧問公司／聯盟須具至少 15 年固廢、污水處理廠設計或環境專案經驗。",
+        "至少 5 件相似掩埋場設計、5 件相似下水道及污水處理廠設計、2 件環境永續案，且具拉丁美洲相似經驗。",
+        "至少配置 10 類核心專家；專案經理 15 年，其餘衛生、水力、水文地質、地質、結構、機電、氣候與成本專家多要求 5–10 年及相似案實績。"
+      ],
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752008-044%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "analysisMode": "curated",
+      "companyGroup": "engineering",
+      "ruleTitle": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫"
     },
     {
       "id": "143012",
