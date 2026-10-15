@@ -1,158 +1,7 @@
 {
-  "generatedAt": "2026-10-14T00:23:00.718Z",
+  "generatedAt": "2026-10-15T00:22:35.280Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "131013",
-      "document": "781",
-      "process": "035/2026",
-      "country": "區域",
-      "industry": "智慧城市與顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-08-26",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 88,
-      "title": "中美洲與多明尼加智慧城市區域投資計畫",
-      "originalTitle": "035/2026 Consulting services for the development of the Regional Smart Cities Investment Program in Central America and the Dominican Republic",
-      "summary": "提供顧問服務，規劃中美洲與多明尼加共和國的區域智慧城市投資計畫，整合政策、專案與投資路徑。",
-      "capabilities": [
-        "智慧城市",
-        "數位治理",
-        "投資規劃",
-        "專案顧問"
-      ],
-      "reason": "台灣具智慧交通、城市治理、IoT 與數位公共服務實績，適合由顧問公司整合科技業者並與西語區域夥伴組隊。",
-      "caveat": "主投標人必須是韓國顧問公司；台灣廠商只能以聯盟成員、分包商或個別專家角色參與。",
-      "amount": "上限 US$650,000",
-      "documentSummary": "TOR 要求 9 個月內建立中美洲及多明尼加智慧城市區域投資計畫，篩選示範城市，完成智慧交通、安全、水務、廢棄物、資料治理與融資方案，並安排最多 5 名官員赴韓交流。CABEI負擔機票、住宿與日支；顧問負擔韓國境內交通、翻譯與場地。",
-      "qualifications": [
-        "韓國顧問公司必須擔任主投標人，且須自行達到最低經驗；可與台灣及其他國際／在地公司聯盟或分包。",
-        "至少 3 年智慧城市設計／導入經驗及多邊機構融資的國家或區域計畫經驗。",
-        "至少 3 件大型智慧城市案、3 件投資額逾 US$20m 的智慧城市前期案，並具整合交通、安全、水務與固廢、投資計畫及培訓經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03725256-Notice.pdf",
-      "analysisMode": "curated",
-      "companyGroup": "smartCity",
-      "ruleTitle": "中美洲與多明尼加智慧城市區域投資計畫"
-    },
-    {
-      "id": "140011",
-      "document": "793",
-      "process": "048/2026",
-      "country": "區域／未載明",
-      "industry": "數位與資通訊",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-09-21",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 86,
-      "title": "PureStorage 儲存設備支援續約",
-      "originalTitle": "048/2026 Renovación de Soporte para equipos de almacenamiento PureStorage",
-      "summary": "CABEI 公開採購「PureStorage 儲存設備支援續約」。供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。 經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。",
-      "capabilities": [
-        "資訊基礎設施",
-        "網路與電信",
-        "系統整合"
-      ],
-      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "amount": "US$10,000",
-      "documentSummary": "供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。 經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。 認可至少五年(5)在PureStorage企業儲存解決方案的行銷、更新和/或維護服務的專業經驗。 【待校訂：分段保護翻譯】伊特姆 CRITERIOS 技術描述 評分 RANGOS DE 報價:報價人必須認可一 5 多年或更多 10 最低五分( 5 ( ) 多年在銷售，供應， 1 一般經驗 更新和/或提供服務 10 % 支援和維護解決方案 企業技術基礎設施。 不到 5 0 5 客戶參考信，發行在過去三年(3), 5 參考或更多 10 證明滿意度提供的服務和實施 2 具體體驗解決方案類似；",
-      "qualifications": [
-        "供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。",
-        "認可至少五年(5)在PureStorage企業儲存解決方案的行銷、更新和/或維護服務的專業經驗。",
-        "經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。",
-        "【待校訂：分段保護翻譯】伊特姆 CRITERIOS 技術描述 評分 RANGOS DE 報價:報價人必須認可一 5 多年或更多 10 最低五分( 5 ( ) 多年在銷售，供應， 1 一般經驗 更新和/或提供服務 10 % 支援和維護解決方案 企業技術基礎設施。",
-        "不到 5 0 5 客戶參考信，發行在過去三年(3), 5 參考或更多 10 證明滿意度提供的服務和實施 2 具體體驗解決方案類似；"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03772905-Aviso.pdf",
-      "analysisMode": "offline-translation",
-      "companyGroup": "ict",
-      "translationFingerprint": "4a7ef737fa2bafbc3c78f1b6e0654b168ab33a69e205cf94ed86099888a8c931",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:10:30.711224+00:00",
-      "ruleTitle": "PureStorage 儲存設備支援續約",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "142011",
-      "document": "797",
-      "process": "050/2026",
-      "country": "哥斯大黎加",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-25",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 48,
-      "title": "CABEI 哥斯大黎加辦公大樓屋頂、陽臺及附屬區域修繕工程",
-      "originalTitle": "050/2026 Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
-      "summary": "CABEI 公開採購「CABEI 哥斯大黎加辦公大樓屋頂、陽臺及附屬區域修繕工程」。SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。",
-      "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。 因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。 1.3 1.3.1 服務的可用性 承包商必須按照本 工作說明書（TOR） 規定的工作，計劃，技術規格，數量框，技術和經濟報價，以及其他適用的契約檔案進行。 承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。 該專業必須擁有建築工程或建築學位，以及至少五年(5)可驗證的建築、修復、修復、修復或建築適應專案經驗。 承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。 1.5 需要的工作團隊經驗 1.5",
-      "qualifications": [
-        "因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。",
-        "承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。",
-        "承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。",
-        "1.5 需要的工作團隊經驗 1.5.1 承包商必須任命專案技術負責人，負責協調、技術指導、品質控制、工作執行跟蹤和與銀行溝通。",
-        "該專業必須擁有建築工程或建築學位，以及至少五年(5)可驗證的建築、修復、修復、修復或建築適應專案經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03780386-050%202026%20%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "offline-translation",
-      "companyGroup": "engineering",
-      "translationFingerprint": "5514622db5e4b19e5959fea4a1e2c2be6af379e3c9f3a12970fbf52c6dba81bf",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:11:15.246875+00:00",
-      "ruleTitle": "CABEI 哥斯大黎加辦公大樓屋頂、陽台及附屬區域修繕工程",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": []
-    },
-    {
-      "id": "138011",
-      "document": "789",
-      "process": "047/2026",
-      "country": "尼加拉瓜",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-10",
-      "deadlineUtc": "2026-10-14T23:00:00.000Z",
-      "fit": 28,
-      "title": "CABEI 尼加拉瓜辦公室綜合設施服務",
-      "originalTitle": "047/2026 Servicios de Mantenimiento, Limpieza, Cafetería, Conducción, Jardinería, Monitoreo Ambiental y otros servicios relacionados para la Gerencia de País Nicaragua",
-      "summary": "為 CABEI 尼加拉瓜國家管理處提供維護、清潔、咖啡服務、車輛駕駛、園藝、環境監測及其他相關在地服務。",
-      "capabilities": [
-        "設施管理",
-        "環境監測",
-        "清潔服務",
-        "車輛駕駛"
-      ],
-      "reason": "本案以尼加拉瓜在地人力、日常派駐與即時履約為核心，台灣跨境供應優勢有限，較不建議台灣廠商直接投入。",
-      "caveat": "需具當地人員招募、勞動法遵、保險、車輛與駕照管理、現場主管、環境監測及長期服務能力；投標成本可能高於商業效益。",
-      "amount": "總額未載明",
-      "amountNote": "TOR 規定各職務最低稅後月薪 US$570–1,500，非契約總額。",
-      "documentSummary": "TOR 採購尼加拉瓜辦公室 2027 年清潔咖啡、園藝、駕駛／信差、維護、環境監測等派駐服務，可逐年續約最長 5 年。須 100% 補足人力，缺勤 24 小時內替補；最低稅後月薪依職務為 US$570–1,500，另報加班、餐費及交通津貼。",
-      "qualifications": [
-        "廠商至少 5 年為多邊機構、外交單位、金融機構或相似複雜組織提供外包營運／行政支援。",
-        "近 5 年至少提供 3 份企業或機構客戶之綜合清潔、餐飲、維護、園藝、信差、駕駛等履約證明。",
-        "各職務須符合 TOR 的學歷、經驗、駕照／證照；未另訂年限者至少 3 年相關經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752243-047%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated",
-      "companyGroup": "engineering",
-      "ruleTitle": "CABEI 尼加拉瓜辦公室綜合設施服務"
-    },
     {
       "id": "300000028820429",
       "document": "796,1",
@@ -234,6 +83,78 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "145013",
+      "document": "806",
+      "process": "055/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-14",
+      "deadlineUtc": "2026-10-20T23:00:00.000Z",
+      "fit": 35,
+      "title": "Copilot Studio 人工智慧代理開發服務",
+      "ruleTitle": "“Servicio de Desarrollo de Agentes de Inteligencia Artificial de Copilot Studio”",
+      "originalTitle": "055 2026 “Servicio de Desarrollo de Agentes de Inteligencia Artificial de Copilot Studio”",
+      "summary": "CABEI 公開採購「Copilot Studio 人工智慧代理開發服務」。1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。 • 最低 7 資訊科技專業經驗。 • 最少 3 設計和實施人工智慧解決方案的經驗。 • 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。 • 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。 • 基於雲服務的企業建築設計經驗。",
+      "qualifications": [
+        "• 最低 7 資訊科技專業經驗。",
+        "• 最少 3 設計和實施人工智慧解決方案的經驗。",
+        "• 基於雲服務的企業建築設計經驗。",
+        "• 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。",
+        "• 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03812252-Aviso.pdf",
+      "translationFingerprint": "56c2e27e242edc3b47890ccadfe483a4f5818edaa324c4cebc7b1fbc75021a17",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-15T00:23:16.210747+00:00",
+      "translationWarnings": []
+    },
+    {
+      "id": "145012",
+      "document": "804",
+      "process": "052/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-14",
+      "deadlineUtc": "2026-10-20T23:00:00.000Z",
+      "fit": 35,
+      "title": "基於人工智慧的開發服務",
+      "ruleTitle": "\"Servicio de Desarrollo de Soluciones de Inteligencia Artificial basada",
+      "originalTitle": "052 2026 \"Servicio de Desarrollo de Soluciones de Inteligencia Artificial basada",
+      "summary": "CABEI 公開採購「基於人工智慧的開發服務」。DE LA 契約 本文件的目的是採購專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 CABEI (CABEI) 機構採購部門 邀請通知 052/2026 Tegucigalpa, 宏都拉斯 13 10月 2026 CABEI (CABEI) 邀請您參加收費過程。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "DE LA 契約 本文件的目的是採購專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 CABEI (CABEI) 機構採購部門 邀請通知 052/2026 Tegucigalpa, 宏都拉斯 13 10月 2026 CABEI (CABEI) 邀請您參加收費過程。 PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03812047-Aviso.pdf",
+      "translationFingerprint": "b45589b0a8f143f8e31908915a2abe68832c4303bf23fbe51ef417639b0e33f4",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-15T00:23:32.726115+00:00",
+      "translationWarnings": []
     },
     {
       "id": "144011",
@@ -509,19 +430,49 @@
       "ruleTitle": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
       "translationVersion": "offline-guard-v1",
       "translationWarnings": []
+    },
+    {
+      "id": "146012",
+      "document": "805",
+      "process": "054/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-14",
+      "deadlineUtc": "2026-11-04T23:00:00.000Z",
+      "fit": 35,
+      "title": "網路負載平衡器的更新",
+      "ruleTitle": "Renovación de Balanceadores de Carga de Red",
+      "originalTitle": "054/2026 Renovación de Balanceadores de Carga de Red",
+      "summary": "CABEI 公開採購「網路負載平衡器的更新」。1.2 招標的目的為 招標公司透過收購和實施 A10 Networks 或更高階的解決方案，以維持和擴充套件目前使用的能力和功能，包括至少: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要僱傭一家公司透過收購和實施類別解決方案來更新網路負載平衡平台 A10 Networks 或更高版本，保持和擴充套件目前使用的功能和功能，包括: 最小:",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 招標的目的為 招標公司透過收購和實施 A10 Networks 或更高階的解決方案，以維持和擴充套件目前使用的能力和功能，包括至少: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要僱傭一家公司透過收購和實施類別解決方案來更新網路負載平衡平台 A10 Networks 或更高版本，保持和擴充套件目前使用的功能和功能，包括: 最小: 作為技術基礎設施的更新和加強程序的一部分，確定了需要將現有平台元件替換為一個負載級解決方案，提供高水平的可用性、運營穩定性和可靠性，以及一個計劃。 堅實的技術支援和永久許可，確保平台的長期永續性。 UNA VEZ APROBADO 1.3 高階設計(HLD) 1.4 採購範圍 為 宏都拉斯 ▪ 兩個(2) 平衡器類型 Thunder ADC 1060S 或更高 ▪ 設定以高可用性執行(HA)，與 LB 和 LLB/GSLB 服務的邏輯分離。 ▪ 所有指定的功能和製造商支援 24x7的許可要求 3年，包括軟體更新和硬體更換。 1.5 契約人所需的總體和具體經驗 1.5.1 總體經驗: 供應商必須至少有五年(5)的存在，並在其代表的製",
+      "qualifications": [
+        "1.5 契約人所需的總體和具體經驗 1.5.1 總體經驗:",
+        "供應商必須至少有五年(5)的存在，並在其代表的製造商的供應和設備支援部門運營。",
+        "供應商必須在銷售設備和網路負載平衡解決方案方面有豐富的經驗，具有與所要求相似的特性。",
+        "這種經驗必須透過客戶發出的參考信(最少3信)來證明，這些客戶已經獲得了與申請人相似的設備。",
+        "除此之外，預期保證，還可以由保險公司發放的保證，該保險公司可為 CABEI 提供。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03811899-Aviso.pdf",
+      "translationFingerprint": "d46fce273372bd01b7d7e4f537423affbd16571e06fc79ad3b1495ec41294c25",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-15T00:24:26.893103+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     }
   ],
   "officialAttachments": {
-    "131013": [
-      {
-        "name": "Notice.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03725256-Notice.pdf"
-      },
-      {
-        "name": "035 2026 Terms of Reference.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03725255-035%202026%20Terms%20of%20Reference.pdf"
-      }
-    ],
     "137011": [
       {
         "name": "044 2026 Términos de Referencia.pdf",
@@ -532,34 +483,10 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03751662-Aviso.pdf"
       }
     ],
-    "138011": [
-      {
-        "name": "047 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03752243-047%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03752216-Aviso.pdf"
-      }
-    ],
     "139011": [
       {
         "name": "048 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
-    "140011": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03772905-Aviso.pdf"
-      },
-      {
-        "name": "048 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03772904-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03772886-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "141011": [
@@ -570,16 +497,6 @@
       {
         "name": "Aviso.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03775199-Aviso.pdf"
-      }
-    ],
-    "142011": [
-      {
-        "name": "050 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03780386-050%202026%20%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03780374-Aviso.pdf"
       }
     ],
     "143012": [
@@ -640,6 +557,44 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03799732-Anexo%207%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
+    "145012": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03812047-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03812039-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "145013": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03812252-Aviso.pdf"
+      },
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03812250-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03812187-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "146012": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03811899-Aviso.pdf"
+      },
+      {
+        "name": "054 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03811898-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 6 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03811890-Anexo%206%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "300000028820429": [
       {
         "name": "050 2026 Términos de Referencia.pdf",
@@ -652,26 +607,6 @@
     ]
   },
   "taiwanCompanySuggestions": {
-    "131013": [
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "數位治理／SI",
-        "why": "政府與城市資訊系統、AIoT 及數位轉型能力適合整合區域投資計畫的科技面。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      },
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "城市與工程顧問",
-        "why": "公共建設、交通與專案顧問能力可支援投資項目盤點及可行性。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "研華科技",
-        "role": "IoT 技術夥伴",
-        "why": "城市 IoT、邊緣運算與平台能力可提供可落地的技術方案。",
-        "url": "https://www.advantech.com/"
-      }
-    ],
     "137011": [
       {
         "name": "中鼎工程（CTCI）",
@@ -692,43 +627,8 @@
         "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
       }
     ],
-    "138011": [],
     "139011": [],
-    "140011": [
-      {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "企業 IT 整合",
-        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
-        "url": "https://www.systex.com/"
-      },
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "系統整合與維運",
-        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      }
-    ],
     "141011": [],
-    "142011": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
     "143012": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -785,6 +685,9 @@
       }
     ],
     "144012": [],
+    "145012": [],
+    "145013": [],
+    "146012": [],
     "300000028820429": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -889,6 +792,29 @@
     "4eb876ee8f1a832f2aace1031a0139ecb00f063dbb6014e58157ff3fab1f74c6": "1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。",
     "2d11bc7770fdc3fae45a7bab39372d14dc44cd6026e045fcc21cb3661276bd43": "進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。",
     "aacdfeb497aec78ccb0d518f18a59fabc8ac8c48d956cf15f67ce2b1c8b27826": "供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。",
-    "a9e8f2708b5c860e9d26ad63e997849724c7700bf0d74355254a0f0b9bee79d8": "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。"
+    "a9e8f2708b5c860e9d26ad63e997849724c7700bf0d74355254a0f0b9bee79d8": "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。",
+    "5f7bc951fcad075a84c94bf87f5b697cee4188686371be0a0ff8c8ba06691899": "Copilot Studio 人工智慧代理開發服務",
+    "71b03eb39b6c77a99b4e738717065552d50dc282a8c12662a74a4018ec541e6e": "1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。",
+    "c88c2ad39925b4efa1a88ee86eaff7aa2d2522fbe1981e2c6b68ebad5dad6e72": "1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。",
+    "de5de5eb0803fa3c5307c884800faaa9b69da4d1be80cd1d9093cd9b7e276c30": "• 最低 7 資訊科技專業經驗。",
+    "26e15095657f78e80527c644fab508522fc86c9b9f0a28822a00af99b27940df": "• 最少 3 設計和實施人工智慧解決方案的經驗。",
+    "6539a97904c64ed455bde41a48846760f4c32b856133cb197a03174f049f0ddf": "• 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。",
+    "b4582bb6965a904a8bb2e5326d597f3d70fb684605e68e245c69d498264a8b9a": "• 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。",
+    "14f3c3daec704637f50086679c70e313c9a670e0453a7ffdf25d19934867d419": "• 基於雲服務的企業建築設計經驗。",
+    "c25ea80dad885dd1fc8401b521e5a9c4efbf44cea14e9b04bab263321548bda8": "基於人工智慧的開發服務",
+    "f899b40caef24dcdfacecb8cdec1f1ea501062f90d07d27ed487ced06deb05a5": "DE LA 契約 本文件的目的是採購專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。",
+    "747376d8c1b27816196f361e701c6acf9b5b7aef60f9876630c90fc2be33eb4d": "CABEI (CABEI) 機構採購部門 邀請通知 052/2026 Tegucigalpa, 宏都拉斯 13 10月 2026 CABEI (CABEI) 邀請您參加收費過程。",
+    "c2f5c5b3e5205edf12a3d2e4199835f055153e9816224dfff3b1633dd9b08f96": "PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
+    "0a833b15f3b6ca77f3da418b75a3ddf3e1ee0b52e6997ed9300c36da44d177aa": "網路負載平衡器的更新",
+    "5cc6e7038b4695d4c3366cfdfe0c915938bc480ca1100aec01466157d4c21798": "1.2 招標的目的為 招標公司透過收購和實施 A10 Networks 或更高階的解決方案，以維持和擴充套件目前使用的能力和功能，包括至少:",
+    "9da5b3f740e4b236daa650eb5d5e918a88af96dd902be7ce04bc1a489246c3c6": "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要僱傭一家公司透過收購和實施類別解決方案來更新網路負載平衡平台 A10 Networks 或更高版本，保持和擴充套件目前使用的功能和功能，包括: 最小:",
+    "3ecc9766a673b6b3678bd29484358aa881a04831e10b0d67444b6ce3cbcd0d3f": "作為技術基礎設施的更新和加強程序的一部分，確定了需要將現有平台元件替換為一個負載級解決方案，提供高水平的可用性、運營穩定性和可靠性，以及一個計劃。 堅實的技術支援和永久許可，確保平台的長期永續性。",
+    "585bc9c28341f572921887811c120677fb8df7e73008f9d0e2aa7fe33a65614b": "UNA VEZ APROBADO 1.3 高階設計(HLD) 1.4 採購範圍 為 宏都拉斯 ▪ 兩個(2) 平衡器類型 Thunder ADC 1060S 或更高 ▪ 設定以高可用性執行(HA)，與 LB 和 LLB/GSLB 服務的邏輯分離。",
+    "1ddc96ea1207c53e34146e29f392c4a853326eacaecd53a18649633819ce73f7": "▪ 所有指定的功能和製造商支援 24x7的許可要求 3年，包括軟體更新和硬體更換。",
+    "7399abff18be2beca07536f0d1509bcff8c3be35a878ff7a5d624e0d0fd3abe3": "1.5 契約人所需的總體和具體經驗 1.5.1 總體經驗:",
+    "28f51c92bc152ca4428e450cb069c5fbeeba87ecb9e5c3d504b1a73fe202d994": "供應商必須至少有五年(5)的存在，並在其代表的製造商的供應和設備支援部門運營。",
+    "2c8543387db1198dc3fd87e389a6873537f4b33e9a6063beed536a4c5e03c4c0": "供應商必須在銷售設備和網路負載平衡解決方案方面有豐富的經驗，具有與所要求相似的特性。",
+    "a36281dbe5bf77b5f866e38d7d31eb320a320b6444765ef4aa62f997f7914987": "這種經驗必須透過客戶發出的參考信(最少3信)來證明，這些客戶已經獲得了與申請人相似的設備。",
+    "d4d8c191713cb44936ed8e03274c76ba919a3b36b8bed414266e7af87349c681": "除此之外，預期保證，還可以由保險公司發放的保證，該保險公司可為 CABEI 提供。"
   }
 }

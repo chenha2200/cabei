@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:23:01.833Z",
+  "generatedAt": "2026-10-15T00:22:37.628Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -305,6 +305,49 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "281",
+      "document": "281",
+      "process": "GTM-ODSJ-2181JUDICIAL-1622-O",
+      "originalTitle": "Construcción Complejo Judicial, municipio de Malacatán, San Marcos.",
+      "title": "聖馬科斯州馬拉卡坦市建築司法綜合體。",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/281-GTM-ODSJ-2181JUDICIAL-1622-O",
+      "officialSummary": "El Organismo Judicial, a través de la Unidad Especial de Ejecución del Contrato de Préstamo -UEEP-, desea recibir ofertas para la ejecución de las OBRAS consistentes en la Construcción Complejo Judicial, municipio de Malacatán, San Marcos, con el objetivo de mejorar la atención de los usuarios, a través de un edificio propio que reúna las condiciones adecuadas para las gestiones judiciales.",
+      "executor": "Organismo Judicial Guatemala (OJ)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-14",
+      "deadlineUtc": "2026-12-01T06:00:00.000Z",
+      "deadlineDate": "2026-12-01",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "9575573.00",
+      "summary": "CABEI 公開採購「聖馬科斯州馬拉卡坦市建築司法綜合體。」。司法機關透過執行貸款合同特別股UEEP希望收到執行OBRAS的提議,該合同由聖馬科斯馬拉卡坦市的複雜司法建築公司組成,目的是提高使用者的注意。 透過符合司法程式適當條件的建築物。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：司法機關透過執行貸款合同特別股UEEP希望收到執行OBRAS的提議,該合同由聖馬科斯馬拉卡坦市的複雜司法建築公司組成,目的是提高使用者的注意。 透過符合司法程式適當條件的建築物。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5 Sistema de Información de Contrataciones y Adquisiciones del Estado –GUATECOMPRAS- (www.guatecompras.gt) NOG 31283454",
+      "translationFingerprint": "e8b99fc339338d916c5a8101406751c100e064d4ea38a3b97ba7470d88487a2b",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-15T00:24:37.259169+00:00",
+      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5 國家採購和採購資訊系統 - GUATECOMPRAS - (www.guatecompras.gt) NOG 31283454",
+      "translationWarnings": []
     }
   ],
   "officialAttachments": {
@@ -319,7 +362,13 @@
     "275": [],
     "278": [],
     "279": [],
-    "280": []
+    "280": [],
+    "281": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5"
+      }
+    ]
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -385,7 +434,27 @@
     "275": [],
     "278": [],
     "279": [],
-    "280": []
+    "280": [],
+    "281": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -475,6 +544,9 @@
     "ccb10ec844c7dea61371f9f396216f8c610970e87808f292f9d3c8d978f09e33": "【待校訂：分段翻譯】網址 COMPRASAL e.moreno@indes.gob.sv",
     "2e46c8a926bf2ee7fc3eb37dfaf24dc200a83e6ec2634f341bc2f59eb99c523a": "實驗室裝置和水產養殖設施",
     "886460af28073a4ea7453b5d10f40802df1eab5b771230d923f2793843689117": "幫助提高淡水魚類生產水平,在聖卡洛斯、里奧聖胡安購置淡水魚類實驗室裝置,併為尼加拉瓜家庭購置水產養殖配件,以替代創收和自食其力, 確保糧食安全",
-    "0cafd0cd62f4b103c1fba337bb47e02ae5873504e18e7874ab44f0bfad705b94": "www.nicaraguacompra.gob.ni. 財政和公共信貸部方案和專案總協調辦公室,位於蒙託亞州立2c北部,左手2d樓"
+    "0cafd0cd62f4b103c1fba337bb47e02ae5873504e18e7874ab44f0bfad705b94": "www.nicaraguacompra.gob.ni. 財政和公共信貸部方案和專案總協調辦公室,位於蒙託亞州立2c北部,左手2d樓",
+    "9dfaa3df8ade23ab6cb543e6eb7461dac181cf4271be9cfe27a80f8ad47a25e1": "聖馬科斯州馬拉卡坦市建築司法綜合體。",
+    "15bd356a9dc713ddafbb3158262845832a73c110517f030cd9bbccd126a8e7e0": "司法機關透過執行貸款合同特別股UEEP希望收到執行OBRAS的提議,該合同由聖馬科斯馬拉卡坦市的複雜司法建築公司組成,目的是提高使用者的注意。 透過符合司法程式適當條件的建築物。",
+    "8bbc87e3b27680d3b0b4093f78ea81a4fda5cceffaeaf9e4089d621c47a8a43c": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5 國家採購和採購資訊系統 - GUATECOMPRAS - (www.guatecompras.gt) NOG 31283454"
   }
 }
