@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:22:35.280Z",
+  "generatedAt": "2026-10-16T00:21:04.887Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -155,83 +155,6 @@
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-15T00:23:32.726115+00:00",
       "translationWarnings": []
-    },
-    {
-      "id": "144011",
-      "document": "802",
-      "process": "058/2026",
-      "country": "宏都拉斯",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-06",
-      "deadlineUtc": "2026-10-21T23:00:00.000Z",
-      "fit": 48,
-      "title": "【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯",
-      "ruleTitle": "\"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
-      "originalTitle": "058/2026 \"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
-      "summary": "CABEI 公開採購「【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯」。1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。",
-      "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。 承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。 1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。 進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。 供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。 替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。",
-      "qualifications": [
-        "承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。",
-        "供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。",
-        "1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。",
-        "進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。",
-        "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799255-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "5774f41c1eacacf89fb9cd2f88b8136cf72526c27440e7edc35310f2b6212ece",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-07T00:18:33.345465+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "143014",
-      "document": "801",
-      "process": "049/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-02",
-      "deadlineUtc": "2026-10-21T23:00:00.000Z",
-      "fit": 35,
-      "title": "社交廚房俱樂部 CABEI",
-      "ruleTitle": "Ampliación de Cocina Club Social BCIE",
-      "originalTitle": "049/2026 Ampliación de Cocina Club Social BCIE",
-      "summary": "CABEI 公開採購「社交廚房俱樂部 CABEI」。1.2 目的為 採購 CABEI 需要採購一個專門的建築和/或修復公司，以執行專案“擴充套件和修復 CABEI 社交俱樂部廚房”，旨在加強運營能力，功能，效率和安全性。 用於準備和服務食物的設施，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購建築和/或修復專業的公司，以執行“社會俱樂部廚房擴充套件和修復”專案 CABEI 為了加強設施的運營能力、功能、效率和安全性。 用於食物的準備和服務，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "1.2 目的為 採購 CABEI 需要採購一個專門的建築和/或修復公司，以執行專案“擴充套件和修復 CABEI 社交俱樂部廚房”，旨在加強運營能力，功能，效率和安全性。 用於準備和服務食物的設施，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購建築和/或修復專業的公司，以執行“社會俱樂部廚房擴充套件和修復”專案 CABEI 為了加強設施的運營能力、功能、效率和安全性。 用於食物的準備和服務，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 CABEI 已根據 CABEI 社會俱樂部廚房擴充套件和修復的專案，根據計劃、技術規格、工作量框和其他構成本過程的檔案的採購，旨在加強工作規格。 這些設施的運營能力、功能和安全性。 為了儘量減少對 CABEI 社會俱樂部運營的影響，承包商應在其建設方法、工作計劃、資源、成本和契約期限內考慮一系列執行，優先考慮外部工作、初步工作、設施。 補充和其他活動，可以發展，而不會直接影響廚房的運營。 門，窗戶和鋁和玻璃元素 範圍包括供應，製造，安裝，調整和封閉的門，",
-      "qualifications": [
-        "拆除必須透過控制的程式進行，避免對殘留在服務的結構、設施、終端和設備造成損害。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03792816-Aviso.pdf",
-      "translationFingerprint": "a7c4d2ffef5b08e114abcbd58174e7a423e5a85ed859928982fbcfe619b05da0",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-04T13:12:39.087318+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
     },
     {
       "id": "141011",
@@ -432,6 +355,123 @@
       "translationWarnings": []
     },
     {
+      "id": "144011",
+      "document": "802",
+      "process": "058/2026",
+      "country": "宏都拉斯",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-06",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 48,
+      "title": "【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯",
+      "ruleTitle": "\"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
+      "originalTitle": "058/2026 \"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
+      "summary": "CABEI 公開採購「【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯」。1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。 承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。 1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。 進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。 供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。 替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。",
+      "qualifications": [
+        "承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。",
+        "供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。",
+        "1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。",
+        "進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。",
+        "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799255-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "5774f41c1eacacf89fb9cd2f88b8136cf72526c27440e7edc35310f2b6212ece",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-07T00:18:33.345465+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "145014",
+      "document": "807",
+      "process": "055/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-15",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 35,
+      "title": "年度關閉活動的概念化和製作活動的活動規劃服務",
+      "ruleTitle": "\"Servicio de Event Planner para la Conceptualización y Producción de Eventos de Cierre de Año\"",
+      "originalTitle": "055 2026 \"Servicio de Event Planner para la Conceptualización y Producción de Eventos de Cierre de Año\"",
+      "summary": "CABEI 公開採購「年度關閉活動的概念化和製作活動的活動規劃服務」。【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要採購一個活動規劃和生產公司，根據這些參考日期、品牌指導方針和預期，設計、協調和執行全年關閉活動。 CABEI 是。 1.9.5 CABEI 保留在提交前減少所需服務的範圍，相當於報價總值的 30%(30%)的金額，而此類減少不會導致招標物件的重大變化。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要採購一個活動規劃和生產公司，根據這些參考日期、品牌指導方針和預期，設計、協調和執行全年關閉活動。 CABEI 是。 1.9.5 CABEI 保留在提交前減少所需服務的範圍，相當於報價總值的 30%(30%)的金額，而此類減少不會導致招標物件的重大變化。 社交和節日會議致力於員工，作為一個慶祝空間 由於這些活動的相關性，CABEI需要採購一個專門的公司，承擔概念化，全面的規劃，供應商協調，技術生產，物流，組裝和 活動日的運營，確保高品質，安全，有組織和一致的經驗與機構身份。 將以更高的分數評估擁有超過 5 一般經驗的公司。 7 年低於 9 年低於 9 1 一般經驗 10.0% 將以更高的分數評估公司從 5 年低於 7 年低於 8 擁有超過 5 一般經驗年。 至少需要五年(5)的經驗，透過證明運營期和/或相關服務經驗的檔案認證。 CRITERIOS 技術描述 RANGOS DE 評估 評估 最低經驗為五(5) 從 9 年到 10 年，透過證實運營期和/或相關服務經驗的檔案認證。 【待校訂：分段保護翻譯】少於 5",
+      "qualifications": [
+        "至少需要五年(5)的經驗，透過證明運營期和/或相關服務經驗的檔案認證。",
+        "將以更高的分數評估擁有超過 5 一般經驗的公司。",
+        "CRITERIOS 技術描述 RANGOS DE 評估 評估 最低經驗為五(5) 從 9 年到 10 年，透過證實運營期和/或相關服務經驗的檔案認證。",
+        "7 年低於 9 年低於 9 1 一般經驗 10.0% 將以更高的分數評估公司從 5 年低於 7 年低於 8 擁有超過 5 一般經驗年。",
+        "【待校訂：分段保護翻譯】少於 5 年代 0 由 5 更多經驗 20 申請人必須證明執行至少三項( 3 (一)透過信件 3 A 4 經驗 18 客戶發出的參考、契約或購買訂單 3 歲月。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03814275-Aviso.pdf",
+      "translationFingerprint": "f71f073d1da46ec223e1142a625620ac4dffe8a582554f5f25dedca41ad3f07c",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-16T00:22:26.749346+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "143014",
+      "document": "801",
+      "process": "049/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-02",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 35,
+      "title": "社交廚房俱樂部 CABEI",
+      "ruleTitle": "Ampliación de Cocina Club Social BCIE",
+      "originalTitle": "049/2026 Ampliación de Cocina Club Social BCIE",
+      "summary": "CABEI 公開採購「社交廚房俱樂部 CABEI」。1.2 目的為 採購 CABEI 需要採購一個專門的建築和/或修復公司，以執行專案“擴充套件和修復 CABEI 社交俱樂部廚房”，旨在加強運營能力，功能，效率和安全性。 用於準備和服務食物的設施，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購建築和/或修復專業的公司，以執行“社會俱樂部廚房擴充套件和修復”專案 CABEI 為了加強設施的運營能力、功能、效率和安全性。 用於食物的準備和服務，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 目的為 採購 CABEI 需要採購一個專門的建築和/或修復公司，以執行專案“擴充套件和修復 CABEI 社交俱樂部廚房”，旨在加強運營能力，功能，效率和安全性。 用於準備和服務食物的設施，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購建築和/或修復專業的公司，以執行“社會俱樂部廚房擴充套件和修復”專案 CABEI 為了加強設施的運營能力、功能、效率和安全性。 用於食物的準備和服務，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 CABEI 已根據 CABEI 社會俱樂部廚房擴充套件和修復的專案，根據計劃、技術規格、工作量框和其他構成本過程的檔案的採購，旨在加強工作規格。 這些設施的運營能力、功能和安全性。 為了儘量減少對 CABEI 社會俱樂部運營的影響，承包商應在其建設方法、工作計劃、資源、成本和契約期限內考慮一系列執行，優先考慮外部工作、初步工作、設施。 補充和其他活動，可以發展，而不會直接影響廚房的運營。 門，窗戶和鋁和玻璃元素 範圍包括供應，製造，安裝，調整和封閉的門，",
+      "qualifications": [
+        "拆除必須透過控制的程式進行，避免對殘留在服務的結構、設施、終端和設備造成損害。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03792816-Aviso.pdf",
+      "translationFingerprint": "a7c4d2ffef5b08e114abcbd58174e7a423e5a85ed859928982fbcfe619b05da0",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-04T13:12:39.087318+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "146012",
       "document": "805",
       "process": "054/2026",
@@ -581,6 +621,20 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03812187-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
+    "145014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03814275-Aviso.pdf"
+      },
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03814274-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 7- Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03814227-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "146012": [
       {
         "name": "Aviso.pdf",
@@ -687,6 +741,7 @@
     "144012": [],
     "145012": [],
     "145013": [],
+    "145014": [],
     "146012": [],
     "300000028820429": [
       {
@@ -815,6 +870,15 @@
     "28f51c92bc152ca4428e450cb069c5fbeeba87ecb9e5c3d504b1a73fe202d994": "供應商必須至少有五年(5)的存在，並在其代表的製造商的供應和設備支援部門運營。",
     "2c8543387db1198dc3fd87e389a6873537f4b33e9a6063beed536a4c5e03c4c0": "供應商必須在銷售設備和網路負載平衡解決方案方面有豐富的經驗，具有與所要求相似的特性。",
     "a36281dbe5bf77b5f866e38d7d31eb320a320b6444765ef4aa62f997f7914987": "這種經驗必須透過客戶發出的參考信(最少3信)來證明，這些客戶已經獲得了與申請人相似的設備。",
-    "d4d8c191713cb44936ed8e03274c76ba919a3b36b8bed414266e7af87349c681": "除此之外，預期保證，還可以由保險公司發放的保證，該保險公司可為 CABEI 提供。"
+    "d4d8c191713cb44936ed8e03274c76ba919a3b36b8bed414266e7af87349c681": "除此之外，預期保證，還可以由保險公司發放的保證，該保險公司可為 CABEI 提供。",
+    "c803d48ddffaa9db9dc521ecc090f52025d493ae50727b1bb7798439b5bf3048": "年度關閉活動的概念化和製作活動的活動規劃服務",
+    "bafdbef06b6d051c1863c7369b664c60cfb74d81a0bf72db4982ad3f314fcede": "【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要採購一個活動規劃和生產公司，根據這些參考日期、品牌指導方針和預期，設計、協調和執行全年關閉活動。 CABEI 是。",
+    "da5f389764f1ed939a2ed505690c814d635f2fbba39cf994f48187c73d6cd567": "1.9.5 CABEI 保留在提交前減少所需服務的範圍，相當於報價總值的 30%(30%)的金額，而此類減少不會導致招標物件的重大變化。",
+    "9e99689bf316ca32d81eec9dd938a9a0471195308095e8cc3c0b9ea66c239e17": "社交和節日會議致力於員工，作為一個慶祝空間 由於這些活動的相關性，CABEI需要採購一個專門的公司，承擔概念化，全面的規劃，供應商協調，技術生產，物流，組裝和 活動日的運營，確保高品質，安全，有組織和一致的經驗與機構身份。",
+    "02df76648bfce1d740c01f2989a7a2b96bd7c485d1101a980d00b5920b2ef8bc": "將以更高的分數評估擁有超過 5 一般經驗的公司。",
+    "5e88d6db8b2ee144f03d8275e0e8ac515a064966f18a58643fb526a7429f7fa5": "7 年低於 9 年低於 9 1 一般經驗 10.0% 將以更高的分數評估公司從 5 年低於 7 年低於 8 擁有超過 5 一般經驗年。",
+    "0fc4e62a0a4ee59784ab2466cb9b726931fd9427847932c394761c2a846feca2": "至少需要五年(5)的經驗，透過證明運營期和/或相關服務經驗的檔案認證。",
+    "7ffcd896a411b284d0b9b2bb2cc3f4753e318f009f7eb6d69337144531e66e83": "CRITERIOS 技術描述 RANGOS DE 評估 評估 最低經驗為五(5) 從 9 年到 10 年，透過證實運營期和/或相關服務經驗的檔案認證。",
+    "55027fbc22b039b739138f17b044367484d61a0d66ba5e3b19293f08ba96f786": "【待校訂：分段保護翻譯】少於 5 年代 0 由 5 更多經驗 20 申請人必須證明執行至少三項( 3 (一)透過信件 3 A 4 經驗 18 客戶發出的參考、契約或購買訂單 3 歲月。"
   }
 }
