@@ -1,49 +1,7 @@
 {
-  "generatedAt": "2026-10-16T00:21:04.887Z",
+  "generatedAt": "2026-10-17T00:22:09.848Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "300000028820429",
-      "document": "796,1",
-      "process": "050/2026",
-      "country": "區域",
-      "industry": "永續與環境顧問",
-      "category": "顧問服務",
-      "method": "公開詢價",
-      "published": "2026-09-29",
-      "deadlineUtc": "2026-10-16T23:00:00.000Z",
-      "fit": 72,
-      "title": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
-      "originalTitle": "050 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
-      "summary": "CABEI 公開採購「CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務」。【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 誰的 範圍包括其設施在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 諮詢機構應瞭解對設施的準備水平進行全面的診斷。 CABEI 位於宏都拉斯(總部和附件)，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜，面對國際認可的方法 零廢物(Zero W",
-      "capabilities": [
-        "環境影響評估",
-        "ESG",
-        "環境工程"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 誰的 範圍包括其設施在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 諮詢機構應瞭解對設施的準備水平進行全面的診斷。 CABEI 位於宏都拉斯(總部和附件)，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜，面對國際認可的方法 零廢物(Zero Waste to Landfill,ZWL) 諮詢公司必須擁有至少(10)年在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務方面的總體經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。 經過認證的經驗: 在至少一個(1)技術輔導專案中獲得經驗，並且已成功獲得 Zero Waste to Landfill (ZWL) 或同等標準的認證、認證或驗證。 領導，規劃和 • 最低10年(10",
-      "qualifications": [
-        "使用的方法必須由諮詢團隊清楚地確定，並證明其選擇，並解釋適用於可能的認證的標準、水平或要求。",
-        "諮詢公司必須擁有至少(10)年在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務方面的總體經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。",
-        "經過認證的經驗:",
-        "在至少一個(1)技術輔導專案中獲得經驗，並且已成功獲得 Zero Waste to Landfill (ZWL) 或同等標準的認證、認證或驗證。",
-        "• 至少一個(1)專案的經驗與ZWL實施或認證相關。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "offline-translation",
-      "companyGroup": "engineering",
-      "translationFingerprint": "074485de1c0f88c8892b9aac82c26120bc5873211dd5183dbe7c9e1e9fb9fa76",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:09:37.290497+00:00",
-      "ruleTitle": "CABEI 五國辦公設施零廢棄物掩埋認證診斷與準備顧問服務",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "144012",
       "document": "803",
@@ -234,6 +192,46 @@
       "translationUpdatedAt": "2026-10-04T13:11:50.887161+00:00",
       "ruleTitle": "CABEI 瓜地馬拉國家管理處安全服務",
       "translationVersion": "offline-guard-v1",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "147012",
+      "document": "808",
+      "process": "056/2026",
+      "country": "哥斯大黎加",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-16",
+      "deadlineUtc": "2026-10-26T23:00:00.000Z",
+      "fit": 35,
+      "title": "CABEI建築的專業技術服務監測，維護控制在哥斯大黎加",
+      "ruleTitle": "“Servicios Técnicos Profesionales para el Monitoreo, Control del Mantenimiento del Edificio del BCIE en Costa Rica”",
+      "originalTitle": "056/2026 “Servicios Técnicos Profesionales para el Monitoreo, Control del Mantenimiento del Edificio del BCIE en Costa Rica”",
+      "summary": "CABEI 公開採購「CABEI建築的專業技術服務監測，維護控制在哥斯大黎加」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 公司必須至少(5)在第三方資源管理和供應(outsourcing)方面的經驗，以滿足所要求的專業資料 3 V09-2026-1 公共: • 最低3年(3)在管理，監督，協調或跟蹤基礎設施維護，企業建築，機構設施或工業綜合體的經驗。 【待校訂：分段保護翻譯】UNA VEZ APROBADO 1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 而他 承包商，受承包商的執行。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工",
+      "qualifications": [
+        "1.3.14 支援環境監測器符合環境管理系統(SGA)的 ISO 14001:2015認證標準，並支援每年維護認證所需的活動。",
+        "公司必須至少(5)在第三方資源管理和供應(outsourcing)方面的經驗，以滿足所要求的專業資料 3 V09-2026-1 公共:",
+        "承包商應當說明、詳細說明和文件提供所需服務的經驗:",
+        "• 最低3年(3)在管理，監督，協調或跟蹤基礎設施維護，企業建築，機構設施或工業綜合體的經驗。",
+        "描述 評分 RANGOS DE 技術評分 評分 超過 6 年經驗 15 將獲得更大的簽名評分經驗 超過 5 到 6 年經驗 12 1 15% 15.0% 總體現有 超過 1 到 4 年經驗 5 總體經驗。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03817629-Aviso.pdf",
+      "translationFingerprint": "05e54a6a78d62a7c32ef89a7b4f713f213ef72ce8ef19ae7267f8b277ed5b7b1",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-17T00:23:21.291647+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -649,14 +647,14 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03811890-Anexo%206%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "300000028820429": [
-      {
-        "name": "050 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03785175-050%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
+    "147012": [
       {
         "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03785148-Aviso.pdf"
+        "url": "https://www.bcie.org/api/files/file/UCMFA03817629-Aviso.pdf"
+      },
+      {
+        "name": "056 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03817624-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ]
   },
@@ -743,26 +741,7 @@
     "145013": [],
     "145014": [],
     "146012": [],
-    "300000028820429": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ]
+    "147012": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -879,6 +858,13 @@
     "5e88d6db8b2ee144f03d8275e0e8ac515a064966f18a58643fb526a7429f7fa5": "7 年低於 9 年低於 9 1 一般經驗 10.0% 將以更高的分數評估公司從 5 年低於 7 年低於 8 擁有超過 5 一般經驗年。",
     "0fc4e62a0a4ee59784ab2466cb9b726931fd9427847932c394761c2a846feca2": "至少需要五年(5)的經驗，透過證明運營期和/或相關服務經驗的檔案認證。",
     "7ffcd896a411b284d0b9b2bb2cc3f4753e318f009f7eb6d69337144531e66e83": "CRITERIOS 技術描述 RANGOS DE 評估 評估 最低經驗為五(5) 從 9 年到 10 年，透過證實運營期和/或相關服務經驗的檔案認證。",
-    "55027fbc22b039b739138f17b044367484d61a0d66ba5e3b19293f08ba96f786": "【待校訂：分段保護翻譯】少於 5 年代 0 由 5 更多經驗 20 申請人必須證明執行至少三項( 3 (一)透過信件 3 A 4 經驗 18 客戶發出的參考、契約或購買訂單 3 歲月。"
+    "55027fbc22b039b739138f17b044367484d61a0d66ba5e3b19293f08ba96f786": "【待校訂：分段保護翻譯】少於 5 年代 0 由 5 更多經驗 20 申請人必須證明執行至少三項( 3 (一)透過信件 3 A 4 經驗 18 客戶發出的參考、契約或購買訂單 3 歲月。",
+    "7786a1502e33b282f6a4643e26ce944f812a100eb4808e089b5324a5d86d4b9b": "CABEI建築的專業技術服務監測，維護控制在哥斯大黎加",
+    "e5d8de23c92672e7c7c68e22e3696407642839a2c14dd5663032e1e6a7d4917f": "公司必須至少(5)在第三方資源管理和供應(outsourcing)方面的經驗，以滿足所要求的專業資料 3 V09-2026-1 公共:",
+    "0c724274a5079ced852ef6156b5f862a99b055cf1f4824be6941e9d548b9b705": "• 最低3年(3)在管理，監督，協調或跟蹤基礎設施維護，企業建築，機構設施或工業綜合體的經驗。",
+    "cc42a9211fd93369a84d2675cd6b55fba215804576e33f4b24c4ff1256d8737b": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 而他 承包商，受承包商的執行。",
+    "d7a19f2a6ed14c3ceeff1c5293d3287c4a2b04c3653e96b5de2198e4c1eec825": "描述 評分 RANGOS DE 技術評分 評分 超過 6 年經驗 15 將獲得更大的簽名評分經驗 超過 5 到 6 年經驗 12 1 15% 15.0% 總體現有 超過 1 到 4 年經驗 5 總體經驗。",
+    "a46ad39d643c9c8d6d83fa66c9f03341f3822511e7183e2c78e3b86ca89ed7cf": "1.3.14 支援環境監測器符合環境管理系統(SGA)的 ISO 14001:2015認證標準，並支援每年維護認證所需的活動。",
+    "f6cb20ca10e2851dd9bc7ff1a4cb63d996c1edef853c174ec5efdf088f0b1a36": "承包商應當說明、詳細說明和文件提供所需服務的經驗:"
   }
 }
