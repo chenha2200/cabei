@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:22:09.848Z",
+  "generatedAt": "2026-10-20T03:20:59.536Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -11,7 +11,7 @@
       "category": "服務",
       "method": "公開詢價",
       "published": "2026-10-06",
-      "deadlineUtc": "2026-10-19T23:00:00.000Z",
+      "deadlineUtc": "2026-10-20T19:00:00.000Z",
       "fit": 35,
       "title": "薩爾瓦多的餐飲和客廳租賃服務",
       "ruleTitle": "Servicio de alimentación y renta de salones para eventos propios en El Salvador",
@@ -394,14 +394,14 @@
       ]
     },
     {
-      "id": "145014",
-      "document": "807",
+      "id": "300000029748122",
+      "document": "807,1",
       "process": "055/2026",
       "country": "區域／未載明",
       "industry": "設施與一般服務",
       "category": "服務",
       "method": "公開招標",
-      "published": "2026-10-15",
+      "published": "2026-10-20",
       "deadlineUtc": "2026-10-28T23:00:00.000Z",
       "fit": 35,
       "title": "年度關閉活動的概念化和製作活動的活動規劃服務",
@@ -424,30 +424,30 @@
         "【待校訂：分段保護翻譯】少於 5 年代 0 由 5 更多經驗 20 申請人必須證明執行至少三項( 3 (一)透過信件 3 A 4 經驗 18 客戶發出的參考、契約或購買訂單 3 歲月。"
       ],
       "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03814275-Aviso.pdf",
-      "translationFingerprint": "f71f073d1da46ec223e1142a625620ac4dffe8a582554f5f25dedca41ad3f07c",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "ad448d3b051ca8f2f6d36bd763e31dc59e6c64bd698d4d0ff95d66ea8982cfa3",
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-16T00:22:26.749346+00:00",
+      "translationUpdatedAt": "2026-10-20T03:21:20.869193+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
     },
     {
-      "id": "143014",
-      "document": "801",
+      "id": "300000029737912",
+      "document": "801,1",
       "process": "049/2026",
       "country": "區域／未載明",
       "industry": "設施與一般服務",
       "category": "服務",
       "method": "公開招標",
-      "published": "2026-10-02",
+      "published": "2026-10-19",
       "deadlineUtc": "2026-10-28T23:00:00.000Z",
       "fit": 35,
       "title": "社交廚房俱樂部 CABEI",
       "ruleTitle": "Ampliación de Cocina Club Social BCIE",
       "originalTitle": "049/2026 Ampliación de Cocina Club Social BCIE",
-      "summary": "CABEI 公開採購「社交廚房俱樂部 CABEI」。1.2 目的為 採購 CABEI 需要採購一個專門的建築和/或修復公司，以執行專案“擴充套件和修復 CABEI 社交俱樂部廚房”，旨在加強運營能力，功能，效率和安全性。 用於準備和服務食物的設施，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購建築和/或修復專業的公司，以執行“社會俱樂部廚房擴充套件和修復”專案 CABEI 為了加強設施的運營能力、功能、效率和安全性。 用於食物的準備和服務，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。",
+      "summary": "CABEI 公開採購「社交廚房俱樂部 CABEI」。完整工作範圍請以官方 TOR 為準。",
       "capabilities": [
         "設施管理"
       ],
@@ -455,19 +455,17 @@
       "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
       "amount": "未載明",
-      "documentSummary": "1.2 目的為 採購 CABEI 需要採購一個專門的建築和/或修復公司，以執行專案“擴充套件和修復 CABEI 社交俱樂部廚房”，旨在加強運營能力，功能，效率和安全性。 用於準備和服務食物的設施，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購建築和/或修復專業的公司，以執行“社會俱樂部廚房擴充套件和修復”專案 CABEI 為了加強設施的運營能力、功能、效率和安全性。 用於食物的準備和服務，從而為使用這些設施的合作夥伴、合作夥伴和客人提供更好的服務。 CABEI 已根據 CABEI 社會俱樂部廚房擴充套件和修復的專案，根據計劃、技術規格、工作量框和其他構成本過程的檔案的採購，旨在加強工作規格。 這些設施的運營能力、功能和安全性。 為了儘量減少對 CABEI 社會俱樂部運營的影響，承包商應在其建設方法、工作計劃、資源、成本和契約期限內考慮一系列執行，優先考慮外部工作、初步工作、設施。 補充和其他活動，可以發展，而不會直接影響廚房的運營。 門，窗戶和鋁和玻璃元素 範圍包括供應，製造，安裝，調整和封閉的門，",
+      "documentSummary": "官方案件頁提供：Anexo 9 Formato de Oferta Técnica.docx、Anexo 8 Especificaciones Técnicas Cocina.docx。目前未能擷取可翻譯文字，請直接查看附件。",
       "qualifications": [
-        "拆除必須透過控制的程式進行，避免對殘留在服務的結構、設施、終端和設備造成損害。"
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
       ],
       "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03792816-Aviso.pdf",
-      "translationFingerprint": "a7c4d2ffef5b08e114abcbd58174e7a423e5a85ed859928982fbcfe619b05da0",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx",
+      "translationFingerprint": "59b09125573475b80d53a583f33bb2700dc1f9a077081c7b7356c8319913e478",
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-04T13:12:39.087318+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
+      "translationUpdatedAt": "2026-10-20T03:21:20.870032+00:00",
+      "translationWarnings": []
     },
     {
       "id": "146012",
@@ -561,16 +559,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03790794-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "143014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03792816-Aviso.pdf"
-      },
-      {
-        "name": "049 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03792806-049%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
     "144011": [
       {
         "name": "058 2026 Términos de Referencia .pdf",
@@ -619,20 +607,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03812187-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "145014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03814275-Aviso.pdf"
-      },
-      {
-        "name": "055 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03814274-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 7- Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03814227-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "146012": [
       {
         "name": "Aviso.pdf",
@@ -655,6 +629,30 @@
       {
         "name": "056 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03817624-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "300000029737912": [
+      {
+        "name": "Anexo 9 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
+      }
+    ],
+    "300000029748122": [
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823775-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 7- Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ]
   },
@@ -715,7 +713,6 @@
         "url": "https://www.iisigroup.com/en/about-en/services/"
       }
     ],
-    "143014": [],
     "144011": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -739,9 +736,10 @@
     "144012": [],
     "145012": [],
     "145013": [],
-    "145014": [],
     "146012": [],
-    "147012": []
+    "147012": [],
+    "300000029737912": [],
+    "300000029748122": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",

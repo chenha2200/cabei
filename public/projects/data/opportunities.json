@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:21:06.236Z",
+  "generatedAt": "2026-10-20T03:21:00.379Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -45,6 +45,47 @@
       "revisionSourceTitle": "Construcción de obras civiles y electromecánicas bahías Agua Caliente -Sandino y La Virgen -Fortuna",
       "translationWarnings": [],
       "originalMethod": "Solicitud de Ofertas-1E-2S-Una Etapa-Dos Sobres"
+    },
+    {
+      "id": "283",
+      "document": "283",
+      "process": "2026CPN-0001-PROERI-MEP",
+      "originalTitle": "Estudios y diseño del centro educativo Nuevo Horizonte y Pedernal",
+      "title": "新地平線和皮德納爾教育中心的研究和設計",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/283-2026CPN-0001-PROERI-MEP",
+      "officialSummary": "El objetivo de esta contratación corresponde al desarrollo de los Estudios y Diseños de los centros educativos Pedernal y Nuevo Horizonte.",
+      "executor": "Ministerio de Educación Pública (MEP)",
+      "sourceLanguage": "es",
+      "country": "哥斯大黎加",
+      "industry": "個人／專業顧問",
+      "category": "顧問服務",
+      "method": "加速公開徵選",
+      "originalMethod": "Concurso Público Acelerado-SBCC-Selección Basada en Calidad y Costo",
+      "published": "2026-10-15",
+      "deadlineUtc": "2026-11-05T06:00:00.000Z",
+      "deadlineDate": "2026-11-05",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "95000.00",
+      "summary": "CABEI 公開採購「新地平線和皮德納爾教育中心的研究和設計」。這項合同的目的是發展佩德納爾和新地平線教育中心的研究和設計。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：這項合同的目的是發展佩德納爾和新地平線教育中心的研究和設計。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://e-proeri.org/#/ https://e-proeri.org/#/licitaciones",
+      "translationFingerprint": "1eff57ff2ad0fb0a1a866dfc5afd8897397fda1e03f66f90b7d945d871a51a4a",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-20T03:21:36.525596+00:00",
+      "documentAccessZh": "https://e-proeri.org/#/ https://e-proeri.org/#/licitaciones",
+      "translationWarnings": []
     },
     {
       "id": "278",
@@ -390,6 +431,92 @@
       "translationUpdatedAt": "2026-10-15T00:24:37.259169+00:00",
       "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5 國家採購和採購資訊系統 - GUATECOMPRAS - (www.guatecompras.gt) NOG 31283454",
       "translationWarnings": []
+    },
+    {
+      "id": "284",
+      "document": "284",
+      "process": "NIC-2025-2263-22822-B",
+      "originalTitle": "Adquisición de camionetas 4x4 (12 camionetas)",
+      "title": "【待校訂：分段翻譯】購買麵包車 4 頁:1 4 ( 12 (貨車)",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/284-NIC-2025-2263-22822-B",
+      "officialSummary": "Fortalecer las capacidades de acompañamiento territorial y procesos de producción, experimentación y transferencia de tecnologías, mediante la adquisición de medios de transporte para la operatividad y funcionalidad del Ministerio Agropecuario como institución rectora de las políticas públicas del sector agropecuario en Nicaragua, contribuyendo al fortalecimiento del desarrollo sostenible, la seguridad alimentaria, el incremento de la productividad y la mejora de las condiciones de vida de las familias productoras del país",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "個人／專業顧問",
+      "category": "貨品",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-19",
+      "deadlineUtc": "2026-12-03T06:00:00.000Z",
+      "deadlineDate": "2026-12-03",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "540000.00",
+      "summary": "CABEI 公開採購「【待校訂：分段翻譯】購買麵包車 4 頁:1 4 ( 12 (貨車)」。透過獲得運輸工具,加強領土配合和技術生產、試驗和轉讓過程的能力,使農業部作為國家公共政策的管理機構運作和發揮職能。 尼加拉瓜農業部門,有助於加強可持續發展、糧食安全、提高生產力和改善國家生產家庭的生活條件",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：透過獲得運輸工具,加強領土配合和技術生產、試驗和轉讓過程的能力,使農業部作為國家公共政策的管理機構運作和發揮職能。 尼加拉瓜農業部門,有助於加強可持續發展、糧食安全、提高生產力和改善國家生產家庭的生活條件",
+      "analysisMode": "offline-translation",
+      "documentAccess": "www.nicaraguacompra.gob.ni Oficinas de Coordinación General de Programas y Proyectos, Ubicada en Managua de la Estatua de Montoya 2 cuadras al norte, mano izquierda 2 piso, Managua Nicaragua.",
+      "translationFingerprint": "4f1826f1953f78fb5e5dd9e420f9b0e54de4c73ce6770bc25929174e4f19f504",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-20T03:21:40.184714+00:00",
+      "documentAccessZh": "www.nicaraguacompra.gob.ni 設在馬那瓜的尼加拉瓜馬那瓜蒙託亞2區角的方案和專案總協調辦公室,左手2樓。",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "285",
+      "document": "285",
+      "process": "NIC-2025-2338-16046-O",
+      "originalTitle": "Mejoramiento y ampliación del Sistema de Agua Potable de las ciudades de San Jorge y Buenos Aires",
+      "title": "改進和擴大聖豪爾赫和布宜諾斯艾利斯市的飲用水系統",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/285-NIC-2025-2338-16046-O",
+      "officialSummary": "“Mejoramiento y Ampliación del Sistema de Agua Potable de las ciudades de San Jorge y Buenos Aires”",
+      "executor": "Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-20",
+      "deadlineUtc": "2026-12-04T06:00:00.000Z",
+      "deadlineDate": "2026-12-04",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "9369616.17",
+      "summary": "CABEI 公開採購「改進和擴大聖豪爾赫和布宜諾斯艾利斯市的飲用水系統」。“改善和擴大聖豪爾赫市和布宜諾斯艾利斯市的飲用水系統”",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：“改善和擴大聖豪爾赫市和布宜諾斯艾利斯市的飲用水系統”",
+      "analysisMode": "offline-translation",
+      "documentAccess": "www.nicaraguacompra.gob.ni Unidad de Adquisiciones de la Gerencia de Proyectos e Inversiones, ubicada en las oficinas centrales de ENACAL, Km 5 Carretera Sur, contiguo a Hospital de Rehabilitación Aldo Chavarría, Managua, Nicaragua",
+      "translationFingerprint": "b88cc74317f220d8735af003908018e82cb3ea7b7d21f4f19e4a31fa78dabcb8",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-20T03:21:43.388889+00:00",
+      "documentAccessZh": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近",
+      "translationWarnings": []
     }
   ],
   "officialAttachments": {
@@ -411,7 +538,19 @@
         "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5"
       }
     ],
-    "282": []
+    "282": [],
+    "283": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://e-proeri.org/#/"
+      },
+      {
+        "name": "官方文件取得入口",
+        "url": "https://e-proeri.org/#/licitaciones"
+      }
+    ],
+    "284": [],
+    "285": []
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -498,7 +637,29 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "282": []
+    "282": [],
+    "283": [],
+    "284": [],
+    "285": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -594,6 +755,14 @@
     "8bbc87e3b27680d3b0b4093f78ea81a4fda5cceffaeaf9e4089d621c47a8a43c": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5 國家採購和採購資訊系統 - GUATECOMPRAS - (www.guatecompras.gt) NOG 31283454",
     "d330d88e06f3db8b01c1d120192364cab1d78be7bb818ea19d490543383d4005": "為領土技術援助裝置購置摩托車(41摩托車)。",
     "c30b4f25a3231e9f2e313a28462917ebf5cf9e346c6b797e6eb5b6f57a026da5": "透過獲得運輸工具(41摩托車),加強領土陪伴和技術援助的能力,以便開展生產基本穀物、蔬菜和健康柑橘作物種子的專案和開展該專案。 加強試驗和轉讓農業技術的能力,由作為尼加拉瓜農業部門公共政策管理機構的農業部實施,有助於加強可持續發展、安全和可持續發展。 糧食、提高生產力和改善生活條件。",
-    "3ce0745a4b9b3b093c19dbf4af40b31beafaaaafbfd141c02e514947fd675ee5": "財政和公共信貸部方案和專案總協調辦公室位於蒙託亞州立2c北部,左手為2do層。"
+    "3ce0745a4b9b3b093c19dbf4af40b31beafaaaafbfd141c02e514947fd675ee5": "財政和公共信貸部方案和專案總協調辦公室位於蒙託亞州立2c北部,左手為2do層。",
+    "fa15eeee721edb38d973b363c3f0227f19885591ae651f3726947be567d84a0a": "新地平線和皮德納爾教育中心的研究和設計",
+    "c682b1f73b036ec67747253404b245a3745792966a78f4fe78c294467a078599": "這項合同的目的是發展佩德納爾和新地平線教育中心的研究和設計。",
+    "226783411b802a76b092fd37d57fab2b93b7da0d70cc2fc7143e5696dad4d1e2": "【待校訂：分段翻譯】購買麵包車 4 頁:1 4  ( 12 (貨車)",
+    "1b095919acb603f49afd5d3d232e4175cb79e4677b2d55e7f3a9defad767f916": "透過獲得運輸工具,加強領土配合和技術生產、試驗和轉讓過程的能力,使農業部作為國家公共政策的管理機構運作和發揮職能。 尼加拉瓜農業部門,有助於加強可持續發展、糧食安全、提高生產力和改善國家生產家庭的生活條件",
+    "03485c29894f3a608ed0ef738acc0345acbf7ff7296abc1fbdd6471fea2ea66d": "www.nicaraguacompra.gob.ni 設在馬那瓜的尼加拉瓜馬那瓜蒙託亞2區角的方案和專案總協調辦公室,左手2樓。",
+    "a5e6df2ded15ef20c1c234ecdcd7de3733615cc45760d60b3614f16b3c17ab16": "改進和擴大聖豪爾赫和布宜諾斯艾利斯市的飲用水系統",
+    "b81b73452df5a7d8f5794125d7a82c9d3a0c6ecedf5c27105e31d89e2da911b3": "“改善和擴大聖豪爾赫市和布宜諾斯艾利斯市的飲用水系統”",
+    "553c1e2bcb52c8cffa64b9d39a620f76eae7af8c44d4349096bd6ec76ebdf27c": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近"
   }
 }
