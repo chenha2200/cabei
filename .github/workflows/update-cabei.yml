@@ -15,7 +15,7 @@ on:
       - ".github/workflows/update-cabei.yml"
   schedule:
     # GitHub Actions uses UTC. 00:00 UTC = 08:00 Asia/Taipei.
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
