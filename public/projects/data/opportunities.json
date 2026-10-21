@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:21:00.379Z",
+  "generatedAt": "2026-10-21T03:16:20.853Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -45,6 +45,47 @@
       "revisionSourceTitle": "Construcción de obras civiles y electromecánicas bahías Agua Caliente -Sandino y La Virgen -Fortuna",
       "translationWarnings": [],
       "originalMethod": "Solicitud de Ofertas-1E-2S-Una Etapa-Dos Sobres"
+    },
+    {
+      "id": "286",
+      "document": "286",
+      "process": "NIC-2026-2263-34819-S",
+      "originalTitle": "Contratación de los servicios de Calibración de un Calibrador patrón de presión digital (con bomba manual), con tres transductores de presión",
+      "title": "徵聘配有3個壓力感測器的數字壓力計(用人工泵)校準服務",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/286-NIC-2026-2263-34819-S",
+      "officialSummary": "Se requiere la necesidad de calibrar un calibrador patrón de presión digital con su bomba manual, con tres transductores de presión",
+      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
+      "sourceLanguage": "es",
+      "country": "尼加拉瓜",
+      "industry": "個人／專業顧問",
+      "category": "工程／服務",
+      "method": "價格比較",
+      "originalMethod": "Comparación de Precios-CP-Comparación de Precios",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-11-03T06:00:00.000Z",
+      "deadlineDate": "2026-11-03",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "21000.00",
+      "summary": "CABEI 公開採購「徵聘配有3個壓力感測器的數字壓力計(用人工泵)校準服務」。需要用手動泵校準數字壓力模式儀,並配備三個壓力感測器",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：需要用手動泵校準數字壓力模式儀,並配備三個壓力感測器",
+      "analysisMode": "offline-translation",
+      "documentAccess": "www.nicaraguacompra.gob.ni Oficinas de la Coordinación General de Programas y Proyectos, Estatua de Montoya, 2 c al norte, mano izquierda",
+      "translationFingerprint": "05e627e35788b31a3a0318e39763259269e00e8dd9e54417f84c0fef16563271",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-21T03:17:39.805014+00:00",
+      "documentAccessZh": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,蒙託亞州,2c向北,左手",
+      "translationWarnings": []
     },
     {
       "id": "283",
@@ -550,7 +591,8 @@
       }
     ],
     "284": [],
-    "285": []
+    "285": [],
+    "286": []
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -659,7 +701,8 @@
         "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
         "url": "https://www.ctci.com/"
       }
-    ]
+    ],
+    "286": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -763,6 +806,9 @@
     "03485c29894f3a608ed0ef738acc0345acbf7ff7296abc1fbdd6471fea2ea66d": "www.nicaraguacompra.gob.ni 設在馬那瓜的尼加拉瓜馬那瓜蒙託亞2區角的方案和專案總協調辦公室,左手2樓。",
     "a5e6df2ded15ef20c1c234ecdcd7de3733615cc45760d60b3614f16b3c17ab16": "改進和擴大聖豪爾赫和布宜諾斯艾利斯市的飲用水系統",
     "b81b73452df5a7d8f5794125d7a82c9d3a0c6ecedf5c27105e31d89e2da911b3": "“改善和擴大聖豪爾赫市和布宜諾斯艾利斯市的飲用水系統”",
-    "553c1e2bcb52c8cffa64b9d39a620f76eae7af8c44d4349096bd6ec76ebdf27c": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近"
+    "553c1e2bcb52c8cffa64b9d39a620f76eae7af8c44d4349096bd6ec76ebdf27c": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近",
+    "4f7216cdeb4f66164ff95b9e7c2ec29ae59efe11d06df98108f4e20e8f7dfc9a": "徵聘配有3個壓力感測器的數字壓力計(用人工泵)校準服務",
+    "8a61c08b8e415690acece9730dc999827ef751883df6f4765c1c7df347580b3d": "需要用手動泵校準數字壓力模式儀,並配備三個壓力感測器",
+    "d4d1a84ff5d7e71b5aba554486f6696b3f7da7b072d28ca1f415840a5f36617e": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,蒙託亞州,2c向北,左手"
   }
 }

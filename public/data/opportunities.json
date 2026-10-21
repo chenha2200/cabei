@@ -1,119 +1,7 @@
 {
-  "generatedAt": "2026-10-20T03:20:59.536Z",
+  "generatedAt": "2026-10-21T03:16:19.622Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "144012",
-      "document": "803",
-      "process": "053/2025",
-      "country": "薩爾瓦多",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-06",
-      "deadlineUtc": "2026-10-20T19:00:00.000Z",
-      "fit": 35,
-      "title": "薩爾瓦多的餐飲和客廳租賃服務",
-      "ruleTitle": "Servicio de alimentación y renta de salones para eventos propios en El Salvador",
-      "originalTitle": "053/2025 Servicio de alimentación y renta de salones para eventos propios en El Salvador",
-      "summary": "CABEI 公開採購「薩爾瓦多的餐飲和客廳租賃服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "US$10,000",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。 供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調: CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。 【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更",
-      "qualifications": [
-        "【待校訂：分段保護翻譯】至少 4 在市場上存在多年，並在提供類似服務方面有經驗。",
-        "供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調:",
-        "供應商應為契約提供有組織和組織機構活動的經驗的工作團隊，其中至少包括:",
-        "CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。",
-        "【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200 人或更多的人， 5 百分比 5 PTS 5 與他們相匹配 1 A 2 品質標準活動和 3 衛生保健；"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799751-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "90241751c11ca1d448427b80fea1b80eb06d0944b2ebd7f07ce853414de5d7ae",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-07T00:17:21.706500+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "145013",
-      "document": "806",
-      "process": "055/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-14",
-      "deadlineUtc": "2026-10-20T23:00:00.000Z",
-      "fit": 35,
-      "title": "Copilot Studio 人工智慧代理開發服務",
-      "ruleTitle": "“Servicio de Desarrollo de Agentes de Inteligencia Artificial de Copilot Studio”",
-      "originalTitle": "055 2026 “Servicio de Desarrollo de Agentes de Inteligencia Artificial de Copilot Studio”",
-      "summary": "CABEI 公開採購「Copilot Studio 人工智慧代理開發服務」。1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。 • 最低 7 資訊科技專業經驗。 • 最少 3 設計和實施人工智慧解決方案的經驗。 • 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。 • 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。 • 基於雲服務的企業建築設計經驗。",
-      "qualifications": [
-        "• 最低 7 資訊科技專業經驗。",
-        "• 最少 3 設計和實施人工智慧解決方案的經驗。",
-        "• 基於雲服務的企業建築設計經驗。",
-        "• 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。",
-        "• 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03812252-Aviso.pdf",
-      "translationFingerprint": "56c2e27e242edc3b47890ccadfe483a4f5818edaa324c4cebc7b1fbc75021a17",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-15T00:23:16.210747+00:00",
-      "translationWarnings": []
-    },
-    {
-      "id": "145012",
-      "document": "804",
-      "process": "052/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-14",
-      "deadlineUtc": "2026-10-20T23:00:00.000Z",
-      "fit": 35,
-      "title": "基於人工智慧的開發服務",
-      "ruleTitle": "\"Servicio de Desarrollo de Soluciones de Inteligencia Artificial basada",
-      "originalTitle": "052 2026 \"Servicio de Desarrollo de Soluciones de Inteligencia Artificial basada",
-      "summary": "CABEI 公開採購「基於人工智慧的開發服務」。DE LA 契約 本文件的目的是採購專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 CABEI (CABEI) 機構採購部門 邀請通知 052/2026 Tegucigalpa, 宏都拉斯 13 10月 2026 CABEI (CABEI) 邀請您參加收費過程。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "DE LA 契約 本文件的目的是採購專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 CABEI (CABEI) 機構採購部門 邀請通知 052/2026 Tegucigalpa, 宏都拉斯 13 10月 2026 CABEI (CABEI) 邀請您參加收費過程。 PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03812047-Aviso.pdf",
-      "translationFingerprint": "b45589b0a8f143f8e31908915a2abe68832c4303bf23fbe51ef417639b0e33f4",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-15T00:23:32.726115+00:00",
-      "translationWarnings": []
-    },
     {
       "id": "141011",
       "document": "794",
@@ -195,6 +83,122 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "149013",
+      "document": "811",
+      "process": "059/2026",
+      "country": "薩爾瓦多",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-20",
+      "deadlineUtc": "2026-10-22T23:00:00.000Z",
+      "fit": 35,
+      "title": "薩爾瓦多的餐飲和客廳租賃服務",
+      "ruleTitle": "“Servicio de alimentación y renta de salones para eventos propios en El Salvador”",
+      "originalTitle": "059 2026 “Servicio de alimentación y renta de salones para eventos propios en El Salvador”",
+      "summary": "CABEI 公開採購「薩爾瓦多的餐飲和客廳租賃服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$10,000",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 至少 4 市場存在多年，並在提供類似服務方面有經驗。 供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調: CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。 【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200",
+      "qualifications": [
+        "至少 4 市場存在多年，並在提供類似服務方面有經驗。",
+        "供應商必須在至少 1 活動中提供服務的經驗，其中包括 200 或更多人的營養服務，以及 5 V09-2026-1 開發的客廳和空間的可用性和空調:",
+        "供應商應為契約提供有組織和組織機構活動的經驗的工作團隊，其中至少包括:",
+        "CRITERIOS 標籤描述 評分 RANGOS DE 技術評分 超過 10 年 將給 5 PTS 公司 至少從 7 到 10 年 經驗 4 年 存在 在 3 PTS 1 5% 5 一般市場 和 經驗 在 4 到 6 年 提供 1 PTS 類似服務。",
+        "【待校訂：分段保護翻譯】少於 4 年代 0 PTS 2 至少在特定服務提供的經驗 1 包括在內的活動 3 或更多 3 營養服務活動 200 人或更多的人， 5 百分比 5 PTS 5 與他們相匹配 1 A 2 品質標準活動和 3 衛生保健；"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03825748-Aviso.pdf",
+      "translationFingerprint": "f494c7f1d264349a074f378268e54fb60e26987487f827b121562a3b5b0e15ab",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-21T03:16:47.314277+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "300000029747336",
+      "document": "804,1",
+      "process": "052/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-20",
+      "deadlineUtc": "2026-10-22T23:00:00.000Z",
+      "fit": 35,
+      "title": "基於 Azure IA 的人工智慧解決方案開發服務",
+      "ruleTitle": "\"Servicio de Desarrollo de Soluciones de Inteligencia Artificial basadas en Azure IA\"",
+      "originalTitle": "052 2026 \"Servicio de Desarrollo de Soluciones de Inteligencia Artificial basadas en Azure IA\"",
+      "summary": "CABEI 公開採購「基於 Azure IA 的人工智慧解決方案開發服務」。1.2 招標的目的為 1.2.1 本文的目的是採購一個專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的範圍 承包商必須根據銀行所要求的需求和平台和可用的資源提供基於 Microsoft Azure 的人工智慧解決方案開發服務(IA)。 銀行。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 招標的目的為 1.2.1 本文的目的是採購一個專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的範圍 承包商必須根據銀行所要求的需求和平台和可用的資源提供基於 Microsoft Azure 的人工智慧解決方案開發服務(IA)。 銀行。 具有設計和開發人工智慧解決方案的經驗，包括 Microsoft 平台，如 Azure IA、Azure Foundry、IA 服務等。 • 最低 7 資訊科技專業經驗。 • 最少 3 設計和實施人工智慧解決方案的經驗。 DE LA 契約 本文件的目的是採購專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。 承包商必須提交團隊的經驗，以提供所需服務。 為了評估供應商資源的培訓、經驗和能力，必須至少提交兩個(2)個人資料。 • 基於雲服務的企業建築設計經驗。",
+      "qualifications": [
+        "承包商必須提交團隊的經驗，以提供所需服務。",
+        "為了評估供應商資源的培訓、經驗和能力，必須至少提交兩個(2)個人資料。",
+        "• 最低 7 資訊科技專業經驗。",
+        "• 最少 3 設計和實施人工智慧解決方案的經驗。",
+        "• 基於雲服務的企業建築設計經驗。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03823989-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx",
+      "translationFingerprint": "49cb5237011b2e768d28f2a8c4b33d0c79d813853237fa1b20431a86a1fd6db2",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-21T03:17:01.952112+00:00",
+      "translationWarnings": []
+    },
+    {
+      "id": "300000029747286",
+      "document": "806,1",
+      "process": "055/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-20",
+      "deadlineUtc": "2026-10-22T23:00:00.000Z",
+      "fit": 35,
+      "title": "Copilot Studio 人工智慧代理開發服務",
+      "ruleTitle": "“Servicio de Desarrollo de Agentes de Inteligencia Artificial de Copilot Studio”",
+      "originalTitle": "055 2026 “Servicio de Desarrollo de Agentes de Inteligencia Artificial de Copilot Studio”",
+      "summary": "CABEI 公開採購「Copilot Studio 人工智慧代理開發服務」。1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 採購的目的為 1.2.1 本文的目的是採購一個專門為開發基於Microsoft Copilot Studio的人工智慧代理提供專業服務的公司。 1.3 要求服務的描述 1.3.1 服務的可用性 承包商必須根據銀行所要求的需求，並透過銀行所提供的平台和資源提供 Copilot Studio 人工智慧解決方案開發服務(IA)。 • 最低 7 資訊科技專業經驗。 • 最少 3 設計和實施人工智慧解決方案的經驗。 • 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。 • 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。 • 基於雲服務的企業建築設計經驗。",
+      "qualifications": [
+        "• 最低 7 資訊科技專業經驗。",
+        "• 最少 3 設計和實施人工智慧解決方案的經驗。",
+        "• 基於雲服務的企業建築設計經驗。",
+        "• 至少四年(4)在數字解決方案開發、配置或自動化方面的專業經驗。",
+        "• 最少 2 人工智慧 Copilot Studio 和 Power Platform 解決方案的經驗。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03824004-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx",
+      "translationFingerprint": "4b89a4f371bdacb84c7bbc8dc53a62d937bc08c014a26f709903d8599aca54a2",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-21T03:17:03.089232+00:00",
+      "translationWarnings": []
     },
     {
       "id": "147012",
@@ -351,6 +355,47 @@
       "ruleTitle": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
       "translationVersion": "offline-guard-v1",
       "translationWarnings": []
+    },
+    {
+      "id": "300000029755998",
+      "document": "809,1",
+      "process": "051/2026",
+      "country": "區域／未載明",
+      "industry": "一般供應",
+      "category": "貨品",
+      "method": "公開詢價",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 58,
+      "title": "採購 41 黃金認可 古代 總部和區域 2026.",
+      "ruleTitle": "Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
+      "originalTitle": "051/2026 Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
+      "summary": "CABEI 公開採購「採購 41 黃金認可 古代 總部和區域 2026.」。1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$10,000",
+      "documentSummary": "1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。 CABEI需要採購一個專門的供應商，以製造和供應41的黃金製作的14K認可零件，用於CABEI的員工，滿足10, 15和20的服務年份，在相應的年份，這些將交付在年度認可儀式 它在12月舉行。 公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。 至少有五年(5)的經驗。 如果交付的商品不符合契約要求，CABEI將通知契約人，以便在5工作日的最高期限內進行糾正，並能夠保留支付，直到全部滿足。 1.4 1.4.1. 供應商所需的總體和具體經驗 公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
+      "qualifications": [
+        "1.4 1.4.1. 供應商所需的總體和具體經驗",
+        "公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。",
+        "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。",
+        "至少有五年(5)的經驗。",
+        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf",
+      "translationFingerprint": "8aac1a5e24088e0f95f3506adabbd77d7a935ebf266c3c05c0fc3919745d2b6c",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-21T03:17:32.915519+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     },
     {
       "id": "144011",
@@ -569,44 +614,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03799249-Aviso.pdf"
       }
     ],
-    "144012": [
-      {
-        "name": "053 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03799751-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03799745-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 7 - Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03799732-Anexo%207%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "145012": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03812047-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03812039-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "145013": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03812252-Aviso.pdf"
-      },
-      {
-        "name": "055 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03812250-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03812187-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "146012": [
       {
         "name": "Aviso.pdf",
@@ -631,6 +638,20 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03817624-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
+    "149013": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825748-Aviso.pdf"
+      },
+      {
+        "name": "059 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825746-059%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 7 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825734-Anexo%207%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "300000029737912": [
       {
         "name": "Anexo 9 Formato de Oferta Técnica.docx",
@@ -639,6 +660,34 @@
       {
         "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
+      }
+    ],
+    "300000029755998": [
+      {
+        "name": "051 2026 Terminos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825973-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 5 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029747286": [
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03824004-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03824000-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823875-Aviso.pdf"
       }
     ],
     "300000029748122": [
@@ -653,6 +702,20 @@
       {
         "name": "Anexo 7- Formato de Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029747336": [
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823989-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "052 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823985-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823902-Aviso.pdf"
       }
     ]
   },
@@ -733,13 +796,14 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "144012": [],
-    "145012": [],
-    "145013": [],
     "146012": [],
     "147012": [],
+    "149013": [],
     "300000029737912": [],
-    "300000029748122": []
+    "300000029755998": [],
+    "300000029747286": [],
+    "300000029748122": [],
+    "300000029747336": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -863,6 +927,22 @@
     "cc42a9211fd93369a84d2675cd6b55fba215804576e33f4b24c4ff1256d8737b": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 而他 承包商，受承包商的執行。",
     "d7a19f2a6ed14c3ceeff1c5293d3287c4a2b04c3653e96b5de2198e4c1eec825": "描述 評分 RANGOS DE 技術評分 評分 超過 6 年經驗 15 將獲得更大的簽名評分經驗 超過 5 到 6 年經驗 12 1 15% 15.0% 總體現有 超過 1 到 4 年經驗 5 總體經驗。",
     "a46ad39d643c9c8d6d83fa66c9f03341f3822511e7183e2c78e3b86ca89ed7cf": "1.3.14 支援環境監測器符合環境管理系統(SGA)的 ISO 14001:2015認證標準，並支援每年維護認證所需的活動。",
-    "f6cb20ca10e2851dd9bc7ff1a4cb63d996c1edef853c174ec5efdf088f0b1a36": "承包商應當說明、詳細說明和文件提供所需服務的經驗:"
+    "f6cb20ca10e2851dd9bc7ff1a4cb63d996c1edef853c174ec5efdf088f0b1a36": "承包商應當說明、詳細說明和文件提供所需服務的經驗:",
+    "2159f9ec3fe8dac7b123ef493eeb29700cc3a346be39fa5e00531344a334887f": "至少 4 市場存在多年，並在提供類似服務方面有經驗。",
+    "517e3359e6ed3e6bb3ef7fd7ba160cba55500f695efe65bf37fc75c3715abe39": "基於 Azure IA 的人工智慧解決方案開發服務",
+    "12e01a662f78f080b93fce3a14e6fe3095b0f69651321f3b8731fefbe556f389": "1.2 招標的目的為 1.2.1 本文的目的是採購一個專門為開發基於 Microsoft Azure AI 的人工智慧解決方案提供專業服務的公司。",
+    "33d8ad129a1338678a3e2710d5131d251351eaa4a0af87a4ba81f27e750046da": "1.3 要求服務的描述 1.3.1 服務的範圍 承包商必須根據銀行所要求的需求和平台和可用的資源提供基於 Microsoft Azure 的人工智慧解決方案開發服務(IA)。 銀行。",
+    "b738492ae699d8dd71b2cd88b8fd4a4bfc5bcf8657725406cbb05e0f9780584f": "具有設計和開發人工智慧解決方案的經驗，包括 Microsoft 平台，如 Azure IA、Azure Foundry、IA 服務等。",
+    "45dce253b4e6afb70cb8f70621f17bd04c0317dc942ac4c90fc61bc904bf01e1": "承包商必須提交團隊的經驗，以提供所需服務。",
+    "e067c355f211a53a550cebae4c4ccd84b7977206cab79c344d566c24b01764d8": "為了評估供應商資源的培訓、經驗和能力，必須至少提交兩個(2)個人資料。",
+    "6f6666607fa2404addbf9c3da01ff57c511bd2c489acfd0336a618caafc8a8ae": "採購 41 黃金認可 古代 總部和區域 2026.",
+    "379c6d7c6a493c2b7068c289d7afe13aedff49e0abe5da8e4d6788110f173fd5": "1.2 採購的目的為 1.2.1.",
+    "63805b19aa92577fc57698648157ab33903ae4b15d3e1706c92519ef13874191": "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。",
+    "e8f5c17b289f3ba0346b6b98d6fc200c5ba1d835fe3f305917f72831709fa038": "CABEI需要採購一個專門的供應商，以製造和供應41的黃金製作的14K認可零件，用於CABEI的員工，滿足10, 15和20的服務年份，在相應的年份，這些將交付在年度認可儀式 它在12月舉行。",
+    "f1d33179972c6180f8f7d86482cf5e89b497bb178536129a1647f36a7d2302b9": "公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。",
+    "4673be0755c57abcc643bd9ab62ccca659421a54412e701a360eb09c0be301ab": "至少有五年(5)的經驗。",
+    "006e87b540f3a776a94bb122e28e7c6337337cf836504fbcb9ffd1d06638fce0": "如果交付的商品不符合契約要求，CABEI將通知契約人，以便在5工作日的最高期限內進行糾正，並能夠保留支付，直到全部滿足。",
+    "e2c8f7edf5c2caed0519667fab51a85f01002804d631fcc66eae3440960d8679": "1.4 1.4.1. 供應商所需的總體和具體經驗",
+    "fda1d9d656a8d6e9155c136f26819d49f06ae24d86c7a4a63c5ed226ac64a61b": "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。"
   }
 }
