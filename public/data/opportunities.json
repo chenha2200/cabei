@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:16:19.622Z",
+  "generatedAt": "2026-10-21T09:05:29.490Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -652,16 +652,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03825734-Anexo%207%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "300000029737912": [
-      {
-        "name": "Anexo 9 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      },
-      {
-        "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
-      }
-    ],
     "300000029755998": [
       {
         "name": "051 2026 Terminos de Referencia.pdf",
@@ -674,20 +664,6 @@
       {
         "name": "Anexo 5 - Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "300000029747286": [
-      {
-        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03824004-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      },
-      {
-        "name": "055 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03824000-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823875-Aviso.pdf"
       }
     ],
     "300000029748122": [
@@ -716,6 +692,30 @@
       {
         "name": "Aviso.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03823902-Aviso.pdf"
+      }
+    ],
+    "300000029747286": [
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03824004-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03824000-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823875-Aviso.pdf"
+      }
+    ],
+    "300000029737912": [
+      {
+        "name": "Anexo 9 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
       }
     ]
   },
@@ -799,11 +799,11 @@
     "146012": [],
     "147012": [],
     "149013": [],
-    "300000029737912": [],
     "300000029755998": [],
-    "300000029747286": [],
     "300000029748122": [],
-    "300000029747336": []
+    "300000029747336": [],
+    "300000029747286": [],
+    "300000029737912": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
