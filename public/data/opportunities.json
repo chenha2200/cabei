@@ -1,89 +1,7 @@
 {
-  "generatedAt": "2026-10-21T09:05:29.490Z",
+  "generatedAt": "2026-10-22T04:59:44.431Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "141011",
-      "document": "794",
-      "process": "052/2026",
-      "country": "尼加拉瓜",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-22",
-      "deadlineUtc": "2026-10-21T23:00:00.000Z",
-      "fit": 22,
-      "title": "CABEI 尼加拉瓜國家管理處實體安全服務",
-      "originalTitle": "052/2026 Servicios de Seguridad Física para el Edificio de la Gerencia de País del BCIE en Nicaragua",
-      "summary": "CABEI 公開採購「CABEI 尼加拉瓜國家管理處實體安全服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 該監督應包括至少每月與CABEI安全和運輸監督員進行面試，以確保提供的服務品質，並及時檢測任何缺陷，以便採取各個案例所涉及的糾正措施。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 該監督應包括至少每月與CABEI安全和運輸監督員進行面試，以確保提供的服務品質，並及時檢測任何缺陷，以便採取各個案例所涉及的糾正措施。 承包商必須在提供私人監控和安全服務方面至少有10年(10)的經驗，並證明了對所需服務的全面管理的運營、行政和技術能力，以及正式設定的採購過程。 安全人員的選擇、採購、培訓和監督，符合尼加拉瓜共和國適用的法律。 • 五年(5)在安全工作和人員監督經驗。 • 三年(3)安全工作經驗。 公司應當將初步提供服務的員工的履歷與證明其經驗、培訓和符合本條款所規定的要求的檔案附加到技術報價中。 參考的。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿足。 1.4 契約人 1.4.1. 所需的總體和具體經驗",
-      "qualifications": [
-        "1.4 契約人 1.4.1. 所需的總體和具體經驗",
-        "承包商必須在提供私人監控和安全服務方面至少有10年(10)的經驗，並證明了對所需服務的全面管理的運營、行政和技術能力，以及正式設定的採購過程。 安全人員的選擇、採購、培訓和監督，符合尼加拉瓜共和國適用的法律。",
-        "• 五年(5)在安全工作和人員監督經驗。",
-        "• 三年(3)安全工作經驗。",
-        "公司應當將初步提供服務的員工的履歷與證明其經驗、培訓和符合本條款所規定的要求的檔案附加到技術報價中。 參考的。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03775203-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "offline-translation",
-      "companyGroup": null,
-      "translationFingerprint": "b48fdf3625b4be356dce4baeb85074bd3016ece0b56c72a837be781044b44326",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:13:10.747987+00:00",
-      "ruleTitle": "CABEI 尼加拉瓜國家管理處實體安全服務",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "139011",
-      "document": "792",
-      "process": "048/2026",
-      "country": "瓜地馬拉",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-09-18",
-      "deadlineUtc": "2026-10-21T23:00:00.000Z",
-      "fit": 22,
-      "title": "CABEI 瓜地馬拉國家管理處安全服務",
-      "originalTitle": "048/2026 Servicios de Seguridad para la Gerencia de País del BCIE en la República de Guatemala",
-      "summary": "CABEI 公開採購「CABEI 瓜地馬拉國家管理處安全服務」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。 至少有10年(10)的安全服務經驗。 提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。 至少四年(4)安全工作和人員監督經驗。 至少有三年(3)安全工作經驗。 1.8.7 在契約提供其安全服務的期間，將負責損害，損失或損壞，除非偶然的情況，強度或情況證明，這些事件發生在情況下，避免這些事件不在上述範圍內。 個人。 1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
-      "qualifications": [
-        "1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
-        "至少有10年(10)的安全服務經驗。",
-        "提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。",
-        "至少四年(4)安全工作和人員監督經驗。",
-        "至少有三年(3)安全工作經驗。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "analysisMode": "offline-translation",
-      "companyGroup": null,
-      "translationFingerprint": "a94498c1a60c957488cdf9588688e0000cdfb449eaaba53499f769e062a72b59",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:11:50.887161+00:00",
-      "ruleTitle": "CABEI 瓜地馬拉國家管理處安全服務",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "149013",
       "document": "811",
@@ -439,6 +357,43 @@
       ]
     },
     {
+      "id": "149012",
+      "document": "810",
+      "process": "054/2026",
+      "country": "尼加拉瓜",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-10-28T23:00:00.000Z",
+      "fit": 35,
+      "title": "CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。",
+      "ruleTitle": "“Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
+      "originalTitle": "054/2026 “Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
+      "summary": "CABEI 公開採購「CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。 應確保服務品質，並確保銀行實現的環境管理體系目標的實現。 如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。 承包商的服務範圍包括以下活動的執行: 維護人員必須有 NFPA 72: 認證 清潔代理或VESDA系統認證的消防系統。",
+      "qualifications": [
+        "維護人員必須有 NFPA 72: 認證",
+        "清潔代理或VESDA系統認證的消防系統。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827099-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "aab843231ebbf75e8d10696b3772f2b402aa18c4adccdb210b3e3931ea9703d0",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:00:31.284532+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "300000029748122",
       "document": "807,1",
       "process": "055/2026",
@@ -513,6 +468,127 @@
       "translationWarnings": []
     },
     {
+      "id": "150015",
+      "document": "814",
+      "process": "059/2026",
+      "country": "尼加拉瓜",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-22",
+      "deadlineUtc": "2026-11-04T23:00:00.000Z",
+      "fit": 48,
+      "title": "CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件",
+      "ruleTitle": "Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio BCIE en Managua Nicaragua",
+      "originalTitle": "059/2026 Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio BCIE en Managua Nicaragua",
+      "summary": "CABEI 公開採購「CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件」。1.4 契約的目的為 1.4.1. 訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "1.4 契約的目的為 1.4.1. 訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。 CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案: 提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。 【待校訂：分段保護翻譯】由契約人委託的員工必須遵守本書中所規定的個人資料、經驗和責任。 1.8 來自現有 工作說明書（TOR） 契約範圍將由以下檔案定義，這些檔案必須全面解釋: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案: 1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。 1.5.2 供應商",
+      "qualifications": [
+        "CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案:",
+        "1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。",
+        "1.5.2 供應商必須具備必要的技術、行政、運營和財務能力，以完成所有所需的工作，包括適當的材料、工藝、設備、工具、技術指南、職業安全、清潔和回報。 干預的區域。",
+        "提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。",
+        "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案:"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03828310-059%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "2aec6746ef098122d9abe98e90a19486b8e5c97c81ce24956d3a8287d9d1b1f9",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:01:22.013735+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "150014",
+      "document": "813",
+      "process": "061/2026",
+      "country": "區域／未載明",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-22",
+      "deadlineUtc": "2026-11-04T23:00:00.000Z",
+      "fit": 48,
+      "title": "CS CABEI 足球場的第一階段設計和建設",
+      "ruleTitle": "\"Diseño y Construcción de la Etapa I de la cancha de Fútbol CS BCIE\"",
+      "originalTitle": "061/2026 \"Diseño y Construcción de la Etapa I de la cancha de Fútbol CS BCIE\"",
+      "summary": "CABEI 公開採購「CS CABEI 足球場的第一階段設計和建設」。根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段: 【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 UNA VEZ APROBADO 1.3 商品和服務的可用性 1.3.1 承包商必須開發符合足球場、周邊運動場和照明系統的設計，考慮到現場現有條件，並將其納入工程和建築標準。 功能、安全、可用性、排水、耐用性、維護和生命週期的成本。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要在手中的關鍵模",
+      "qualifications": [
+        "在 2020 和 2022 年間，在俱樂部的各個區域進行了修復工作；",
+        "【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
+        "設計師必須確定組成，填充，衝擊，適當時，可穿越性，摺疊耐力，尺寸穩定性，老化耐力，球的行為，玩家與表面相互作用和維護。",
+        "2 底層和大小基礎 厚度和材料應根據地質技術研究、排水、預定負載和體育系統要求確定。",
+        "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設中獲得已驗證的經驗的公司採購，以開發“社會俱樂部足球場第一階段設計和建設”專案。 CABEI”，包括兩個階段:"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03828183-061%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "3885153a60dee1504b179b122ca04c7edefa7df4cf48b2e699c7a4f87beead48",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:02:14.885960+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "149014",
+      "document": "812",
+      "process": "060/2026",
+      "country": "哥斯大黎加",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-11-04T23:00:00.000Z",
+      "fit": 48,
+      "title": "哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。",
+      "ruleTitle": "“Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
+      "originalTitle": "060/2026 “Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
+      "summary": "CABEI 公開採購「哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。」。SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。 因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。 1.3 1.3.1 服務的可用性 承包商必須按照本 工作說明書（TOR） 規定的工作，計劃，技術規格，數量框，技術和經濟報價，以及其他適用的契約檔案進行。 此外，承包商應執行受溼度影響的天空的清潔、處理和完成，特別是位於陽臺下的木天空，確保材料的相容性、適當的表面終結以及未受溼度影響的現有元素的保護。 替代。 承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。 承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的",
+      "qualifications": [
+        "因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。",
+        "承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。",
+        "承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。",
+        "UNA VEZ APROBADO 經驗必須透過執行契約、接收檔案、良好執行證書、滿意證書或先前客戶發出的參考信件進行認證。",
+        "1.5 需要的工作團隊經驗 1.5.1 承包商必須任命專案技術負責人，負責協調、技術指導、品質控制、工作執行跟蹤和與銀行溝通。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827618-060%202026%20Terminos%20de%20Referencia.pdf",
+      "translationFingerprint": "9189765a000b7f97fa25b2a18629660c47e123706f331f677394736c7c763fc3",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:02:26.690035+00:00",
+      "translationWarnings": []
+    },
+    {
       "id": "146012",
       "document": "805",
       "process": "054/2026",
@@ -562,22 +638,6 @@
       {
         "name": "Aviso.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03751662-Aviso.pdf"
-      }
-    ],
-    "139011": [
-      {
-        "name": "048 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03767787-048%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
-    "141011": [
-      {
-        "name": "052 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03775203-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03775199-Aviso.pdf"
       }
     ],
     "143012": [
@@ -638,6 +698,20 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03817624-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
+    "149012": [
+      {
+        "name": "054 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03827099-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825670-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 5- Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03824117-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "149013": [
       {
         "name": "Aviso.pdf",
@@ -652,46 +726,38 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03825734-Anexo%207%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "300000029755998": [
+    "149014": [
       {
-        "name": "051 2026 Terminos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf"
+        "name": "060 2026 Terminos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03827618-060%202026%20Terminos%20de%20Referencia.pdf"
       },
       {
         "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825973-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 5 - Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+        "url": "https://www.bcie.org/api/files/file/UCMFA03827617-Aviso.pdf"
       }
     ],
-    "300000029748122": [
+    "150014": [
       {
-        "name": "055 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+        "name": "061 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03828183-061%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       },
       {
         "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823775-Aviso.pdf"
+        "url": "https://www.bcie.org/api/files/file/UCMFA03827652-Aviso.pdf"
       },
       {
-        "name": "Anexo 7- Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+        "name": "Anexo 07 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03827093-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "300000029747336": [
+    "150015": [
       {
-        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823989-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      },
-      {
-        "name": "052 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823985-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+        "name": "059 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03828310-059%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       },
       {
         "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823902-Aviso.pdf"
+        "url": "https://www.bcie.org/api/files/file/UCMFA03828309-Aviso.pdf"
       }
     ],
     "300000029747286": [
@@ -708,6 +774,34 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03823875-Aviso.pdf"
       }
     ],
+    "300000029748122": [
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823775-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 7- Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029755998": [
+      {
+        "name": "051 2026 Terminos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825973-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 5 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "300000029737912": [
       {
         "name": "Anexo 9 Formato de Oferta Técnica.docx",
@@ -716,6 +810,20 @@
       {
         "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
+      }
+    ],
+    "300000029747336": [
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823989-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "052 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823985-052%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823902-Aviso.pdf"
       }
     ]
   },
@@ -740,8 +848,6 @@
         "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
       }
     ],
-    "139011": [],
-    "141011": [],
     "143012": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -798,12 +904,73 @@
     ],
     "146012": [],
     "147012": [],
+    "149012": [],
     "149013": [],
-    "300000029755998": [],
-    "300000029748122": [],
-    "300000029747336": [],
+    "149014": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "150014": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "150015": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
     "300000029747286": [],
-    "300000029737912": []
+    "300000029748122": [],
+    "300000029755998": [],
+    "300000029737912": [],
+    "300000029747336": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -943,6 +1110,33 @@
     "4673be0755c57abcc643bd9ab62ccca659421a54412e701a360eb09c0be301ab": "至少有五年(5)的經驗。",
     "006e87b540f3a776a94bb122e28e7c6337337cf836504fbcb9ffd1d06638fce0": "如果交付的商品不符合契約要求，CABEI將通知契約人，以便在5工作日的最高期限內進行糾正，並能夠保留支付，直到全部滿足。",
     "e2c8f7edf5c2caed0519667fab51a85f01002804d631fcc66eae3440960d8679": "1.4 1.4.1. 供應商所需的總體和具體經驗",
-    "fda1d9d656a8d6e9155c136f26819d49f06ae24d86c7a4a63c5ed226ac64a61b": "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。"
+    "fda1d9d656a8d6e9155c136f26819d49f06ae24d86c7a4a63c5ed226ac64a61b": "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。",
+    "382ffc94a10307a8820ac59082b3440526081bd7ccdae5e0049ea1a8083f2cca": "CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。",
+    "15e0f78ee74fd9bbf5846bb121dda4c23796a3438b23ae9475d4d3c7543eed58": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。",
+    "968c2fb1db6623586f544f1792b8305c24b4e21f1cef1c8aa684bcf8ef3c9935": "一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
+    "fc52fb645d6783c695207dbba482310664210b1b3639af8d3f56f78e64454ffc": "應確保服務品質，並確保銀行實現的環境管理體系目標的實現。",
+    "65314b992254af373d73b394c538dafe01b229629450236e47317640e74f4af2": "如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。",
+    "a2211316fe34e940b46c53aa88b13e8bed5ed7fdb3ad9f1965dc99f4fe905db9": "承包商的服務範圍包括以下活動的執行:",
+    "0dbd1603a7e28e70f1a6dbb7e681620f5b22dc9542118dd64a464f2da99a6b65": "維護人員必須有 NFPA 72: 認證",
+    "4ce2145280d7f9b110e317cf8494a44b0cfc1a1322b85391d86073e0da68a3de": "清潔代理或VESDA系統認證的消防系統。",
+    "23d4e9e29a56d5a8c8f781228c0484086a4a789d557c27917652d8b0de5d405d": "CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件",
+    "493e2e7336a28513ca40fc366306befee0fe10506cc73de4a06ae5b73faa100f": "1.4 契約的目的為 1.4.1.",
+    "ed92430f8f575568b4f1bfd5c16a87a76d6baa38c24e0f295dff4cfb956ac38b": "訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。",
+    "d9a88e972a952829e0005221a020d1ef7c365126a4f86f06db21627df87c800a": "CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案:",
+    "2e5b78f2a84af934e6d96c317de5adc25250d57d54a69817dcc259e8f3ab7748": "提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。",
+    "1e7e8168c2d76217af2fcfa325683815bde75170aa1bc5f7f0d88641bf2a6d29": "【待校訂：分段保護翻譯】由契約人委託的員工必須遵守本書中所規定的個人資料、經驗和責任。 1.8 來自現有 工作說明書（TOR） 契約範圍將由以下檔案定義，這些檔案必須全面解釋:",
+    "daa78df630729c21e796d640f3673ba3a505635fe0697ef7643c6e5a248f0406": "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案:",
+    "68c4396f1497c7db80739a325c58f4c60c64ee32ff3141fb72bdc47b2dd8f252": "1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。",
+    "d1b522942d2147ffbe1dda8c10a6fdb0cb85e531d16412203a38265f08e1c42a": "1.5.2 供應商必須具備必要的技術、行政、運營和財務能力，以完成所有所需的工作，包括適當的材料、工藝、設備、工具、技術指南、職業安全、清潔和回報。 干預的區域。",
+    "2045cfce94ef5217561047e3ce9f2f25b3402f4445339d36effcd12754013143": "CS CABEI 足球場的第一階段設計和建設",
+    "02f62b14818b45c031bda9e1fa1f8051980e76fa39e1d57480fcc3768292e895": "根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。",
+    "d216ccdea3e70a3f0e4fade85b950d7387adc10990f8a342895005be19f6b0a0": "【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
+    "d12fc6d295ec5b9219d617b54f8706683ae0dea7912db7b0fba68a9ba38fd0fd": "UNA VEZ APROBADO 1.3 商品和服務的可用性 1.3.1 承包商必須開發符合足球場、周邊運動場和照明系統的設計，考慮到現場現有條件，並將其納入工程和建築標準。 功能、安全、可用性、排水、耐用性、維護和生命週期的成本。",
+    "edaa83d7abb6075b3ea27872c670b4b75a1380bd1a15f62749105296b97b32c8": "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設中獲得已驗證的經驗的公司採購，以開發“社會俱樂部足球場第一階段設計和建設”專案。 CABEI”，包括兩個階段:",
+    "24e308f4639b2173dd4d41f958ef7a168e4fa6637d2936a7d4317120b566a588": "在 2020 和 2022 年間，在俱樂部的各個區域進行了修復工作；",
+    "b51915e188247c870751716a91a2f0317f21e56d47cb27dfe35109e4e8c1e655": "設計師必須確定組成，填充，衝擊，適當時，可穿越性，摺疊耐力，尺寸穩定性，老化耐力，球的行為，玩家與表面相互作用和維護。",
+    "66604a38d3e9687bd3e0138f6fe420aea584b7c534c5c44cb08d232869d4562a": "2 底層和大小基礎 厚度和材料應根據地質技術研究、排水、預定負載和體育系統要求確定。",
+    "b427b5aabe6557137b3ab300c3c4991daff5d813deef279e9ad212abba92a239": "此外，承包商應執行受溼度影響的天空的清潔、處理和完成，特別是位於陽臺下的木天空，確保材料的相容性、適當的表面終結以及未受溼度影響的現有元素的保護。 替代。",
+    "e76fe9d8982c7d2539fe5356bee7bc76a8b2c4915febedf01f364831ff4e83ec": "UNA VEZ APROBADO 經驗必須透過執行契約、接收檔案、良好執行證書、滿意證書或先前客戶發出的參考信件進行認證。"
   }
 }

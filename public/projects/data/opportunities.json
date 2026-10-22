@@ -1,7 +1,50 @@
 {
-  "generatedAt": "2026-10-21T03:16:20.853Z",
+  "generatedAt": "2026-10-22T04:59:45.045Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
+    {
+      "id": "287",
+      "document": "287",
+      "process": "GTM-2026-2181DEFENSAPP-34039-CI",
+      "originalTitle": "IDPP-01 Contratación de una Persona Individual Ingeniero/Arquitecto como Supervisor, para la Mejora de Sede Central, Mejoramiento de las instalaciones actuales del edificio IDPP Central (Sistema de agua)",
+      "title": "IDPP-01 徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/287-GTM-2026-2181DEFENSAPP-34039-CI",
+      "officialSummary": "Contratación de una Persona Individual Ingeniero/Arquitecto como Supervisor, para la Mejora de Sede Central, Mejoramiento de las instalaciones actuales del edificio IDPP Central (Sistema de agua).",
+      "executor": "Instituto de la Defensa Pública Penal de Guatemala (IDPP)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "資格比較",
+      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-10-14",
+      "deadlineUtc": "2026-10-23T06:00:00.000Z",
+      "deadlineDate": "2026-10-23",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "15500.00",
+      "summary": "CABEI 公開採購「IDPP-01 徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善」。徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 ó en la dirección: 7ª. Avenida 10-35, Zona 1, Tercer Nivel, Oficina 3-12 Unidad Especial de Ejecución del Programa BCIE2181",
+      "translationFingerprint": "39d31d184379d485e7a04dc02d1322971003533f4ff3334cbcb082c22a227089",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-22T05:02:35.956804+00:00",
+      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5或:7a.10-35,區1,三級,3-12辦公室方案執行特別股BCIE2181",
+      "translationWarnings": []
+    },
     {
       "id": "264",
       "document": "264",
@@ -592,7 +635,13 @@
     ],
     "284": [],
     "285": [],
-    "286": []
+    "286": [],
+    "287": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5"
+      }
+    ]
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -702,7 +751,8 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "286": []
+    "286": [],
+    "287": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -809,6 +859,9 @@
     "553c1e2bcb52c8cffa64b9d39a620f76eae7af8c44d4349096bd6ec76ebdf27c": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近",
     "4f7216cdeb4f66164ff95b9e7c2ec29ae59efe11d06df98108f4e20e8f7dfc9a": "徵聘配有3個壓力感測器的數字壓力計(用人工泵)校準服務",
     "8a61c08b8e415690acece9730dc999827ef751883df6f4765c1c7df347580b3d": "需要用手動泵校準數字壓力模式儀,並配備三個壓力感測器",
-    "d4d1a84ff5d7e71b5aba554486f6696b3f7da7b072d28ca1f415840a5f36617e": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,蒙託亞州,2c向北,左手"
+    "d4d1a84ff5d7e71b5aba554486f6696b3f7da7b072d28ca1f415840a5f36617e": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,蒙託亞州,2c向北,左手",
+    "7aff6aa6d48403f9a32eead1b7c2944a4b3d0b5b15c017045cea4d116da759cd": "IDPP-01 徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善",
+    "4942d7c195084415d3297d9b2ed54cd81d3a25b50b8dd857a24ad1b14c73a410": "徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善。",
+    "16785b4a69b2d39b2d65f7de40258502aac37b44281f98d28e001962b01dce1d": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5或:7a.10-35,區1,三級,3-12辦公室方案執行特別股BCIE2181"
   }
 }
