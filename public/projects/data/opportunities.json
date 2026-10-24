@@ -1,50 +1,7 @@
 {
-  "generatedAt": "2026-10-22T04:59:45.045Z",
+  "generatedAt": "2026-10-24T04:46:14.834Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "287",
-      "document": "287",
-      "process": "GTM-2026-2181DEFENSAPP-34039-CI",
-      "originalTitle": "IDPP-01 Contratación de una Persona Individual Ingeniero/Arquitecto como Supervisor, para la Mejora de Sede Central, Mejoramiento de las instalaciones actuales del edificio IDPP Central (Sistema de agua)",
-      "title": "IDPP-01 徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/287-GTM-2026-2181DEFENSAPP-34039-CI",
-      "officialSummary": "Contratación de una Persona Individual Ingeniero/Arquitecto como Supervisor, para la Mejora de Sede Central, Mejoramiento de las instalaciones actuales del edificio IDPP Central (Sistema de agua).",
-      "executor": "Instituto de la Defensa Pública Penal de Guatemala (IDPP)",
-      "sourceLanguage": "es",
-      "country": "瓜地馬拉",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
-      "published": "2026-10-14",
-      "deadlineUtc": "2026-10-23T06:00:00.000Z",
-      "deadlineDate": "2026-10-23",
-      "capabilities": [
-        "水利工程",
-        "土木施工",
-        "測量與施工管理"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "15500.00",
-      "summary": "CABEI 公開採購「IDPP-01 徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善」。徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 ó en la dirección: 7ª. Avenida 10-35, Zona 1, Tercer Nivel, Oficina 3-12 Unidad Especial de Ejecución del Programa BCIE2181",
-      "translationFingerprint": "39d31d184379d485e7a04dc02d1322971003533f4ff3334cbcb082c22a227089",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-22T05:02:35.956804+00:00",
-      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5或:7a.10-35,區1,三級,3-12辦公室方案執行特別股BCIE2181",
-      "translationWarnings": []
-    },
     {
       "id": "264",
       "document": "264",
@@ -474,6 +431,51 @@
       ]
     },
     {
+      "id": "289",
+      "document": "289",
+      "process": "CPI-SIT-BCIE-003-2026",
+      "originalTitle": "Diseño y Supervisión de la rehabilitación de la Carretera Tela-La Ceiba",
+      "title": "Tela-La Ceiba公路修復工程的設計和監督",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/289-CPI-SIT-BCIE-003-2026",
+      "officialSummary": "Servicios de Consultoría para el Diseño y posterior Supervisión de la Rehabilitación y Ampliación de la Carretera Tela – La Ceiba. Lote No.1: Tela – Siempre Viva - Lote No.2: Siempre Viva – San Francisco - Lote No. 3: San Francisco – La Ceiba",
+      "executor": "Secretaría de Infraestructura y Transporte (SIT)",
+      "sourceLanguage": "es",
+      "country": "宏都拉斯",
+      "industry": "基礎設施與工程",
+      "category": "顧問服務",
+      "method": "加速公開徵選",
+      "originalMethod": "Concurso Público Acelerado-SBCC-Selección Basada en Calidad y Costo",
+      "published": "2026-10-23",
+      "deadlineUtc": "2026-11-23T06:00:00.000Z",
+      "deadlineDate": "2026-11-23",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "7600000.00",
+      "summary": "CABEI 公開採購「Tela-La Ceiba公路修復工程的設計和監督」。【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
+      "analysisMode": "offline-translation",
+      "documentAccess": "Para descarga en el sitio web: www.honducompras.gob.hn Para descarga en el sitio web: www.honducompras.gob.hn",
+      "translationFingerprint": "8aae9eb198bf48e0ff9b9ec91a28bbf644dcf570e425e86621e23cefac65e10a",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-24T04:47:29.303932+00:00",
+      "documentAccessZh": "可在以下網址下載:www.honducompras.gob.hn,可在以下網址上下載:http://www.handucompras.gov.hn。",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "281",
       "document": "281",
       "process": "GTM-ODSJ-2181JUDICIAL-1622-O",
@@ -601,6 +603,51 @@
       "translationUpdatedAt": "2026-10-20T03:21:43.388889+00:00",
       "documentAccessZh": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近",
       "translationWarnings": []
+    },
+    {
+      "id": "288",
+      "document": "288",
+      "process": "CRI-2026-2341-34907-O",
+      "originalTitle": "Diseño y construcción proyecto integral ruta No. 1: corredor San José-San Ramón.",
+      "title": "設計和建造專案第1:走廊聖何塞-聖拉蒙。",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/288-CRI-2026-2341-34907-O",
+      "officialSummary": "La República de Costa Rica y el Consejo Nacional de Vialidad, Organismo Ejecutor del Préstamo ha recibido financiación por un monto equivalente a US$ 770,000,000.00 del Banco Centroamericano de Integración Económica para cubrir el costo del Proyecto de Ampliación y Mejoramiento del Corredor Vial San José – San Ramón y tiene la intención de aplicar parte de los ingresos a pagos por bienes, las obras, los servicios relacionados y los servicios de consultoría que se vayan a contratar en el marco del proyecto. Este proyecto será financiado conjuntamente por Fondo OPEP para el Desarrollo Internacional.",
+      "executor": "Consejo Nacional de Vialidad - Ruta Uno (CONAVI)",
+      "sourceLanguage": "es",
+      "country": "哥斯大黎加",
+      "industry": "基礎設施與工程",
+      "category": "工程／服務",
+      "method": "徵求報價／一階段兩信封",
+      "originalMethod": "Solicitud de Ofertas-1E-2S-Una Etapa-Dos Sobres",
+      "published": "2026-10-26",
+      "deadlineUtc": "2027-04-21T06:00:00.000Z",
+      "deadlineDate": "2027-04-21",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "687374270.09",
+      "summary": "CABEI 公開採購「設計和建造專案第1:走廊聖何塞-聖拉蒙。」。【待校訂：分段翻譯】哥斯大黎加共和國和全國道路交通委員會,即貸款執行機構,收到了相當於以下數額的資金: US $ 770,000,000.00 中美洲經濟一體化銀行支付桑公路走廊擴大和改善專案的費用 【待校訂：分段翻譯】何塞-聖拉蒙,並打算將部分收入用於在專案框架內簽訂合同的貨物、工程、相關服務和諮詢服務。 OPEP 發展會議 國際。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】哥斯大黎加共和國和全國道路交通委員會,即貸款執行機構,收到了相當於以下數額的資金: US $ 770,000,000.00 中美洲經濟一體化銀行支付桑公路走廊擴大和改善專案的費用 【待校訂：分段翻譯】何塞-聖拉蒙,並打算將部分收入用於在專案框架內簽訂合同的貨物、工程、相關服務和諮詢服務。 OPEP 發展會議 國際。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://portal.conavi.go.cr/licitaciones/ 100 metros oeste de la Facultad de Derecho de la Universidad de Costa Rica. Edificio Dúo, San Pedro de Montes de Oca. Lunes a viernes, 7:00 a. m. a 3:00 p. m.",
+      "translationFingerprint": "04faae61bc137cffb828c9708f5fccbad7565fe5c429fd16ee3e88de3b4d1d32",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-24T04:47:43.124904+00:00",
+      "documentAccessZh": "哥斯大黎加大學法學院以西https://portal.conavi.go.cr/licitaciones/ 100米,Duo大樓,San Pedro de Montes de Oca.星期一至星期五,7:00 上午至3:00p.m。",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     }
   ],
   "officialAttachments": {
@@ -636,12 +683,13 @@
     "284": [],
     "285": [],
     "286": [],
-    "287": [
+    "288": [
       {
         "name": "官方文件取得入口",
-        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5"
+        "url": "https://portal.conavi.go.cr/licitaciones/"
       }
-    ]
+    ],
+    "289": []
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -752,7 +800,46 @@
       }
     ],
     "286": [],
-    "287": []
+    "288": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "289": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -862,6 +949,12 @@
     "d4d1a84ff5d7e71b5aba554486f6696b3f7da7b072d28ca1f415840a5f36617e": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,蒙託亞州,2c向北,左手",
     "7aff6aa6d48403f9a32eead1b7c2944a4b3d0b5b15c017045cea4d116da759cd": "IDPP-01 徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善",
     "4942d7c195084415d3297d9b2ed54cd81d3a25b50b8dd857a24ad1b14c73a410": "徵聘一名工程師/建築師擔任主管,負責總部的改進、IDPP中央大樓(水系統)現有設施的改善。",
-    "16785b4a69b2d39b2d65f7de40258502aac37b44281f98d28e001962b01dce1d": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5或:7a.10-35,區1,三級,3-12辦公室方案執行特別股BCIE2181"
+    "16785b4a69b2d39b2d65f7de40258502aac37b44281f98d28e001962b01dce1d": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32356633&o=5或:7a.10-35,區1,三級,3-12辦公室方案執行特別股BCIE2181",
+    "cf38b59bb7d2af4f5f79c265195ae0ca4d576790e198de58a71ebe81ecabcda3": "Tela-La Ceiba公路修復工程的設計和監督",
+    "7ca809666cb76eb3a33829a061c9d2d470462e1070f178d930f4f8a6175ca39a": "【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
+    "dd428eff43ba4a2b79d53ba3bc4f78d97ba65d8be45c3e9d8b9dde32324838a6": "可在以下網址下載:www.honducompras.gob.hn,可在以下網址上下載:http://www.handucompras.gov.hn。",
+    "29a777a3b7d62dc9ab0ba4e3eb52c7041cf5000def305bccb752d47b7f2a37b0": "設計和建造專案第1:走廊聖何塞-聖拉蒙。",
+    "e4df7f935f56cd39cd926b53d8fbaed699f439cdf72b6d3740f9b9d105fa495f": "【待校訂：分段翻譯】哥斯大黎加共和國和全國道路交通委員會,即貸款執行機構,收到了相當於以下數額的資金: US $  770,000,000.00 中美洲經濟一體化銀行支付桑公路走廊擴大和改善專案的費用 【待校訂：分段翻譯】何塞-聖拉蒙,並打算將部分收入用於在專案框架內簽訂合同的貨物、工程、相關服務和諮詢服務。 OPEP 發展會議 國際。",
+    "05f1d6cbdc72f377fe5fb62b21f224c793c66a8a9cca85afa1cd818b3610bc86": "哥斯大黎加大學法學院以西https://portal.conavi.go.cr/licitaciones/ 100米,Duo大樓,San Pedro de Montes de Oca.星期一至星期五,7:00 上午至3:00p.m。"
   }
 }

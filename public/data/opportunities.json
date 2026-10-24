@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:00:46.201Z",
+  "generatedAt": "2026-10-24T04:46:13.586Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -591,6 +591,41 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "150016",
+      "document": "817",
+      "process": "056/2026",
+      "country": "區域／未載明",
+      "industry": "專業顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-10-23",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 62,
+      "title": "CABEI 可持續金融中介的數字平台",
+      "ruleTitle": "Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
+      "originalTitle": "056/2026 Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
+      "summary": "CABEI 公開採購「CABEI 可持續金融中介的數字平台」。以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$1,000,000",
+      "documentSummary": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。 • 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。 諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。 以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
+      "qualifications": [
+        "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
+        "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03831859-Aviso.pdf",
+      "translationFingerprint": "555421cedff843717a3df37d1e602dcd8881cc1d14cdfe0771bbb562ae4c5c0f",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
+      "translationWarnings": []
     }
   ],
   "officialAttachments": {
@@ -734,18 +769,14 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03828309-Aviso.pdf"
       }
     ],
-    "300000029755998": [
-      {
-        "name": "051 2026 Terminos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf"
-      },
+    "150016": [
       {
         "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825973-Aviso.pdf"
+        "url": "https://www.bcie.org/api/files/file/UCMFA03831859-Aviso.pdf"
       },
       {
-        "name": "Anexo 5 - Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+        "name": "056 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03831858-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
     "300000029748122": [
@@ -770,6 +801,20 @@
       {
         "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
+      }
+    ],
+    "300000029755998": [
+      {
+        "name": "051 2026 Terminos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825973-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 5 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ]
   },
@@ -913,9 +958,10 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000029755998": [],
+    "150016": [],
     "300000029748122": [],
-    "300000029737912": []
+    "300000029737912": [],
+    "300000029755998": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -1100,6 +1146,12 @@
     "4f0c636f65b497474208a3c0aef0020dc9d71fac6f3f9aa0d4cc595532cfed32": "SGCN業務連續性管理規則和手冊的諮詢和審查，以便顧問確定漏洞，併發出必要的調整或改進建議，以便將其與ISO 22301標準的要求相匹配，並支援認證過程。",
     "f203c507a444812d39f80da69bbab24fd9d772d224d7ac2f88b34621582fc605": "基於結果，應提出必要的措施，以解決可能被確認的不符合性，以便為銀行進行正式審計。",
     "67b24e4baaacdc43be3070270c1e5be6d70f059d7510a591883d0c274ca9af97": "顧問必須證明至少10年(10)的經驗，在提供與業務連續性相關的諮詢服務，組織耐力，危機管理，風險管理，管理系統或審計，最好在行業組織。 金融機構、國際機構或公共機構。",
-    "3ebed55fcb576f9410f3d42e43e5acec0605d1c518f5e0b6b3a7bbf230567df8": "1.5.4 SGCN的協商、技術驗證和過程、程式、產品和服務的可追蹤性，包括觀察、分裂、改進機會和建議，以便與認證目的適用的要求進行調整。"
+    "3ebed55fcb576f9410f3d42e43e5acec0605d1c518f5e0b6b3a7bbf230567df8": "1.5.4 SGCN的協商、技術驗證和過程、程式、產品和服務的可追蹤性，包括觀察、分裂、改進機會和建議，以便與認證目的適用的要求進行調整。",
+    "363cd8814c46c79a6d80738caf1a1a9ec81f2ef56f2838c3b5136d8b46f1ab2d": "CABEI 可持續金融中介的數字平台",
+    "014a7406fdaff59d0df804a91d792c7e9b220e83b64d8a66bdd9bf303cdfb8e2": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。",
+    "522a5d0687fc2f055589a0756654d1971337893c97564b4017f5ce582ae03819": "目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
+    "85db0a1643405646ba5cacf1eb5d9e1bcf33e29ef46ad0ef3ada35041e8ffd3c": "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
+    "2e996052ee02b091e228fc1065a3d2d6f1d21847ae5e80132086415108288b44": "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。",
+    "0b5573fbc4e7ae9192e0700911d04d33e0c64e7972b905b0e4f748120b0c6f1d": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。"
   }
 }
