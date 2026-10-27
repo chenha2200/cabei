@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:46:14.834Z",
+  "generatedAt": "2026-10-27T05:14:47.359Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -170,6 +170,47 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "291",
+      "document": "291",
+      "process": "SLV-2025-PRE-4/2025-25684-S",
+      "originalTitle": "Contratación de servicios de diseño y producción de material de visibilidad 1) Video explicativo subtitulado en inglés y documento diagramado sobre el sistema de indicadores regionales de seguridad, y 2) Video explicativo subtitulado en inglés y documento diagramado sobre instrumentos relativos a transparencia",
+      "title": "採購能見度材料1的設計和製作服務)英文字幕解釋性影片和關於區域安全指標系統和2的檔案圖解。 透明度",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/291-SLV-2025-PRE-4%2F2025-25684-S",
+      "officialSummary": "Contratar los servicios de una productora audiovisual para desarrollar un video institucional que comunique los principales avances y resultados del proyecto, destacando su contribución al fortalecimiento de la transparencia, la gestión de la información y la rendición de cuentas en la SG-SICA.",
+      "executor": "Secretaría General del Sistema de la Integración Centroamericana SG-SICA",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人／專業顧問",
+      "category": "工程／服務",
+      "method": "價格比較",
+      "originalMethod": "Comparación de Precios-CP-Comparación de Precios",
+      "published": "2026-10-26",
+      "deadlineUtc": "2026-11-09T06:00:00.000Z",
+      "deadlineDate": "2026-11-09",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "8000.00",
+      "summary": "CABEI 公開採購「採購能見度材料1的設計和製作服務)英文字幕解釋性影片和關於區域安全指標系統和2的檔案圖解。 透明度」。聘請一名視聽製作人提供服務,製作一個機構影片,介紹該專案的主要進展和成果,突出介紹其對加強SG-SICA的透明度、資訊管理和問責制的貢獻。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：聘請一名視聽製作人提供服務,製作一個機構影片,介紹該專案的主要進展和成果,突出介紹其對加強SG-SICA的透明度、資訊管理和問責制的貢獻。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://sicadigital.sica.int/4ib4alC https://sicadigital.sica.int/4ib4alC",
+      "translationFingerprint": "c983dce84ea8e0994583317720865f2d28dc432ae96a9200ccbc04921f5e54d6",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-27T05:15:29.331103+00:00",
+      "documentAccessZh": "https://sicadigital.sica.int/4ib4alC https://sicadigital.sica.int/4ib4alC 鍵盤",
+      "translationWarnings": []
     },
     {
       "id": "280",
@@ -465,12 +506,12 @@
       ],
       "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
       "analysisMode": "offline-translation",
-      "documentAccess": "Para descarga en el sitio web: www.honducompras.gob.hn Para descarga en el sitio web: www.honducompras.gob.hn",
-      "translationFingerprint": "8aae9eb198bf48e0ff9b9ec91a28bbf644dcf570e425e86621e23cefac65e10a",
+      "documentAccess": "Para descarga en el sitio web: www.honducompras.gob.hn o puede acceder directamente copiando el siguiente enlace en su navegador: http://t.ly/kjghG Para descarga en el sitio web: www.honducompras.gob.hn",
+      "translationFingerprint": "06d250b63a67189a5333bf8f6d600651b7b057b3a734c1f4e553f5025eec09f8",
       "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-24T04:47:29.303932+00:00",
-      "documentAccessZh": "可在以下網址下載:www.honducompras.gob.hn,可在以下網址上下載:http://www.handucompras.gov.hn。",
+      "translationUpdatedAt": "2026-10-27T05:15:30.174241+00:00",
+      "documentAccessZh": "可在網站www.honducompras.gob.hn上下載,也可以在瀏覽器上覆制以下連結:http://t.ly/kjghG。",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -605,6 +646,47 @@
       "translationWarnings": []
     },
     {
+      "id": "290",
+      "document": "290",
+      "process": "LPI02/2026-FGR-BCIE",
+      "originalTitle": "“Suministro de Computadoras para el Complejo de las Oficinas Centrales de la Fiscalía General de la República de El Salvador”",
+      "title": "為薩爾瓦多共和國總檢察長辦公室中央辦公室大樓提供計算機",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/290-LPI02%2F2026-FGR-BCIE",
+      "officialSummary": "Suministro de Computadoras para el Complejo de las Oficinas Centrales de la Fiscalía General de la República de El Salvador",
+      "executor": "Fiscalía General de la República (FGR)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "個人／專業顧問",
+      "category": "工程／服務",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-10-29",
+      "deadlineUtc": "2026-12-14T06:00:00.000Z",
+      "deadlineDate": "2026-12-14",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 28,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "727211.70",
+      "summary": "CABEI 公開採購「為薩爾瓦多共和國總檢察長辦公室中央辦公室大樓提供計算機」。為薩爾瓦多共和國總檢察長辦公室中央辦公室大樓提供計算機",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：為薩爾瓦多共和國總檢察長辦公室中央辦公室大樓提供計算機",
+      "analysisMode": "offline-translation",
+      "documentAccess": "Para descarga en el sitio web del portal de compras de El Salvador www.comprasal.gob.sv, además se publicará en el sitio web del portal de la Fiscalía General de la República de El Salvador, habilitado para ello en el sitio web www.fgr.gob.sv Avenida El Boquerón y Calle Izalco, Urbanización Santa Elena, Lote S/N, distrito de Antiguo Cuscatlán, municipio de La Libertad Este, departamento de La Libertad.",
+      "translationFingerprint": "4f39258d5804fde857ed4421ba9c8db487459e146a1622a096c7588ecf2ca5db",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-10-27T05:15:33.855923+00:00",
+      "documentAccessZh": "薩爾瓦多購物入口網站www.comprorasal.gob.sv網站下載時,還將在薩爾瓦多共和國總檢察長辦公室入口網站上公佈,並可在www.fgr.gov.sv Avenida El Boquerón和Calle Izalco網站上公佈,Urbanización Santa。 Elena, Lote S/N,Antiguo Cuscatlán區,埃斯特拉自由市,拉利伯塔德省。",
+      "translationWarnings": []
+    },
+    {
       "id": "288",
       "document": "288",
       "process": "CRI-2026-2341-34907-O",
@@ -689,7 +771,19 @@
         "url": "https://portal.conavi.go.cr/licitaciones/"
       }
     ],
-    "289": []
+    "289": [
+      {
+        "name": "官方文件取得入口",
+        "url": "http://t.ly/kjghG"
+      }
+    ],
+    "290": [],
+    "291": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://sicadigital.sica.int/4ib4alC"
+      }
+    ]
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -839,7 +933,9 @@
         "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
         "url": "https://www.ctci.com/"
       }
-    ]
+    ],
+    "290": [],
+    "291": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -955,6 +1051,12 @@
     "dd428eff43ba4a2b79d53ba3bc4f78d97ba65d8be45c3e9d8b9dde32324838a6": "可在以下網址下載:www.honducompras.gob.hn,可在以下網址上下載:http://www.handucompras.gov.hn。",
     "29a777a3b7d62dc9ab0ba4e3eb52c7041cf5000def305bccb752d47b7f2a37b0": "設計和建造專案第1:走廊聖何塞-聖拉蒙。",
     "e4df7f935f56cd39cd926b53d8fbaed699f439cdf72b6d3740f9b9d105fa495f": "【待校訂：分段翻譯】哥斯大黎加共和國和全國道路交通委員會,即貸款執行機構,收到了相當於以下數額的資金: US $  770,000,000.00 中美洲經濟一體化銀行支付桑公路走廊擴大和改善專案的費用 【待校訂：分段翻譯】何塞-聖拉蒙,並打算將部分收入用於在專案框架內簽訂合同的貨物、工程、相關服務和諮詢服務。 OPEP 發展會議 國際。",
-    "05f1d6cbdc72f377fe5fb62b21f224c793c66a8a9cca85afa1cd818b3610bc86": "哥斯大黎加大學法學院以西https://portal.conavi.go.cr/licitaciones/ 100米,Duo大樓,San Pedro de Montes de Oca.星期一至星期五,7:00 上午至3:00p.m。"
+    "05f1d6cbdc72f377fe5fb62b21f224c793c66a8a9cca85afa1cd818b3610bc86": "哥斯大黎加大學法學院以西https://portal.conavi.go.cr/licitaciones/ 100米,Duo大樓,San Pedro de Montes de Oca.星期一至星期五,7:00 上午至3:00p.m。",
+    "cb632808c8f49242f33039c91ef97440c49a36e6733253a167d4b068b5463669": "採購能見度材料1的設計和製作服務)英文字幕解釋性影片和關於區域安全指標系統和2的檔案圖解。 透明度",
+    "e22554a1770d2d2806ea4b41d6e19af12389e76f22f682c412d38d1f667a7daa": "聘請一名視聽製作人提供服務,製作一個機構影片,介紹該專案的主要進展和成果,突出介紹其對加強SG-SICA的透明度、資訊管理和問責制的貢獻。",
+    "0bd0ee99550a20855c5ebf0143425782f746f327f3f087514e95146ff5013491": "https://sicadigital.sica.int/4ib4alC https://sicadigital.sica.int/4ib4alC 鍵盤",
+    "2a9c4282426da9c96657e8571f0d03f7bfa33af168cd3b69a719864df3fc42dd": "可在網站www.honducompras.gob.hn上下載,也可以在瀏覽器上覆制以下連結:http://t.ly/kjghG。",
+    "764f6e630be667eb56b732709b4df7ab0d8512f238e92846a41b9873764a1de1": "為薩爾瓦多共和國總檢察長辦公室中央辦公室大樓提供計算機",
+    "351f0ca26caf607d3dfa87c53487f703ece4cf5359f9f86f59e5306059be46e0": "薩爾瓦多購物入口網站www.comprorasal.gob.sv網站下載時,還將在薩爾瓦多共和國總檢察長辦公室入口網站上公佈,並可在www.fgr.gov.sv Avenida El Boquerón和Calle Izalco網站上公佈,Urbanización Santa。 Elena, Lote S/N,Antiguo Cuscatlán區,埃斯特拉自由市,拉利伯塔德省。"
   }
 }
