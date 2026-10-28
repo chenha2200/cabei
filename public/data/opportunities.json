@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:14:45.981Z",
+  "generatedAt": "2026-10-28T05:53:04.779Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -119,47 +119,6 @@
       "translationWarnings": []
     },
     {
-      "id": "300000029755998",
-      "document": "809,1",
-      "process": "051/2026",
-      "country": "區域／未載明",
-      "industry": "一般供應",
-      "category": "貨品",
-      "method": "公開詢價",
-      "published": "2026-10-21",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 58,
-      "title": "採購 41 黃金認可 古代 總部和區域 2026.",
-      "ruleTitle": "Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
-      "originalTitle": "051/2026 Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
-      "summary": "CABEI 公開採購「採購 41 黃金認可 古代 總部和區域 2026.」。1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "US$10,000",
-      "documentSummary": "1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。 CABEI需要採購一個專門的供應商，以製造和供應41的黃金製作的14K認可零件，用於CABEI的員工，滿足10, 15和20的服務年份，在相應的年份，這些將交付在年度認可儀式 它在12月舉行。 公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。 至少有五年(5)的經驗。 如果交付的商品不符合契約要求，CABEI將通知契約人，以便在5工作日的最高期限內進行糾正，並能夠保留支付，直到全部滿足。 1.4 1.4.1. 供應商所需的總體和具體經驗 公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
-      "qualifications": [
-        "1.4 1.4.1. 供應商所需的總體和具體經驗",
-        "公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。",
-        "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。",
-        "至少有五年(5)的經驗。",
-        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf",
-      "translationFingerprint": "8aac1a5e24088e0f95f3506adabbd77d7a935ebf266c3c05c0fc3919745d2b6c",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-21T03:17:32.915519+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
       "id": "144011",
       "document": "802",
       "process": "058/2026",
@@ -241,43 +200,6 @@
       ]
     },
     {
-      "id": "149012",
-      "document": "810",
-      "process": "054/2026",
-      "country": "尼加拉瓜",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-21",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 35,
-      "title": "CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。",
-      "ruleTitle": "“Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
-      "originalTitle": "054/2026 “Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
-      "summary": "CABEI 公開採購「CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。 應確保服務品質，並確保銀行實現的環境管理體系目標的實現。 如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。 承包商的服務範圍包括以下活動的執行: 維護人員必須有 NFPA 72: 認證 清潔代理或VESDA系統認證的消防系統。",
-      "qualifications": [
-        "維護人員必須有 NFPA 72: 認證",
-        "清潔代理或VESDA系統認證的消防系統。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827099-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "aab843231ebbf75e8d10696b3772f2b402aa18c4adccdb210b3e3931ea9703d0",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-22T05:00:31.284532+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
       "id": "300000029748122",
       "document": "807,1",
       "process": "055/2026",
@@ -350,6 +272,47 @@
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-20T03:21:20.870032+00:00",
       "translationWarnings": []
+    },
+    {
+      "id": "300000029755998",
+      "document": "809,1",
+      "process": "051/2026",
+      "country": "區域／未載明",
+      "industry": "一般供應",
+      "category": "貨品",
+      "method": "公開詢價",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-11-02T23:00:00.000Z",
+      "fit": 58,
+      "title": "採購 41 黃金認可 古代 總部和區域 2026.",
+      "ruleTitle": "Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
+      "originalTitle": "051/2026 Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
+      "summary": "CABEI 公開採購「採購 41 黃金認可 古代 總部和區域 2026.」。1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$10,000",
+      "documentSummary": "1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。 CABEI需要採購一個專門的供應商，以製造和供應41的黃金製作的14K認可零件，用於CABEI的員工，滿足10, 15和20的服務年份，在相應的年份，這些將交付在年度認可儀式 它在12月舉行。 公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。 至少有五年(5)的經驗。 如果交付的商品不符合契約要求，CABEI將通知契約人，以便在5工作日的最高期限內進行糾正，並能夠保留支付，直到全部滿足。 1.4 1.4.1. 供應商所需的總體和具體經驗 公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
+      "qualifications": [
+        "1.4 1.4.1. 供應商所需的總體和具體經驗",
+        "公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。",
+        "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。",
+        "至少有五年(5)的經驗。",
+        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf",
+      "translationFingerprint": "8aac1a5e24088e0f95f3506adabbd77d7a935ebf266c3c05c0fc3919745d2b6c",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-21T03:17:32.915519+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     },
     {
       "id": "150015",
@@ -548,6 +511,43 @@
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-23T05:01:23.271185+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "149012",
+      "document": "810",
+      "process": "054/2026",
+      "country": "尼加拉瓜",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-11-05T23:00:00.000Z",
+      "fit": 35,
+      "title": "CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。",
+      "ruleTitle": "“Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
+      "originalTitle": "054/2026 “Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
+      "summary": "CABEI 公開採購「CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。 應確保服務品質，並確保銀行實現的環境管理體系目標的實現。 如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。 承包商的服務範圍包括以下活動的執行: 維護人員必須有 NFPA 72: 認證 清潔代理或VESDA系統認證的消防系統。",
+      "qualifications": [
+        "維護人員必須有 NFPA 72: 認證",
+        "清潔代理或VESDA系統認證的消防系統。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827099-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "aab843231ebbf75e8d10696b3772f2b402aa18c4adccdb210b3e3931ea9703d0",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:00:31.284532+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -779,30 +779,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03836792-Aviso.pdf"
       }
     ],
-    "300000029748122": [
-      {
-        "name": "055 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823775-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 7- Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "300000029737912": [
-      {
-        "name": "Anexo 9 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      },
-      {
-        "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
-      }
-    ],
     "300000029755998": [
       {
         "name": "051 2026 Terminos de Referencia.pdf",
@@ -815,6 +791,30 @@
       {
         "name": "Anexo 5 - Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029737912": [
+      {
+        "name": "Anexo 9 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
+      }
+    ],
+    "300000029748122": [
+      {
+        "name": "055 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823775-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 7- Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ]
   },
@@ -959,9 +959,9 @@
     ],
     "150016": [],
     "300000029813162": [],
-    "300000029748122": [],
+    "300000029755998": [],
     "300000029737912": [],
-    "300000029755998": []
+    "300000029748122": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
