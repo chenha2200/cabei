@@ -1,278 +1,7 @@
 {
-  "generatedAt": "2026-10-28T05:53:04.779Z",
+  "generatedAt": "2026-10-29T05:57:18.479Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "143013",
-      "document": "800",
-      "process": "053/2026",
-      "country": "區域／未載明",
-      "industry": "數位與資通訊",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-01",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 86,
-      "title": "CABEI 核心運算與電信平台更新（二期）",
-      "originalTitle": "053/2026 Renovación de Plataforma Central de Procesamiento y Telecomunicaciones II",
-      "summary": "CABEI 公開採購「CABEI 核心運算與電信平台更新（二期）」。本案將定期檢視平台，並依需要升級、汰換或新增相關元件。 1.2 採購的目的為 採購和更新 CABEI 辦公室的電信設備在 瓜地馬拉， 薩爾瓦多， 宏都拉斯， 哥斯大黎加， 巴拿馬和 多明尼加共和國， 符合本文件中詳細描述的特點和最低要求。",
-      "capabilities": [
-        "資訊基礎設施",
-        "網路與電信",
-        "系統整合"
-      ],
-      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "amount": "未載明",
-      "documentSummary": "本案將定期檢視平台，並依需要升級、汰換或新增相關元件。 1.2 採購的目的為 採購和更新 CABEI 辦公室的電信設備在 瓜地馬拉， 薩爾瓦多， 宏都拉斯， 哥斯大黎加， 巴拿馬和 多明尼加共和國， 符合本文件中詳細描述的特點和最低要求。 1.3 購買範圍 為 宏都拉斯 ▪ 十四 (14) 模型交換機 C9200L-48P-4G, c/u 與: 【待校訂：分段保護翻譯】UNA VEZ APROBADO 交換機 - 保證 CX 水平 1, 以替代 24 x 7 x 4, 最少有三次( 3 )年。 【待校訂：分段保護翻譯】設備保證 觸控板 - 保證 CX 水平 1, 以替代 8 x 5 xNBD，最少為3個( 3 )年。 1.4 一般和具體經驗 供應商 1.4.1 一般經驗: 供應商須具備銷售符合類似需求之 Cisco 設備與解決方案的充分經驗。 這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與申請人相似的設備。 2.5.4 設備製造商的原始代表性信，其中顯示了當前合作夥伴認證水平。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
-      "qualifications": [
-        "1.4 一般和具體經驗 供應商 1.4.1 一般經驗:",
-        "供應商須具備銷售符合類似需求之 Cisco 設備與解決方案的充分經驗。",
-        "這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與申請人相似的設備。",
-        "2.5.4 設備製造商的原始代表性信，其中顯示了當前合作夥伴認證水平。",
-        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf",
-      "companyGroup": "ict",
-      "translationFingerprint": "c08710ca98913d33efac5e72c6d3e99a34e5411759e896d2b3008b9dd9124a9d",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:14:10.242062+00:00",
-      "ruleTitle": "CABEI 核心運算與電信平台更新（二期）",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "137011",
-      "document": "787",
-      "process": "044/2026",
-      "country": "薩爾瓦多",
-      "industry": "水資源與環境",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-09-09",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 83,
-      "title": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫",
-      "originalTitle": "044/2026 Programa integral de saneamiento y recuperación del Lago Ilopango y Coatepeque, El Salvador",
-      "summary": "CABEI 徵求顧問服務，規劃薩爾瓦多 Ilopango 湖與 Coatepeque 湖的綜合污染整治、環境改善及生態復育方案。",
-      "capabilities": [
-        "水污染治理",
-        "湖泊復育",
-        "環境工程",
-        "環境影響評估"
-      ],
-      "reason": "台灣具水質監測、污水處理、環境工程與流域治理經驗，可提供技術規劃與系統方案；宜與熟悉薩國法規及社區協調的西語團隊聯盟。",
-      "caveat": "需確認服務範圍是前期規劃、可行性研究或設計監督，以及核心專家、現地採樣、社會參與、執業資格與西語成果要求。",
-      "amount": "上限 US$1,200,000",
-      "documentSummary": "TOR 要求為 Ilopango、Coatepeque 兩湖建立整體整治投資方案，包含污染源與基線、固體廢棄物、污水下水道與處理廠可行性、現地調查與採樣、工程初步設計、CAPEX／OPEX、經濟財務、氣候韌性、環社與利害關係人工作，形成可供融資的優先專案。",
-      "qualifications": [
-        "多專業顧問公司／聯盟須具至少 15 年固廢、污水處理廠設計或環境專案經驗。",
-        "至少 5 件相似掩埋場設計、5 件相似下水道及污水處理廠設計、2 件環境永續案，且具拉丁美洲相似經驗。",
-        "至少配置 10 類核心專家；專案經理 15 年，其餘衛生、水力、水文地質、地質、結構、機電、氣候與成本專家多要求 5–10 年及相似案實績。"
-      ],
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752008-044%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "analysisMode": "curated",
-      "companyGroup": "engineering",
-      "ruleTitle": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫"
-    },
-    {
-      "id": "143012",
-      "document": "799",
-      "process": "051/2026",
-      "country": "區域／未載明",
-      "industry": "永續與環境顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-09-30",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 72,
-      "title": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
-      "originalTitle": "051/2026 Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1",
-      "summary": "CABEI 公開採購「制定環境、社會和治理指標監測和評估系統 — 第一階段」。1.2.5 SME - ASG的實施、配置、整合、啟動和穩定不屬於本採購範圍。 1.3 1.3.1 諮詢機構的範圍 該諮詢機構符合 1 環境、社會和政府指標監測和評估系統(SME-ASG)開發專案的 CABEI(CABEI)階段。",
-      "capabilities": [
-        "環境影響評估",
-        "ESG",
-        "環境工程"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "1.2.5 SME - ASG的實施、配置、整合、啟動和穩定不屬於本採購範圍。 1.3 1.3.1 諮詢機構的範圍 該諮詢機構符合 1 環境、社會和政府指標監測和評估系統(SME-ASG)開發專案的 CABEI(CABEI)階段。 諮詢公司應對有關 ASG 資訊管理和使用專門技術平台的相關經驗進行比較分析。 • 諮詢公司必須在提供諮詢服務、專案管理和專業技術諮詢方面的經驗。 簽名必須至少有10年(10)在提供諮詢服務的經驗，證明中等和高複雜的專案的持續軌道。 Benchmarking 應考慮: 示範應涉及 CABEI 相關技術和使用者領域，並允許實用評估功能、整合能力、視覺工具、報告生成、使用者體驗、跟蹤性、資料管理等相關方面。 做出決策。",
-      "qualifications": [
-        "諮詢公司應對有關 ASG 資訊管理和使用專門技術平台的相關經驗進行比較分析。",
-        "Benchmarking 應考慮:",
-        "示範應涉及 CABEI 相關技術和使用者領域，並允許實用評估功能、整合能力、視覺工具、報告生成、使用者體驗、跟蹤性、資料管理等相關方面。 做出決策。",
-        "• 諮詢公司必須在提供諮詢服務、專案管理和專業技術諮詢方面的經驗。",
-        "簽名必須至少有10年(10)在提供諮詢服務的經驗，證明中等和高複雜的專案的持續軌道。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf",
-      "companyGroup": "engineering",
-      "translationFingerprint": "bb1631c5b2469a9c32708df447a0878ce0def021062a5041877819918f8948bd",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationUpdatedAt": "2026-10-04T13:14:38.903282+00:00",
-      "ruleTitle": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
-      "translationVersion": "offline-guard-v1",
-      "translationWarnings": []
-    },
-    {
-      "id": "144011",
-      "document": "802",
-      "process": "058/2026",
-      "country": "宏都拉斯",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-06",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 48,
-      "title": "【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯",
-      "ruleTitle": "\"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
-      "originalTitle": "058/2026 \"Obras de Construcción de Pérgola en la Azotea del Edificio II de la Sede del BCIE en Honduras\"",
-      "summary": "CABEI 公開採購「【待校訂：分段保護翻譯】建造的建築物在建築物的地下室 II 從總部的 CABEI 在 宏都拉斯」。1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。",
-      "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "1.2 目的或目標 採購 1.2.1 CABEI 需要採購一個具有金屬結構、覆蓋、建築結尾和其他補充干預能力的建築企業，以開發所謂的專案“ 波格拉建築工廠在波格拉地區” II CABEI 總部的 宏都拉斯 建築。 承包商應當執行那些未在本條中單獨描述的補充活動，但在計劃中明確表示，在技術規格中確定的，或者是必要完成所包含的元件。 契約，而不意味著將其他作品或修正案包含在定義範圍之外。 承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。 1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。 進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。 供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。 替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。",
-      "qualifications": [
-        "承包商必須至少有五年(5)可驗證的建築、擴充套件、修復或建築適應經驗，包括民用建築、金屬結構、塗層、建築完成和補充設施的執行。",
-        "供應商必須在建築、擴充套件、修復或建築適應專案的執行中獲得滿意的經驗，包括與金屬結構、覆蓋、天空、繪畫、防腐保護和建築完成相關的工作。",
-        "1.7 工作團隊經驗 需要 1.7.1 負責的專業人士必須是民用工程師或建築師，並且至少有五年(5)的職業經驗，管理、監督或執行建築、擴充套件、修復或建築適應工作。",
-        "進行焊接工作的人員必須在專案的技術規格所要求的焊接過程中獲得可驗證的培訓、認證或經驗。",
-        "替代專業人士必須至少滿足相同的培訓和經驗要求，適用於相關職位。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03799255-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "5774f41c1eacacf89fb9cd2f88b8136cf72526c27440e7edc35310f2b6212ece",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-07T00:18:33.345465+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "300000029813162",
-      "document": "808,1",
-      "process": "056/2026",
-      "country": "哥斯大黎加",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-26",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 35,
-      "title": "CABEI建築的專業技術服務監測，維護控制在哥斯大黎加",
-      "ruleTitle": "“Servicios Técnicos Profesionales para el Monitoreo, Control del Mantenimiento del Edificio del BCIE en Costa Rica”",
-      "originalTitle": "056/2026 “Servicios Técnicos Profesionales para el Monitoreo, Control del Mantenimiento del Edificio del BCIE en Costa Rica”",
-      "summary": "CABEI 公開採購「CABEI建築的專業技術服務監測，維護控制在哥斯大黎加」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 公司必須至少(5)在第三方資源管理和供應(outsourcing)方面的經驗，以滿足所要求的專業資料 3 V09-2026-1 公共: • 最低3年(3)在管理，監督，協調或跟蹤基礎設施維護，企業建築，機構設施或工業綜合體的經驗。 【待校訂：分段保護翻譯】UNA VEZ APROBADO 1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 而他 承包商，受承包商的執行。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工",
-      "qualifications": [
-        "1.3.14 支援環境監測器符合環境管理系統(SGA)的 ISO 14001:2015認證標準，並支援每年維護認證所需的活動。",
-        "公司必須至少(5)在第三方資源管理和供應(outsourcing)方面的經驗，以滿足所要求的專業資料 3 V09-2026-1 公共:",
-        "承包商應當說明、詳細說明和文件提供所需服務的經驗:",
-        "• 最低3年(3)在管理，監督，協調或跟蹤基礎設施維護，企業建築，機構設施或工業綜合體的經驗。",
-        "描述 評分 RANGOS DE 技術評分 評分 超過 6 年經驗 15 將獲得更大的簽名評分經驗 超過 5 到 6 年經驗 12 1 15% 15.0% 總體現有 超過 1 到 4 年經驗 5 總體經驗。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03836793-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "dd9d7de72d4ae93a151a17e838f7efa71ae09788a58e3c84b7ad536f397afd27",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-27T05:15:08.859967+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "300000029748122",
-      "document": "807,1",
-      "process": "055/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-20",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 35,
-      "title": "年度關閉活動的概念化和製作活動的活動規劃服務",
-      "ruleTitle": "\"Servicio de Event Planner para la Conceptualización y Producción de Eventos de Cierre de Año\"",
-      "originalTitle": "055 2026 \"Servicio de Event Planner para la Conceptualización y Producción de Eventos de Cierre de Año\"",
-      "summary": "CABEI 公開採購「年度關閉活動的概念化和製作活動的活動規劃服務」。【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要採購一個活動規劃和生產公司，根據這些參考日期、品牌指導方針和預期，設計、協調和執行全年關閉活動。 CABEI 是。 1.9.5 CABEI 保留在提交前減少所需服務的範圍，相當於報價總值的 30%(30%)的金額，而此類減少不會導致招標物件的重大變化。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要採購一個活動規劃和生產公司，根據這些參考日期、品牌指導方針和預期，設計、協調和執行全年關閉活動。 CABEI 是。 1.9.5 CABEI 保留在提交前減少所需服務的範圍，相當於報價總值的 30%(30%)的金額，而此類減少不會導致招標物件的重大變化。 社交和節日會議致力於員工，作為一個慶祝空間 由於這些活動的相關性，CABEI需要採購一個專門的公司，承擔概念化，全面的規劃，供應商協調，技術生產，物流，組裝和 活動日的運營，確保高品質，安全，有組織和一致的經驗與機構身份。 將以更高的分數評估擁有超過 5 一般經驗的公司。 7 年低於 9 年低於 9 1 一般經驗 10.0% 將以更高的分數評估公司從 5 年低於 7 年低於 8 擁有超過 5 一般經驗年。 至少需要五年(5)的經驗，透過證明運營期和/或相關服務經驗的檔案認證。 CRITERIOS 技術描述 RANGOS DE 評估 評估 最低經驗為五(5) 從 9 年到 10 年，透過證實運營期和/或相關服務經驗的檔案認證。 【待校訂：分段保護翻譯】少於 5",
-      "qualifications": [
-        "至少需要五年(5)的經驗，透過證明運營期和/或相關服務經驗的檔案認證。",
-        "將以更高的分數評估擁有超過 5 一般經驗的公司。",
-        "CRITERIOS 技術描述 RANGOS DE 評估 評估 最低經驗為五(5) 從 9 年到 10 年，透過證實運營期和/或相關服務經驗的檔案認證。",
-        "7 年低於 9 年低於 9 1 一般經驗 10.0% 將以更高的分數評估公司從 5 年低於 7 年低於 8 擁有超過 5 一般經驗年。",
-        "【待校訂：分段保護翻譯】少於 5 年代 0 由 5 更多經驗 20 申請人必須證明執行至少三項( 3 (一)透過信件 3 A 4 經驗 18 客戶發出的參考、契約或購買訂單 3 歲月。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "ad448d3b051ca8f2f6d36bd763e31dc59e6c64bd698d4d0ff95d66ea8982cfa3",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-20T03:21:20.869193+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "300000029737912",
-      "document": "801,1",
-      "process": "049/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-19",
-      "deadlineUtc": "2026-10-28T23:00:00.000Z",
-      "fit": 35,
-      "title": "社交廚房俱樂部 CABEI",
-      "ruleTitle": "Ampliación de Cocina Club Social BCIE",
-      "originalTitle": "049/2026 Ampliación de Cocina Club Social BCIE",
-      "summary": "CABEI 公開採購「社交廚房俱樂部 CABEI」。完整工作範圍請以官方 TOR 為準。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "官方案件頁提供：Anexo 9 Formato de Oferta Técnica.docx、Anexo 8 Especificaciones Técnicas Cocina.docx。目前未能擷取可翻譯文字，請直接查看附件。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx",
-      "translationFingerprint": "59b09125573475b80d53a583f33bb2700dc1f9a077081c7b7356c8319913e478",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-20T03:21:20.870032+00:00",
-      "translationWarnings": []
-    },
     {
       "id": "300000029755998",
       "document": "809,1",
@@ -593,6 +322,80 @@
       ]
     },
     {
+      "id": "137011",
+      "document": "787",
+      "process": "044/2026",
+      "country": "薩爾瓦多",
+      "industry": "水資源與環境",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-09-09",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 83,
+      "title": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫",
+      "originalTitle": "044/2026 Programa integral de saneamiento y recuperación del Lago Ilopango y Coatepeque, El Salvador",
+      "summary": "CABEI 徵求顧問服務，規劃薩爾瓦多 Ilopango 湖與 Coatepeque 湖的綜合污染整治、環境改善及生態復育方案。",
+      "capabilities": [
+        "水污染治理",
+        "湖泊復育",
+        "環境工程",
+        "環境影響評估"
+      ],
+      "reason": "台灣具水質監測、污水處理、環境工程與流域治理經驗，可提供技術規劃與系統方案；宜與熟悉薩國法規及社區協調的西語團隊聯盟。",
+      "caveat": "需確認服務範圍是前期規劃、可行性研究或設計監督，以及核心專家、現地採樣、社會參與、執業資格與西語成果要求。",
+      "amount": "上限 US$1,200,000",
+      "documentSummary": "TOR 要求為 Ilopango、Coatepeque 兩湖建立整體整治投資方案，包含污染源與基線、固體廢棄物、污水下水道與處理廠可行性、現地調查與採樣、工程初步設計、CAPEX／OPEX、經濟財務、氣候韌性、環社與利害關係人工作，形成可供融資的優先專案。",
+      "qualifications": [
+        "多專業顧問公司／聯盟須具至少 15 年固廢、污水處理廠設計或環境專案經驗。",
+        "至少 5 件相似掩埋場設計、5 件相似下水道及污水處理廠設計、2 件環境永續案，且具拉丁美洲相似經驗。",
+        "至少配置 10 類核心專家；專案經理 15 年，其餘衛生、水力、水文地質、地質、結構、機電、氣候與成本專家多要求 5–10 年及相似案實績。"
+      ],
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03752008-044%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "analysisMode": "curated",
+      "companyGroup": "engineering",
+      "ruleTitle": "薩爾瓦多 Ilopango 與 Coatepeque 湖泊整治及復育計畫"
+    },
+    {
+      "id": "143012",
+      "document": "799",
+      "process": "051/2026",
+      "country": "區域／未載明",
+      "industry": "永續與環境顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-09-30",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 72,
+      "title": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
+      "originalTitle": "051/2026 Desarrollo de un Sistema de Monitoreo y Evaluación de Indicadores Ambientales, Sociales y de Gobernanza – Fase 1",
+      "summary": "CABEI 公開採購「制定環境、社會和治理指標監測和評估系統 — 第一階段」。1.2.5 SME - ASG的實施、配置、整合、啟動和穩定不屬於本採購範圍。 1.3 1.3.1 諮詢機構的範圍 該諮詢機構符合 1 環境、社會和政府指標監測和評估系統(SME-ASG)開發專案的 CABEI(CABEI)階段。",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "1.2.5 SME - ASG的實施、配置、整合、啟動和穩定不屬於本採購範圍。 1.3 1.3.1 諮詢機構的範圍 該諮詢機構符合 1 環境、社會和政府指標監測和評估系統(SME-ASG)開發專案的 CABEI(CABEI)階段。 諮詢公司應對有關 ASG 資訊管理和使用專門技術平台的相關經驗進行比較分析。 • 諮詢公司必須在提供諮詢服務、專案管理和專業技術諮詢方面的經驗。 簽名必須至少有10年(10)在提供諮詢服務的經驗，證明中等和高複雜的專案的持續軌道。 Benchmarking 應考慮: 示範應涉及 CABEI 相關技術和使用者領域，並允許實用評估功能、整合能力、視覺工具、報告生成、使用者體驗、跟蹤性、資料管理等相關方面。 做出決策。",
+      "qualifications": [
+        "諮詢公司應對有關 ASG 資訊管理和使用專門技術平台的相關經驗進行比較分析。",
+        "Benchmarking 應考慮:",
+        "示範應涉及 CABEI 相關技術和使用者領域，並允許實用評估功能、整合能力、視覺工具、報告生成、使用者體驗、跟蹤性、資料管理等相關方面。 做出決策。",
+        "• 諮詢公司必須在提供諮詢服務、專案管理和專業技術諮詢方面的經驗。",
+        "簽名必須至少有10年(10)在提供諮詢服務的經驗，證明中等和高複雜的專案的持續軌道。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03787642-Aviso.pdf",
+      "companyGroup": "engineering",
+      "translationFingerprint": "bb1631c5b2469a9c32708df447a0878ce0def021062a5041877819918f8948bd",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationUpdatedAt": "2026-10-04T13:14:38.903282+00:00",
+      "ruleTitle": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
+      "translationVersion": "offline-guard-v1",
+      "translationWarnings": []
+    },
+    {
       "id": "150016",
       "document": "817",
       "process": "056/2026",
@@ -647,30 +450,6 @@
       {
         "name": "051 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03787641-051%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
-    "143013": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03790808-Aviso.pdf"
-      },
-      {
-        "name": "053 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03790807-053%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03790794-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "144011": [
-      {
-        "name": "058 2026 Términos de Referencia .pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03799255-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03799249-Aviso.pdf"
       }
     ],
     "146012": [
@@ -769,16 +548,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03831858-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
-    "300000029813162": [
-      {
-        "name": "056 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03836793-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03836792-Aviso.pdf"
-      }
-    ],
     "300000029755998": [
       {
         "name": "051 2026 Terminos de Referencia.pdf",
@@ -791,30 +560,6 @@
       {
         "name": "Anexo 5 - Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "300000029737912": [
-      {
-        "name": "Anexo 9 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823470-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      },
-      {
-        "name": "Anexo 8 Especificaciones Técnicas Cocina.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823469-Anexo%208%20Especificaciones%20T%C3%A9cnicas%20Cocina.docx"
-      }
-    ],
-    "300000029748122": [
-      {
-        "name": "055 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823778-055%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823775-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 7- Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03823763-Anexo%207-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ]
   },
@@ -840,40 +585,6 @@
       }
     ],
     "143012": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
-    "143013": [
-      {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "企業 IT 整合",
-        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
-        "url": "https://www.systex.com/"
-      },
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "系統整合與維運",
-        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      }
-    ],
-    "144011": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",
@@ -958,10 +669,7 @@
       }
     ],
     "150016": [],
-    "300000029813162": [],
-    "300000029755998": [],
-    "300000029737912": [],
-    "300000029748122": []
+    "300000029755998": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
