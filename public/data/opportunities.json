@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:57:18.479Z",
+  "generatedAt": "2026-10-30T05:58:29.651Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -39,47 +39,6 @@
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-21T03:17:32.915519+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "150015",
-      "document": "814",
-      "process": "059/2026",
-      "country": "尼加拉瓜",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-22",
-      "deadlineUtc": "2026-11-04T23:00:00.000Z",
-      "fit": 48,
-      "title": "CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件",
-      "ruleTitle": "Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio BCIE en Managua Nicaragua",
-      "originalTitle": "059/2026 Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio BCIE en Managua Nicaragua",
-      "summary": "CABEI 公開採購「CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件」。1.4 契約的目的為 1.4.1. 訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。",
-      "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "1.4 契約的目的為 1.4.1. 訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。 CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案: 提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。 【待校訂：分段保護翻譯】由契約人委託的員工必須遵守本書中所規定的個人資料、經驗和責任。 1.8 來自現有 工作說明書（TOR） 契約範圍將由以下檔案定義，這些檔案必須全面解釋: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案: 1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。 1.5.2 供應商",
-      "qualifications": [
-        "CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案:",
-        "1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。",
-        "1.5.2 供應商必須具備必要的技術、行政、運營和財務能力，以完成所有所需的工作，包括適當的材料、工藝、設備、工具、技術指南、職業安全、清潔和回報。 干預的區域。",
-        "提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。",
-        "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案:"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03828310-059%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "2aec6746ef098122d9abe98e90a19486b8e5c97c81ce24956d3a8287d9d1b1f9",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-22T05:01:22.013735+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -429,6 +388,47 @@
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
       "translationWarnings": []
+    },
+    {
+      "id": "150015",
+      "document": "814",
+      "process": "059/2026",
+      "country": "尼加拉瓜",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-22",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 48,
+      "title": "CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件",
+      "ruleTitle": "Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio BCIE en Managua Nicaragua",
+      "originalTitle": "059/2026 Mejoramiento y Ampliación del Sistema de Drenaje Pluvial del Edificio BCIE en Managua Nicaragua",
+      "summary": "CABEI 公開採購「CABEI 馬納瓜 尼加拉瓜 建築的雨水排水系統的改進和擴充套件」。1.4 契約的目的為 1.4.1. 訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "1.4 契約的目的為 1.4.1. 訂閱者不得理解契約物件的全部內容，也不會釋放承包商對作品的品質、安全、期限和正確執行的全部責任。 CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案: 提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。 【待校訂：分段保護翻譯】由契約人委託的員工必須遵守本書中所規定的個人資料、經驗和責任。 1.8 來自現有 工作說明書（TOR） 契約範圍將由以下檔案定義，這些檔案必須全面解釋: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案: 1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。 1.5.2 供應商",
+      "qualifications": [
+        "CABEI要求僱傭一家建築公司或專門執行民用建築的承包商，在企業、商業或機構建築物中有水、衛生、雨和/或外部配件的經驗，以便執行“承包商”的承包商； 根據單位價格，專案:",
+        "1.5 契約人 1.5.1 可以參加本過程的建築企業、民事勞動契約人或專門從事水、水衛生或雨水工程的企業，在建造、康復或擴大雨水排水系統方面有充分的經驗。 相關基礎設施。",
+        "1.5.2 供應商必須具備必要的技術、行政、運營和財務能力，以完成所有所需的工作，包括適當的材料、工藝、設備、工具、技術指南、職業安全、清潔和回報。 干預的區域。",
+        "提議的經銷商必須證明他們所分配的活動的經驗和適當性，而CABEI可以拒絕不符合所要求的技術或效能要求。",
+        "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 要求僱傭一家建築公司，以執行民用建築，在企業、商業或機構建築物的水、衛生、雨水和/或外部配件方面有經驗，以執行“契約”的建築，以執行； 根據單位價格，專案:"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03828310-059%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "2aec6746ef098122d9abe98e90a19486b8e5c97c81ce24956d3a8287d9d1b1f9",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:01:22.013735+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     }
   ],
   "officialAttachments": {
