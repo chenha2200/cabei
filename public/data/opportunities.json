@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:58:29.651Z",
+  "generatedAt": "2026-10-31T05:54:44.153Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -39,47 +39,6 @@
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-21T03:17:32.915519+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "150014",
-      "document": "813",
-      "process": "061/2026",
-      "country": "區域／未載明",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-22",
-      "deadlineUtc": "2026-11-04T23:00:00.000Z",
-      "fit": 48,
-      "title": "CS CABEI 足球場的第一階段設計和建設",
-      "ruleTitle": "\"Diseño y Construcción de la Etapa I de la cancha de Fútbol CS BCIE\"",
-      "originalTitle": "061/2026 \"Diseño y Construcción de la Etapa I de la cancha de Fútbol CS BCIE\"",
-      "summary": "CABEI 公開採購「CS CABEI 足球場的第一階段設計和建設」。根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
-      "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段: 【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 UNA VEZ APROBADO 1.3 商品和服務的可用性 1.3.1 承包商必須開發符合足球場、周邊運動場和照明系統的設計，考慮到現場現有條件，並將其納入工程和建築標準。 功能、安全、可用性、排水、耐用性、維護和生命週期的成本。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要在手中的關鍵模",
-      "qualifications": [
-        "在 2020 和 2022 年間，在俱樂部的各個區域進行了修復工作；",
-        "【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
-        "設計師必須確定組成，填充，衝擊，適當時，可穿越性，摺疊耐力，尺寸穩定性，老化耐力，球的行為，玩家與表面相互作用和維護。",
-        "2 底層和大小基礎 厚度和材料應根據地質技術研究、排水、預定負載和體育系統要求確定。",
-        "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設中獲得已驗證的經驗的公司採購，以開發“社會俱樂部足球場第一階段設計和建設”專案。 CABEI”，包括兩個階段:"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03828183-061%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "3885153a60dee1504b179b122ca04c7edefa7df4cf48b2e699c7a4f87beead48",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-22T05:02:14.885960+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -390,6 +349,47 @@
       "translationWarnings": []
     },
     {
+      "id": "300000029843654",
+      "document": "813,1",
+      "process": "061/2026",
+      "country": "區域／未載明",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-30",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 48,
+      "title": "CS CABEI 足球場的第一階段設計和建設",
+      "ruleTitle": "\"Diseño y Construcción de la Etapa I de la cancha de Fútbol CS BCIE\"",
+      "originalTitle": "061/2026 \"Diseño y Construcción de la Etapa I de la cancha de Fútbol CS BCIE\"",
+      "summary": "CABEI 公開採購「CS CABEI 足球場的第一階段設計和建設」。根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "根據上述情況，CABEI確定了需要採購一個專門的公司，為專案“設計和建造社會俱樂部CABEI足球場的第一階段”提供所需的服務，其範圍包括設計和建造一個規則場。 足球 11，與其相應的照明系統，在社交俱樂部。 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段: 【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，並且是Sui Generi組織，因為它具有競爭或可以發展其業務的領域的廣度，以及其物件和基礎原則。 UNA VEZ APROBADO 1.3 商品和服務的可用性 1.3.1 承包商必須開發符合足球場、周邊運動場和照明系統的設計，考慮到現場現有條件，並將其納入",
+      "qualifications": [
+        "在 2020 和 2022 年間，在俱樂部的各個區域進行了修復工作；",
+        "【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要在手中的關鍵模式下，在工程和基礎設施工程和建築專案的設計和建設經驗證明的公司採購，以開發專案“設計和建設俱樂部足球場的第一階段” CABEI”的社會，包括兩個階段:",
+        "設計師必須確定組成，填充，衝擊，適當時，可穿越性，摺疊耐力，尺寸穩定性，老化耐力，球的行為，玩家與表面相互作用和維護。",
+        "2 底層和大小基礎 厚度和材料應根據地質技術研究、排水、預定負載和體育系統要求確定。",
+        "作為最低參考標準，可以使用 10 年迴歸期為常規排水，除非當地法規要求更長。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03845192-061%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda%20I.pdf",
+      "translationFingerprint": "f6c6ce753047af8d6be88efe6245a18622a9f9d9e4221528bcd0db19339a5e9b",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-31T05:55:10.993230+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "150015",
       "document": "814",
       "process": "059/2026",
@@ -514,20 +514,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03830000-Aviso.pdf"
       }
     ],
-    "150014": [
-      {
-        "name": "061 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03828183-061%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03827652-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 07 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03827093-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "150015": [
       {
         "name": "059 2026 Términos de Referencia.pdf",
@@ -546,6 +532,16 @@
       {
         "name": "056 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03831858-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "300000029843654": [
+      {
+        "name": "061 2026 Términos de Referencia Enmienda I.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03845192-061%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda%20I.pdf"
+      },
+      {
+        "name": "Anexo 07 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "300000029755998": [
@@ -628,26 +624,6 @@
     ],
     "149015": [],
     "149016": [],
-    "150014": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
     "150015": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -669,6 +645,26 @@
       }
     ],
     "150016": [],
+    "300000029843654": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
     "300000029755998": []
   },
   "translationCache": {
@@ -860,6 +856,8 @@
     "522a5d0687fc2f055589a0756654d1971337893c97564b4017f5ce582ae03819": "目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
     "85db0a1643405646ba5cacf1eb5d9e1bcf33e29ef46ad0ef3ada35041e8ffd3c": "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
     "2e996052ee02b091e228fc1065a3d2d6f1d21847ae5e80132086415108288b44": "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。",
-    "0b5573fbc4e7ae9192e0700911d04d33e0c64e7972b905b0e4f748120b0c6f1d": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。"
+    "0b5573fbc4e7ae9192e0700911d04d33e0c64e7972b905b0e4f748120b0c6f1d": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
+    "cd46b34a4bb1b2c31b6c8362d04e8b7b7b426c621056c334c53a2a00daeeeabf": "CABEI在1960作為中美洲的融入和發展的財務手臂出現，並且是Sui Generi組織，因為它具有競爭或可以發展其業務的領域的廣度，以及其物件和基礎原則。",
+    "f1f58f2dcd17c0fd994d1cbdd26100d7851b98381784d00ed834508d32728117": "作為最低參考標準，可以使用 10 年迴歸期為常規排水，除非當地法規要求更長。"
   }
 }
