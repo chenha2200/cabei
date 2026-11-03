@@ -410,8 +410,24 @@ def main() -> None:
                 "translationUpdatedAt": datetime.now(timezone.utc).isoformat(),
             }
         )
+        document_access_warning = None
         if item.get("documentAccess") and re.search(r"[a-z]{3,}\s+[a-z]{3,}", item["documentAccess"], re.I):
-            item["documentAccessZh"] = truncate(translator.translate_many([item["documentAccess"]])[0], 450)
+            try:
+                item["documentAccessZh"] = truncate(
+                    translator.translate_many([item["documentAccess"]])[0], 450
+                )
+            except Exception as exc:
+                previous_zh = item.get("documentAccessZh", "")
+                item["documentAccessZh"] = (
+                    previous_zh or "請參閱官方公告中的文件取得資訊。"
+                )
+                document_access_warning = (
+                    f"文件取得資訊翻譯失敗（{type(exc).__name__}），已保留舊內容或使用提示；請人工核對。"
+                )
+                print(
+                    f"警告：案件 {item.get('process', item.get('id', '未知'))} "
+                    f"{document_access_warning}"
+                )
         else:
             item["documentAccessZh"] = item.get("documentAccess", "未載明")
         apply_revision(item, revisions)
@@ -419,6 +435,10 @@ def main() -> None:
             flag for value in [item["title"], item["summary"], item["documentSummary"], *item["qualifications"]]
             for flag in (issues(value) + (["重要資料檢查未通過，保留原文"] if "【待校訂：" in value else []))
         ))
+        if document_access_warning:
+            item["translationWarnings"] = sorted(
+                set(item["translationWarnings"] + [document_access_warning])
+            )
         translated_count += 1
         print(f"離線翻譯完成：{item.get('process')} {item.get('title')}")
 
