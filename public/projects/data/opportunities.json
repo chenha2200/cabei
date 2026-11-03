@@ -1,48 +1,7 @@
 {
-  "generatedAt": "2026-11-03T01:51:21.539Z",
+  "generatedAt": "2026-11-03T06:57:11.117Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "286",
-      "document": "286",
-      "process": "NIC-2026-2263-34819-S",
-      "originalTitle": "Contratación de los servicios de Calibración de un Calibrador patrón de presión digital (con bomba manual), con tres transductores de presión",
-      "title": "徵聘配有3個壓力感測器的數字壓力計(用人工泵)校準服務",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/286-NIC-2026-2263-34819-S",
-      "officialSummary": "Se requiere la necesidad de calibrar un calibrador patrón de presión digital con su bomba manual, con tres transductores de presión",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "個人／專業顧問",
-      "category": "工程／服務",
-      "method": "價格比較",
-      "originalMethod": "Comparación de Precios-CP-Comparación de Precios",
-      "published": "2026-10-21",
-      "deadlineUtc": "2026-11-03T06:00:00.000Z",
-      "deadlineDate": "2026-11-03",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 28,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "21000.00",
-      "summary": "CABEI 公開採購「徵聘配有3個壓力感測器的數字壓力計(用人工泵)校準服務」。需要用手動泵校準數字壓力模式儀,並配備三個壓力感測器",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：需要用手動泵校準數字壓力模式儀,並配備三個壓力感測器",
-      "analysisMode": "offline-translation",
-      "documentAccess": "www.nicaraguacompra.gob.ni Oficinas de la Coordinación General de Programas y Proyectos, Estatua de Montoya, 2 c al norte, mano izquierda",
-      "translationFingerprint": "05e627e35788b31a3a0318e39763259269e00e8dd9e54417f84c0fef16563271",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-21T03:17:39.805014+00:00",
-      "documentAccessZh": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,蒙託亞州,2c向北,左手",
-      "translationWarnings": []
-    },
     {
       "id": "283",
       "document": "283",
@@ -847,7 +806,6 @@
     ],
     "284": [],
     "285": [],
-    "286": [],
     "288": [
       {
         "name": "官方文件取得入口",
@@ -973,7 +931,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "286": [],
     "288": [
       {
         "name": "中華顧問工程司（CECI）",
