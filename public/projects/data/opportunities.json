@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:54:44.722Z",
+  "generatedAt": "2026-11-03T01:51:21.539Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -731,6 +731,51 @@
       ]
     },
     {
+      "id": "294",
+      "document": "294",
+      "process": "ARG-2025-2301- B",
+      "originalTitle": "Supervisión de las Obras: Servicio Penitenciario Pcia. De Resistencia - Nuevo Predio Instituto de Formación Superior Resistencia",
+      "title": "工作監督:監獄管理局。",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/294-ARG-2025-2301-%20B",
+      "officialSummary": "Objetivos generales de la consultoría a realizar: garantizar la adecuada implementación de la obra \"Ampliación del Centro Penitenciario N° 1 Resistencia\" y \" Ampliación Instituto Superior de Educación Policial y Seguridad Pública \", realizando la supervisión técnica en lo relativo al alcance, cronograma de avance físico, calidad de materiales y cumplimiento de las especificaciones técnicas.",
+      "executor": "Entidad de Enlace del Ministerio de Hacienda y Finanzas de la Provincia de Chaco",
+      "sourceLanguage": "es",
+      "country": "阿根廷",
+      "industry": "基礎設施與工程",
+      "category": "顧問服務",
+      "method": "Concurso Público Internacional-SBCC-Selección Basada en Calidad y Costo",
+      "originalMethod": "Concurso Público Internacional-SBCC-Selección Basada en Calidad y Costo",
+      "published": "2026-11-03",
+      "deadlineUtc": "2026-12-22T03:00:00.000Z",
+      "deadlineDate": "2026-12-22",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "190000.00",
+      "summary": "CABEI 公開採購「工作監督:監獄管理局。」。諮詢的總體目標:確保適當開展 \" 擴大監獄中心(N° 1 Resistencia) \" 和 \" 警務和國家安全高階研究所 \" 的工作,對範圍進行技術監督; 物質進步、材料質量和遵守技術規格的時間表。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：諮詢的總體目標:確保適當開展 \" 擴大監獄中心(N° 1 Resistencia) \" 和 \" 警務和國家安全高階研究所 \" 的工作,對範圍進行技術監督; 物質進步、材料質量和遵守技術規格的時間表。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "www.compras.chaco.gob.ar/organismos www.compras.chaco.gob.ar/organismos",
+      "translationFingerprint": "d99ee81e35daf301f992cefac61c25a42811bf76d47894884be655bec77ffb0b",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-03T01:51:36.384614+00:00",
+      "documentAccessZh": "請參閱官方公告中的文件取得資訊。",
+      "translationWarnings": [
+        "文件取得資訊翻譯失敗（ValueError），已保留舊內容或使用提示；請人工核對。"
+      ]
+    },
+    {
       "id": "288",
       "document": "288",
       "process": "CRI-2026-2341-34907-O",
@@ -837,7 +882,8 @@
         "name": "官方招標文件.pdf",
         "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
       }
-    ]
+    ],
+    "294": []
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -990,7 +1036,27 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "293": []
+    "293": [],
+    "294": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -1117,6 +1183,8 @@
     "6fba868c98040581250748b40c5af31732ea19ac9f0f14131ea680e23a727084": "在執行股中央辦事處提供清潔服務併為其提供投入",
     "24c81ba9bb3023fe7ca6aebc8129701bbe1f7f27d4d3748d8b259301b262e371": "上韋拉帕斯科萬新醫院設計、建造、裝置和開辦的手鑰匙合同(SNIP 336761)",
     "66d231dbc04197c1e078170537cd92020de388f8a55226def613c8ffb4cfcafe": "【待校訂：分段翻譯】國際公共標書 -- -- 上維拉帕斯科萬新醫院設計、建造、裝置和開辦的手持鑰匙合同 SNIP 336761 ) - LPI BCIE 2230 01-2026",
-    "de8d278817883d9564ad99dbdfa1e59031db345bea964c7eeab0b70f940aec84": "【待校訂：分段翻譯】https://www.guatecompras.gt/ NOG :  32285825 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32285825&o=5 欄目:採購過程檔案,欄目:基礎、一般規格或職權範圍"
+    "de8d278817883d9564ad99dbdfa1e59031db345bea964c7eeab0b70f940aec84": "【待校訂：分段翻譯】https://www.guatecompras.gt/ NOG :  32285825 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32285825&o=5 欄目:採購過程檔案,欄目:基礎、一般規格或職權範圍",
+    "98275e3b50cd86976e834ae52df2e6ae9ff6cefc7a10f67c650409599d4e2bae": "工作監督:監獄管理局。",
+    "f805d67f691b9c0f3180401d964a5920acfc9827b98700e8166b56bd2a19ff99": "諮詢的總體目標:確保適當開展 \" 擴大監獄中心(N° 1 Resistencia) \" 和 \" 警務和國家安全高階研究所 \" 的工作,對範圍進行技術監督; 物質進步、材料質量和遵守技術規格的時間表。"
   }
 }
