@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:51:20.515Z",
+  "generatedAt": "2026-11-04T00:25:26.542Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -42,45 +42,6 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
-    },
-    {
-      "id": "149014",
-      "document": "812",
-      "process": "060/2026",
-      "country": "哥斯大黎加",
-      "industry": "水利與土木工程",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-21",
-      "deadlineUtc": "2026-11-04T23:00:00.000Z",
-      "fit": 48,
-      "title": "哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。",
-      "ruleTitle": "“Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
-      "originalTitle": "060/2026 “Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
-      "summary": "CABEI 公開採購「哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。」。SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。",
-      "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。 因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。 1.3 1.3.1 服務的可用性 承包商必須按照本 工作說明書（TOR） 規定的工作，計劃，技術規格，數量框，技術和經濟報價，以及其他適用的契約檔案進行。 此外，承包商應執行受溼度影響的天空的清潔、處理和完成，特別是位於陽臺下的木天空，確保材料的相容性、適當的表面終結以及未受溼度影響的現有元素的保護。 替代。 承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。 承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的",
-      "qualifications": [
-        "因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。",
-        "承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。",
-        "承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。",
-        "UNA VEZ APROBADO 經驗必須透過執行契約、接收檔案、良好執行證書、滿意證書或先前客戶發出的參考信件進行認證。",
-        "1.5 需要的工作團隊經驗 1.5.1 承包商必須任命專案技術負責人，負責協調、技術指導、品質控制、工作執行跟蹤和與銀行溝通。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827618-060%202026%20Terminos%20de%20Referencia.pdf",
-      "translationFingerprint": "9189765a000b7f97fa25b2a18629660c47e123706f331f677394736c7c763fc3",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-22T05:02:26.690035+00:00",
-      "translationWarnings": []
     },
     {
       "id": "146012",
@@ -238,6 +199,76 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "153014",
+      "document": "820",
+      "process": "060/2026",
+      "country": "區域／未載明",
+      "industry": "一般供應",
+      "category": "貨品",
+      "method": "公開詢價",
+      "published": "2026-11-03",
+      "deadlineUtc": "2026-11-10T23:00:00.000Z",
+      "fit": 58,
+      "title": "採購物品和機構物品",
+      "ruleTitle": "Adquisición de Indumentaria y Artículos Institucionales",
+      "originalTitle": "060/2026 Adquisición de Indumentaria y Artículos Institucionales",
+      "summary": "CABEI 公開採購「採購物品和機構物品」。060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。 PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03853313-Aviso.pdf",
+      "translationFingerprint": "ed73622437b2f7f38d0413d0429332c1dec19e5bd5ff80802071a7ed75319c15",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-04T00:25:58.630940+00:00",
+      "translationWarnings": []
+    },
+    {
+      "id": "153014",
+      "document": "820",
+      "process": "060/2026",
+      "country": "區域／未載明",
+      "industry": "一般供應",
+      "category": "貨品",
+      "method": "公開詢價",
+      "published": "2026-11-03",
+      "deadlineUtc": "2026-11-10T23:00:00.000Z",
+      "fit": 58,
+      "title": "採購物品和機構物品",
+      "ruleTitle": "Adquisición de Indumentaria y Artículos Institucionales",
+      "originalTitle": "060/2026 Adquisición de Indumentaria y Artículos Institucionales",
+      "summary": "CABEI 公開採購「採購物品和機構物品」。060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。 PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03853313-Aviso.pdf",
+      "translationFingerprint": "ed73622437b2f7f38d0413d0429332c1dec19e5bd5ff80802071a7ed75319c15",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-04T00:25:59.479035+00:00",
+      "translationWarnings": []
     },
     {
       "id": "137011",
@@ -429,6 +460,85 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "149014",
+      "document": "812",
+      "process": "060/2026",
+      "country": "哥斯大黎加",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-10-21",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 48,
+      "title": "哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。",
+      "ruleTitle": "“Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
+      "originalTitle": "060/2026 “Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
+      "summary": "CABEI 公開採購「哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。」。SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。 因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。 1.3 1.3.1 服務的可用性 承包商必須按照本 工作說明書（TOR） 規定的工作，計劃，技術規格，數量框，技術和經濟報價，以及其他適用的契約檔案進行。 此外，承包商應執行受溼度影響的天空的清潔、處理和完成，特別是位於陽臺下的木天空，確保材料的相容性、適當的表面終結以及未受溼度影響的現有元素的保護。 替代。 承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。 承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的",
+      "qualifications": [
+        "因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。",
+        "承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。",
+        "承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。",
+        "UNA VEZ APROBADO 經驗必須透過執行契約、接收檔案、良好執行證書、滿意證書或先前客戶發出的參考信件進行認證。",
+        "1.5 需要的工作團隊經驗 1.5.1 承包商必須任命專案技術負責人，負責協調、技術指導、品質控制、工作執行跟蹤和與銀行溝通。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827618-060%202026%20Terminos%20de%20Referencia.pdf",
+      "translationFingerprint": "9189765a000b7f97fa25b2a18629660c47e123706f331f677394736c7c763fc3",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-22T05:02:26.690035+00:00",
+      "translationWarnings": []
+    },
+    {
+      "id": "152014",
+      "document": "819",
+      "process": "062/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-11-03",
+      "deadlineUtc": "2026-11-18T23:00:00.000Z",
+      "fit": 35,
+      "title": "Cisco Smart Net Total Care 支援",
+      "ruleTitle": "Renovación de Soporte Cisco Smart Net Total Care",
+      "originalTitle": "062/2026 Renovación de Soporte Cisco Smart Net Total Care",
+      "summary": "CABEI 公開採購「Cisco Smart Net Total Care 支援」。1.2 採購的目的為 1.2.1 透過在 CABEI 總部建築、改造處理中心和國家辦公室安裝和運營的 Cisco 設備的支援和擴充套件保證服務的持續性，透過在 Smart 模式下更新覆蓋 Net Total Care(或其當前同等名稱)適用於這些 工作說明書（TOR） 7 附件中詳細列出的設備。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購公司，以確保Cisco本部建築、改造處理中心和國家辦公室安裝和運營的設備的廣泛支援和保證服務的連續性。 CABEI 透過改造覆蓋 根據 工作說明書（TOR） 7 附件中詳細描述的設備的 ",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 採購的目的為 1.2.1 透過在 CABEI 總部建築、改造處理中心和國家辦公室安裝和運營的 Cisco 設備的支援和擴充套件保證服務的持續性，透過在 Smart 模式下更新覆蓋 Net Total Care(或其當前同等名稱)適用於這些 工作說明書（TOR） 7 附件中詳細列出的設備。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購公司，以確保Cisco本部建築、改造處理中心和國家辦公室安裝和運營的設備的廣泛支援和保證服務的連續性。 CABEI 透過改造覆蓋 根據 工作說明書（TOR） 7 附件中詳細描述的設備的 Smart Net Total Care 模式(或其當前同等名稱)。 至少有五年(5)在銷售與所需相似的設備和解決方案的經驗。 提前保證必須在提前付款之前有效，並在契約的期限內保持有效。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。 1.4 一般和具體經驗 供應商 1.4.1 一般經驗: 供應商必須在 Cisco 品牌設備的銷售、分銷和技術支援方面有經過驗證的經驗。 缺乏或不一致的歷史或參考資訊(例如，經驗背景或",
+      "qualifications": [
+        "1.4 一般和具體經驗 供應商 1.4.1 一般經驗:",
+        "供應商必須在 Cisco 品牌設備的銷售、分銷和技術支援方面有經過驗證的經驗。",
+        "至少有五年(5)在銷售與所需相似的設備和解決方案的經驗。",
+        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
+        "缺乏或不一致的歷史或參考資訊(例如，經驗背景或契約履行)，可以透過客觀來源進行驗證或補充，而不會改變提交的技術或經濟報價。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03852836-Aviso.pdf",
+      "translationFingerprint": "bf55778cba7ec7bce243e0e9833245533ff888559e420dfcbf57861ad1da7461",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-04T00:26:34.378998+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     }
   ],
   "officialAttachments": {
@@ -532,6 +642,30 @@
       {
         "name": "056 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03831858-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "152014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03852836-Aviso.pdf"
+      },
+      {
+        "name": "062 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03852832-062%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03852827-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "153014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853313-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 6 - Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853308-Anexo%206%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "300000029843654": [
@@ -645,6 +779,8 @@
       }
     ],
     "150016": [],
+    "152014": [],
+    "153014": [],
     "300000029843654": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -858,6 +994,16 @@
     "2e996052ee02b091e228fc1065a3d2d6f1d21847ae5e80132086415108288b44": "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。",
     "0b5573fbc4e7ae9192e0700911d04d33e0c64e7972b905b0e4f748120b0c6f1d": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
     "cd46b34a4bb1b2c31b6c8362d04e8b7b7b426c621056c334c53a2a00daeeeabf": "CABEI在1960作為中美洲的融入和發展的財務手臂出現，並且是Sui Generi組織，因為它具有競爭或可以發展其業務的領域的廣度，以及其物件和基礎原則。",
-    "f1f58f2dcd17c0fd994d1cbdd26100d7851b98381784d00ed834508d32728117": "作為最低參考標準，可以使用 10 年迴歸期為常規排水，除非當地法規要求更長。"
+    "f1f58f2dcd17c0fd994d1cbdd26100d7851b98381784d00ed834508d32728117": "作為最低參考標準，可以使用 10 年迴歸期為常規排水，除非當地法規要求更長。",
+    "f973ae38b1b951de5e7a34cfb77b196c7412a2add329356f7aa654e333239fb8": "採購物品和機構物品",
+    "c1c2a2cd7a0d5d4356fb6473d043d5713f4a7cc34500cbec8bfbd4739e056753": "060/2026 “物品和機構物品的收購”。",
+    "afd21a14fd3dbc2fdf5d0961a475b4ffcf826b44265e52d56040085fd798085b": "DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。",
+    "f3017314d387f7b4c17a3de0f2e3e1a50489d0b2f34710108f35025ebe76d9cf": "Cisco Smart Net Total Care 支援",
+    "197776aca971649c32f045498246173c57080540ec6456f9fb2921037a5f251a": "1.2 採購的目的為 1.2.1 透過在 CABEI 總部建築、改造處理中心和國家辦公室安裝和運營的 Cisco 設備的支援和擴充套件保證服務的持續性，透過在 Smart 模式下更新覆蓋 Net Total Care(或其當前同等名稱)適用於這些 工作說明書（TOR） 7 附件中詳細列出的設備。",
+    "c83392f6afe5db1ba67597b31ffc7a8c342f909f5f5c786a922dab50334bb401": "【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購公司，以確保Cisco本部建築、改造處理中心和國家辦公室安裝和運營的設備的廣泛支援和保證服務的連續性。 CABEI 透過改造覆蓋 根據 工作說明書（TOR） 7 附件中詳細描述的設備的 Smart Net Total Care 模式(或其當前同等名稱)。",
+    "fcd2fecf76e68c3fe9d8759281ce66c708a53470cb34b9d1844466e5b86293e7": "至少有五年(5)在銷售與所需相似的設備和解決方案的經驗。",
+    "d8f42b0cda420b5478f114ad38c38b0b1743018324506fc652291e711ee772f8": "提前保證必須在提前付款之前有效，並在契約的期限內保持有效。",
+    "883c2de198e64ccc92afcb9a5281539323493d4eae6a108bcc78d862b53fcc70": "供應商必須在 Cisco 品牌設備的銷售、分銷和技術支援方面有經過驗證的經驗。",
+    "3d2beced0f862fcfb91b4b866e54ce712ff198a7a44dd2eef9bc7e79dfbe1ed1": "缺乏或不一致的歷史或參考資訊(例如，經驗背景或契約履行)，可以透過客觀來源進行驗證或補充，而不會改變提交的技術或經濟報價。"
   }
 }

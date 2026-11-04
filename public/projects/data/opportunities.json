@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:57:11.117Z",
+  "generatedAt": "2026-11-04T00:25:28.015Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -125,6 +125,47 @@
       "translationVersion": "offline-opus-v2",
       "translationUpdatedAt": "2026-10-27T05:15:29.331103+00:00",
       "documentAccessZh": "https://sicadigital.sica.int/4ib4alC https://sicadigital.sica.int/4ib4alC 鍵盤",
+      "translationWarnings": []
+    },
+    {
+      "id": "298",
+      "document": "298",
+      "process": "GTM-2026-2181FORENSE-39448-CI",
+      "originalTitle": "Consultor en Adquisiciones",
+      "title": "採購諮詢人",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/298-GTM-2026-2181FORENSE-39448-CI",
+      "officialSummary": "La Consultoría en Adquisiciones, tiene como objetivo apoyar a la coordinación del Programa para la definición y ejecución de los planes de adquisiciones generales y anuales vigentes para la contratación de obras, adquisiciones de bienes, servicios y consultorías para los diferentes componentes del “Programa de Inversión y Modernización para el Sector Justicia” así como de las políticas y normas que sean aplicables para la ejecución del Programa, en cumplimiento a lo establecido en el Contrato de Préstamo No. BCIE-2181.",
+      "executor": "Instituto Nacional de Ciencias Forenses de Guatemala (INACIF)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "資格比較",
+      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-11-03",
+      "deadlineUtc": "2026-11-10T06:00:00.000Z",
+      "deadlineDate": "2026-11-10",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "92310.00",
+      "summary": "CABEI 公開採購「採購諮詢人」。採購諮詢的目的是支援方案的協調,以便為方案各組成部分確定和執行工程採購、貨物採購、服務和諮詢方面的現有一般採購計劃和年度採購計劃。 根據BCIE-2181號貸款合同的規定,“司法部門投資和現代化方案”以及執行該方案所適用的政策和規則。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：採購諮詢的目的是支援方案的協調,以便為方案各組成部分確定和執行工程採購、貨物採購、服務和諮詢方面的現有一般採購計劃和年度採購計劃。 根據BCIE-2181號貸款合同的規定,“司法部門投資和現代化方案”以及執行該方案所適用的政策和規則。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5",
+      "translationFingerprint": "40dc9f0c123071af28b37afbf9937cdb46ddd5aacb4fddaf19883e5666742fe4",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-04T00:26:43.058182+00:00",
+      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5",
       "translationWarnings": []
     },
     {
@@ -254,6 +295,131 @@
       "translationUpdatedAt": "2026-10-14T00:23:10.579363+00:00",
       "documentAccessZh": "【待校訂：分段翻譯】adquisiciones.pisash@enacal.com.ni 複製到 adquis6.pisash@enacal.com.ni 承包者向有關各方提供與這一招標書有關的所有檔案,這是編寫投標書所必需的",
       "revisionSourceTitle": "Mejoramiento y Ampliación del Sistema de Agua Potable de la ciudad de Camoapa",
+      "translationWarnings": []
+    },
+    {
+      "id": "297",
+      "document": "297",
+      "process": "GTM-2026-2181GOBERNACIÓN-33902-CI",
+      "originalTitle": "Consultor en Seguimiento de Metas Físicas",
+      "title": "監測實際目標顧問",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/297-GTM-2026-2181GOBERNACI%C3%93N-33902-CI",
+      "officialSummary": "Establecer los medios de control y seguimiento al cumplimiento de las metas físicas establecidas en los instrumentos de Planificación del Programa.",
+      "executor": "Ministerio de Gobernación (MINGOB)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "資格比較",
+      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-10-30",
+      "deadlineUtc": "2026-11-16T06:00:00.000Z",
+      "deadlineDate": "2026-11-16",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "13119.57",
+      "summary": "CABEI 公開採購「監測實際目標顧問」。建立手段,監測和監測方案規劃文書所列實際目標的遵守情況。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：建立手段,監測和監測方案規劃文書所列實際目標的遵守情況。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5, en el apartado denominado \"Documentos del proceso de Contratación\" podrá descargar la información. www.guatecompras,gt",
+      "translationFingerprint": "a141769f3ad3045e9d56877019fcbcb652a810f6404a9bd59919b6886234d86a",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-04T00:26:44.293017+00:00",
+      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5, 在名為“訂約過程檔案”的章節中, 您可以下載資訊 。 www.guatecompras, gt",
+      "translationWarnings": []
+    },
+    {
+      "id": "296",
+      "document": "296",
+      "process": "GTM-2026-2181GOBERNACIÓN-33898-CI",
+      "originalTitle": "Consultor Asistente del Coordinador de la UEEP",
+      "title": "UEEP協調員助理顧問",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/296-GTM-2026-2181GOBERNACI%C3%93N-33898-CI",
+      "officialSummary": "Propiciar el funcionamiento eficiente y eficaz en la presentación de los servicios que le competen a la Unidad Especial de Ejecución del Programa UEEP, dentro del ámbito de ejecución del Prestamos del BCIE número 2181, Programa de Inversión y Modernización para el Sector Justicia del Ministerio de Gobernación.",
+      "executor": "Ministerio de Gobernación (MINGOB)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "資格比較",
+      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-10-30",
+      "deadlineUtc": "2026-11-16T06:00:00.000Z",
+      "deadlineDate": "2026-11-16",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "28338.28",
+      "summary": "CABEI 公開採購「UEEP協調員助理顧問」。【待校訂：分段翻譯】促進在向特別方案執行股提供服務時高效率、高成效地運作 UEEP 在《公約》執行範圍內 BCIE 編號 2181, 司法部投資和現代化方案 省一級。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】促進在向特別方案執行股提供服務時高效率、高成效地運作 UEEP 在《公約》執行範圍內 BCIE 編號 2181, 司法部投資和現代化方案 省一級。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5, en la pestaña denominada \"Documentos del Proceso de Contratación\" podrá descargar la información. www.guatecompras.gt",
+      "translationFingerprint": "4e600569d199797eb275dc66079f00c4180bea7ba896a992497fb133b87b115d",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-04T00:26:51.834036+00:00",
+      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載資訊 。 www.guatecompras. gt",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "295",
+      "document": "295",
+      "process": "GTM-2026-2181GOBERNACIÓN-33896-CI",
+      "originalTitle": "Consultor Asistente en Adquisiciones II",
+      "title": "助理採購顧問II",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/295-GTM-2026-2181GOBERNACI%C3%93N-33896-CI",
+      "officialSummary": "Garantizar el fiel cumplimiento de la Política para la Obtención de Bienes, Obras, Servicios y Consultorías con recursos del BCIE y sus Normas de aplicación, correspondiente al Programa de Inversión y Modernización para el Sector Justicia, contemplada en el Contrato de Préstamo número 2181.",
+      "executor": "Ministerio de Gobernación (MINGOB)",
+      "sourceLanguage": "es",
+      "country": "瓜地馬拉",
+      "industry": "個人顧問",
+      "category": "個人顧問",
+      "method": "資格比較",
+      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
+      "published": "2026-10-30",
+      "deadlineUtc": "2026-11-16T06:00:00.000Z",
+      "deadlineDate": "2026-11-16",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "fit": 20,
+      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
+      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "28863.06",
+      "summary": "CABEI 公開採購「助理採購顧問II」。確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, en la pestaña denominada \"Documento del Proceso de Contratación\", podrá descargar la información. www.guatecompras.gt",
+      "translationFingerprint": "7a95851805d74668f86182c06ac3439533a367dab876bc7b6d5770d03e65eaa7",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-04T00:26:56.794370+00:00",
+      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載這些資訊 。 www.guatecompras. gt",
       "translationWarnings": []
     },
     {
@@ -841,7 +1007,31 @@
         "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
       }
     ],
-    "294": []
+    "294": [],
+    "295": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5"
+      }
+    ],
+    "296": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5"
+      }
+    ],
+    "297": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5"
+      }
+    ],
+    "298": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5"
+      }
+    ]
   },
   "taiwanCompanySuggestions": {
     "254": [
@@ -1013,7 +1203,11 @@
         "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
         "url": "https://www.ctci.com/"
       }
-    ]
+    ],
+    "295": [],
+    "296": [],
+    "297": [],
+    "298": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -1142,6 +1336,17 @@
     "66d231dbc04197c1e078170537cd92020de388f8a55226def613c8ffb4cfcafe": "【待校訂：分段翻譯】國際公共標書 -- -- 上維拉帕斯科萬新醫院設計、建造、裝置和開辦的手持鑰匙合同 SNIP 336761 ) - LPI BCIE 2230 01-2026",
     "de8d278817883d9564ad99dbdfa1e59031db345bea964c7eeab0b70f940aec84": "【待校訂：分段翻譯】https://www.guatecompras.gt/ NOG :  32285825 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32285825&o=5 欄目:採購過程檔案,欄目:基礎、一般規格或職權範圍",
     "98275e3b50cd86976e834ae52df2e6ae9ff6cefc7a10f67c650409599d4e2bae": "工作監督:監獄管理局。",
-    "f805d67f691b9c0f3180401d964a5920acfc9827b98700e8166b56bd2a19ff99": "諮詢的總體目標:確保適當開展 \" 擴大監獄中心(N° 1 Resistencia) \" 和 \" 警務和國家安全高階研究所 \" 的工作,對範圍進行技術監督; 物質進步、材料質量和遵守技術規格的時間表。"
+    "f805d67f691b9c0f3180401d964a5920acfc9827b98700e8166b56bd2a19ff99": "諮詢的總體目標:確保適當開展 \" 擴大監獄中心(N° 1 Resistencia) \" 和 \" 警務和國家安全高階研究所 \" 的工作,對範圍進行技術監督; 物質進步、材料質量和遵守技術規格的時間表。",
+    "6ff8019be46ebc6c1a014c8855518126b0038f59fc607fa9f84cd09da42010e6": "採購諮詢人",
+    "407b1f59e5f00824004adca152d3f066c294c8516b1115c1933d9bd793dabd42": "採購諮詢的目的是支援方案的協調,以便為方案各組成部分確定和執行工程採購、貨物採購、服務和諮詢方面的現有一般採購計劃和年度採購計劃。 根據BCIE-2181號貸款合同的規定,“司法部門投資和現代化方案”以及執行該方案所適用的政策和規則。",
+    "9228062507e9256cd480b73f9228acd943429d4bc3dd925a24219a1f01fd1f0c": "監測實際目標顧問",
+    "0c1053d3c9268f9bd357bd58ebabee66fc4b0ec140aa60804b3abdef8ccb6eca": "建立手段,監測和監測方案規劃文書所列實際目標的遵守情況。",
+    "5bc59fc5db37dcee0c8aadd4c0798f99d3c3d9c04b5a484fde5c4c5176aa9b06": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5, 在名為“訂約過程檔案”的章節中, 您可以下載資訊 。 www.guatecompras, gt",
+    "c27a7c1cc38b0614fcbdb2ca5c0af72f1f184c34ee27b56ca4f914122be29df8": "UEEP協調員助理顧問",
+    "ba009b135d58eb1926a6a31852905738344c565f80de139cb0819f7ad79b2193": "【待校訂：分段翻譯】促進在向特別方案執行股提供服務時高效率、高成效地運作 UEEP 在《公約》執行範圍內 BCIE 編號 2181, 司法部投資和現代化方案 省一級。",
+    "5b9b73e1b0809ea0f5613b78f680ad85a9ddd75f5d627278d2a69a907771b995": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載資訊 。 www.guatecompras. gt",
+    "0ab3f2b4ecb10f4fb2161ead5732011175e690042a8112c5a28303c512d6e6d6": "助理採購顧問II",
+    "73481175ed5e96de86f4ff5752d9a648a09fb731dbdb0141e44dfca861f4549e": "確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
+    "410912a84ee75548b75fdb8ef2700d38f978e46dbb9ced91e5f8cf9b1aa2b5ec": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載這些資訊 。 www.guatecompras. gt"
   }
 }
