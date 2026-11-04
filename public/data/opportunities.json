@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:25:26.542Z",
+  "generatedAt": "2026-11-04T06:37:46.426Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -232,7 +232,7 @@
       "translationFingerprint": "ed73622437b2f7f38d0413d0429332c1dec19e5bd5ff80802071a7ed75319c15",
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-04T00:25:58.630940+00:00",
+      "translationUpdatedAt": "2026-11-04T00:25:59.479035+00:00",
       "translationWarnings": []
     },
     {
