@@ -1,128 +1,7 @@
 {
-  "generatedAt": "2026-11-04T06:37:46.426Z",
+  "generatedAt": "2026-11-05T06:58:32.554Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "300000029755998",
-      "document": "809,1",
-      "process": "051/2026",
-      "country": "區域／未載明",
-      "industry": "一般供應",
-      "category": "貨品",
-      "method": "公開詢價",
-      "published": "2026-10-21",
-      "deadlineUtc": "2026-11-04T23:00:00.000Z",
-      "fit": 58,
-      "title": "採購 41 黃金認可 古代 總部和區域 2026.",
-      "ruleTitle": "Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
-      "originalTitle": "051/2026 Adquisición de 41 Reconocimientos de oro por Antigüedad Sede y Regionales 2026.",
-      "summary": "CABEI 公開採購「採購 41 黃金認可 古代 總部和區域 2026.」。1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "US$10,000",
-      "documentSummary": "1.2 採購的目的為 1.2.1. 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購一個專門的供應商，以製造和供應 41 以黃金製作的認可作品 14 K、為員工提供 CABEI 要滿足 10, 15, 20 服務年份，在相應的年份，將交付在儀式 每年12月舉行的紀念活動。 CABEI需要採購一個專門的供應商，以製造和供應41的黃金製作的14K認可零件，用於CABEI的員工，滿足10, 15和20的服務年份，在相應的年份，這些將交付在年度認可儀式 它在12月舉行。 公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。 至少有五年(5)的經驗。 如果交付的商品不符合契約要求，CABEI將通知契約人，以便在5工作日的最高期限內進行糾正，並能夠保留支付，直到全部滿足。 1.4 1.4.1. 供應商所需的總體和具體經驗 公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
-      "qualifications": [
-        "1.4 1.4.1. 供應商所需的總體和具體經驗",
-        "公司必須至少有五年(5)在生產、珠寶銷售和相關業務經驗。",
-        "公司在製造或銷售精緻、美學和精緻完成珠寶的經驗，具有高品質和保證的材料。",
-        "至少有五年(5)的經驗。",
-        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf",
-      "translationFingerprint": "8aac1a5e24088e0f95f3506adabbd77d7a935ebf266c3c05c0fc3919745d2b6c",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-21T03:17:32.915519+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "146012",
-      "document": "805",
-      "process": "054/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-14",
-      "deadlineUtc": "2026-11-04T23:00:00.000Z",
-      "fit": 35,
-      "title": "網路負載平衡器的更新",
-      "ruleTitle": "Renovación de Balanceadores de Carga de Red",
-      "originalTitle": "054/2026 Renovación de Balanceadores de Carga de Red",
-      "summary": "CABEI 公開採購「網路負載平衡器的更新」。1.2 招標的目的為 招標公司透過收購和實施 A10 Networks 或更高階的解決方案，以維持和擴充套件目前使用的能力和功能，包括至少: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要僱傭一家公司透過收購和實施類別解決方案來更新網路負載平衡平台 A10 Networks 或更高版本，保持和擴充套件目前使用的功能和功能，包括: 最小:",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "1.2 招標的目的為 招標公司透過收購和實施 A10 Networks 或更高階的解決方案，以維持和擴充套件目前使用的能力和功能，包括至少: 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要僱傭一家公司透過收購和實施類別解決方案來更新網路負載平衡平台 A10 Networks 或更高版本，保持和擴充套件目前使用的功能和功能，包括: 最小: 作為技術基礎設施的更新和加強程序的一部分，確定了需要將現有平台元件替換為一個負載級解決方案，提供高水平的可用性、運營穩定性和可靠性，以及一個計劃。 堅實的技術支援和永久許可，確保平台的長期永續性。 UNA VEZ APROBADO 1.3 高階設計(HLD) 1.4 採購範圍 為 宏都拉斯 ▪ 兩個(2) 平衡器類型 Thunder ADC 1060S 或更高 ▪ 設定以高可用性執行(HA)，與 LB 和 LLB/GSLB 服務的邏輯分離。 ▪ 所有指定的功能和製造商支援 24x7的許可要求 3年，包括軟體更新和硬體更換。 1.5 契約人所需的總體和具體經驗 1.5.1 總體經驗: 供應商必須至少有五年(5)的存在，並在其代表的製",
-      "qualifications": [
-        "1.5 契約人所需的總體和具體經驗 1.5.1 總體經驗:",
-        "供應商必須至少有五年(5)的存在，並在其代表的製造商的供應和設備支援部門運營。",
-        "供應商必須在銷售設備和網路負載平衡解決方案方面有豐富的經驗，具有與所要求相似的特性。",
-        "這種經驗必須透過客戶發出的參考信(最少3信)來證明，這些客戶已經獲得了與申請人相似的設備。",
-        "除此之外，預期保證，還可以由保險公司發放的保證，該保險公司可為 CABEI 提供。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03811899-Aviso.pdf",
-      "translationFingerprint": "d46fce273372bd01b7d7e4f537423affbd16571e06fc79ad3b1495ec41294c25",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-15T00:24:26.893103+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "149015",
-      "document": "815",
-      "process": "063/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-10-22",
-      "deadlineUtc": "2026-11-05T23:00:00.000Z",
-      "fit": 35,
-      "title": "旅遊管理服務(TMS)",
-      "ruleTitle": "Servicios Integrales de Gestión de Viajes (Travel Management Services – TMS)",
-      "originalTitle": "063/2026 Servicios Integrales de Gestión de Viajes (Travel Management Services – TMS)",
-      "summary": "CABEI 公開採購「旅遊管理服務(TMS)」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.2 契約的目的為 1.2.1.",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.2 契約的目的為 1.2.1. CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 (1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。 該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。 許可證和/或簽證要求，接種疫苗要求，有關國家入境和出境所需的檔案資訊等。 移民、衛生和預訂要求 對於每次國際旅行，承包商應當向旅行者提供有關: UNA VEZ APROBADO • 許可，簽證和/或過境簽證要求。",
-      "qualifications": [
-        "許可證和/或簽證要求，接種疫苗要求，有關國家入境和出境所需的檔案資訊等。",
-        "移民、衛生和預訂要求 對於每次國際旅行，承包商應當向旅行者提供有關:",
-        "UNA VEZ APROBADO • 許可，簽證和/或過境簽證要求。",
-        "(1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。",
-        "該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03829454-Aviso.pdf",
-      "translationFingerprint": "49b48d1544f5db56451dc97d68e0f2fe6445bbe99d258560f0efa657a08489ba",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-23T05:01:23.271185+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "149012",
       "document": "810",
@@ -156,46 +35,6 @@
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-22T05:00:31.284532+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "149016",
-      "document": "816",
-      "process": "064/2026",
-      "country": "區域／未載明",
-      "industry": "專業顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-10-22",
-      "deadlineUtc": "2026-11-05T23:59:00.000Z",
-      "fit": 62,
-      "title": "SGCN強化技術諮詢服務和ISO標準認證準備 22301 II階段",
-      "ruleTitle": "Servicios de Asesoría Técnica para el Fortalecimiento del SGCN y Preparación para Certificación de la norma ISO 22301 Fase II",
-      "originalTitle": "064/2026 Servicios de Asesoría Técnica para el Fortalecimiento del SGCN y Preparación para Certificación de la norma ISO 22301 Fase II",
-      "summary": "CABEI 公開採購「SGCN強化技術諮詢服務和ISO標準認證準備 22301 II階段」。此外，顧問還將支援審查最終 SGCN 的範圍，根據行動計劃的實施中獲得的結果進行認證。 然而，在協商的執行和雙方共同協議下，可以進行必要的方法和序列調整，以實現目標，只要不涉及在提案中考慮的範圍、努力或資源的物質變化。",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "此外，顧問還將支援審查最終 SGCN 的範圍，根據行動計劃的實施中獲得的結果進行認證。 然而，在協商的執行和雙方共同協議下，可以進行必要的方法和序列調整，以實現目標，只要不涉及在提案中考慮的範圍、努力或資源的物質變化。 【待校訂：分段保護翻譯】UNA VEZ APROBADO 第一階段 - 診斷和戰略規劃 SGCN 在一年中 2025, 該銀行在專門的諮詢公司支援下，實施了專案的第一階段，其目標是建立一個國家基礎線。 SGCN 首先，要確定認證的範圍，並 要制定對規則的關閉計劃。 UNA VEZ APROBADO 1.2 諮詢目的為 1.2.1 CABEI 需要採購諮詢師的服務，以便在 II 業務連續性管理系統(SGCN)的強化過程中提供專門的技術諮詢，符合 ISO 標準的要求 22301:2019. 顧問必須在實施、加強或協助專案的具體經驗，以便在ISO 22301，標準下認證業務連續性管理系統，包括進行診斷、關閉漏洞、編制和更新文件。 提供在不同組織層面的培訓，以及計劃和領導測試和業務連續性和危機管理的練習。 1.5.5 提供諮詢和審查的技術建議的範圍 SGCN(微軟Word)將被",
-      "qualifications": [
-        "SGCN業務連續性管理規則和手冊的諮詢和審查，以便顧問確定漏洞，併發出必要的調整或改進建議，以便將其與ISO 22301標準的要求相匹配，並支援認證過程。",
-        "基於結果，應提出必要的措施，以解決可能被確認的不符合性，以便為銀行進行正式審計。",
-        "顧問必須證明至少10年(10)的經驗，在提供與業務連續性相關的諮詢服務，組織耐力，危機管理，風險管理，管理系統或審計，最好在行業組織。 金融機構、國際機構或公共機構。",
-        "顧問必須在實施、加強或協助專案的具體經驗，以便在ISO 22301，標準下認證業務連續性管理系統，包括進行診斷、關閉漏洞、編制和更新文件。 提供在不同組織層面的培訓，以及計劃和領導測試和業務連續性和危機管理的練習。",
-        "1.5.4 SGCN的協商、技術驗證和過程、程式、產品和服務的可追蹤性，包括觀察、分裂、改進機會和建議，以便與認證目的適用的要求進行調整。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03830001-064%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "9aee77f4cb742276015f312f8527e6c3ebe521166de9b39efdd226bb927341f0",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-23T05:02:03.789731+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -380,6 +219,85 @@
       "translationWarnings": []
     },
     {
+      "id": "149016",
+      "document": "816",
+      "process": "064/2026",
+      "country": "區域／未載明",
+      "industry": "專業顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-10-22",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 62,
+      "title": "SGCN強化技術諮詢服務和ISO標準認證準備 22301 II階段",
+      "ruleTitle": "Servicios de Asesoría Técnica para el Fortalecimiento del SGCN y Preparación para Certificación de la norma ISO 22301 Fase II",
+      "originalTitle": "064/2026 Servicios de Asesoría Técnica para el Fortalecimiento del SGCN y Preparación para Certificación de la norma ISO 22301 Fase II",
+      "summary": "CABEI 公開採購「SGCN強化技術諮詢服務和ISO標準認證準備 22301 II階段」。此外，顧問還將支援審查最終 SGCN 的範圍，根據行動計劃的實施中獲得的結果進行認證。 然而，在協商的執行和雙方共同協議下，可以進行必要的方法和序列調整，以實現目標，只要不涉及在提案中考慮的範圍、努力或資源的物質變化。",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "此外，顧問還將支援審查最終 SGCN 的範圍，根據行動計劃的實施中獲得的結果進行認證。 然而，在協商的執行和雙方共同協議下，可以進行必要的方法和序列調整，以實現目標，只要不涉及在提案中考慮的範圍、努力或資源的物質變化。 【待校訂：分段保護翻譯】UNA VEZ APROBADO 第一階段 - 診斷和戰略規劃 SGCN 在一年中 2025, 該銀行在專門的諮詢公司支援下，實施了專案的第一階段，其目標是建立一個國家基礎線。 SGCN 首先，要確定認證的範圍，並 要制定對規則的關閉計劃。 UNA VEZ APROBADO 1.2 諮詢目的為 1.2.1 CABEI 需要採購諮詢師的服務，以便在 II 業務連續性管理系統(SGCN)的強化過程中提供專門的技術諮詢，符合 ISO 標準的要求 22301:2019. 顧問必須在實施、加強或協助專案的具體經驗，以便在ISO 22301，標準下認證業務連續性管理系統，包括進行診斷、關閉漏洞、編制和更新文件。 提供在不同組織層面的培訓，以及計劃和領導測試和業務連續性和危機管理的練習。 1.5.5 提供諮詢和審查的技術建議的範圍 SGCN(微軟Word)將被",
+      "qualifications": [
+        "SGCN業務連續性管理規則和手冊的諮詢和審查，以便顧問確定漏洞，併發出必要的調整或改進建議，以便將其與ISO 22301標準的要求相匹配，並支援認證過程。",
+        "基於結果，應提出必要的措施，以解決可能被確認的不符合性，以便為銀行進行正式審計。",
+        "顧問必須證明至少10年(10)的經驗，在提供與業務連續性相關的諮詢服務，組織耐力，危機管理，風險管理，管理系統或審計，最好在行業組織。 金融機構、國際機構或公共機構。",
+        "顧問必須在實施、加強或協助專案的具體經驗，以便在ISO 22301，標準下認證業務連續性管理系統，包括進行診斷、關閉漏洞、編制和更新文件。 提供在不同組織層面的培訓，以及計劃和領導測試和業務連續性和危機管理的練習。",
+        "1.5.4 SGCN的協商、技術驗證和過程、程式、產品和服務的可追蹤性，包括觀察、分裂、改進機會和建議，以便與認證目的適用的要求進行調整。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03830001-064%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "9aee77f4cb742276015f312f8527e6c3ebe521166de9b39efdd226bb927341f0",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-23T05:02:03.789731+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "300000029903072",
+      "document": "812,1",
+      "process": "060/2026",
+      "country": "哥斯大黎加",
+      "industry": "水利與土木工程",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-11-04",
+      "deadlineUtc": "2026-11-11T23:00:00.000Z",
+      "fit": 48,
+      "title": "哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。",
+      "ruleTitle": "“Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
+      "originalTitle": "060/2026 “Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
+      "summary": "CABEI 公開採購「哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。」。SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。",
+      "capabilities": [
+        "土木施工",
+        "水利工程",
+        "測量與施工管理"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。 將符合技術訪問要求的提供者，他們參加了在這些服務的採購過程中進行的訪問日期。 因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。 1.3 1.3.1 服務的可用性 承包商必須按照本 工作說明書（TOR） 規定的工作，計劃，技術規格，數量框，技術和經濟報價，以及其他適用的契約檔案進行。 承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。 承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。 UNA VEZ APROBADO 經驗必須透過執行契約、接收",
+      "qualifications": [
+        "因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。",
+        "承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。",
+        "承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。",
+        "UNA VEZ APROBADO 經驗必須透過執行契約、接收檔案、良好執行證書、滿意證書或先前客戶發出的參考信件進行認證。",
+        "1.5 需要的工作團隊經驗 1.5.1 承包商必須任命專案技術負責人，負責協調、技術指導、品質控制、工作執行跟蹤和與銀行溝通。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03854594-Enmienda%20II%20T%C3%A9rminos%20de%20Referencia%20%20060%202026.pdf",
+      "translationFingerprint": "92b64215f479770a7b0c817e6cb76132b671d977362049a6e9a02e22e0a75e73",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-05T06:58:57.428702+00:00",
+      "translationWarnings": []
+    },
+    {
       "id": "300000029843654",
       "document": "813,1",
       "process": "061/2026",
@@ -462,43 +380,125 @@
       ]
     },
     {
-      "id": "149014",
-      "document": "812",
-      "process": "060/2026",
-      "country": "哥斯大黎加",
-      "industry": "水利與土木工程",
+      "id": "149015",
+      "document": "815",
+      "process": "063/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
       "category": "服務",
       "method": "公開招標",
-      "published": "2026-10-21",
+      "published": "2026-10-22",
       "deadlineUtc": "2026-11-11T23:00:00.000Z",
-      "fit": 48,
-      "title": "哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。",
-      "ruleTitle": "“Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
-      "originalTitle": "060/2026 “Obras de Rehabilitación de Cubierta, Balcones y Áreas Complementarias del Edificio BCIE Costa Rica”.",
-      "summary": "CABEI 公開採購「哥斯大黎加CABEI建築的覆蓋、陽臺和補充區域的康復工作。」。SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。",
+      "fit": 35,
+      "title": "旅遊管理服務(TMS)",
+      "ruleTitle": "Servicios Integrales de Gestión de Viajes (Travel Management Services – TMS)",
+      "originalTitle": "063/2026 Servicios Integrales de Gestión de Viajes (Travel Management Services – TMS)",
+      "summary": "CABEI 公開採購「旅遊管理服務(TMS)」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.2 契約的目的為 1.2.1.",
       "capabilities": [
-        "土木施工",
-        "水利工程",
-        "測量與施工管理"
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.2 契約的目的為 1.2.1. CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 (1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。 該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。 許可證和/或簽證要求，接種疫苗要求，有關國家入境和出境所需的檔案資訊等。 移民、衛生和預訂要求 對於每次國際旅行，承包商應當向旅行者提供有關: UNA VEZ APROBADO • 許可，簽證和/或過境簽證要求。",
+      "qualifications": [
+        "許可證和/或簽證要求，接種疫苗要求，有關國家入境和出境所需的檔案資訊等。",
+        "移民、衛生和預訂要求 對於每次國際旅行，承包商應當向旅行者提供有關:",
+        "UNA VEZ APROBADO • 許可，簽證和/或過境簽證要求。",
+        "(1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。",
+        "該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03829454-Aviso.pdf",
+      "translationFingerprint": "49b48d1544f5db56451dc97d68e0f2fe6445bbe99d258560f0efa657a08489ba",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-23T05:01:23.271185+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "153015",
+      "document": "821",
+      "process": "057/2026",
+      "country": "區域／未載明",
+      "industry": "永續與環境顧問",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-04",
+      "deadlineUtc": "2026-11-13T23:00:00.000Z",
+      "fit": 72,
+      "title": "通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027",
+      "ruleTitle": "“Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
+      "originalTitle": "057 2026 “Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
+      "summary": "CABEI 公開採購「通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
       ],
       "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
       "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
       "amount": "未載明",
-      "documentSummary": "SERVICIO REQUERIDO 1.1 背景 哥斯大黎加的CABEI(CABEI)建築物在2024，年內進行了全面修復，主要致力於改造室內裝飾，包括地板、天空、塗層、牆壁和繪畫。 目前，他們處於良好的狀態。 總執行條款 承包商將負責根據技術上適當的建設序列規劃、協調和執行工作，考慮到專案的整體性質和契約範圍內所考慮的不同活動之間的相互作用。 因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。 1.3 1.3.1 服務的可用性 承包商必須按照本 工作說明書（TOR） 規定的工作，計劃，技術規格，數量框，技術和經濟報價，以及其他適用的契約檔案進行。 此外，承包商應執行受溼度影響的天空的清潔、處理和完成，特別是位於陽臺下的木天空，確保材料的相容性、適當的表面終結以及未受溼度影響的現有元素的保護。 替代。 承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。 承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的",
+      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。 承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。 至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。 至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿",
       "qualifications": [
-        "因此，應按照這些指導方針進行干預，確保環境保護和支援該認證的條件的持續性。",
-        "承包商必須至少有五年(5)的可驗證的建築、修復、修復、修復或適應建築的經驗，包括民用建築、建築完成、建築修復、水化和房地產干預。 操作。",
-        "承包商必須在維護、康復、修復或修復建築專案的執行中獲得滿意的經驗，其中包括民用建築物的組合、水化、過濾處理、建築物和完成物的修復。 建築師。",
-        "UNA VEZ APROBADO 經驗必須透過執行契約、接收檔案、良好執行證書、滿意證書或先前客戶發出的參考信件進行認證。",
-        "1.5 需要的工作團隊經驗 1.5.1 承包商必須任命專案技術負責人，負責協調、技術指導、品質控制、工作執行跟蹤和與銀行溝通。"
+        "承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。",
+        "至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。",
+        "至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。",
+        "至少有三年(3)在圖形設計，廣告創造力和視覺通訊和證實的專業設計，圖形圖形和圖形材料的領域的經驗。",
+        "至少有兩年(2)的圖形設計、音訊製作、數字動畫或影片編輯和多媒體設計和編輯工具管理經驗。"
       ],
       "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827618-060%202026%20Terminos%20de%20Referencia.pdf",
-      "translationFingerprint": "9189765a000b7f97fa25b2a18629660c47e123706f331f677394736c7c763fc3",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03854758-Aviso.pdf",
+      "translationFingerprint": "ee691a6740baf8ac707433cd44c51cf9d0f9ceaa75da48b8c0937a329d065a2a",
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-22T05:02:26.690035+00:00",
-      "translationWarnings": []
+      "translationUpdatedAt": "2026-11-05T06:59:41.590566+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "154014",
+      "document": "822",
+      "process": "066/2026",
+      "country": "區域／未載明",
+      "industry": "專業顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-11-04",
+      "deadlineUtc": "2026-11-18T23:00:00.000Z",
+      "fit": 62,
+      "title": "技術顧問(AT)為初步實施的影印件多專案破產數",
+      "ruleTitle": "Asesor técnico (AT) para las actividades iniciales de implementación de la Represa Multipropósitos Quiebra Montes",
+      "originalTitle": "066/2026 Asesor técnico (AT) para las actividades iniciales de implementación de la Represa Multipropósitos Quiebra Montes",
+      "summary": "CABEI 公開採購「技術顧問(AT)為初步實施的影印件多專案破產數」。2 V09-2026-2 CONFIDENCIAL EXTERNO 1.2 1.2.1 諮詢機構的目的或目標 CABEI 需要聘請技術顧問(AT)為執行機構提供全面的技術支援(OE)。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 公司將提供專門的技術協助，以便向基礎設施和運輸部門提供諮詢服務( SIT 透過專案執行單位( UEP ) 破產 Montes 為準備和陪同需要實施的採購過程 該專案包括，但不限於:",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "2 V09-2026-2 CONFIDENCIAL EXTERNO 1.2 1.2.1 諮詢機構的目的或目標 CABEI 需要聘請技術顧問(AT)為執行機構提供全面的技術支援(OE)。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 公司將提供專門的技術協助，以便向基礎設施和運輸部門提供諮詢服務( SIT 透過專案執行單位( UEP ) 破產 Montes 為準備和陪同需要實施的採購過程 該專案包括，但不限於: 1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須在其報價中證明，需要開發諮詢服務的最低關鍵人員的滿足； 所需的最低關鍵人員由十四名(14)專業人士組成，這些專業人士在 2.2.3, 號的“關鍵人員評估標準”表中列出，其中確定了每個人所需的學術培訓和總體和具體經驗。 工作說明書（TOR） (TdR) 採購執行單位的關鍵人員 9 專案實施。 1.8 契約執行時間表 關於 1.6.1, 號表框中列出的交貨物，則包含採購的諮詢公司的產品時間表: 3 V09-2026-2 CONFIDENCIAL EXTERNO 或 附加要求，以便監督團隊擁有在環境管理，社會管理和健康",
+      "qualifications": [
+        "3 V09-2026-2 CONFIDENCIAL EXTERNO 或 附加要求，以便監督團隊擁有在環境管理，社會管理和健康和職業安全方面的經驗，符合 SIEMAS 計劃。",
+        "執行單位的關鍵員工 • 工作說明書（TOR） 編制執行機構的關鍵員工採購，協助採購過程 技術顧問必須在提前描述的採購過程中技術支援執行機構， 包括:",
+        "1.4 總體和具體經驗 諮詢簽名 1.4.1 總體經驗:",
+        "1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須在其報價中證明，需要開發諮詢服務的最低關鍵人員的滿足；",
+        "所需的最低關鍵人員由十四名(14)專業人士組成，這些專業人士在 2.2.3, 號的“關鍵人員評估標準”表中列出，其中確定了每個人所需的學術培訓和總體和具體經驗。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03855261-Aviso.pdf",
+      "translationFingerprint": "73ce02a33c82ca1a01751ca9db73f6cb21fd6e7891da41794bca666c1bb6c303",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-05T07:00:30.458784+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     },
     {
       "id": "152014",
@@ -562,20 +562,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03787641-051%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
-    "146012": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03811899-Aviso.pdf"
-      },
-      {
-        "name": "054 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03811898-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 6 - Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03811890-Anexo%206%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "149012": [
       {
         "name": "054 2026 Términos de Referencia.pdf",
@@ -588,16 +574,6 @@
       {
         "name": "Anexo 5- Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03824117-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "149014": [
-      {
-        "name": "060 2026 Terminos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03827618-060%202026%20Terminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03827617-Aviso.pdf"
       }
     ],
     "149015": [
@@ -668,6 +644,26 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03853308-Anexo%206%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
+    "153015": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03854758-Aviso.pdf"
+      },
+      {
+        "name": "057 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03854757-057%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "154014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03855261-Aviso.pdf"
+      },
+      {
+        "name": "066 2026 Términos de Referencia .pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03855260-066%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
     "300000029843654": [
       {
         "name": "061 2026 Términos de Referencia Enmienda I.pdf",
@@ -678,18 +674,22 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "300000029755998": [
+    "300000029903072": [
       {
-        "name": "051 2026 Terminos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825975-051%202026%20Terminos%20de%20Referencia.pdf"
+        "name": "Enmienda II Términos de Referencia 060 2026.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03854594-Enmienda%20II%20T%C3%A9rminos%20de%20Referencia%20%20060%202026.pdf"
       },
       {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825973-Aviso.pdf"
+        "name": "060 2026 Terminos de Referencia Enmienda.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853726-060%202026%20Terminos%20de%20Referencia%20Enmienda.pdf"
       },
       {
-        "name": "Anexo 5 - Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825969-Anexo%205%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+        "name": "Anexo 9 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853718-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "Anexo 8_Especificaciones Tecnicas.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853717-Anexo%208_Especificaciones%20Tecnicas.docx"
       }
     ]
   },
@@ -734,28 +734,7 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "146012": [],
     "149012": [],
-    "149014": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
     "149015": [],
     "149016": [],
     "150015": [
@@ -781,6 +760,27 @@
     "150016": [],
     "152014": [],
     "153014": [],
+    "153015": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "154014": [],
     "300000029843654": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -801,7 +801,26 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000029755998": []
+    "300000029903072": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -1004,6 +1023,25 @@
     "fcd2fecf76e68c3fe9d8759281ce66c708a53470cb34b9d1844466e5b86293e7": "至少有五年(5)在銷售與所需相似的設備和解決方案的經驗。",
     "d8f42b0cda420b5478f114ad38c38b0b1743018324506fc652291e711ee772f8": "提前保證必須在提前付款之前有效，並在契約的期限內保持有效。",
     "883c2de198e64ccc92afcb9a5281539323493d4eae6a108bcc78d862b53fcc70": "供應商必須在 Cisco 品牌設備的銷售、分銷和技術支援方面有經過驗證的經驗。",
-    "3d2beced0f862fcfb91b4b866e54ce712ff198a7a44dd2eef9bc7e79dfbe1ed1": "缺乏或不一致的歷史或參考資訊(例如，經驗背景或契約履行)，可以透過客觀來源進行驗證或補充，而不會改變提交的技術或經濟報價。"
+    "3d2beced0f862fcfb91b4b866e54ce712ff198a7a44dd2eef9bc7e79dfbe1ed1": "缺乏或不一致的歷史或參考資訊(例如，經驗背景或契約履行)，可以透過客觀來源進行驗證或補充，而不會改變提交的技術或經濟報價。",
+    "435a0efb465b90bbdb113f6f33426d87940bfcbac0b8de062bdeb0a28ba930ef": "將符合技術訪問要求的提供者，他們參加了在這些服務的採購過程中進行的訪問日期。",
+    "c877969aab12b6313e6856437d4292f6fe9ed56f1b61fd829d4f17bd9725d03b": "通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027",
+    "d3882905b2c42f76132fb106d94271b8a5c7ebdbc0b752c4865194b992dad679": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。",
+    "f5ce1dde2eab5222339b06806fee0ca06cf6eb1abe343e825df21b2a4b9b4183": "UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。",
+    "e78d2c664749b7ab731c96d15f88a9a50cc73cd5b4c1a238537795add3f4ff51": "承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。",
+    "1ba51e52a201792f1fc935ba02867016edf4b347b141e94fda5e689caa3541b2": "至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。",
+    "2bbd1a934b0aa5cf6608c24a42ea8a061baefcf4edf55defcedf5fe295100b98": "至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。",
+    "304039578430e3f6233da57fb0062acc202cc314d025af8b916e173f4cb44872": "至少有三年(3)在圖形設計，廣告創造力和視覺通訊和證實的專業設計，圖形圖形和圖形材料的領域的經驗。",
+    "6e31c3ccf92e17e60046a91905e6cd752d7beaff26bd26ed4576cc92afbe1223": "至少有兩年(2)的圖形設計、音訊製作、數字動畫或影片編輯和多媒體設計和編輯工具管理經驗。",
+    "7e8bf71cd31fdc6db13f0b16e255c037acd4f7b938922b5dd39e1fa98031e1ea": "技術顧問(AT)為初步實施的影印件多專案破產數",
+    "dac674675bf94f147964dce2dfd72781ff2da110428ebec701fb16dbd79c7514": "2 V09-2026-2 CONFIDENCIAL EXTERNO 1.2 1.2.1 諮詢機構的目的或目標 CABEI 需要聘請技術顧問(AT)為執行機構提供全面的技術支援(OE)。",
+    "3a86fd7e5e16dc384cdbd651c74db9e684899cb894a73d432293d4f2ffdeb0e4": "【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 公司將提供專門的技術協助，以便向基礎設施和運輸部門提供諮詢服務( SIT 透過專案執行單位( UEP ) 破產 Montes 為準備和陪同需要實施的採購過程 該專案包括，但不限於:",
+    "71a81e564996ba6a07e82ad657659891180e9ed6dda6f43617be90e2e2022e38": "1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須在其報價中證明，需要開發諮詢服務的最低關鍵人員的滿足；",
+    "154f1a22d212bbb5f34aaed925370736fbc3ef0627d42996e0e60cef1cc1196c": "所需的最低關鍵人員由十四名(14)專業人士組成，這些專業人士在 2.2.3, 號的“關鍵人員評估標準”表中列出，其中確定了每個人所需的學術培訓和總體和具體經驗。",
+    "adeeff68db4feb093e7db6fbfe862581fbc3b9c049cbfa7b9bdf47f91c7ec8e8": "工作說明書（TOR） (TdR) 採購執行單位的關鍵人員 9 專案實施。",
+    "45ce69d3b5cbc9e9d7b621710536ede285708a15f8687ebfa54de8b4d2189549": "1.8 契約執行時間表 關於 1.6.1, 號表框中列出的交貨物，則包含採購的諮詢公司的產品時間表:",
+    "347ec65a031ab823a41c38132857529b6c109b17a7a9c2f78c502dc4185fbdb0": "3 V09-2026-2 CONFIDENCIAL EXTERNO 或 附加要求，以便監督團隊擁有在環境管理，社會管理和健康和職業安全方面的經驗，符合 SIEMAS 計劃。",
+    "192e978f19d962c8541efeb70bfbb76dde789b5e2b153db30013e54f5dd7c1d0": "執行單位的關鍵員工 • 工作說明書（TOR） 編制執行機構的關鍵員工採購，協助採購過程 技術顧問必須在提前描述的採購過程中技術支援執行機構， 包括:",
+    "7a11f8d556bd285cd73ffe5ef4b0eaeb33eddf0f2629c582524bd102dc12a03f": "1.4 總體和具體經驗 諮詢簽名 1.4.1 總體經驗:"
   }
 }
