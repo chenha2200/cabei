@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:58:33.754Z",
+  "generatedAt": "2026-11-06T06:58:43.224Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -806,15 +806,13 @@
       ],
       "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：諮詢的總體目標:確保適當開展 \" 擴大監獄中心(N° 1 Resistencia) \" 和 \" 警務和國家安全高階研究所 \" 的工作,對範圍進行技術監督; 物質進步、材料質量和遵守技術規格的時間表。",
       "analysisMode": "offline-translation",
-      "documentAccess": "www.compras.chaco.gob.ar/organismos www.compras.chaco.gob.ar/organismos",
-      "translationFingerprint": "d99ee81e35daf301f992cefac61c25a42811bf76d47894884be655bec77ffb0b",
+      "documentAccess": "compras.chaco.gob.ar/organismos compras.chaco.gob.ar/organismos",
+      "translationFingerprint": "a58168977864ca1733bc4c464ec62df02dbc522aaa0e5632037f72eb4b4e34e0",
       "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-11-03T01:51:36.384614+00:00",
-      "documentAccessZh": "請參閱官方公告中的文件取得資訊。",
-      "translationWarnings": [
-        "文件取得資訊翻譯失敗（ValueError），已保留舊內容或使用提示；請人工核對。"
-      ]
+      "translationUpdatedAt": "2026-11-06T06:59:23.682341+00:00",
+      "documentAccessZh": "採購.chaco.gob.ar/ 生物採購.chako.gob!ar/組織",
+      "translationWarnings": []
     },
     {
       "id": "288",
@@ -1250,6 +1248,7 @@
     "5b9b73e1b0809ea0f5613b78f680ad85a9ddd75f5d627278d2a69a907771b995": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載資訊 。 www.guatecompras. gt",
     "0ab3f2b4ecb10f4fb2161ead5732011175e690042a8112c5a28303c512d6e6d6": "助理採購顧問II",
     "73481175ed5e96de86f4ff5752d9a648a09fb731dbdb0141e44dfca861f4549e": "確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
-    "410912a84ee75548b75fdb8ef2700d38f978e46dbb9ced91e5f8cf9b1aa2b5ec": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載這些資訊 。 www.guatecompras. gt"
+    "410912a84ee75548b75fdb8ef2700d38f978e46dbb9ced91e5f8cf9b1aa2b5ec": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載這些資訊 。 www.guatecompras. gt",
+    "245a6fb6e2ce77832dae9cf3a32937d1ca10a095420e19081df478dd474eaa80": "採購.chaco.gob.ar/ 生物採購.chako.gob!ar/組織"
   }
 }

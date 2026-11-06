@@ -1,44 +1,7 @@
 {
-  "generatedAt": "2026-11-05T06:58:32.554Z",
+  "generatedAt": "2026-11-06T06:58:42.287Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "149012",
-      "document": "810",
-      "process": "054/2026",
-      "country": "尼加拉瓜",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-10-21",
-      "deadlineUtc": "2026-11-05T23:00:00.000Z",
-      "fit": 35,
-      "title": "CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。",
-      "ruleTitle": "“Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
-      "originalTitle": "054/2026 “Servicio de mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua”.",
-      "summary": "CABEI 公開採購「CABEI國家管理局防火檢測和消防系統的預防維護服務在尼加拉瓜。」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱用專門的法律公司，以提供消防和消防系統的維護服務，並以國家許可證和國際認證的清潔代理人。 NFPA 適用，安裝在國家管理區CABEI在曼谷，尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。 應確保服務品質，並確保銀行實現的環境管理體系目標的實現。 如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。 承包商的服務範圍包括以下活動的執行: 維護人員必須有 NFPA 72: 認證 清潔代理或VESDA系統認證的消防系統。",
-      "qualifications": [
-        "維護人員必須有 NFPA 72: 認證",
-        "清潔代理或VESDA系統認證的消防系統。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03827099-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "aab843231ebbf75e8d10696b3772f2b402aa18c4adccdb210b3e3931ea9703d0",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-22T05:00:31.284532+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "153014",
       "document": "820",
@@ -380,20 +343,20 @@
       ]
     },
     {
-      "id": "149015",
-      "document": "815",
+      "id": "300000029924252",
+      "document": "815,1",
       "process": "063/2026",
       "country": "區域／未載明",
       "industry": "設施與一般服務",
       "category": "服務",
       "method": "公開招標",
-      "published": "2026-10-22",
+      "published": "2026-11-05",
       "deadlineUtc": "2026-11-11T23:00:00.000Z",
       "fit": 35,
       "title": "旅遊管理服務(TMS)",
       "ruleTitle": "Servicios Integrales de Gestión de Viajes (Travel Management Services – TMS)",
       "originalTitle": "063/2026 Servicios Integrales de Gestión de Viajes (Travel Management Services – TMS)",
-      "summary": "CABEI 公開採購「旅遊管理服務(TMS)」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.2 契約的目的為 1.2.1.",
+      "summary": "CABEI 公開採購「旅遊管理服務(TMS)」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 I 公共招標 063/ 2026 旅行管理服務(旅行管理服務-TMS) 親愛的供應商 請注意，已對 工作說明書（TOR）進行調整，這些調整不改變範圍、物件、參與條件、技術規格、標準 評估過程的其他重要方面。",
       "capabilities": [
         "設施管理"
       ],
@@ -401,20 +364,20 @@
       "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
       "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
       "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.2 契約的目的為 1.2.1. CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 (1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。 該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。 許可證和/或簽證要求，接種疫苗要求，有關國家入境和出境所需的檔案資訊等。 移民、衛生和預訂要求 對於每次國際旅行，承包商應當向旅行者提供有關: UNA VEZ APROBADO • 許可，簽證和/或過境簽證要求。",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 I 公共招標 063/ 2026 旅行管理服務(旅行管理服務-TMS) 親愛的供應商 請注意，已對 工作說明書（TOR）進行調整，這些調整不改變範圍、物件、參與條件、技術規格、標準 評估過程的其他重要方面。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 (1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。 該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。 許可證和/或簽證要求，接種疫苗要求，有關國家",
       "qualifications": [
         "許可證和/或簽證要求，接種疫苗要求，有關國家入境和出境所需的檔案資訊等。",
         "移民、衛生和預訂要求 對於每次國際旅行，承包商應當向旅行者提供有關:",
-        "UNA VEZ APROBADO • 許可，簽證和/或過境簽證要求。",
+        "• 許可證、簽證和/或過境簽證的要求。",
         "(1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。",
         "該資源應具有符合所需職能的經驗和能力，並支援與旅行相關的申請、報價、排放、變更和其他交易的管理，以確保符合所設定的績效指標，以及 適當、適當的使用者服務。"
       ],
       "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03829454-Aviso.pdf",
-      "translationFingerprint": "49b48d1544f5db56451dc97d68e0f2fe6445bbe99d258560f0efa657a08489ba",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03856901-Enmienda%20II%20063%202026.pdf",
+      "translationFingerprint": "4209740d278793608d92e5c89d6c088a763d33b853031d4f7b1916c462cf0c16",
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-23T05:01:23.271185+00:00",
+      "translationUpdatedAt": "2026-11-06T06:59:19.084794+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -562,34 +525,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03787641-051%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
-    "149012": [
-      {
-        "name": "054 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03827099-054%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03825670-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 5- Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03824117-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "149015": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03829454-Aviso.pdf"
-      },
-      {
-        "name": "063 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03829452-063%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 7 Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03829439-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "149016": [
       {
         "name": "064 2026 Términos de Referencia.pdf",
@@ -664,6 +599,20 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03855260-066%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
+    "300000029924252": [
+      {
+        "name": "Enmienda II 063 2026.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856901-Enmienda%20II%20063%202026.pdf"
+      },
+      {
+        "name": "063 2026 Términos de Referencia Enmienda .pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856899-063%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda.pdf"
+      },
+      {
+        "name": "Anexo 7 Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856881-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "300000029843654": [
       {
         "name": "061 2026 Términos de Referencia Enmienda I.pdf",
@@ -734,8 +683,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "149012": [],
-    "149015": [],
     "149016": [],
     "150015": [
       {
@@ -781,6 +728,7 @@
       }
     ],
     "154014": [],
+    "300000029924252": [],
     "300000029843654": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -1042,6 +990,9 @@
     "45ce69d3b5cbc9e9d7b621710536ede285708a15f8687ebfa54de8b4d2189549": "1.8 契約執行時間表 關於 1.6.1, 號表框中列出的交貨物，則包含採購的諮詢公司的產品時間表:",
     "347ec65a031ab823a41c38132857529b6c109b17a7a9c2f78c502dc4185fbdb0": "3 V09-2026-2 CONFIDENCIAL EXTERNO 或 附加要求，以便監督團隊擁有在環境管理，社會管理和健康和職業安全方面的經驗，符合 SIEMAS 計劃。",
     "192e978f19d962c8541efeb70bfbb76dde789b5e2b153db30013e54f5dd7c1d0": "執行單位的關鍵員工 • 工作說明書（TOR） 編制執行機構的關鍵員工採購，協助採購過程 技術顧問必須在提前描述的採購過程中技術支援執行機構， 包括:",
-    "7a11f8d556bd285cd73ffe5ef4b0eaeb33eddf0f2629c582524bd102dc12a03f": "1.4 總體和具體經驗 諮詢簽名 1.4.1 總體經驗:"
+    "7a11f8d556bd285cd73ffe5ef4b0eaeb33eddf0f2629c582524bd102dc12a03f": "1.4 總體和具體經驗 諮詢簽名 1.4.1 總體經驗:",
+    "e94810a787b5ffcd0fc2fbfb72f2e00e5fae36c34d3e2147c7da124aa5fd2394": "I 公共招標 063/ 2026 旅行管理服務(旅行管理服務-TMS) 親愛的供應商 請注意，已對 工作說明書（TOR）進行調整，這些調整不改變範圍、物件、參與條件、技術規格、標準 評估過程的其他重要方面。",
+    "612e7c827e83ea0dde4d6d69a15c79b3c49bcfac568fdebd2ccbabfbd0436ae4": "(1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。",
+    "7fc1a2a5db77bd384a880d93f1f5b3b2d20fbae788ae5ed51bca53a9805aa884": "• 許可證、簽證和/或過境簽證的要求。"
   }
 }
