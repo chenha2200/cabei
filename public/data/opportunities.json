@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:58:42.287Z",
+  "generatedAt": "2026-11-07T06:09:20.102Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -424,6 +424,47 @@
       ]
     },
     {
+      "id": "155014",
+      "document": "823",
+      "process": "061/2026",
+      "country": "區域／未載明",
+      "industry": "數位與資通訊",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-06",
+      "deadlineUtc": "2026-11-16T23:00:00.000Z",
+      "fit": 86,
+      "title": "PureStorage 儲存設備的支援更新",
+      "ruleTitle": "Renovación de Soporte para equipos de almacenamiento PureStorage",
+      "originalTitle": "061/2026 Renovación de Soporte para equipos de almacenamiento PureStorage",
+      "summary": "CABEI 公開採購「PureStorage 儲存設備的支援更新」。供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。 經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。",
+      "capabilities": [
+        "資訊基礎設施",
+        "網路與電信",
+        "系統整合"
+      ],
+      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "amount": "US$10,000",
+      "documentSummary": "供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。 經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。 認可至少五年(5)在PureStorage企業儲存解決方案的行銷、更新和/或維護服務的專業經驗。 【待校訂：分段保護翻譯】伊特姆 CRITERIOS 技術描述 評分 RANGOS DE 報價:報價人必須認可一 5 多年或更多 10 最低五分( 5 ( ) 多年在銷售，供應， 1 一般經驗 更新和/或提供服務 10 % 支援和維護解決方案 企業技術基礎設施。 不到 5 0 5 客戶參考信，發行在過去三年(3), 5 參考或更多 10 證明滿意度提供的服務和實施 2 具體體驗解決方案類似；",
+      "qualifications": [
+        "供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。",
+        "認可至少五年(5)在PureStorage企業儲存解決方案的行銷、更新和/或維護服務的專業經驗。",
+        "經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。",
+        "【待校訂：分段保護翻譯】伊特姆 CRITERIOS 技術描述 評分 RANGOS DE 報價:報價人必須認可一 5 多年或更多 10 最低五分( 5 ( ) 多年在銷售，供應， 1 一般經驗 更新和/或提供服務 10 % 支援和維護解決方案 企業技術基礎設施。",
+        "不到 5 0 5 客戶參考信，發行在過去三年(3), 5 參考或更多 10 證明滿意度提供的服務和實施 2 具體體驗解決方案類似；"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03859132-Aviso.pdf",
+      "translationFingerprint": "82c78d6d90d6b9e4917e357c8a598cfa88be54c28f61b3dae186c3891e8f2c9e",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-07T06:09:41.033082+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "154014",
       "document": "822",
       "process": "066/2026",
@@ -599,6 +640,38 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03855260-066%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
+    "155014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03859132-Aviso.pdf"
+      },
+      {
+        "name": "061 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03859131-061%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03859124-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029903072": [
+      {
+        "name": "Enmienda II Términos de Referencia 060 2026.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03854594-Enmienda%20II%20T%C3%A9rminos%20de%20Referencia%20%20060%202026.pdf"
+      },
+      {
+        "name": "060 2026 Terminos de Referencia Enmienda.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853726-060%202026%20Terminos%20de%20Referencia%20Enmienda.pdf"
+      },
+      {
+        "name": "Anexo 9 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853718-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      },
+      {
+        "name": "Anexo 8_Especificaciones Tecnicas.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03853717-Anexo%208_Especificaciones%20Tecnicas.docx"
+      }
+    ],
     "300000029924252": [
       {
         "name": "Enmienda II 063 2026.pdf",
@@ -621,24 +694,6 @@
       {
         "name": "Anexo 07 Formato de Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "300000029903072": [
-      {
-        "name": "Enmienda II Términos de Referencia 060 2026.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03854594-Enmienda%20II%20T%C3%A9rminos%20de%20Referencia%20%20060%202026.pdf"
-      },
-      {
-        "name": "060 2026 Terminos de Referencia Enmienda.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03853726-060%202026%20Terminos%20de%20Referencia%20Enmienda.pdf"
-      },
-      {
-        "name": "Anexo 9 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03853718-Anexo%209%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      },
-      {
-        "name": "Anexo 8_Especificaciones Tecnicas.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03853717-Anexo%208_Especificaciones%20Tecnicas.docx"
       }
     ]
   },
@@ -728,8 +783,21 @@
       }
     ],
     "154014": [],
-    "300000029924252": [],
-    "300000029843654": [
+    "155014": [
+      {
+        "name": "精誠資訊（SYSTEX）",
+        "role": "企業 IT 整合",
+        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
+        "url": "https://www.systex.com/"
+      },
+      {
+        "name": "資拓宏宇（IISI）",
+        "role": "系統整合與維運",
+        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
+        "url": "https://www.iisigroup.com/en/about-en/services/"
+      }
+    ],
+    "300000029903072": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",
@@ -749,7 +817,8 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000029903072": [
+    "300000029924252": [],
+    "300000029843654": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",

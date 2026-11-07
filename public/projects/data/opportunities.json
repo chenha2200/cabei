@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:58:43.224Z",
+  "generatedAt": "2026-11-07T06:09:21.524Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -512,51 +512,6 @@
       ]
     },
     {
-      "id": "289",
-      "document": "289",
-      "process": "CPI-SIT-BCIE-003-2026",
-      "originalTitle": "Diseño y Supervisión de la rehabilitación de la Carretera Tela-La Ceiba",
-      "title": "Tela-La Ceiba公路修復工程的設計和監督",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/289-CPI-SIT-BCIE-003-2026",
-      "officialSummary": "Servicios de Consultoría para el Diseño y posterior Supervisión de la Rehabilitación y Ampliación de la Carretera Tela – La Ceiba. Lote No.1: Tela – Siempre Viva - Lote No.2: Siempre Viva – San Francisco - Lote No. 3: San Francisco – La Ceiba",
-      "executor": "Secretaría de Infraestructura y Transporte (SIT)",
-      "sourceLanguage": "es",
-      "country": "宏都拉斯",
-      "industry": "基礎設施與工程",
-      "category": "顧問服務",
-      "method": "加速公開徵選",
-      "originalMethod": "Concurso Público Acelerado-SBCC-Selección Basada en Calidad y Costo",
-      "published": "2026-10-23",
-      "deadlineUtc": "2026-11-23T06:00:00.000Z",
-      "deadlineDate": "2026-11-23",
-      "capabilities": [
-        "水利工程",
-        "土木施工",
-        "測量與施工管理"
-      ],
-      "fit": 65,
-      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "7600000.00",
-      "summary": "CABEI 公開採購「Tela-La Ceiba公路修復工程的設計和監督」。【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
-      "analysisMode": "offline-translation",
-      "documentAccess": "Para descarga en el sitio web: www.honducompras.gob.hn o puede acceder directamente copiando el siguiente enlace en su navegador: http://t.ly/kjghG Para descarga en el sitio web: www.honducompras.gob.hn",
-      "translationFingerprint": "06d250b63a67189a5333bf8f6d600651b7b057b3a734c1f4e553f5025eec09f8",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-27T05:15:30.174241+00:00",
-      "documentAccessZh": "可在網站www.honducompras.gob.hn上下載,也可以在瀏覽器上覆制以下連結:http://t.ly/kjghG。",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
       "id": "281",
       "document": "281",
       "process": "GTM-ODSJ-2181JUDICIAL-1622-O",
@@ -684,6 +639,51 @@
       "translationUpdatedAt": "2026-10-20T03:21:43.388889+00:00",
       "documentAccessZh": "【待校訂：分段翻譯】www.nicaraguacompra.gob.ni 專案和投資管理採購股,設在中央辦事處 ENACAL ,公里數 5 南高速公路,尼加拉瓜馬那瓜Aldo Chavarria康復醫院附近",
       "translationWarnings": []
+    },
+    {
+      "id": "289",
+      "document": "289",
+      "process": "CPI-SIT-BCIE-003-2026",
+      "originalTitle": "Diseño y Supervisión de la rehabilitación de la Carretera Tela-La Ceiba",
+      "title": "Tela-La Ceiba公路修復工程的設計和監督",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/289-CPI-SIT-BCIE-003-2026",
+      "officialSummary": "Servicios de Consultoría para el Diseño y posterior Supervisión de la Rehabilitación y Ampliación de la Carretera Tela – La Ceiba. Lote No.1: Tela – Siempre Viva - Lote No.2: Siempre Viva – San Francisco - Lote No. 3: San Francisco – La Ceiba",
+      "executor": "Secretaría de Infraestructura y Transporte (SIT)",
+      "sourceLanguage": "es",
+      "country": "宏都拉斯",
+      "industry": "基礎設施與工程",
+      "category": "顧問服務",
+      "method": "加速公開徵選",
+      "originalMethod": "Concurso Público Acelerado-SBCC-Selección Basada en Calidad y Costo",
+      "published": "2026-10-23",
+      "deadlineUtc": "2026-12-08T06:00:00.000Z",
+      "deadlineDate": "2026-12-08",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "7600000.00",
+      "summary": "CABEI 公開採購「Tela-La Ceiba公路修復工程的設計和監督」。【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】Tela-La Ceiba公路修復和擴建設計和後續監督諮詢服務。 1: 泰拉 - 永遠活著 - 不 2: 永遠是萬歲 舊金山 3: 舊金山—拉塞巴",
+      "analysisMode": "offline-translation",
+      "documentAccess": "Para descarga en el sitio web: www.honducompras.gob.hn Para descarga en el sitio web: www.honducompras.gob.hn",
+      "translationFingerprint": "8aae9eb198bf48e0ff9b9ec91a28bbf644dcf570e425e86621e23cefac65e10a",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-07T06:09:56.111575+00:00",
+      "documentAccessZh": "可在以下網址下載:www.honducompras.gob.hn,可在以下網址上下載:http://www.handucompras.gov.hn。",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     },
     {
       "id": "290",
@@ -881,12 +881,7 @@
         "url": "https://portal.conavi.go.cr/licitaciones/"
       }
     ],
-    "289": [
-      {
-        "name": "官方文件取得入口",
-        "url": "http://t.ly/kjghG"
-      }
-    ],
+    "289": [],
     "290": [],
     "291": [
       {
