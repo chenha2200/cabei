@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:09:20.102Z",
+  "generatedAt": "2026-11-09T06:47:37.811Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -654,6 +654,20 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03859124-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
+    "300000029924252": [
+      {
+        "name": "Enmienda II 063 2026.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856901-Enmienda%20II%20063%202026.pdf"
+      },
+      {
+        "name": "063 2026 Términos de Referencia Enmienda .pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856899-063%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda.pdf"
+      },
+      {
+        "name": "Anexo 7 Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856881-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
     "300000029903072": [
       {
         "name": "Enmienda II Términos de Referencia 060 2026.pdf",
@@ -670,20 +684,6 @@
       {
         "name": "Anexo 8_Especificaciones Tecnicas.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03853717-Anexo%208_Especificaciones%20Tecnicas.docx"
-      }
-    ],
-    "300000029924252": [
-      {
-        "name": "Enmienda II 063 2026.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03856901-Enmienda%20II%20063%202026.pdf"
-      },
-      {
-        "name": "063 2026 Términos de Referencia Enmienda .pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03856899-063%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda.pdf"
-      },
-      {
-        "name": "Anexo 7 Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03856881-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "300000029843654": [
@@ -797,6 +797,7 @@
         "url": "https://www.iisigroup.com/en/about-en/services/"
       }
     ],
+    "300000029924252": [],
     "300000029903072": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -817,7 +818,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000029924252": [],
     "300000029843654": [
       {
         "name": "中華顧問工程司（CECI）",
