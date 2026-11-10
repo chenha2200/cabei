@@ -1,48 +1,7 @@
 {
-  "generatedAt": "2026-11-09T06:47:39.042Z",
+  "generatedAt": "2026-11-10T07:28:28.166Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "298",
-      "document": "298",
-      "process": "GTM-2026-2181FORENSE-39448-CI",
-      "originalTitle": "Consultor en Adquisiciones",
-      "title": "採購諮詢人",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/298-GTM-2026-2181FORENSE-39448-CI",
-      "officialSummary": "La Consultoría en Adquisiciones, tiene como objetivo apoyar a la coordinación del Programa para la definición y ejecución de los planes de adquisiciones generales y anuales vigentes para la contratación de obras, adquisiciones de bienes, servicios y consultorías para los diferentes componentes del “Programa de Inversión y Modernización para el Sector Justicia” así como de las políticas y normas que sean aplicables para la ejecución del Programa, en cumplimiento a lo establecido en el Contrato de Préstamo No. BCIE-2181.",
-      "executor": "Instituto Nacional de Ciencias Forenses de Guatemala (INACIF)",
-      "sourceLanguage": "es",
-      "country": "瓜地馬拉",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
-      "published": "2026-11-03",
-      "deadlineUtc": "2026-11-10T06:00:00.000Z",
-      "deadlineDate": "2026-11-10",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "92310.00",
-      "summary": "CABEI 公開採購「採購諮詢人」。採購諮詢的目的是支援方案的協調,以便為方案各組成部分確定和執行工程採購、貨物採購、服務和諮詢方面的現有一般採購計劃和年度採購計劃。 根據BCIE-2181號貸款合同的規定,“司法部門投資和現代化方案”以及執行該方案所適用的政策和規則。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：採購諮詢的目的是支援方案的協調,以便為方案各組成部分確定和執行工程採購、貨物採購、服務和諮詢方面的現有一般採購計劃和年度採購計劃。 根據BCIE-2181號貸款合同的規定,“司法部門投資和現代化方案”以及執行該方案所適用的政策和規則。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5",
-      "translationFingerprint": "40dc9f0c123071af28b37afbf9937cdb46ddd5aacb4fddaf19883e5666742fe4",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-11-04T00:26:43.058182+00:00",
-      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5 https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5",
-      "translationWarnings": []
-    },
     {
       "id": "293",
       "document": "293",
@@ -876,12 +835,6 @@
         "name": "官方文件取得入口",
         "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5"
       }
-    ],
-    "298": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32499450&o=5"
-      }
     ]
   },
   "taiwanCompanySuggestions": {
@@ -1054,8 +1007,7 @@
     ],
     "295": [],
     "296": [],
-    "297": [],
-    "298": []
+    "297": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",

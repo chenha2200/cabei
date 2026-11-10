@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:47:37.811Z",
+  "generatedAt": "2026-11-10T07:28:26.716Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
     {
@@ -465,6 +465,88 @@
       ]
     },
     {
+      "id": "157014",
+      "document": "825",
+      "process": "062/2026",
+      "country": "區域",
+      "industry": "永續與環境顧問",
+      "category": "顧問服務",
+      "method": "公開詢價",
+      "published": "2026-11-09",
+      "deadlineUtc": "2026-11-16T23:00:00.000Z",
+      "fit": 72,
+      "title": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
+      "ruleTitle": "“Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
+      "originalTitle": "062 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
+      "summary": "CABEI 公開採購「CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施」。【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 其範圍 包括 宏都拉斯， 薩爾瓦多， 瓜地馬拉， 哥斯大黎加和 尼加拉瓜的設施。 由諮詢公司直接執行廢物儲存、重量或物理特徵活動，以及與廢物管理相關的設備、基礎設施或其他元素的供應。",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 其範圍 包括 宏都拉斯， 薩爾瓦多， 瓜地馬拉， 哥斯大黎加和 尼加拉瓜的設施。 由諮詢公司直接執行廢物儲存、重量或物理特徵活動，以及與廢物管理相關的設備、基礎設施或其他元素的供應。 UNA VEZ APROBADO 使用的方法必須由諮詢團隊明確識別，證明其選擇，並解釋適用於可能認證的標準、水平或要求。 諮詢公司必須擁有至少五年的(5)在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務的提供經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。 Zero Waste to Landfill (ZWL) 或同等認證過程的經驗: 諮詢公司必須證明至少一個(1)與實施零廢物到地板標準(ZWL)或同等相關的諮詢專案或技術輔導專案的經驗，該專案成功完成了由諮詢組織獲得認證， 根據該計劃頒發的認證或",
+      "qualifications": [
+        "UNA VEZ APROBADO 使用的方法必須由諮詢團隊明確識別，證明其選擇，並解釋適用於可能認證的標準、水平或要求。",
+        "【待校訂：分段保護翻譯】1.3.1.3 路線路線路線路線轉向 ZWL 根據診斷結果，諮詢團隊應為每個設施制定路線表，以便關閉所識別的漏洞，並逐步向符合認證要求前進。",
+        "諮詢公司必須擁有至少五年的(5)在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務的提供經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。",
+        "Zero Waste to Landfill (ZWL) 或同等認證過程的經驗:",
+        "諮詢公司必須證明至少一個(1)與實施零廢物到地板標準(ZWL)或同等相關的諮詢專案或技術輔導專案的經驗，該專案成功完成了由諮詢組織獲得認證， 根據該計劃頒發的認證或驗證。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03864687-Aviso.pdf",
+      "translationFingerprint": "0cb7312a5173c1132c6e3b9224b1d2a66bcdd17ca4dc020f7d08371a18f29ef0",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-10T07:29:35.316950+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "156014",
+      "document": "824",
+      "process": "058/2026",
+      "country": "區域／未載明",
+      "industry": "數位與資通訊",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-09",
+      "deadlineUtc": "2026-11-18T23:00:00.000Z",
+      "fit": 86,
+      "title": "自動化任何地方的許可更新",
+      "ruleTitle": "“Renovación de Licenciamiento Automation Anywhere”",
+      "originalTitle": "058 2026 “Renovación de Licenciamiento Automation Anywhere”",
+      "summary": "CABEI 公開採購「自動化任何地方的許可更新」。【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要透過一家公司獲得Automation Anywhere平台的許可證，以確保現有自動化的運營連續性，啟用新自動化過程的開發，並保持現有自動化過程的優勢。 CABEI的效率、生產力和資源最佳化。 1.3 所需服務的可用性 1.3.1 本採購範圍包括提供、啟用和支援 360, Automation Anywhere Automation 平台的許可，有效期為 12 個月，如下詳細說明:",
+      "capabilities": [
+        "資訊基礎設施",
+        "網路與電信",
+        "系統整合"
+      ],
+      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "amount": "US$10,000",
+      "documentSummary": "【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要透過一家公司獲得Automation Anywhere平台的許可證，以確保現有自動化的運營連續性，啟用新自動化過程的開發，並保持現有自動化過程的優勢。 CABEI的效率、生產力和資源最佳化。 1.3 所需服務的可用性 1.3.1 本採購範圍包括提供、啟用和支援 360, Automation Anywhere Automation 平台的許可，有效期為 12 個月，如下詳細說明: 供應商必須擁有至少 5 年份的銷售、分銷和企業技術支援經驗。 供應商必須至少有 5 銷售許可證的多年經驗，具有與所要求相似的特性。 如果交付的商品和服務不符合契約要求，CABEI將通知供應商，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿足。 1.4 一般和具體經驗 供應商 1.4.1 一般經驗: 這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
+      "qualifications": [
+        "1.4 一般和具體經驗 供應商 1.4.1 一般經驗:",
+        "供應商必須擁有至少 5 年份的銷售、分銷和企業技術支援經驗。",
+        "供應商必須至少有 5 銷售許可證的多年經驗，具有與所要求相似的特性。",
+        "這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。",
+        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03864435-Aviso.pdf",
+      "translationFingerprint": "fb9f171d447706c4d5fd102247d6ff2340d02c12ceb489d9332d9abccf4ece05",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-10T07:30:10.422303+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "154014",
       "document": "822",
       "process": "066/2026",
@@ -654,6 +736,26 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03859124-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
+    "156014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03864435-Aviso.pdf"
+      },
+      {
+        "name": "058 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03864434-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "157014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03864687-Aviso.pdf"
+      },
+      {
+        "name": "062 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03864686-062%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
     "300000029924252": [
       {
         "name": "Enmienda II 063 2026.pdf",
@@ -666,6 +768,16 @@
       {
         "name": "Anexo 7 Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03856881-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029843654": [
+      {
+        "name": "061 2026 Términos de Referencia Enmienda I.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03845192-061%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda%20I.pdf"
+      },
+      {
+        "name": "Anexo 07 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
     "300000029903072": [
@@ -684,16 +796,6 @@
       {
         "name": "Anexo 8_Especificaciones Tecnicas.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03853717-Anexo%208_Especificaciones%20Tecnicas.docx"
-      }
-    ],
-    "300000029843654": [
-      {
-        "name": "061 2026 Términos de Referencia Enmienda I.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03845192-061%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda%20I.pdf"
-      },
-      {
-        "name": "Anexo 07 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ]
   },
@@ -797,8 +899,21 @@
         "url": "https://www.iisigroup.com/en/about-en/services/"
       }
     ],
-    "300000029924252": [],
-    "300000029903072": [
+    "156014": [
+      {
+        "name": "精誠資訊（SYSTEX）",
+        "role": "企業 IT 整合",
+        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
+        "url": "https://www.systex.com/"
+      },
+      {
+        "name": "資拓宏宇（IISI）",
+        "role": "系統整合與維運",
+        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
+        "url": "https://www.iisigroup.com/en/about-en/services/"
+      }
+    ],
+    "157014": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",
@@ -818,7 +933,28 @@
         "url": "https://www.ctci.com/"
       }
     ],
+    "300000029924252": [],
     "300000029843654": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "300000029903072": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",
@@ -1062,6 +1198,20 @@
     "7a11f8d556bd285cd73ffe5ef4b0eaeb33eddf0f2629c582524bd102dc12a03f": "1.4 總體和具體經驗 諮詢簽名 1.4.1 總體經驗:",
     "e94810a787b5ffcd0fc2fbfb72f2e00e5fae36c34d3e2147c7da124aa5fd2394": "I 公共招標 063/ 2026 旅行管理服務(旅行管理服務-TMS) 親愛的供應商 請注意，已對 工作說明書（TOR）進行調整，這些調整不改變範圍、物件、參與條件、技術規格、標準 評估過程的其他重要方面。",
     "612e7c827e83ea0dde4d6d69a15c79b3c49bcfac568fdebd2ccbabfbd0436ae4": "(1) 高階旅行管理員，在企業旅行管理方面有豐富的經驗，負責服務的總協調，以及旅行請求的直接關注，發行和官方和個人機票管理，路線編制，管理。 銀行旅行者的特殊或複雜要求的變化和關注。",
-    "7fc1a2a5db77bd384a880d93f1f5b3b2d20fbae788ae5ed51bca53a9805aa884": "• 許可證、簽證和/或過境簽證的要求。"
+    "7fc1a2a5db77bd384a880d93f1f5b3b2d20fbae788ae5ed51bca53a9805aa884": "• 許可證、簽證和/或過境簽證的要求。",
+    "4608f99163f707bcae63294330c2bf166c281d2b885ad17404413e9099126167": "【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 其範圍 包括 宏都拉斯， 薩爾瓦多， 瓜地馬拉， 哥斯大黎加和 尼加拉瓜的設施。",
+    "d1163db409dd628a919467e02c24152f7ed8657f7263e6a4367e73273c8c06d5": "由諮詢公司直接執行廢物儲存、重量或物理特徵活動，以及與廢物管理相關的設備、基礎設施或其他元素的供應。",
+    "dd65ae95b94e8b8bfa6538b46e6db71959cff6d5ae96454edb74786080f9f886": "UNA VEZ APROBADO 使用的方法必須由諮詢團隊明確識別，證明其選擇，並解釋適用於可能認證的標準、水平或要求。",
+    "5e9578b4a342e07a22b67994a3715539cc9409aa10c681747f0bca5b3ee6baca": "諮詢公司必須擁有至少五年的(5)在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務的提供經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。",
+    "0c6d324a7876fffb9cb09435f03eac43bdbc52f96ba211cdaaa676e6d822473f": "Zero Waste to Landfill (ZWL) 或同等認證過程的經驗:",
+    "e085ad636b10b7477e010a4226d3c02e82b2d5bbc0e1d71d46845a4f13a052d1": "諮詢公司必須證明至少一個(1)與實施零廢物到地板標準(ZWL)或同等相關的諮詢專案或技術輔導專案的經驗，該專案成功完成了由諮詢組織獲得認證， 根據該計劃頒發的認證或驗證。",
+    "6d2ddae6a9c1cb0c7c45d612cc18edd3a08f7c06642a91e73d6d138a199c618f": "【待校訂：分段保護翻譯】1.3.1.3 路線路線路線路線轉向 ZWL 根據診斷結果，諮詢團隊應為每個設施制定路線表，以便關閉所識別的漏洞，並逐步向符合認證要求前進。",
+    "c8456b5bc8110461af68ee4066d49bbcb68a08962600a2967a63d11443c8db18": "自動化任何地方的許可更新",
+    "3ada1596666c875a55ff1d1935c83538c227116efe82e79ec029077d8343f301": "【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要透過一家公司獲得Automation Anywhere平台的許可證，以確保現有自動化的運營連續性，啟用新自動化過程的開發，並保持現有自動化過程的優勢。 CABEI的效率、生產力和資源最佳化。",
+    "49437eabb6bf557689e918884cba46cdd802b6e6201c1400970ee36586005d14": "1.3 所需服務的可用性 1.3.1 本採購範圍包括提供、啟用和支援 360, Automation Anywhere Automation 平台的許可，有效期為 12 個月，如下詳細說明:",
+    "d1bf3a4f24c07e2e2e127de5bf0b69d3b4c170b3b1b3ad0e0c1241ed049c5432": "供應商必須擁有至少 5 年份的銷售、分銷和企業技術支援經驗。",
+    "a41db15dd09577e027c4370d6f8724f7bf327a293893e6bc358cc403e4913618": "供應商必須至少有 5 銷售許可證的多年經驗，具有與所要求相似的特性。",
+    "b574353975c120709ec54c8fb1e8861af7ed21431dc027d574c8ebfcd403700b": "如果交付的商品和服務不符合契約要求，CABEI將通知供應商，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿足。",
+    "52f3466f495db889680201319254b9e5ef24e55ff545fb86970f46c7ca36d716": "這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。"
   }
 }
