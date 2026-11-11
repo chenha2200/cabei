@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:28:28.166Z",
+  "generatedAt": "2026-11-11T06:39:05.172Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -733,6 +733,51 @@
       "translationWarnings": []
     },
     {
+      "id": "299",
+      "document": "299",
+      "process": "CRI-2026-2241-41093-CF",
+      "originalTitle": "Servicios de Oficina de Gestión de Proyecto (OGP/PMO) del Proyecto de diseño, construcción y equipamiento y puesta en marcha de las líneas 1 y 2 del sistema de Tren Rápido de Pasajeros en la Gran Área Metropolitana de Costa Rica por el INCOFER",
+      "title": "【待校訂：分段翻譯】專案管理辦公室事務 OGP / PMO 設計、建造和裝置專案以及線路的啟動 1 與 2 哥斯大黎加大都市地區快速客運列車系統 INCOFER",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/299-CRI-2026-2241-41093-CF",
+      "officialSummary": "Brindar servicios de Oficina de Gestión de Proyectos para la ejecución de las líneas 1 y 2 del Tren Rápido de Pasajeros (TRP) en la Gran Área Metropolitana (GAM) de Costa Rica.",
+      "executor": "Instituto Costarricense de Ferrocarriles – TRP (INCOFER – TRP)",
+      "sourceLanguage": "es",
+      "country": "哥斯大黎加",
+      "industry": "基礎設施與工程",
+      "category": "顧問服務",
+      "method": "品質與價格評選",
+      "originalMethod": "Selección Basada en Calidad y Costo-LC_Sin-SEI-Lista Corta (Sin SEI)",
+      "published": "2026-11-11",
+      "deadlineUtc": "2027-01-11T06:00:00.000Z",
+      "deadlineDate": "2027-01-11",
+      "capabilities": [
+        "水利工程",
+        "土木施工",
+        "測量與施工管理"
+      ],
+      "fit": 65,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "14771643.27",
+      "summary": "CABEI 公開採購「【待校訂：分段翻譯】專案管理辦公室事務 OGP / PMO 設計、建造和裝置專案以及線路的啟動 1 與 2 哥斯大黎加大都市地區快速客運列車系統 INCOFER」。【待校訂：分段翻譯】為專案執行提供專案管理辦公室服務 1 與 2 快速客運列車 TRP 在大都市地區( GAM 哥斯大黎加。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】為專案執行提供專案管理辦公室服務 1 與 2 快速客運列車 TRP 在大都市地區( GAM 哥斯大黎加。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/ Oficinas Centrales de INCOFER, avenida 20, calle 2, Estación del Pacífico, San José, Costa Rica",
+      "translationFingerprint": "f3b857b1734a1cf9c9377b42126ae40c9e01bf0f16fd444efc961e19fa9f4a89",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-11T06:39:22.129383+00:00",
+      "documentAccessZh": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/ INCOFER 中央辦事處,20,大道2,太平洋站,哥斯大黎加聖何塞",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "288",
       "document": "288",
       "process": "CRI-2026-2341-34907-O",
@@ -834,6 +879,12 @@
       {
         "name": "官方文件取得入口",
         "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5"
+      }
+    ],
+    "299": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/"
       }
     ]
   },
@@ -1007,7 +1058,27 @@
     ],
     "295": [],
     "296": [],
-    "297": []
+    "297": [],
+    "299": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ]
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -1148,6 +1219,9 @@
     "0ab3f2b4ecb10f4fb2161ead5732011175e690042a8112c5a28303c512d6e6d6": "助理採購顧問II",
     "73481175ed5e96de86f4ff5752d9a648a09fb731dbdb0141e44dfca861f4549e": "確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
     "410912a84ee75548b75fdb8ef2700d38f978e46dbb9ced91e5f8cf9b1aa2b5ec": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載這些資訊 。 www.guatecompras. gt",
-    "245a6fb6e2ce77832dae9cf3a32937d1ca10a095420e19081df478dd474eaa80": "採購.chaco.gob.ar/ 生物採購.chako.gob!ar/組織"
+    "245a6fb6e2ce77832dae9cf3a32937d1ca10a095420e19081df478dd474eaa80": "採購.chaco.gob.ar/ 生物採購.chako.gob!ar/組織",
+    "92d10b888b38001f6aacf3266bc1b72f4aba2f8f8691aca1e49874c3bcc8ef0c": "【待校訂：分段翻譯】專案管理辦公室事務 OGP / PMO 設計、建造和裝置專案以及線路的啟動 1 與 2 哥斯大黎加大都市地區快速客運列車系統 INCOFER",
+    "ba00c2d9bfe24743f415d4c243a4e35e40baaf2dcbaa4a2a7e077e56dd39a69f": "【待校訂：分段翻譯】為專案執行提供專案管理辦公室服務 1 與 2 快速客運列車 TRP 在大都市地區( GAM 哥斯大黎加。",
+    "44ab08e7d6cbfc1c646f3b8df396671719c88db48bebb0cd55b53c5bd13b5141": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/ INCOFER 中央辦事處,20,大道2,太平洋站,哥斯大黎加聖何塞"
   }
 }

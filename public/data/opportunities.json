@@ -1,77 +1,7 @@
 {
-  "generatedAt": "2026-11-10T07:28:26.716Z",
+  "generatedAt": "2026-11-11T06:39:04.126Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "153014",
-      "document": "820",
-      "process": "060/2026",
-      "country": "區域／未載明",
-      "industry": "一般供應",
-      "category": "貨品",
-      "method": "公開詢價",
-      "published": "2026-11-03",
-      "deadlineUtc": "2026-11-10T23:00:00.000Z",
-      "fit": 58,
-      "title": "採購物品和機構物品",
-      "ruleTitle": "Adquisición de Indumentaria y Artículos Institucionales",
-      "originalTitle": "060/2026 Adquisición de Indumentaria y Artículos Institucionales",
-      "summary": "CABEI 公開採購「採購物品和機構物品」。060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。 PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03853313-Aviso.pdf",
-      "translationFingerprint": "ed73622437b2f7f38d0413d0429332c1dec19e5bd5ff80802071a7ed75319c15",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-04T00:25:59.479035+00:00",
-      "translationWarnings": []
-    },
-    {
-      "id": "153014",
-      "document": "820",
-      "process": "060/2026",
-      "country": "區域／未載明",
-      "industry": "一般供應",
-      "category": "貨品",
-      "method": "公開詢價",
-      "published": "2026-11-03",
-      "deadlineUtc": "2026-11-10T23:00:00.000Z",
-      "fit": 58,
-      "title": "採購物品和機構物品",
-      "ruleTitle": "Adquisición de Indumentaria y Artículos Institucionales",
-      "originalTitle": "060/2026 Adquisición de Indumentaria y Artículos Institucionales",
-      "summary": "CABEI 公開採購「採購物品和機構物品」。060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "060/2026 “物品和機構物品的收購”。 DE LA 契約 CABEI 需要僱傭一家公司(法人)提供服裝和機構物品，用於參與志願服務 CABEI 我們+ 工作人員，以便方便其識別，提供功能實施 為了發展志願活動，並加強該計劃的機構屬性和身份感。 PREVIA(虛擬)會議將舉行通知會議，提交報價的截止日期，但協助並不強制性，但建議。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03853313-Aviso.pdf",
-      "translationFingerprint": "ed73622437b2f7f38d0413d0429332c1dec19e5bd5ff80802071a7ed75319c15",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-04T00:25:59.479035+00:00",
-      "translationWarnings": []
-    },
     {
       "id": "137011",
       "document": "787",
@@ -144,41 +74,6 @@
       "translationUpdatedAt": "2026-10-04T13:14:38.903282+00:00",
       "ruleTitle": "制定環境、社會和治理指標監測和評估系統 — 第一階段",
       "translationVersion": "offline-guard-v1",
-      "translationWarnings": []
-    },
-    {
-      "id": "150016",
-      "document": "817",
-      "process": "056/2026",
-      "country": "區域／未載明",
-      "industry": "專業顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-10-23",
-      "deadlineUtc": "2026-11-11T23:00:00.000Z",
-      "fit": 62,
-      "title": "CABEI 可持續金融中介的數字平台",
-      "ruleTitle": "Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
-      "originalTitle": "056/2026 Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
-      "summary": "CABEI 公開採購「CABEI 可持續金融中介的數字平台」。以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "US$1,000,000",
-      "documentSummary": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。 • 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。 諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。 以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
-      "qualifications": [
-        "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
-        "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03831859-Aviso.pdf",
-      "translationFingerprint": "555421cedff843717a3df37d1e602dcd8881cc1d14cdfe0771bbb562ae4c5c0f",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
       "translationWarnings": []
     },
     {
@@ -625,6 +520,41 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "150016",
+      "document": "817",
+      "process": "056/2026",
+      "country": "區域／未載明",
+      "industry": "專業顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-10-23",
+      "deadlineUtc": "2026-11-25T23:00:00.000Z",
+      "fit": 62,
+      "title": "CABEI 可持續金融中介的數字平台",
+      "ruleTitle": "Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
+      "originalTitle": "056/2026 Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
+      "summary": "CABEI 公開採購「CABEI 可持續金融中介的數字平台」。以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$1,000,000",
+      "documentSummary": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。 • 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。 諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。 以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
+      "qualifications": [
+        "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
+        "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03831859-Aviso.pdf",
+      "translationFingerprint": "555421cedff843717a3df37d1e602dcd8881cc1d14cdfe0771bbb562ae4c5c0f",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
+      "translationWarnings": []
     }
   ],
   "officialAttachments": {
@@ -692,16 +622,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03852827-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "153014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03853313-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 6 - Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03853308-Anexo%206%20-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "153015": [
       {
         "name": "Aviso.pdf",
@@ -756,30 +676,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03864686-062%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
-    "300000029924252": [
-      {
-        "name": "Enmienda II 063 2026.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03856901-Enmienda%20II%20063%202026.pdf"
-      },
-      {
-        "name": "063 2026 Términos de Referencia Enmienda .pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03856899-063%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda.pdf"
-      },
-      {
-        "name": "Anexo 7 Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03856881-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "300000029843654": [
-      {
-        "name": "061 2026 Términos de Referencia Enmienda I.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03845192-061%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda%20I.pdf"
-      },
-      {
-        "name": "Anexo 07 Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "300000029903072": [
       {
         "name": "Enmienda II Términos de Referencia 060 2026.pdf",
@@ -796,6 +692,30 @@
       {
         "name": "Anexo 8_Especificaciones Tecnicas.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03853717-Anexo%208_Especificaciones%20Tecnicas.docx"
+      }
+    ],
+    "300000029843654": [
+      {
+        "name": "061 2026 Términos de Referencia Enmienda I.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03845192-061%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda%20I.pdf"
+      },
+      {
+        "name": "Anexo 07 Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03844275-Anexo%2007%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000029924252": [
+      {
+        "name": "Enmienda II 063 2026.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856901-Enmienda%20II%20063%202026.pdf"
+      },
+      {
+        "name": "063 2026 Términos de Referencia Enmienda .pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856899-063%202026%20T%C3%A9rminos%20de%20Referencia%20Enmienda.pdf"
+      },
+      {
+        "name": "Anexo 7 Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03856881-Anexo%207%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
     ]
   },
@@ -863,7 +783,6 @@
     ],
     "150016": [],
     "152014": [],
-    "153014": [],
     "153015": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -933,7 +852,26 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000029924252": [],
+    "300000029903072": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
     "300000029843654": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -954,26 +892,7 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300000029903072": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ]
+    "300000029924252": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
