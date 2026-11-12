@@ -1,92 +1,7 @@
 {
-  "generatedAt": "2026-11-11T06:39:05.172Z",
+  "generatedAt": "2026-11-12T07:21:42.466Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "293",
-      "document": "293",
-      "process": "SLV-2026-2362-38691-S",
-      "originalTitle": "Servicio de Limpieza Para la Unidad Ejecutora ( Oficina Central y Regionales)",
-      "title": "執行股(中央和區域辦事處)的清潔服務",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/293-SLV-2026-2362-38691-S",
-      "officialSummary": "Brindar servicio de Limpieza y proveer insumos para la misma, en las Oficinas Centrales de la Unidad Ejecutoira",
-      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
-      "sourceLanguage": "es",
-      "country": "薩爾瓦多",
-      "industry": "個人／專業顧問",
-      "category": "工程／服務",
-      "method": "Solicitud de Cotización-1E-1S-Una Etapa-Un Sobre",
-      "originalMethod": "Solicitud de Cotización-1E-1S-Una Etapa-Un Sobre",
-      "published": "2026-10-30",
-      "deadlineUtc": "2026-11-12T06:00:00.000Z",
-      "deadlineDate": "2026-11-12",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 28,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "US$ 150,000.000.00",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "90000.00",
-      "summary": "CABEI 公開採購「執行股(中央和區域辦事處)的清潔服務」。在執行股中央辦事處提供清潔服務併為其提供投入",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "在執行股中央辦事處提供清潔服務併為其提供投入 【待校訂：分段翻譯】2362 縮略語 INSTITUTO NACIONAL DE LOS DEPORTES DE EL SALVADOR INDES 已經獲得相當於 CIENTO CINCUENTA MILLONES DE DOLARES DE LOS ESTADOS UNIDOS DE AMERICA ( US $ 150,000.000.00 中美洲經濟一體化銀行支付下列費用: 基礎設施建設和體育救援方案II PRODEPORTE I階段,並打算將部分收入用於根據該專案承包的貨物、工程、相關服務和諮詢服務的付款。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4 e.moreno@indes.gob.sv",
-      "translationFingerprint": "bc2ff6d0a8103bb1e7f0569e43f27295cc9f61acf374f7e48d1499b899a05227",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-31T05:55:19.972892+00:00",
-      "documentAccessZh": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4 e.moreno@indes.gob.sv",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "280",
-      "document": "280",
-      "process": "NIC-2026-2263-34813-B",
-      "originalTitle": "Equipamiento para Laboratorio y Accesorios para Acuicultura",
-      "title": "實驗室裝置和水產養殖設施",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/280-NIC-2026-2263-34813-B",
-      "officialSummary": "Contribuir a elevar los niveles de producción de peces de agua dulce con la adquisición de equipamiento para laboratorio de peces de agua dulce en San Carlos, Río San Juan y accesorios para acuicultura para la generación de ingresos alternativos de las familias nicaragüenses y el autoconsumo, garantizando la seguridad alimentaria",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "實驗室設備",
-      "category": "貨品",
-      "method": "國內公開招標／一階段一信封",
-      "originalMethod": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre",
-      "published": "2026-10-09",
-      "deadlineUtc": "2026-11-12T06:00:00.000Z",
-      "deadlineDate": "2026-11-12",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "fit": 72,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "155650.00",
-      "summary": "CABEI 公開採購「實驗室裝置和水產養殖設施」。幫助提高淡水魚類生產水平,在聖卡洛斯、里奧聖胡安購置淡水魚類實驗室裝置,併為尼加拉瓜家庭購置水產養殖配件,以替代創收和自食其力, 確保糧食安全",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：幫助提高淡水魚類生產水平,在聖卡洛斯、里奧聖胡安購置淡水魚類實驗室裝置,併為尼加拉瓜家庭購置水產養殖配件,以替代創收和自食其力, 確保糧食安全",
-      "analysisMode": "offline-translation",
-      "documentAccess": "www.nicaraguacompra.gob.ni. Oficinas de Coordinación General de Programas y Proyectos, del Ministerio de Hacienda y Crédito Público, ubicada de la Estatua de Montoya 2 c, al norte, mano izquierda 2do piso",
-      "translationFingerprint": "60dd6b132caa7bf5e218d9387a9c2bcfecf657eec9087099d9737b66dd3a8747",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-08T22:07:36.086367+00:00",
-      "documentAccessZh": "www.nicaraguacompra.gob.ni. 財政和公共信貸部方案和專案總協調辦公室,位於蒙託亞州立2c北部,左手2d樓",
-      "translationWarnings": []
-    },
     {
       "id": "254",
       "document": "254",
@@ -828,7 +743,6 @@
     "273": [],
     "275": [],
     "279": [],
-    "280": [],
     "281": [
       {
         "name": "官方文件取得入口",
@@ -854,12 +768,6 @@
       {
         "name": "官方文件取得入口",
         "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32285825&o=5"
-      }
-    ],
-    "293": [
-      {
-        "name": "官方招標文件.pdf",
-        "url": "https://www.transparencia.gob.sv/descarga_archivo.php?id=NjY2Nzg4"
       }
     ],
     "294": [],
@@ -931,7 +839,6 @@
     ],
     "275": [],
     "279": [],
-    "280": [],
     "281": [
       {
         "name": "中華顧問工程司（CECI）",
@@ -1035,7 +942,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "293": [],
     "294": [
       {
         "name": "中華顧問工程司（CECI）",
