@@ -1,48 +1,7 @@
 {
-  "generatedAt": "2026-11-12T07:21:41.328Z",
+  "generatedAt": "2026-11-13T06:54:30.431Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "153015",
-      "document": "821",
-      "process": "057/2026",
-      "country": "區域／未載明",
-      "industry": "永續與環境顧問",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-11-04",
-      "deadlineUtc": "2026-11-13T23:00:00.000Z",
-      "fit": 72,
-      "title": "通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027",
-      "ruleTitle": "“Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
-      "originalTitle": "057 2026 “Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
-      "summary": "CABEI 公開採購「通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。",
-      "capabilities": [
-        "環境影響評估",
-        "ESG",
-        "環境工程"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。 承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。 至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。 至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿",
-      "qualifications": [
-        "承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。",
-        "至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。",
-        "至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。",
-        "至少有三年(3)在圖形設計，廣告創造力和視覺通訊和證實的專業設計，圖形圖形和圖形材料的領域的經驗。",
-        "至少有兩年(2)的圖形設計、音訊製作、數字動畫或影片編輯和多媒體設計和編輯工具管理經驗。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03854758-Aviso.pdf",
-      "translationFingerprint": "ee691a6740baf8ac707433cd44c51cf9d0f9ceaa75da48b8c0937a329d065a2a",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-05T06:59:41.590566+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "300000029903072",
       "document": "812,1",
@@ -119,6 +78,47 @@
       "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-11-07T06:09:41.033082+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "300000030000985",
+      "document": "821,1",
+      "process": "057/2026",
+      "country": "區域／未載明",
+      "industry": "永續與環境顧問",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-12",
+      "deadlineUtc": "2026-11-16T23:00:00.000Z",
+      "fit": 72,
+      "title": "通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027",
+      "ruleTitle": "“Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
+      "originalTitle": "057 2026 “Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
+      "summary": "CABEI 公開採購「通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。 承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。 至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。 至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿",
+      "qualifications": [
+        "承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。",
+        "至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。",
+        "至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。",
+        "至少有三年(3)在圖形設計，廣告創造力和視覺通訊和證實的專業設計，圖形圖形和圖形材料的領域的經驗。",
+        "至少有兩年(2)的圖形設計、音訊製作、數字動畫或影片編輯和多媒體設計和編輯工具管理經驗。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03870548-057%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "925253f3b72eb0cdf9a8daf6c65713b2b0c888b3d0582cf27d2f7a305b911a3c",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-13T06:54:54.453404+00:00",
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
@@ -286,6 +286,41 @@
       ]
     },
     {
+      "id": "158014",
+      "document": "826",
+      "process": "063/2026",
+      "country": "尼加拉瓜",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-13",
+      "deadlineUtc": "2026-11-19T23:00:00.000Z",
+      "fit": 35,
+      "title": "CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜",
+      "ruleTitle": "“Servicio de Mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua",
+      "originalTitle": "063/2026 “Servicio de Mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua",
+      "summary": "CABEI 公開採購「CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜」。1.2 採購的目的為 1.2.1 CABEI 需要採購一個專門的法律公司，以提供預防性維護系統的消防和消防，以及清潔代理的重新充電，安裝在馬納加州的 CABEI 國家管理局， 尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "1.2 採購的目的為 1.2.1 CABEI 需要採購一個專門的法律公司，以提供預防性維護系統的消防和消防，以及清潔代理的重新充電，安裝在馬納加州的 CABEI 國家管理局， 尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。 公司必須擁有所需的國家許可證和許可證，以及技術合格人員以及符合適用的 NFPA 標準的認證或認證，根據服務的系統的性質。 服務應按照品質、安全、可靠性和技術符合的標準進行，確保系統的適當操作性，並遵守 CABEI 環境管理體系的適用規定和目標。 如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。 維護人員必須有 NFPA 72: 認證 清潔代理或VESDA系統認證的消防系統。",
+      "qualifications": [
+        "維護人員必須有 NFPA 72: 認證",
+        "清潔代理或VESDA系統認證的消防系統。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03871401-063%202026%20Terminos%20de%20Referencia.pdf",
+      "translationFingerprint": "e68f75c25ac13629383f0abc5d7b8932a752ad3d40887802aebb1eda398b6af6",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-13T06:55:08.546717+00:00",
+      "translationWarnings": []
+    },
+    {
       "id": "150016",
       "document": "817",
       "process": "056/2026",
@@ -346,16 +381,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03852827-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
       }
     ],
-    "153015": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03854758-Aviso.pdf"
-      },
-      {
-        "name": "057 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03854757-057%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
     "154014": [
       {
         "name": "Aviso.pdf",
@@ -400,6 +425,30 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03864686-062%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
+    "158014": [
+      {
+        "name": "063 2026 Terminos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03871401-063%202026%20Terminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03871400-Aviso.pdf"
+      },
+      {
+        "name": "Anexo 5- Formato Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03871376-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
+      }
+    ],
+    "300000030000985": [
+      {
+        "name": "057 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03870548-057%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03870547-Aviso.pdf"
+      }
+    ],
     "300000029903072": [
       {
         "name": "Enmienda II Términos de Referencia 060 2026.pdf",
@@ -422,26 +471,6 @@
   "taiwanCompanySuggestions": {
     "150016": [],
     "152014": [],
-    "153015": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
     "154014": [],
     "155014": [
       {
@@ -472,6 +501,27 @@
       }
     ],
     "157014": [
+      {
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
+      },
+      {
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
+      }
+    ],
+    "158014": [],
+    "300000030000985": [
       {
         "name": "中華顧問工程司（CECI）",
         "role": "工程顧問／專案管理",
@@ -749,6 +799,10 @@
     "d1bf3a4f24c07e2e2e127de5bf0b69d3b4c170b3b1b3ad0e0c1241ed049c5432": "供應商必須擁有至少 5 年份的銷售、分銷和企業技術支援經驗。",
     "a41db15dd09577e027c4370d6f8724f7bf327a293893e6bc358cc403e4913618": "供應商必須至少有 5 銷售許可證的多年經驗，具有與所要求相似的特性。",
     "b574353975c120709ec54c8fb1e8861af7ed21431dc027d574c8ebfcd403700b": "如果交付的商品和服務不符合契約要求，CABEI將通知供應商，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿足。",
-    "52f3466f495db889680201319254b9e5ef24e55ff545fb86970f46c7ca36d716": "這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。"
+    "52f3466f495db889680201319254b9e5ef24e55ff545fb86970f46c7ca36d716": "這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。",
+    "3f0d4219de7b1c90f8b6ecbd4dd9f5d91de734e3297fe8c1273715e537b955b7": "CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜",
+    "198daf72cd09022ebbfc4d47f6021292409ca90446f6d9a7283b638ab2f020cb": "1.2 採購的目的為 1.2.1 CABEI 需要採購一個專門的法律公司，以提供預防性維護系統的消防和消防，以及清潔代理的重新充電，安裝在馬納加州的 CABEI 國家管理局， 尼加拉瓜。",
+    "aeb2ba2899c291d531873d183a9fa90304b64c925842ca394915a91bb282d3f4": "公司必須擁有所需的國家許可證和許可證，以及技術合格人員以及符合適用的 NFPA 標準的認證或認證，根據服務的系統的性質。",
+    "5a0a13a7b570a8f1b2a51495d31e8afcf2515d4b02f2621a892d1c45a4fcdb96": "服務應按照品質、安全、可靠性和技術符合的標準進行，確保系統的適當操作性，並遵守 CABEI 環境管理體系的適用規定和目標。"
   }
 }
