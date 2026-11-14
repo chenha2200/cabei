@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T06:54:31.529Z",
+  "generatedAt": "2026-11-14T06:38:35.590Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -604,6 +604,48 @@
       "translationWarnings": []
     },
     {
+      "id": "300",
+      "document": "300",
+      "process": "BLZ-2026-2147-28370-O",
+      "originalTitle": "Construction and Equipment of a 911 Facility and Police Sub-Station",
+      "title": "911設施和警察分隊的建造和裝置",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/300-BLZ-2026-2147-28370-O",
+      "officialSummary": "Construction and Equipment of a 911 Facility and Police Sub-Station",
+      "executor": "Ministry of Economic Development (MED)",
+      "sourceLanguage": "en",
+      "country": "貝里斯",
+      "industry": "設備與安全用品",
+      "category": "工程／服務",
+      "method": "國內公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-11-13",
+      "deadlineUtc": "2027-01-05T06:00:00.000Z",
+      "deadlineDate": "2027-01-05",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "fit": 63,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "659662.25",
+      "summary": "CABEI 公開採購「911設施和警察分隊的建造和裝置」。911設施和警察分隊的建造和裝置",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：911設施和警察分隊的建造和裝置",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://procurement.gov.bz/ adminassistant.bisp@met.gov.bz ProjectManager.rsp@met.gov.bz",
+      "translationFingerprint": "8b0463363c736884a247031a9b48ad573ab286a64e303b2f6433554f3d2dbaea",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-14T06:38:44.793156+00:00",
+      "documentAccessZh": "https://procurement.gov.bz/ adminassistant.bisp@met.gov.bz ProjectManager.rsp@met.gov.bz",
+      "translationWarnings": []
+    },
+    {
       "id": "299",
       "document": "299",
       "process": "CRI-2026-2241-41093-CF",
@@ -748,6 +790,12 @@
       {
         "name": "官方文件取得入口",
         "url": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/"
+      }
+    ],
+    "300": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://procurement.gov.bz/"
       }
     ]
   },
@@ -919,7 +967,8 @@
         "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
         "url": "https://www.ctci.com/"
       }
-    ]
+    ],
+    "300": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -1063,6 +1112,7 @@
     "245a6fb6e2ce77832dae9cf3a32937d1ca10a095420e19081df478dd474eaa80": "採購.chaco.gob.ar/ 生物採購.chako.gob!ar/組織",
     "92d10b888b38001f6aacf3266bc1b72f4aba2f8f8691aca1e49874c3bcc8ef0c": "【待校訂：分段翻譯】專案管理辦公室事務 OGP / PMO 設計、建造和裝置專案以及線路的啟動 1 與 2 哥斯大黎加大都市地區快速客運列車系統 INCOFER",
     "ba00c2d9bfe24743f415d4c243a4e35e40baaf2dcbaa4a2a7e077e56dd39a69f": "【待校訂：分段翻譯】為專案執行提供專案管理辦公室服務 1 與 2 快速客運列車 TRP 在大都市地區( GAM 哥斯大黎加。",
-    "44ab08e7d6cbfc1c646f3b8df396671719c88db48bebb0cd55b53c5bd13b5141": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/ INCOFER 中央辦事處,20,大道2,太平洋站,哥斯大黎加聖何塞"
+    "44ab08e7d6cbfc1c646f3b8df396671719c88db48bebb0cd55b53c5bd13b5141": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/ INCOFER 中央辦事處,20,大道2,太平洋站,哥斯大黎加聖何塞",
+    "803b872bbdd7fb219ef3250ca70397c257b4e59828d5b3be0f771a6cffc68985": "911設施和警察分隊的建造和裝置"
   }
 }
