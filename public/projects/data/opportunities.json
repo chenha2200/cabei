@@ -1,176 +1,7 @@
 {
-  "generatedAt": "2026-11-14T06:38:35.590Z",
+  "generatedAt": "2026-11-16T06:44:31.580Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "297",
-      "document": "297",
-      "process": "GTM-2026-2181GOBERNACIÓN-33902-CI",
-      "originalTitle": "Consultor en Seguimiento de Metas Físicas",
-      "title": "監測實際目標顧問",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/297-GTM-2026-2181GOBERNACI%C3%93N-33902-CI",
-      "officialSummary": "Establecer los medios de control y seguimiento al cumplimiento de las metas físicas establecidas en los instrumentos de Planificación del Programa.",
-      "executor": "Ministerio de Gobernación (MINGOB)",
-      "sourceLanguage": "es",
-      "country": "瓜地馬拉",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
-      "published": "2026-10-30",
-      "deadlineUtc": "2026-11-16T06:00:00.000Z",
-      "deadlineDate": "2026-11-16",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "13119.57",
-      "summary": "CABEI 公開採購「監測實際目標顧問」。建立手段,監測和監測方案規劃文書所列實際目標的遵守情況。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：建立手段,監測和監測方案規劃文書所列實際目標的遵守情況。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5, en el apartado denominado \"Documentos del proceso de Contratación\" podrá descargar la información. www.guatecompras,gt",
-      "translationFingerprint": "a141769f3ad3045e9d56877019fcbcb652a810f6404a9bd59919b6886234d86a",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-11-04T00:26:44.293017+00:00",
-      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5, 在名為“訂約過程檔案”的章節中, 您可以下載資訊 。 www.guatecompras, gt",
-      "translationWarnings": []
-    },
-    {
-      "id": "296",
-      "document": "296",
-      "process": "GTM-2026-2181GOBERNACIÓN-33898-CI",
-      "originalTitle": "Consultor Asistente del Coordinador de la UEEP",
-      "title": "UEEP協調員助理顧問",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/296-GTM-2026-2181GOBERNACI%C3%93N-33898-CI",
-      "officialSummary": "Propiciar el funcionamiento eficiente y eficaz en la presentación de los servicios que le competen a la Unidad Especial de Ejecución del Programa UEEP, dentro del ámbito de ejecución del Prestamos del BCIE número 2181, Programa de Inversión y Modernización para el Sector Justicia del Ministerio de Gobernación.",
-      "executor": "Ministerio de Gobernación (MINGOB)",
-      "sourceLanguage": "es",
-      "country": "瓜地馬拉",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
-      "published": "2026-10-30",
-      "deadlineUtc": "2026-11-16T06:00:00.000Z",
-      "deadlineDate": "2026-11-16",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "28338.28",
-      "summary": "CABEI 公開採購「UEEP協調員助理顧問」。【待校訂：分段翻譯】促進在向特別方案執行股提供服務時高效率、高成效地運作 UEEP 在《公約》執行範圍內 BCIE 編號 2181, 司法部投資和現代化方案 省一級。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】促進在向特別方案執行股提供服務時高效率、高成效地運作 UEEP 在《公約》執行範圍內 BCIE 編號 2181, 司法部投資和現代化方案 省一級。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5, en la pestaña denominada \"Documentos del Proceso de Contratación\" podrá descargar la información. www.guatecompras.gt",
-      "translationFingerprint": "4e600569d199797eb275dc66079f00c4180bea7ba896a992497fb133b87b115d",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-11-04T00:26:51.834036+00:00",
-      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載資訊 。 www.guatecompras. gt",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "295",
-      "document": "295",
-      "process": "GTM-2026-2181GOBERNACIÓN-33896-CI",
-      "originalTitle": "Consultor Asistente en Adquisiciones II",
-      "title": "助理採購顧問II",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/295-GTM-2026-2181GOBERNACI%C3%93N-33896-CI",
-      "officialSummary": "Garantizar el fiel cumplimiento de la Política para la Obtención de Bienes, Obras, Servicios y Consultorías con recursos del BCIE y sus Normas de aplicación, correspondiente al Programa de Inversión y Modernización para el Sector Justicia, contemplada en el Contrato de Préstamo número 2181.",
-      "executor": "Ministerio de Gobernación (MINGOB)",
-      "sourceLanguage": "es",
-      "country": "瓜地馬拉",
-      "industry": "個人顧問",
-      "category": "個人顧問",
-      "method": "資格比較",
-      "originalMethod": "Comparación de Calificaciones-CC-Comparación de Calificaciones",
-      "published": "2026-10-30",
-      "deadlineUtc": "2026-11-16T06:00:00.000Z",
-      "deadlineDate": "2026-11-16",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 20,
-      "reason": "本案採購個人顧問，不應以台灣企業名單替代個人資格審查。",
-      "noCompanyReason": "個人顧問或行政職務，需由符合官方條件的個人申請；公司不是直接投標候選。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "28863.06",
-      "summary": "CABEI 公開採購「助理採購顧問II」。確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：確保忠實地遵守BCIE的資源及其實施標準,即2181.貸款合同中規定的司法部門投資和現代化方案。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, en la pestaña denominada \"Documento del Proceso de Contratación\", podrá descargar la información. www.guatecompras.gt",
-      "translationFingerprint": "7a95851805d74668f86182c06ac3439533a367dab876bc7b6d5770d03e65eaa7",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-11-04T00:26:56.794370+00:00",
-      "documentAccessZh": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5, 在名為“ 訂約程序文件” 的標籤中, 您可以下載這些資訊 。 www.guatecompras. gt",
-      "translationWarnings": []
-    },
-    {
-      "id": "275",
-      "document": "275",
-      "process": "MHCP-CGPP-2263-LPI-B-01-2026",
-      "originalTitle": "Compra de alimentos 2026 - 2027 de la merienda escolar (granos básicos y aceite vegetal) primera fase",
-      "title": "2026–2027 年學校餐點食品採購第一階段（基本穀物及植物油）",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/275-MHCP-CGPP-2263-LPI-B-01-2026",
-      "officialSummary": "Contribuir de manera sostenida al mejoramiento de los indicadores de educación, salud y nutrición de estudiantes en Centros Educativos en 32 municipios seleccionados, pertenecientes al Sector Minero y 5 departamentos del país: Sector Minero (4 municipios), Estelí (1 municipio), Jinotega (8 municipios), Madriz (2 municipios), Matagalpa (9 municipios) y Nueva Segovia (8 municipios), mediante la Compra de alimentos 2026 - 2027 de la merienda escolar Primera Fase, la cual detalla la adquisición de: 52,621 galones de aceite vegetal de soya; 28,441 sacos de arroz; 20,848 sacos de frijol rojo variedad; y 25,362 sacos de maíz blanco (todos los sacos con una presentación de 50 lbs / 22.68 kg).",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "食品與農業",
-      "category": "貨品",
-      "method": "國際公開招標／一階段一信封",
-      "published": "2026-10-01",
-      "deadlineUtc": "2026-11-16T06:00:00.000Z",
-      "deadlineDate": "2026-11-16",
-      "capabilities": [
-        "整批供應"
-      ],
-      "fit": 42,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "3872681.42",
-      "summary": "CABEI 公開採購「2026–2027 年學校餐點食品採購第一階段（基本穀物及植物油）」。【待校訂：分段翻譯】持續促進改善教育中心學生的教育、健康和營養指標; 32 採礦部門所屬選定城市和 5 國家各部: 採礦部門 4 Estelí市(城市) 1 吉諾特加市 8 【待校訂：分段翻譯】市、馬德里茲市( 2 馬塔加爾帕(馬塔加爾帕) 9 和新塞戈維亞 8 城市),透過購買食品 2026 - 2027 學校用餐的第一階段,該階段詳細介紹了以下物品的購買情況: 52,621 加侖大豆油; 28,441 飯袋; 20,848 紅豆袋 品種;和 25,362 白色玉米袋(所有袋裝有 50 lbs / 22.68公斤)。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】持續促進改善教育中心學生的教育、健康和營養指標; 32 採礦部門所屬選定城市和 5 國家各部: 採礦部門 4 Estelí市(城市) 1 吉諾特加市 8 【待校訂：分段翻譯】市、馬德里茲市( 2 馬塔加爾帕(馬塔加爾帕) 9 和新塞戈維亞 8 城市),透過購買食品 2026 - 2027 學校用餐的第一階段,該階段詳細介紹了以下物品的購買情況: 52,621 加侖大豆油; 28,441 飯袋; 20,848 紅豆袋 品種;和 25,362 白色玉米袋(所有袋裝有 50 lbs / 22.68公斤)。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "www.nicaraguacompra.gob.ni Oficinas de Coordinación General de Programas y Proyectos, Ubicada de la Estatua de Montoya 2 c, al norte, mano izquierda 2do piso, Managua",
-      "translationFingerprint": "b969ca95890ff4371dc0051f7c585cc2e3f683a0b08c923f0cc0c422d67440fc",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:16:32.030331+00:00",
-      "documentAccessZh": "www.nicaraguacompra.gob.ni 方案和專案總協調辦公室,位於馬那瓜蒙託亞2c角,向北,左手2do樓",
-      "revisionSourceTitle": "Compra de alimentos 2026 - 2027 de la merienda escolar (granos básicos y aceite vegetal) primera fase",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ],
-      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre"
-    },
     {
       "id": "273",
       "document": "273",
@@ -738,7 +569,6 @@
   ],
   "officialAttachments": {
     "273": [],
-    "275": [],
     "279": [],
     "281": [
       {
@@ -768,24 +598,6 @@
       }
     ],
     "294": [],
-    "295": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32556357&o=5"
-      }
-    ],
-    "296": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32540833&o=5"
-      }
-    ],
-    "297": [
-      {
-        "name": "官方文件取得入口",
-        "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=32557345&o=5"
-      }
-    ],
     "299": [
       {
         "name": "官方文件取得入口",
@@ -820,7 +632,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "275": [],
     "279": [],
     "281": [
       {
@@ -945,9 +756,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "295": [],
-    "296": [],
-    "297": [],
     "299": [
       {
         "name": "中華顧問工程司（CECI）",
