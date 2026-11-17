@@ -1,130 +1,7 @@
 {
-  "generatedAt": "2026-11-14T06:38:34.158Z",
+  "generatedAt": "2026-11-17T08:03:36.420Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "155014",
-      "document": "823",
-      "process": "061/2026",
-      "country": "區域／未載明",
-      "industry": "數位與資通訊",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-11-06",
-      "deadlineUtc": "2026-11-16T23:00:00.000Z",
-      "fit": 86,
-      "title": "PureStorage 儲存設備的支援更新",
-      "ruleTitle": "Renovación de Soporte para equipos de almacenamiento PureStorage",
-      "originalTitle": "061/2026 Renovación de Soporte para equipos de almacenamiento PureStorage",
-      "summary": "CABEI 公開採購「PureStorage 儲存設備的支援更新」。供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。 經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。",
-      "capabilities": [
-        "資訊基礎設施",
-        "網路與電信",
-        "系統整合"
-      ],
-      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "amount": "US$10,000",
-      "documentSummary": "供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。 經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。 認可至少五年(5)在PureStorage企業儲存解決方案的行銷、更新和/或維護服務的專業經驗。 【待校訂：分段保護翻譯】伊特姆 CRITERIOS 技術描述 評分 RANGOS DE 報價:報價人必須認可一 5 多年或更多 10 最低五分( 5 ( ) 多年在銷售，供應， 1 一般經驗 更新和/或提供服務 10 % 支援和維護解決方案 企業技術基礎設施。 不到 5 0 5 客戶參考信，發行在過去三年(3), 5 參考或更多 10 證明滿意度提供的服務和實施 2 具體體驗解決方案類似；",
-      "qualifications": [
-        "供應商必須獲得至少五年(5)的商業化、供應、更新和/或為企業技術基礎設施解決方案提供支援和維護服務的經驗。",
-        "認可至少五年(5)在PureStorage企業儲存解決方案的行銷、更新和/或維護服務的專業經驗。",
-        "經驗必須透過滿意度，契約，採購單和可驗證的接收檔案，並具有最長的3年齡，其中確定客戶，物件，範圍，執行期和滿意的滿足。",
-        "【待校訂：分段保護翻譯】伊特姆 CRITERIOS 技術描述 評分 RANGOS DE 報價:報價人必須認可一 5 多年或更多 10 最低五分( 5 ( ) 多年在銷售，供應， 1 一般經驗 更新和/或提供服務 10 % 支援和維護解決方案 企業技術基礎設施。",
-        "不到 5 0 5 客戶參考信，發行在過去三年(3), 5 參考或更多 10 證明滿意度提供的服務和實施 2 具體體驗解決方案類似；"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03859132-Aviso.pdf",
-      "translationFingerprint": "82c78d6d90d6b9e4917e357c8a598cfa88be54c28f61b3dae186c3891e8f2c9e",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-07T06:09:41.033082+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "300000030000985",
-      "document": "821,1",
-      "process": "057/2026",
-      "country": "區域／未載明",
-      "industry": "永續與環境顧問",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-11-12",
-      "deadlineUtc": "2026-11-16T23:00:00.000Z",
-      "fit": 72,
-      "title": "通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027",
-      "ruleTitle": "“Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
-      "originalTitle": "057 2026 “Servicio de comunicación, diseño gráfico y producción audiovisual para la ejecución del Plan Anual de Comunicación y Concientización Ambiental y Social 2027”",
-      "summary": "CABEI 公開採購「通訊、圖形設計和視覺製作服務，以執行年度環境和社會溝通和認識計劃 2027」。【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。",
-      "capabilities": [
-        "環境影響評估",
-        "ESG",
-        "環境工程"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】1.2 契約的目的為 1.2.1 他的 CABEI 需要僱傭一個專門從事機構通訊、圖形設計和音訊製作的機構，以支援銀行的年度通訊和環境和社會意識計劃的實施，透過概念化、設計； 生產、調整和交付高品質的圖形、數字和視覺材料。 UNA VEZ APROBADO 1.3 需要服務的可用性 1.3.1 CABEI 需要採購機構，專門從事機構通訊、圖形設計、創意和視覺製作，以支援實施年度環境和社會溝通和認識計劃，透過發展機構的支援。 視覺和視覺材料，使銀行的環境和社會資訊的披露、認識和適用。 承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。 至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。 至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿",
-      "qualifications": [
-        "承包商必須證明至少五年(5)的可證明經驗，作為一個機構或公司，專門從事圖形設計，機構通訊，創造力，數字通訊或音訊製作，為公共機構，私人機構，國際機構，機構提供服務。 金融、發展組織或永續性計劃的組織。",
-        "至少有三年(3)在提供圖形設計、視覺通訊和視覺製作服務的經驗，以便為機構、企業或意識化活動提供資訊。",
-        "至少有三年(3)在溝通、廣告、圖形設計或音訊製作專案的協調或管理經驗。",
-        "至少有三年(3)在圖形設計，廣告創造力和視覺通訊和證實的專業設計，圖形圖形和圖形材料的領域的經驗。",
-        "至少有兩年(2)的圖形設計、音訊製作、數字動畫或影片編輯和多媒體設計和編輯工具管理經驗。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03870548-057%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
-      "translationFingerprint": "925253f3b72eb0cdf9a8daf6c65713b2b0c888b3d0582cf27d2f7a305b911a3c",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-13T06:54:54.453404+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "157014",
-      "document": "825",
-      "process": "062/2026",
-      "country": "區域",
-      "industry": "永續與環境顧問",
-      "category": "顧問服務",
-      "method": "公開詢價",
-      "published": "2026-11-09",
-      "deadlineUtc": "2026-11-16T23:00:00.000Z",
-      "fit": 72,
-      "title": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
-      "ruleTitle": "“Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
-      "originalTitle": "062 2026 “Consultoría para el Diagnóstico y Preparación para la Certificación Zero Waste to Landfill del BCIE en sus instalaciones de Honduras, El Salvador, Guatemala, Costa Rica y Nicaragua”",
-      "summary": "CABEI 公開採購「CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施」。【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 其範圍 包括 宏都拉斯， 薩爾瓦多， 瓜地馬拉， 哥斯大黎加和 尼加拉瓜的設施。 由諮詢公司直接執行廢物儲存、重量或物理特徵活動，以及與廢物管理相關的設備、基礎設施或其他元素的供應。",
-      "capabilities": [
-        "環境影響評估",
-        "ESG",
-        "環境工程"
-      ],
-      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
-      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
-      "amount": "未載明",
-      "documentSummary": "【待校訂：分段保護翻譯】諮詢 REQUERIDA 1.1 史前的El CABEI ( ) CABEI ( ) ，在其承諾的永續性和負責管理與其活動相關的環境影響，擁有一個環境管理體系( SGA (一)符合標準的認證 ISO 14001:2015, 其範圍 包括 宏都拉斯， 薩爾瓦多， 瓜地馬拉， 哥斯大黎加和 尼加拉瓜的設施。 由諮詢公司直接執行廢物儲存、重量或物理特徵活動，以及與廢物管理相關的設備、基礎設施或其他元素的供應。 UNA VEZ APROBADO 使用的方法必須由諮詢團隊明確識別，證明其選擇，並解釋適用於可能認證的標準、水平或要求。 諮詢公司必須擁有至少五年的(5)在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務的提供經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。 Zero Waste to Landfill (ZWL) 或同等認證過程的經驗: 諮詢公司必須證明至少一個(1)與實施零廢物到地板標準(ZWL)或同等相關的諮詢專案或技術輔導專案的經驗，該專案成功完成了由諮詢組織獲得認證， 根據該計劃頒發的認證或",
-      "qualifications": [
-        "UNA VEZ APROBADO 使用的方法必須由諮詢團隊明確識別，證明其選擇，並解釋適用於可能認證的標準、水平或要求。",
-        "【待校訂：分段保護翻譯】1.3.1.3 路線路線路線路線轉向 ZWL 根據診斷結果，諮詢團隊應為每個設施制定路線表，以便關閉所識別的漏洞，並逐步向符合認證要求前進。",
-        "諮詢公司必須擁有至少五年的(5)在永續性、環境管理、迴圈經濟、綜合廢物管理方面的諮詢和/或諮詢服務的提供經驗，並支援公共和/或私人組織在診斷、設計和 實施戰略、計劃和行動，以提高其績效和可持續管理。",
-        "Zero Waste to Landfill (ZWL) 或同等認證過程的經驗:",
-        "諮詢公司必須證明至少一個(1)與實施零廢物到地板標準(ZWL)或同等相關的諮詢專案或技術輔導專案的經驗，該專案成功完成了由諮詢組織獲得認證， 根據該計劃頒發的認證或驗證。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03864687-Aviso.pdf",
-      "translationFingerprint": "0cb7312a5173c1132c6e3b9224b1d2a66bcdd17ca4dc020f7d08371a18f29ef0",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-10T07:29:35.316950+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "156014",
       "document": "824",
@@ -352,20 +229,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03855260-066%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
-    "155014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03859132-Aviso.pdf"
-      },
-      {
-        "name": "061 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03859131-061%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03859124-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "156014": [
       {
         "name": "Aviso.pdf",
@@ -374,16 +237,6 @@
       {
         "name": "058 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03864434-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
-    "157014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03864687-Aviso.pdf"
-      },
-      {
-        "name": "062 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03864686-062%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
     "158014": [
@@ -399,36 +252,12 @@
         "name": "Anexo 5- Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03871376-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
-    ],
-    "300000030000985": [
-      {
-        "name": "057 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03870548-057%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03870547-Aviso.pdf"
-      }
     ]
   },
   "taiwanCompanySuggestions": {
     "150016": [],
     "152014": [],
     "154014": [],
-    "155014": [
-      {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "企業 IT 整合",
-        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
-        "url": "https://www.systex.com/"
-      },
-      {
-        "name": "資拓宏宇（IISI）",
-        "role": "系統整合與維運",
-        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
-      }
-    ],
     "156014": [
       {
         "name": "精誠資訊（SYSTEX）",
@@ -443,47 +272,7 @@
         "url": "https://www.iisigroup.com/en/about-en/services/"
       }
     ],
-    "157014": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
-    "158014": [],
-    "300000030000985": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ]
+    "158014": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:44:31.580Z",
+  "generatedAt": "2026-11-17T08:03:36.791Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -392,6 +392,50 @@
       ]
     },
     {
+      "id": "301",
+      "document": "301",
+      "process": "ARG-2025-2301-20422-B",
+      "originalTitle": "Detectores de gases, Equipos de respiración ERA, Equipos Nivel A, Equipos Nivel B y Cámaras térmicas",
+      "title": "氣體探測器、呼吸裝置、ERA、A級裝置、B級裝置和熱攝像頭",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/301-ARG-2025-2301-20422-B",
+      "officialSummary": "Adquisición de Equipo de protección respiratoria autónoma de circuito abierto, diseñado para operaciones de combate de incendios y rescate en atmósferas IDLH, compuesto por un arnés ergonómico de alta resistencia térmica, máscara panorámica de 180°, cilindro de fibra de carbono de 4500 PSI (45 min) y tecnología de monitorización digital integrada, cumpliendo con estándares internacionales de NFPA e IRAM vigentes, en el marco del Programa 2301 Seguridad Ciudadana para la Provincia del Chaco.",
+      "executor": "Entidad de Enlace del Ministerio de Hacienda y Finanzas de la Provincia de Chaco",
+      "sourceLanguage": "es",
+      "country": "阿根廷",
+      "industry": "設備與安全用品",
+      "category": "貨品",
+      "method": "國內公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-11-16",
+      "deadlineUtc": "2026-12-21T03:00:00.000Z",
+      "deadlineDate": "2026-12-21",
+      "capabilities": [
+        "整批供應",
+        "現場安裝"
+      ],
+      "fit": 63,
+      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "300000.00",
+      "summary": "CABEI 公開採購「氣體探測器、呼吸裝置、ERA、A級裝置、B級裝置和熱攝像頭」。【待校訂：分段翻譯】購置用於消防和大氣救援作業的開路自主呼吸保護裝置 IDLH 由高熱抗力的人類工程學原理構成, 180 °, 碳纖維氣瓶 4500 PSI ( 45 (分鐘)和 * 在查科省2301公民安全方案框架內,採用綜合數字監測技術,遵守現行國際NFPA和IRAM標準。",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：【待校訂：分段翻譯】購置用於消防和大氣救援作業的開路自主呼吸保護裝置 IDLH 由高熱抗力的人類工程學原理構成, 180 °, 碳纖維氣瓶 4500 PSI ( 45 (分鐘)和 * 在查科省2301公民安全方案框架內,採用綜合數字監測技術,遵守現行國際NFPA和IRAM標準。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "https://compras.chaco.gob.ar/organismos https://compras.chaco.gob.ar/organismos Organismo: Ministerio de Seguridad",
+      "translationFingerprint": "3aede0245fb94328be7e394d2350789f332997a06af917d7696989275c9fe045",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-17T08:03:51.490036+00:00",
+      "documentAccessZh": "https://compras.chaco.gob.ar/organismos https://compras.chaco.gob.ar/organismos機構:安全部",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "294",
       "document": "294",
       "process": "ARG-2025-2301- B",
@@ -468,12 +512,12 @@
       ],
       "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：911設施和警察分隊的建造和裝置",
       "analysisMode": "offline-translation",
-      "documentAccess": "https://procurement.gov.bz/ adminassistant.bisp@met.gov.bz ProjectManager.rsp@met.gov.bz",
-      "translationFingerprint": "8b0463363c736884a247031a9b48ad573ab286a64e303b2f6433554f3d2dbaea",
+      "documentAccess": "https://procurement.gov.bz/met-bisp-construction-and-equipment-of-a-911-facility-and-police-sub-station-n-o-cabei-wks-002-2147-2026-firm-met-bisp/ adminassistant.bisp@met.gov.bz ProjectManager.rsp@met.gov.bz",
+      "translationFingerprint": "4b56e66913c11a9f7f47069a43ac698e1e661ba5a8dab04732c054d8d04845fd",
       "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
       "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-11-14T06:38:44.793156+00:00",
-      "documentAccessZh": "https://procurement.gov.bz/ adminassistant.bisp@met.gov.bz ProjectManager.rsp@met.gov.bz",
+      "translationUpdatedAt": "2026-11-17T08:03:52.267068+00:00",
+      "documentAccessZh": "https://procurement.gov.bz/met-bisp-construction-and-equipment-of-a-911-facility-and-police-sub-station-n-o-cabei-wks-002-2147-2026-firm-met-bisp/ adminassistant.bisp@met.gov.bz ProjectManager.rsp@met.gov.bz",
       "translationWarnings": []
     },
     {
@@ -607,7 +651,13 @@
     "300": [
       {
         "name": "官方文件取得入口",
-        "url": "https://procurement.gov.bz/"
+        "url": "https://procurement.gov.bz/met-bisp-construction-and-equipment-of-a-911-facility-and-police-sub-station-n-o-cabei-wks-002-2147-2026-firm-met-bisp/"
+      }
+    ],
+    "301": [
+      {
+        "name": "官方文件取得入口",
+        "url": "https://compras.chaco.gob.ar/organismos"
       }
     ]
   },
@@ -776,7 +826,8 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "300": []
+    "300": [],
+    "301": []
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -921,6 +972,9 @@
     "92d10b888b38001f6aacf3266bc1b72f4aba2f8f8691aca1e49874c3bcc8ef0c": "【待校訂：分段翻譯】專案管理辦公室事務 OGP / PMO 設計、建造和裝置專案以及線路的啟動 1 與 2 哥斯大黎加大都市地區快速客運列車系統 INCOFER",
     "ba00c2d9bfe24743f415d4c243a4e35e40baaf2dcbaa4a2a7e077e56dd39a69f": "【待校訂：分段翻譯】為專案執行提供專案管理辦公室服務 1 與 2 快速客運列車 TRP 在大都市地區( GAM 哥斯大黎加。",
     "44ab08e7d6cbfc1c646f3b8df396671719c88db48bebb0cd55b53c5bd13b5141": "https://www.incofer.go.cr/incofer/proyectos-estrategicos/fase-de-inversion-tibi/ INCOFER 中央辦事處,20,大道2,太平洋站,哥斯大黎加聖何塞",
-    "803b872bbdd7fb219ef3250ca70397c257b4e59828d5b3be0f771a6cffc68985": "911設施和警察分隊的建造和裝置"
+    "803b872bbdd7fb219ef3250ca70397c257b4e59828d5b3be0f771a6cffc68985": "911設施和警察分隊的建造和裝置",
+    "c9d7ce22c5e1ea6934f91d82d4b7d0de27faa81644eb703ac6e66832e5fcf536": "氣體探測器、呼吸裝置、ERA、A級裝置、B級裝置和熱攝像頭",
+    "b015d0f358ebb3c753a345bf9a009cada69d47ad2dec4d624024290c89d0f0de": "【待校訂：分段翻譯】購置用於消防和大氣救援作業的開路自主呼吸保護裝置 IDLH 由高熱抗力的人類工程學原理構成, 180 °, 碳纖維氣瓶 4500 PSI  ( 45 (分鐘)和 * 在查科省2301公民安全方案框架內,採用綜合數字監測技術,遵守現行國際NFPA和IRAM標準。",
+    "25dfa84696468da9a3d5f675684cee32659242630404b191fdd3e6a1a9077041": "https://compras.chaco.gob.ar/organismos https://compras.chaco.gob.ar/organismos機構:安全部"
   }
 }
