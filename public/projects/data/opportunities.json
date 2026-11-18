@@ -1,51 +1,7 @@
 {
-  "generatedAt": "2026-11-17T08:03:36.791Z",
+  "generatedAt": "2026-11-18T07:40:07.929Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "273",
-      "document": "273",
-      "process": "CRI-2026-2345-33818-CF",
-      "originalTitle": "Supervisión Proyecto Agua Caliente - Sandino- La Virgen- Fortuna",
-      "title": "阿瓜卡連特、桑地諾、拉維爾根與福圖納專案工程監督",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/273-CRI-2026-2345-33818-CF",
-      "officialSummary": "Contratar una Firma consultora que realice la Supervisión Externa de las Obras del Segundo Circuito SIEPAC en Honduras, Nicaragua y Costa Rica.",
-      "executor": "Sistema de Interconexión Eléctrica para Países de América Central (SIEPAC)",
-      "sourceLanguage": "es",
-      "country": "哥斯大黎加",
-      "industry": "基礎設施與工程",
-      "category": "顧問服務",
-      "method": "品質與價格評選",
-      "published": "2026-09-28",
-      "deadlineUtc": "2026-11-18T06:00:00.000Z",
-      "deadlineDate": "2026-11-18",
-      "capabilities": [
-        "水利工程",
-        "土木施工",
-        "測量與施工管理"
-      ],
-      "fit": 65,
-      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "631308.00",
-      "summary": "CABEI 公開採購「阿瓜卡連特、桑地諾、拉維爾根與福圖納專案工程監督」。本案徵聘顧問公司，負責中美洲電力互聯系統（SIEPAC）在宏都拉斯、尼加拉瓜及哥斯大黎加第二迴路工程的外部監督。 站名採中文音譯：阿瓜卡連特（Agua Caliente）、桑地諾（Sandino）、拉維爾根（La Virgen）、福圖納（Fortuna）；非已確認之官方中文名稱。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下為官方公告範疇摘要：本案徵聘顧問公司，負責中美洲電力互聯系統（SIEPAC）在宏都拉斯、尼加拉瓜及哥斯大黎加第二迴路工程的外部監督。 站名採中文音譯：阿瓜卡連特（Agua Caliente）、桑地諾（Sandino）、拉維爾根（La Virgen）、福圖納（Fortuna）；非已確認之官方中文名稱。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "proveeduriasupervision@eprsiepac.com La EPR pone a disposición de los interesados toda la documentación relacionada con esta consultoría únicamente mediante Sistema de Compras FILEON de la EPR. Las empresas interesadas deberán solicitar su inscripción al correo electrónico proveeduriasupervision@eprsiepac.com con ello se le creará un usuario para el acceso al Sistema de Compras FILEON de la EPR.",
-      "translationFingerprint": "4973acf721b115bfd5ed6e3ee1ebd7c14ff0a9c9df696a6215688c04d44e0e95",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-04T13:39:18.070951+00:00",
-      "documentAccessZh": "本案顧問採購文件僅透過 EPR 的 FILEON 採購系統提供。有意參與的公司須寄信至 proveeduriasupervision@eprsiepac.com 申請註冊，以取得系統帳號。",
-      "revisionSourceTitle": "Supervisión Proyecto Agua Caliente - Sandino- La Virgen- Fortuna",
-      "translationWarnings": [],
-      "originalMethod": "Selección Basada en Calidad y Costo-LC_Sin-SEI-Lista Corta (Sin SEI)"
-    },
     {
       "id": "282",
       "document": "282",
@@ -612,7 +568,6 @@
     }
   ],
   "officialAttachments": {
-    "273": [],
     "279": [],
     "281": [
       {
@@ -662,26 +617,6 @@
     ]
   },
   "taiwanCompanySuggestions": {
-    "273": [
-      {
-        "name": "中華顧問工程司（CECI）",
-        "role": "工程顧問／專案管理",
-        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
-        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
-      },
-      {
-        "name": "亞新工程顧問（MAA Group）",
-        "role": "工程與環境顧問",
-        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
-        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
-      },
-      {
-        "name": "中鼎工程（CTCI）",
-        "role": "EPC／工程整合",
-        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
-        "url": "https://www.ctci.com/"
-      }
-    ],
     "279": [],
     "281": [
       {
