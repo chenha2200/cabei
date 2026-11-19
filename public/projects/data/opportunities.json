@@ -1,49 +1,7 @@
 {
-  "generatedAt": "2026-11-18T07:40:07.929Z",
+  "generatedAt": "2026-11-19T07:35:46.316Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "282",
-      "document": "282",
-      "process": "NIC-2025-2263-22823-B",
-      "originalTitle": "Adquisición de motocicletas (41 motocicletas) para equipos territoriales de asistencia técnica.",
-      "title": "為領土技術援助裝置購置摩托車(41摩托車)。",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/282-NIC-2025-2263-22823-B",
-      "officialSummary": "Fortalecer las capacidades de acompañamiento territorial y asistencia técnica, mediante la adquisición de medios de transporte (41 motocicletas) para la operatividad y funcionalidad del Proyecto de producción de semillas de granos básicos, hortalizas y plantas sanas de cítricos y del Proyecto para fortalecer la capacidad de experimentación y transferencia de tecnologías agropecuarias, ejecutados desde el Ministerio Agropecuario como institución rectora de las políticas públicas del sector agropecuario en Nicaragua, contribuyendo al fortalecimiento del desarrollo sostenible, la seguridad alimentaria, el incremento de la productividad y la mejora de las condiciones de vida.",
-      "executor": "Ministerio de Hacienda y Crédito Público (MHCP)",
-      "sourceLanguage": "es",
-      "country": "尼加拉瓜",
-      "industry": "設備與安全用品",
-      "category": "貨品",
-      "method": "國內公開招標／一階段一信封",
-      "originalMethod": "Licitación Pública Nacional-1E-1S-Una etapa - un sobre",
-      "published": "2026-10-16",
-      "deadlineUtc": "2026-11-19T06:00:00.000Z",
-      "deadlineDate": "2026-11-19",
-      "capabilities": [
-        "整批供應",
-        "現場安裝"
-      ],
-      "fit": 63,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "218027.59",
-      "summary": "CABEI 公開採購「為領土技術援助裝置購置摩托車(41摩托車)。」。透過獲得運輸工具(41摩托車),加強領土陪伴和技術援助的能力,以便開展生產基本穀物、蔬菜和健康柑橘作物種子的專案和開展該專案。 加強試驗和轉讓農業技術的能力,由作為尼加拉瓜農業部門公共政策管理機構的農業部實施,有助於加強可持續發展、安全和可持續發展。 糧食、提高生產力和改善生活條件。",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：透過獲得運輸工具(41摩托車),加強領土陪伴和技術援助的能力,以便開展生產基本穀物、蔬菜和健康柑橘作物種子的專案和開展該專案。 加強試驗和轉讓農業技術的能力,由作為尼加拉瓜農業部門公共政策管理機構的農業部實施,有助於加強可持續發展、安全和可持續發展。 糧食、提高生產力和改善生活條件。",
-      "analysisMode": "offline-translation",
-      "documentAccess": "www.nicaraguacompra.gob.ni Oficinas de Coordinación General de Programas y Proyectos, del Ministerio de Hacienda y Crédito Público, ubicada de la Estatua de Montoya 2 c al norte, mano izquierda 2do piso",
-      "translationFingerprint": "fb30a36d1788d0c8bdb8dc288433444b83fc8d716417ab4ac4a43923a73e90ab",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-16T00:22:37.487104+00:00",
-      "documentAccessZh": "財政和公共信貸部方案和專案總協調辦公室位於蒙託亞州立2c北部,左手為2do層。",
-      "translationWarnings": []
-    },
     {
       "id": "279",
       "document": "279",
@@ -575,7 +533,6 @@
         "url": "https://www.guatecompras.gt/concursos/consultaConcurso.aspx?nog=31283454&o=5"
       }
     ],
-    "282": [],
     "284": [],
     "285": [],
     "288": [
@@ -638,7 +595,6 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "282": [],
     "284": [],
     "285": [
       {

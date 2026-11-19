@@ -1,128 +1,7 @@
 {
-  "generatedAt": "2026-11-17T08:03:36.420Z",
+  "generatedAt": "2026-11-19T07:35:44.911Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "156014",
-      "document": "824",
-      "process": "058/2026",
-      "country": "區域／未載明",
-      "industry": "數位與資通訊",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-11-09",
-      "deadlineUtc": "2026-11-18T23:00:00.000Z",
-      "fit": 86,
-      "title": "自動化任何地方的許可更新",
-      "ruleTitle": "“Renovación de Licenciamiento Automation Anywhere”",
-      "originalTitle": "058 2026 “Renovación de Licenciamiento Automation Anywhere”",
-      "summary": "CABEI 公開採購「自動化任何地方的許可更新」。【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要透過一家公司獲得Automation Anywhere平台的許可證，以確保現有自動化的運營連續性，啟用新自動化過程的開發，並保持現有自動化過程的優勢。 CABEI的效率、生產力和資源最佳化。 1.3 所需服務的可用性 1.3.1 本採購範圍包括提供、啟用和支援 360, Automation Anywhere Automation 平台的許可，有效期為 12 個月，如下詳細說明:",
-      "capabilities": [
-        "資訊基礎設施",
-        "網路與電信",
-        "系統整合"
-      ],
-      "reason": "台灣在相關軟硬體、資安與系統整合領域供應成熟；建議搭配原廠資格及中美洲西語交付夥伴。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "amount": "US$10,000",
-      "documentSummary": "【待校訂：分段保護翻譯】1.2 採購的目的為 1.2.1 他的 CABEI 需要透過一家公司獲得Automation Anywhere平台的許可證，以確保現有自動化的運營連續性，啟用新自動化過程的開發，並保持現有自動化過程的優勢。 CABEI的效率、生產力和資源最佳化。 1.3 所需服務的可用性 1.3.1 本採購範圍包括提供、啟用和支援 360, Automation Anywhere Automation 平台的許可，有效期為 12 個月，如下詳細說明: 供應商必須擁有至少 5 年份的銷售、分銷和企業技術支援經驗。 供應商必須至少有 5 銷售許可證的多年經驗，具有與所要求相似的特性。 如果交付的商品和服務不符合契約要求，CABEI將通知供應商，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿足。 1.4 一般和具體經驗 供應商 1.4.1 一般經驗: 這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
-      "qualifications": [
-        "1.4 一般和具體經驗 供應商 1.4.1 一般經驗:",
-        "供應商必須擁有至少 5 年份的銷售、分銷和企業技術支援經驗。",
-        "供應商必須至少有 5 銷售許可證的多年經驗，具有與所要求相似的特性。",
-        "這種經驗必須透過客戶發出的參考信(最少5信)來證明，這些客戶已經獲得了與所要求相似的解決方案。",
-        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03864435-Aviso.pdf",
-      "translationFingerprint": "fb9f171d447706c4d5fd102247d6ff2340d02c12ceb489d9332d9abccf4ece05",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-10T07:30:10.422303+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "154014",
-      "document": "822",
-      "process": "066/2026",
-      "country": "區域／未載明",
-      "industry": "專業顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-11-04",
-      "deadlineUtc": "2026-11-18T23:00:00.000Z",
-      "fit": 62,
-      "title": "技術顧問(AT)為初步實施的影印件多專案破產數",
-      "ruleTitle": "Asesor técnico (AT) para las actividades iniciales de implementación de la Represa Multipropósitos Quiebra Montes",
-      "originalTitle": "066/2026 Asesor técnico (AT) para las actividades iniciales de implementación de la Represa Multipropósitos Quiebra Montes",
-      "summary": "CABEI 公開採購「技術顧問(AT)為初步實施的影印件多專案破產數」。2 V09-2026-2 CONFIDENCIAL EXTERNO 1.2 1.2.1 諮詢機構的目的或目標 CABEI 需要聘請技術顧問(AT)為執行機構提供全面的技術支援(OE)。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 公司將提供專門的技術協助，以便向基礎設施和運輸部門提供諮詢服務( SIT 透過專案執行單位( UEP ) 破產 Montes 為準備和陪同需要實施的採購過程 該專案包括，但不限於:",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "2 V09-2026-2 CONFIDENCIAL EXTERNO 1.2 1.2.1 諮詢機構的目的或目標 CABEI 需要聘請技術顧問(AT)為執行機構提供全面的技術支援(OE)。 【待校訂：分段保護翻譯】1.3 諮詢服務的可用性 1.3.1 公司將提供專門的技術協助，以便向基礎設施和運輸部門提供諮詢服務( SIT 透過專案執行單位( UEP ) 破產 Montes 為準備和陪同需要實施的採購過程 該專案包括，但不限於: 1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須在其報價中證明，需要開發諮詢服務的最低關鍵人員的滿足； 所需的最低關鍵人員由十四名(14)專業人士組成，這些專業人士在 2.2.3, 號的“關鍵人員評估標準”表中列出，其中確定了每個人所需的學術培訓和總體和具體經驗。 工作說明書（TOR） (TdR) 採購執行單位的關鍵人員 9 專案實施。 1.8 契約執行時間表 關於 1.6.1, 號表框中列出的交貨物，則包含採購的諮詢公司的產品時間表: 3 V09-2026-2 CONFIDENCIAL EXTERNO 或 附加要求，以便監督團隊擁有在環境管理，社會管理和健康",
-      "qualifications": [
-        "3 V09-2026-2 CONFIDENCIAL EXTERNO 或 附加要求，以便監督團隊擁有在環境管理，社會管理和健康和職業安全方面的經驗，符合 SIEMAS 計劃。",
-        "執行單位的關鍵員工 • 工作說明書（TOR） 編制執行機構的關鍵員工採購，協助採購過程 技術顧問必須在提前描述的採購過程中技術支援執行機構， 包括:",
-        "1.4 總體和具體經驗 諮詢簽名 1.4.1 總體經驗:",
-        "1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須在其報價中證明，需要開發諮詢服務的最低關鍵人員的滿足；",
-        "所需的最低關鍵人員由十四名(14)專業人士組成，這些專業人士在 2.2.3, 號的“關鍵人員評估標準”表中列出，其中確定了每個人所需的學術培訓和總體和具體經驗。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03855261-Aviso.pdf",
-      "translationFingerprint": "73ce02a33c82ca1a01751ca9db73f6cb21fd6e7891da41794bca666c1bb6c303",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-05T07:00:30.458784+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
-    {
-      "id": "152014",
-      "document": "819",
-      "process": "062/2026",
-      "country": "區域／未載明",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開招標",
-      "published": "2026-11-03",
-      "deadlineUtc": "2026-11-18T23:00:00.000Z",
-      "fit": 35,
-      "title": "Cisco Smart Net Total Care 支援",
-      "ruleTitle": "Renovación de Soporte Cisco Smart Net Total Care",
-      "originalTitle": "062/2026 Renovación de Soporte Cisco Smart Net Total Care",
-      "summary": "CABEI 公開採購「Cisco Smart Net Total Care 支援」。1.2 採購的目的為 1.2.1 透過在 CABEI 總部建築、改造處理中心和國家辦公室安裝和運營的 Cisco 設備的支援和擴充套件保證服務的持續性，透過在 Smart 模式下更新覆蓋 Net Total Care(或其當前同等名稱)適用於這些 工作說明書（TOR） 7 附件中詳細列出的設備。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購公司，以確保Cisco本部建築、改造處理中心和國家辦公室安裝和運營的設備的廣泛支援和保證服務的連續性。 CABEI 透過改造覆蓋 根據 工作說明書（TOR） 7 附件中詳細描述的設備的 ",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "1.2 採購的目的為 1.2.1 透過在 CABEI 總部建築、改造處理中心和國家辦公室安裝和運營的 Cisco 設備的支援和擴充套件保證服務的持續性，透過在 Smart 模式下更新覆蓋 Net Total Care(或其當前同等名稱)適用於這些 工作說明書（TOR） 7 附件中詳細列出的設備。 【待校訂：分段保護翻譯】提議 DE LA 契約 和 CABEI 需要採購公司，以確保Cisco本部建築、改造處理中心和國家辦公室安裝和運營的設備的廣泛支援和保證服務的連續性。 CABEI 透過改造覆蓋 根據 工作說明書（TOR） 7 附件中詳細描述的設備的 Smart Net Total Care 模式(或其當前同等名稱)。 至少有五年(5)在銷售與所需相似的設備和解決方案的經驗。 提前保證必須在提前付款之前有效，並在契約的期限內保持有效。 須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。 1.4 一般和具體經驗 供應商 1.4.1 一般經驗: 供應商必須在 Cisco 品牌設備的銷售、分銷和技術支援方面有經過驗證的經驗。 缺乏或不一致的歷史或參考資訊(例如，經驗背景或",
-      "qualifications": [
-        "1.4 一般和具體經驗 供應商 1.4.1 一般經驗:",
-        "供應商必須在 Cisco 品牌設備的銷售、分銷和技術支援方面有經過驗證的經驗。",
-        "至少有五年(5)在銷售與所需相似的設備和解決方案的經驗。",
-        "須檢附董事會秘書出具之授權書或證明文件影本，以證明公司法定代表人的任命。",
-        "缺乏或不一致的歷史或參考資訊(例如，經驗背景或契約履行)，可以透過客觀來源進行驗證或補充，而不會改變提交的技術或經濟報價。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03852836-Aviso.pdf",
-      "translationFingerprint": "bf55778cba7ec7bce243e0e9833245533ff888559e420dfcbf57861ad1da7461",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-04T00:26:34.378998+00:00",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "158014",
       "document": "826",
@@ -132,7 +11,7 @@
       "category": "服務",
       "method": "公開詢價",
       "published": "2026-11-13",
-      "deadlineUtc": "2026-11-19T23:00:00.000Z",
+      "deadlineUtc": "2026-11-23T23:00:00.000Z",
       "fit": 35,
       "title": "CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜",
       "ruleTitle": "“Servicio de Mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua",
@@ -192,6 +71,86 @@
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
       "translationWarnings": []
+    },
+    {
+      "id": "159015",
+      "document": "828",
+      "process": "068/2026",
+      "country": "區域／未載明",
+      "industry": "永續與環境顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-11-18",
+      "deadlineUtc": "2026-12-09T23:00:00.000Z",
+      "fit": 72,
+      "title": "支援Mendoza省城市固體廢物綜合管理",
+      "ruleTitle": "Apoyo a la Gestión Integral de Residuos Sólidos Urbanos de la provincia de Mendoza",
+      "originalTitle": "068/2026 Apoyo a la Gestión Integral de Residuos Sólidos Urbanos de la provincia de Mendoza",
+      "summary": "CABEI 公開採購「支援Mendoza省城市固體廢物綜合管理」。【待校訂：分段保護翻譯】36 V09-2026-2 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.3 諮詢服務 該諮詢服務將在密切協調中與孟多薩省政府指定的執行機構以及與與城市固體廢物管理相關的相關機構和機構進行協作，並與該機構進行協作。 CABEI(CABEI)和技術團隊分配跟蹤合作。",
+      "capabilities": [
+        "環境影響評估",
+        "ESG",
+        "環境工程"
+      ],
+      "reason": "台灣工程顧問與設備供應鏈可切入設計、技術或專案管理，但現地執照、施工與西語團隊仍需區域夥伴。",
+      "caveat": "須核對當地執業資格、強制現勘、工程保險、財務門檻及聯合投標規則。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】36 V09-2026-2 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 1.3 諮詢服務 該諮詢服務將在密切協調中與孟多薩省政府指定的執行機構以及與與城市固體廢物管理相關的相關機構和機構進行協作，並與該機構進行協作。 CABEI(CABEI)和技術團隊分配跟蹤合作。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 與此同時，Mendoza在制定和執行與外部融資專案方面積累了重要經驗。 • 制定短期、中期和長期投資計劃，包括元件預算和主要專案；實施戰略和戰略時間表。 作為這一過程的一部分，建議您熟悉現有檔案和國際基金會制定的技術規格和最終融資提議所需的其他輸入的要求。 法律、機構和能力分析框架，包括當前和潛在運營商的識別、技術、財務和機構能力以及服務運營和關稅永續性評估。 諮詢公司將負責優先投資組合的技術、經濟",
+      "qualifications": [
+        "與此同時，Mendoza在制定和執行與外部融資專案方面積累了重要經驗。",
+        "作為這一過程的一部分，建議您熟悉現有檔案和國際基金會制定的技術規格和最終融資提議所需的其他輸入的要求。",
+        "法律、機構和能力分析框架，包括當前和潛在運營商的識別、技術、財務和機構能力以及服務運營和關稅永續性評估。",
+        "諮詢公司將負責優先投資組合的技術、經濟、財務、環境、社會、機構和法律結構，確保其與省級優先事項一致，並將其與潛在的國內和國際融資來源的要求相匹配。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03882761-Aviso.pdf",
+      "translationFingerprint": "18ead61cedce40808434687273bf3d402470a8ad7e053a07fcff90584cb99ca4",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-19T07:36:41.939683+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "159014",
+      "document": "827",
+      "process": "065/2026",
+      "country": "瓜地馬拉",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開招標",
+      "published": "2026-11-18",
+      "deadlineUtc": "2026-12-09T23:00:00.000Z",
+      "fit": 22,
+      "title": "CABEI國家管理安全服務在加泰羅尼亞共和國",
+      "ruleTitle": "Servicios de Seguridad para la Gerencia de País del BCIE en la República de Guatemala",
+      "originalTitle": "065/2026 Servicios de Seguridad para la Gerencia de País del BCIE en la República de Guatemala",
+      "summary": "CABEI 公開採購「CABEI國家管理安全服務在加泰羅尼亞共和國」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 此類監督應包括至少與行政官員進行每週一次面試，旨在檢查服務條件，及時檢測服務缺陷，並立即採取各案例所應的糾正措施。 至少有10年(10)的安全服務經驗。 至少四年(4)安全工作和人員監督經驗。 至少有三年(3)安全工作經驗。 1.8.7 在契約提供其安全服務的期間，將負責損害，損失或損壞，除非偶然的情況，強度或情況證明，這些事件發生在情況下，避免這些事件不在上述範圍內。 個人。 DE LA 契約 1.2.1 CABEI 要求在本文件中稱為“契約人”的合適組成的專門公司，其技術和財務能力，以便提供安全和監督服務，以便透過 CABEI代表辦公室的員工在瓜地馬拉，謹慎和保護人的生命和完整性，傢俱和房地產的安全。 提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。",
+      "qualifications": [
+        "至少有10年(10)的安全服務經驗。",
+        "提供金融機構、國際機構或具有相當大小或類似於 CABEI 的設施的企業安全服務的經驗。",
+        "至少四年(4)安全工作和人員監督經驗。",
+        "至少有三年(3)安全工作經驗。",
+        "DE LA 契約 1.2.1 CABEI 要求在本文件中稱為“契約人”的合適組成的專門公司，其技術和財務能力，以便提供安全和監督服務，以便透過 CABEI代表辦公室的員工在瓜地馬拉，謹慎和保護人的生命和完整性，傢俱和房地產的安全。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03882774-065%202026%20T%C3%A9rminos%20de%20Referencia.pdf",
+      "translationFingerprint": "6d93bccd44a482bf4c08ebb53a4b3214238e6d63ebe2dbbee23303cbf7be619d",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-19T07:36:52.436556+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     }
   ],
   "officialAttachments": {
@@ -203,40 +162,6 @@
       {
         "name": "056 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03831858-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
-    "152014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03852836-Aviso.pdf"
-      },
-      {
-        "name": "062 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03852832-062%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Anexo 6 - Formato de Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03852827-Anexo%206%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
-    "154014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03855261-Aviso.pdf"
-      },
-      {
-        "name": "066 2026 Términos de Referencia .pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03855260-066%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
-      }
-    ],
-    "156014": [
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03864435-Aviso.pdf"
-      },
-      {
-        "name": "058 2026 Términos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03864434-058%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
     "158014": [
@@ -252,27 +177,52 @@
         "name": "Anexo 5- Formato Oferta Técnica.docx",
         "url": "https://www.bcie.org/api/files/file/UCMFA03871376-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
       }
+    ],
+    "159014": [
+      {
+        "name": "065 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03882774-065%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03882671-Aviso.pdf"
+      }
+    ],
+    "159015": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03882761-Aviso.pdf"
+      },
+      {
+        "name": "068 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03882759-068%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
     ]
   },
   "taiwanCompanySuggestions": {
     "150016": [],
-    "152014": [],
-    "154014": [],
-    "156014": [
+    "158014": [],
+    "159014": [],
+    "159015": [
       {
-        "name": "精誠資訊（SYSTEX）",
-        "role": "企業 IT 整合",
-        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
-        "url": "https://www.systex.com/"
+        "name": "中華顧問工程司（CECI）",
+        "role": "工程顧問／專案管理",
+        "why": "公共建設、交通、水利與專案管理能力可支援設計審查或工程顧問角色。",
+        "url": "https://www.ceci.org.tw/en/about/our-story.aspx"
       },
       {
-        "name": "資拓宏宇（IISI）",
-        "role": "系統整合與維運",
-        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
-        "url": "https://www.iisigroup.com/en/about-en/services/"
+        "name": "亞新工程顧問（MAA Group）",
+        "role": "工程與環境顧問",
+        "why": "可評估建築、基礎設施、環境及專案管理工作，並與當地執業團隊合作。",
+        "url": "https://www2.maaconsultants.com/en/about/detail.php?dpid=2"
+      },
+      {
+        "name": "中鼎工程（CTCI）",
+        "role": "EPC／工程整合",
+        "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
+        "url": "https://www.ctci.com/"
       }
-    ],
-    "158014": []
+    ]
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -515,6 +465,15 @@
     "3f0d4219de7b1c90f8b6ecbd4dd9f5d91de734e3297fe8c1273715e537b955b7": "CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜",
     "198daf72cd09022ebbfc4d47f6021292409ca90446f6d9a7283b638ab2f020cb": "1.2 採購的目的為 1.2.1 CABEI 需要採購一個專門的法律公司，以提供預防性維護系統的消防和消防，以及清潔代理的重新充電，安裝在馬納加州的 CABEI 國家管理局， 尼加拉瓜。",
     "aeb2ba2899c291d531873d183a9fa90304b64c925842ca394915a91bb282d3f4": "公司必須擁有所需的國家許可證和許可證，以及技術合格人員以及符合適用的 NFPA 標準的認證或認證，根據服務的系統的性質。",
-    "5a0a13a7b570a8f1b2a51495d31e8afcf2515d4b02f2621a892d1c45a4fcdb96": "服務應按照品質、安全、可靠性和技術符合的標準進行，確保系統的適當操作性，並遵守 CABEI 環境管理體系的適用規定和目標。"
+    "5a0a13a7b570a8f1b2a51495d31e8afcf2515d4b02f2621a892d1c45a4fcdb96": "服務應按照品質、安全、可靠性和技術符合的標準進行，確保系統的適當操作性，並遵守 CABEI 環境管理體系的適用規定和目標。",
+    "2fa555ff1b92695600a861f4fed01f0497779080e126e56b92fa8a2cdea1df51": "支援Mendoza省城市固體廢物綜合管理",
+    "bd286d2d2ddda51c647f17e55a438e785b9a15da8fc753d2fdc7aae5b6cd54d3": "【待校訂：分段保護翻譯】36 V09-2026-2 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。",
+    "9c9842293fe3f05c199540eb862de7d009be76c845b1a353106744ad1f315b14": "1.3 諮詢服務 該諮詢服務將在密切協調中與孟多薩省政府指定的執行機構以及與與城市固體廢物管理相關的相關機構和機構進行協作，並與該機構進行協作。 CABEI(CABEI)和技術團隊分配跟蹤合作。",
+    "e14c8a7a25563098352563cc1373d786659b4774c8b0b8f48cee1dc93b8ad3fe": "與此同時，Mendoza在制定和執行與外部融資專案方面積累了重要經驗。",
+    "4cb331a9ba66f0eaf6172bc2c40bdb424b41b836c35d73078e59b47e0e513ae0": "• 制定短期、中期和長期投資計劃，包括元件預算和主要專案；實施戰略和戰略時間表。",
+    "7df63280ef4bb500ac660ca2666bb297adea78c64fa327cf16e09bb4935bc435": "作為這一過程的一部分，建議您熟悉現有檔案和國際基金會制定的技術規格和最終融資提議所需的其他輸入的要求。",
+    "4ac28479495f191f5c59c1e35a657630b7b142d1027e7ac09fb6d76443e67bb6": "法律、機構和能力分析框架，包括當前和潛在運營商的識別、技術、財務和機構能力以及服務運營和關稅永續性評估。",
+    "2cfe53ab7113ef061efe2dfa93cb68892202346f8511c86f9da543ef3664f7bd": "諮詢公司將負責優先投資組合的技術、經濟、財務、環境、社會、機構和法律結構，確保其與省級優先事項一致，並將其與潛在的國內和國際融資來源的要求相匹配。",
+    "efe816739a7169ccf767f1d9ebcd4fc64e8d43dc7529bf2e0e5a5a1c0830d95a": "DE LA 契約 1.2.1 CABEI 要求在本文件中稱為“契約人”的合適組成的專門公司，其技術和財務能力，以便提供安全和監督服務，以便透過 CABEI代表辦公室的員工在瓜地馬拉，謹慎和保護人的生命和完整性，傢俱和房地產的安全。"
   }
 }
