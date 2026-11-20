@@ -1,50 +1,7 @@
 {
-  "generatedAt": "2026-11-19T07:35:46.316Z",
+  "generatedAt": "2026-11-20T07:26:53.636Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
-    {
-      "id": "279",
-      "document": "279",
-      "process": "SLV-2026-2362-33452-B",
-      "originalTitle": "Adquisición de 8 vehiculos tipo Pick Up Doble Cabina 4x4 y una Motocicleta para uso la Unidad Ejecutora y una Motocicleta",
-      "title": "【待校訂：分段翻譯】購置 8 雙人車廂 4 頁:1 4 以及供執行單位使用的摩托車和摩托車",
-      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/279-SLV-2026-2362-33452-B",
-      "officialSummary": "Objetivos generales de la adquisición de OCHO Vehículos Pick Ups y Motocicleta a fin Fortalecer a la Unidad Ejecutora del proyecto a efecto de los Consultores (referentes de proyectos) que tenga movilidad adecuada para llevar a cabo las supervisiones de los escenarios deportivos a nivel nacional asimismo apoyar directamente la realización de diferentes actividades que realiza la Unidad Ejecutora de Proyectos",
-      "executor": "Instituto Nacional de los Deportes de El Salvador (INDES)",
-      "sourceLanguage": "es",
-      "country": "薩爾瓦多",
-      "industry": "個人／專業顧問",
-      "category": "貨品",
-      "method": "徵求報價／一階段一信封",
-      "originalMethod": "Solicitud de Ofertas-1E-1S-Una Etapa-Un Sobre",
-      "published": "2026-10-06",
-      "deadlineUtc": "2026-11-20T06:00:00.000Z",
-      "deadlineDate": "2026-11-20",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "fit": 28,
-      "reason": "可評估台灣設備或產品供應；未核實具本案認證及跨境交付能力的公司，不列具名推薦。",
-      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
-      "amount": "未載明",
-      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
-      "sourceAmount": "498000.00",
-      "summary": "CABEI 公開採購「【待校訂：分段翻譯】購置 8 雙人車廂 4 頁:1 4 以及供執行單位使用的摩托車和摩托車」。購置OCHO車輛提款機和摩托車的一般目標,以加強專案執行股,為具有適當機動性以在國家一級對體育場進行監督的顧問(專案推薦人)服務 直接支援專案執行股開展的各種活動",
-      "qualifications": [
-        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
-      ],
-      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：購置OCHO車輛提款機和摩托車的一般目標,以加強專案執行股,為具有適當機動性以在國家一級對體育場進行監督的顧問(專案推薦人)服務 直接支援專案執行股開展的各種活動",
-      "analysisMode": "offline-translation",
-      "documentAccess": "Sitio web de COMPRASAL e.moreno@indes.gob.sv",
-      "translationFingerprint": "200498f2f25e9a26f16de5edd5e34483a7ff367af19fdf3b56aae7666d25d7a9",
-      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-opus-v2",
-      "translationUpdatedAt": "2026-10-07T00:18:45.821695+00:00",
-      "documentAccessZh": "【待校訂：分段翻譯】網址 COMPRASAL e.moreno@indes.gob.sv",
-      "translationWarnings": [
-        "重要資料檢查未通過，保留原文"
-      ]
-    },
     {
       "id": "281",
       "document": "281",
@@ -526,7 +483,6 @@
     }
   ],
   "officialAttachments": {
-    "279": [],
     "281": [
       {
         "name": "官方文件取得入口",
@@ -574,7 +530,6 @@
     ]
   },
   "taiwanCompanySuggestions": {
-    "279": [],
     "281": [
       {
         "name": "中華顧問工程司（CECI）",
