@@ -1,42 +1,7 @@
 {
-  "generatedAt": "2026-11-19T07:35:44.911Z",
+  "generatedAt": "2026-11-24T10:02:26.665Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "158014",
-      "document": "826",
-      "process": "063/2026",
-      "country": "尼加拉瓜",
-      "industry": "設施與一般服務",
-      "category": "服務",
-      "method": "公開詢價",
-      "published": "2026-11-13",
-      "deadlineUtc": "2026-11-23T23:00:00.000Z",
-      "fit": 35,
-      "title": "CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜",
-      "ruleTitle": "“Servicio de Mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua",
-      "originalTitle": "063/2026 “Servicio de Mantenimiento Preventivo al Sistema de detección y Sistema de supresión de incendio de la Gerencia de País del BCIE en Nicaragua",
-      "summary": "CABEI 公開採購「CABEI國家管理防火檢測和消防系統的預防維護服務 尼加拉瓜」。1.2 採購的目的為 1.2.1 CABEI 需要採購一個專門的法律公司，以提供預防性維護系統的消防和消防，以及清潔代理的重新充電，安裝在馬納加州的 CABEI 國家管理局， 尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。",
-      "capabilities": [
-        "設施管理"
-      ],
-      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
-      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "未載明",
-      "documentSummary": "1.2 採購的目的為 1.2.1 CABEI 需要採購一個專門的法律公司，以提供預防性維護系統的消防和消防，以及清潔代理的重新充電，安裝在馬納加州的 CABEI 國家管理局， 尼加拉瓜。 一旦契約交付，承包商，與銀行協調，並符合環境管理體系(SGA)設定的指導方針和格式，將制定適當的年度維護運營計劃(POA)進行採購活動的執行。 公司必須擁有所需的國家許可證和許可證，以及技術合格人員以及符合適用的 NFPA 標準的認證或認證，根據服務的系統的性質。 服務應按照品質、安全、可靠性和技術符合的標準進行，確保系統的適當操作性，並遵守 CABEI 環境管理體系的適用規定和目標。 如果需要在契約範圍內未提及的額外存款，則承包商應當提交相應的銀行維護單位評估費用，該單位應當確定其收購的起源。 維護人員必須有 NFPA 72: 認證 清潔代理或VESDA系統認證的消防系統。",
-      "qualifications": [
-        "維護人員必須有 NFPA 72: 認證",
-        "清潔代理或VESDA系統認證的消防系統。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03871401-063%202026%20Terminos%20de%20Referencia.pdf",
-      "translationFingerprint": "e68f75c25ac13629383f0abc5d7b8932a752ad3d40887802aebb1eda398b6af6",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-11-13T06:55:08.546717+00:00",
-      "translationWarnings": []
-    },
     {
       "id": "150016",
       "document": "817",
@@ -71,6 +36,46 @@
       "translationVersion": "offline-guard-v1",
       "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
       "translationWarnings": []
+    },
+    {
+      "id": "160014",
+      "document": "829",
+      "process": "065/2026",
+      "country": "哥斯大黎加",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-23",
+      "deadlineUtc": "2026-11-30T23:00:00.000Z",
+      "fit": 35,
+      "title": "CABEI建築的專業技術服務監測，維護控制在哥斯大黎加",
+      "ruleTitle": "“Servicios Técnicos Profesionales para el Monitoreo, Control del Mantenimiento del Edificio del BCIE en Costa Rica”",
+      "originalTitle": "065 2026 “Servicios Técnicos Profesionales para el Monitoreo, Control del Mantenimiento del Edificio del BCIE en Costa Rica”",
+      "summary": "CABEI 公開採購「CABEI建築的專業技術服務監測，維護控制在哥斯大黎加」。【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "【待校訂：分段保護翻譯】UNA VEZ APROBADO 機構資訊和 CABEI ( ) CABEI 它是一家多邊發展金融機構，旨在促進中美洲地區的經濟和經濟和社會均衡發展，包括各國。 創始人和非創始人區域國家，照顧並與所有合作夥伴的利益相匹配。 CABEI在1960作為中美洲的融入和發展的財務手臂出現，是Sui Generis組織，因為它在其業務中具有競爭或可能發展的領域的範圍，以及其物件和基礎原則。 公司必須擁有至少(5)三年在第三方資源管理和供應(outsourcing)的經驗，以滿足所要求的專業資料 1.4.2 具體經驗: 【待校訂：分段保護翻譯】1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 契約主體，由 承包商的表現。 如果交付的貨物和服務不符合契約要求，CABEI將通知契約人，以便在5工作日內進行糾正，並能夠保留支付，直到全部滿足。 描述 評分 RANGOS DE 技術評分 評分 超過 6 年經驗 15 將獲得更大的簽名評",
+      "qualifications": [
+        "支援環境監測器符合環境管理系統(SGA)的ISO 14001:2015認證標準，並支援每年維護認證所需的活動。",
+        "公司必須擁有至少(5)三年在第三方資源管理和供應(outsourcing)的經驗，以滿足所要求的專業資料 1.4.2 具體經驗:",
+        "承包商應當說明、詳細說明和文件提供所需服務的經驗:",
+        "描述 評分 RANGOS DE 技術評分 評分 超過 6 年經驗 15 將獲得更大的簽名評分經驗 超過 5 到 6 年經驗 12 1 15% 15.0% 總體現有 超過 1 到 4 年經驗 5 總體經驗。",
+        "UNA VEZ APROBADO 提議的契約，在那裡 3 經驗或更多 30 經驗證明 2 經驗 25 經驗類似的職業職位與一個(專業 30% 1 年經驗 20 最低 3 經驗在民用工程或類似的專案)。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03891974-Aviso.pdf",
+      "translationFingerprint": "004fbbc3f4b1ae054ec412a32b33d157d7e636637601efbe1a0608312f2058be",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-24T10:03:41.045627+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
     },
     {
       "id": "159015",
@@ -164,20 +169,6 @@
         "url": "https://www.bcie.org/api/files/file/UCMFA03831858-056%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
     ],
-    "158014": [
-      {
-        "name": "063 2026 Terminos de Referencia.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03871401-063%202026%20Terminos%20de%20Referencia.pdf"
-      },
-      {
-        "name": "Aviso.pdf",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03871400-Aviso.pdf"
-      },
-      {
-        "name": "Anexo 5- Formato Oferta Técnica.docx",
-        "url": "https://www.bcie.org/api/files/file/UCMFA03871376-Anexo%205-%20Formato%20Oferta%20T%C3%A9cnica.docx"
-      }
-    ],
     "159014": [
       {
         "name": "065 2026 Términos de Referencia.pdf",
@@ -197,11 +188,20 @@
         "name": "068 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03882759-068%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
+    ],
+    "160014": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03891974-Aviso.pdf"
+      },
+      {
+        "name": "065 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03891971-065%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
     ]
   },
   "taiwanCompanySuggestions": {
     "150016": [],
-    "158014": [],
     "159014": [],
     "159015": [
       {
@@ -222,7 +222,8 @@
         "why": "可評估工程整合、機電或環境技術分包；現地施工宜由區域夥伴主導。",
         "url": "https://www.ctci.com/"
       }
-    ]
+    ],
+    "160014": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -474,6 +475,10 @@
     "7df63280ef4bb500ac660ca2666bb297adea78c64fa327cf16e09bb4935bc435": "作為這一過程的一部分，建議您熟悉現有檔案和國際基金會制定的技術規格和最終融資提議所需的其他輸入的要求。",
     "4ac28479495f191f5c59c1e35a657630b7b142d1027e7ac09fb6d76443e67bb6": "法律、機構和能力分析框架，包括當前和潛在運營商的識別、技術、財務和機構能力以及服務運營和關稅永續性評估。",
     "2cfe53ab7113ef061efe2dfa93cb68892202346f8511c86f9da543ef3664f7bd": "諮詢公司將負責優先投資組合的技術、經濟、財務、環境、社會、機構和法律結構，確保其與省級優先事項一致，並將其與潛在的國內和國際融資來源的要求相匹配。",
-    "efe816739a7169ccf767f1d9ebcd4fc64e8d43dc7529bf2e0e5a5a1c0830d95a": "DE LA 契約 1.2.1 CABEI 要求在本文件中稱為“契約人”的合適組成的專門公司，其技術和財務能力，以便提供安全和監督服務，以便透過 CABEI代表辦公室的員工在瓜地馬拉，謹慎和保護人的生命和完整性，傢俱和房地產的安全。"
+    "efe816739a7169ccf767f1d9ebcd4fc64e8d43dc7529bf2e0e5a5a1c0830d95a": "DE LA 契約 1.2.1 CABEI 要求在本文件中稱為“契約人”的合適組成的專門公司，其技術和財務能力，以便提供安全和監督服務，以便透過 CABEI代表辦公室的員工在瓜地馬拉，謹慎和保護人的生命和完整性，傢俱和房地產的安全。",
+    "33d0649e84919ef1ecd8728a3ea960f617a47ae70d0cf80e198c13a01bd22acc": "公司必須擁有至少(5)三年在第三方資源管理和供應(outsourcing)的經驗，以滿足所要求的專業資料 1.4.2 具體經驗:",
+    "a10f5f9fb21621c9f24ef8cb005f5d946346538981253eda2215caa6b3b5fe32": "【待校訂：分段保護翻譯】1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 契約主體，由 承包商的表現。",
+    "2036273e279eda8db415d2e0fd75cbb588fa703e6fb0b09f456901250320ec06": "UNA VEZ APROBADO 提議的契約，在那裡 3 經驗或更多 30 經驗證明 2 經驗 25 經驗類似的職業職位與一個(專業 30% 1 年經驗 20 最低 3 經驗在民用工程或類似的專案)。",
+    "e48302785e1217e217ed6ddf5ba8e94d9af7b914a307e558d86555a75ee5f9ff": "支援環境監測器符合環境管理系統(SGA)的ISO 14001:2015認證標準，並支援每年維護認證所需的活動。"
   }
 }
