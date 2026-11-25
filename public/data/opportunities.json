@@ -1,42 +1,7 @@
 {
-  "generatedAt": "2026-11-24T10:02:26.665Z",
+  "generatedAt": "2026-11-25T08:46:46.463Z",
   "source": "https://www.bcie.org/adquisiciones-institucionales/en-curso",
   "opportunities": [
-    {
-      "id": "150016",
-      "document": "817",
-      "process": "056/2026",
-      "country": "區域／未載明",
-      "industry": "專業顧問",
-      "category": "顧問服務",
-      "method": "公開招標",
-      "published": "2026-10-23",
-      "deadlineUtc": "2026-11-25T23:00:00.000Z",
-      "fit": 62,
-      "title": "CABEI 可持續金融中介的數字平台",
-      "ruleTitle": "Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
-      "originalTitle": "056/2026 Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
-      "summary": "CABEI 公開採購「CABEI 可持續金融中介的數字平台」。以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
-      "capabilities": [
-        "專案顧問"
-      ],
-      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
-      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
-      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
-      "amount": "US$1,000,000",
-      "documentSummary": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。 • 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。 諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。 以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
-      "qualifications": [
-        "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
-        "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。"
-      ],
-      "analysisMode": "offline-translation",
-      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03831859-Aviso.pdf",
-      "translationFingerprint": "555421cedff843717a3df37d1e602dcd8881cc1d14cdfe0771bbb562ae4c5c0f",
-      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
-      "translationVersion": "offline-guard-v1",
-      "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
-      "translationWarnings": []
-    },
     {
       "id": "160014",
       "document": "829",
@@ -78,6 +43,81 @@
       ]
     },
     {
+      "id": "160016",
+      "document": "831",
+      "process": "066/2026",
+      "country": "區域／未載明",
+      "industry": "設施與一般服務",
+      "category": "服務",
+      "method": "公開詢價",
+      "published": "2026-11-25",
+      "deadlineUtc": "2026-12-01T23:00:00.000Z",
+      "fit": 35,
+      "title": "機構過程地圖設計與模擬服務",
+      "ruleTitle": "“Servicio de Diseño y Modelamiento del Mapa de Procesos Institucional”",
+      "originalTitle": "066 2026 “Servicio de Diseño y Modelamiento del Mapa de Procesos Institucional”",
+      "summary": "CABEI 公開採購「機構過程地圖設計與模擬服務」。確定過程元件的識別和特徵標準，包括名稱和編碼標準，以及每個過程必須保持的最低屬性，如目標、範圍、輸入、輸出、負責人、客戶和供應商。 提高每個過程的資訊，主要是透過每個過程的當前規範檔案(政策，手冊，程式，指南和格式)，採訪，如果需要，以及他認為相關的其他收集技術，確定其目標，範圍， 活動， 5 V09-2026-2 公共:",
+      "capabilities": [
+        "設施管理"
+      ],
+      "reason": "本案以當地人力及即時履約為主，台灣跨境供應優勢有限。",
+      "caveat": "高度依賴當地人力、許可、勞動法遵與現場管理，不建議台灣廠商單獨投標。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "確定過程元件的識別和特徵標準，包括名稱和編碼標準，以及每個過程必須保持的最低屬性，如目標、範圍、輸入、輸出、負責人、客戶和供應商。 提高每個過程的資訊，主要是透過每個過程的當前規範檔案(政策，手冊，程式，指南和格式)，採訪，如果需要，以及他認為相關的其他收集技術，確定其目標，範圍， 活動， 5 V09-2026-2 公共: 【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要採購公司服務，以審查和評估當前的過程地圖。 CABEI ，設計機構過程地圖，並進行在該地圖中識別的過程的模型。 承包商應當在其技術報價中詳細說明戰略、估計的努力和分配的團隊，以滿足服務期限內範圍內的所有過程。 在合夥公司的情況下，每個參與企業必須至少有五年(5)的市場存在，並滿足所需的具體經驗。 1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗: 承包商必須至少有以下具體經驗: 在銀行或金融服務專案，多邊銀行或國際機構的經驗。 承包商應提出一個多學科工作團隊，並具有以下經驗:",
+      "qualifications": [
+        "1.4 契約人所需的總體和具體經驗 1.4.1 總體經驗:",
+        "在合夥公司的情況下，每個參與企業必須至少有五年(5)的市場存在，並滿足所需的具體經驗。",
+        "承包商必須至少有以下具體經驗:",
+        "在銀行或金融服務專案，多邊銀行或國際機構的經驗。",
+        "承包商應提出一個多學科工作團隊，並具有以下經驗:"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03893947-Aviso.pdf",
+      "translationFingerprint": "26371637974722a18bacf4b58651c4f58c3caa1b0f073381092110b6136bd490",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-25T08:47:41.808092+00:00",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
+      "id": "150016",
+      "document": "817",
+      "process": "056/2026",
+      "country": "區域／未載明",
+      "industry": "專業顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-10-23",
+      "deadlineUtc": "2026-12-02T23:00:00.000Z",
+      "fit": 62,
+      "title": "CABEI 可持續金融中介的數字平台",
+      "ruleTitle": "Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
+      "originalTitle": "056/2026 Establecimiento de la Plataforma Digital de Intermediación Financiera Sostenible del BCIE",
+      "summary": "CABEI 公開採購「CABEI 可持續金融中介的數字平台」。以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "US$1,000,000",
+      "documentSummary": "以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 與CABEI推進的可持續發展目標。 目標是將這些進展轉化為一個完整、一致、堅實和完全規格化的方法框架，使其能夠透過數字平台進行操作和後續自動化。 • 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。 諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。 以及設計、開發和實施金融中介數字平台，可自動化與模型相關的過程，加強資訊的可追蹤性和管理，最佳化機構運營，促進資源通道化，向合併投資。 以 CABEI 推進的可持續發展目標。",
+      "qualifications": [
+        "• 諮詢公司應批准建議的分類結構，包括可持續的方法、目標、活動組、子組和有資格的活動，並確保其符合國際標準、可持續的 CABEI 債券框架、相關的稅率和最佳實踐。 適用的國際。",
+        "諮詢公司應設計有區別的增強工具，這些工具可以包括認識、培訓、專業技術協助、技術輔助、經驗交流、實施飛行員、行動計劃和持續改善等活動。 作為自我評估和跟蹤工具。"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03831859-Aviso.pdf",
+      "translationFingerprint": "555421cedff843717a3df37d1e602dcd8881cc1d14cdfe0771bbb562ae4c5c0f",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-10-24T04:47:18.418310+00:00",
+      "translationWarnings": []
+    },
+    {
       "id": "159015",
       "document": "828",
       "process": "068/2026",
@@ -116,6 +156,44 @@
       "translationWarnings": [
         "重要資料檢查未通過，保留原文"
       ]
+    },
+    {
+      "id": "160015",
+      "document": "830",
+      "process": "069/2026",
+      "country": "區域／未載明",
+      "industry": "專業顧問",
+      "category": "顧問服務",
+      "method": "公開招標",
+      "published": "2026-11-24",
+      "deadlineUtc": "2026-12-09T23:00:00.000Z",
+      "fit": 62,
+      "title": "2040年度視野設計和執行過程的諮詢，為SICA國家",
+      "ruleTitle": "Consultoría para diseñar y conducir el proceso de formulación de una visión al año 2040 para los países del SICA",
+      "originalTitle": "069/2026 Consultoría para diseñar y conducir el proceso de formulación de una visión al año 2040 para los países del SICA",
+      "summary": "CABEI 公開採購「2040年度視野設計和執行過程的諮詢，為SICA國家」。總體經驗應透過契約、證書、認證、接收檔案、機構參考檔案或其他可驗證的檔案進行認證，至少說明服務的物件、承包商、執行期限和簽名參與範圍。 經驗必須透過契約、證書、證書、參考信件或其他可驗證的檔案進行驗證，以便明確地確定客戶、諮詢服務的物件、提供的服務的範圍、執行期限和簽名所發揮的作用。 顧問。",
+      "capabilities": [
+        "專案顧問"
+      ],
+      "reason": "可由具相關實績的台灣團隊評估合作，但須先核對西語、在地履約及完整資格門檻。",
+      "caveat": "須依 TOR 核對原廠授權、相似實績、人員資格、語言、稅務與跨境交付條件。",
+      "noCompanyReason": "本案偏重在地人力、語言或現場履約，暫不自動列出台灣直接投標候選；建議先尋找中美洲合格主承包或專業夥伴。",
+      "amount": "未載明",
+      "documentSummary": "總體經驗應透過契約、證書、認證、接收檔案、機構參考檔案或其他可驗證的檔案進行認證，至少說明服務的物件、承包商、執行期限和簽名參與範圍。 經驗必須透過契約、證書、證書、參考信件或其他可驗證的檔案進行驗證，以便明確地確定客戶、諮詢服務的物件、提供的服務的範圍、執行期限和簽名所發揮的作用。 顧問。 顧問簽名必須是合法設立的實體，並證明其技術、運營和行政能力，以開展涉及多個國家、機構和部門的區域範圍服務。 1.4.2 至少，您必須獲得10年(10)在以下領域之一或多個相關諮詢服務的總經驗: 1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須提供至少以下關鍵人員: 十五年(15)的總體經驗； 10年(10)經驗和經驗證明的參與，促進戰略對話，建立共識和管理與多個部門和機構的高層參與過程。 10年(10)在區域發展、經濟融入、戰略規劃或可持續發展議程設計方面的經驗；",
+      "qualifications": [
+        "1.4.2 至少，您必須獲得10年(10)在以下領域之一或多個相關諮詢服務的總經驗:",
+        "1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須提供至少以下關鍵人員:",
+        "十五年(15)的總體經驗；",
+        "10年(10)經驗和經驗證明的參與，促進戰略對話，建立共識和管理與多個部門和機構的高層參與過程。",
+        "10年(10)在區域發展、經濟融入、戰略規劃或可持續發展議程設計方面的經驗；"
+      ],
+      "analysisMode": "offline-translation",
+      "documentUrl": "https://www.bcie.org/api/files/file/UCMFA03893617-Aviso.pdf",
+      "translationFingerprint": "115a6bae0f953814b3e3d90da36d24a97e6703582971b45e88eb59db96a6b0dc",
+      "translationModel": "facebook/m2m100_418M (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-guard-v1",
+      "translationUpdatedAt": "2026-11-25T08:48:13.289323+00:00",
+      "translationWarnings": []
     },
     {
       "id": "159014",
@@ -198,6 +276,30 @@
         "name": "065 2026 Términos de Referencia.pdf",
         "url": "https://www.bcie.org/api/files/file/UCMFA03891971-065%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
       }
+    ],
+    "160015": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03893617-Aviso.pdf"
+      },
+      {
+        "name": "069 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03893616-069%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      }
+    ],
+    "160016": [
+      {
+        "name": "Aviso.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03893947-Aviso.pdf"
+      },
+      {
+        "name": "066 2026 Términos de Referencia.pdf",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03893943-066%202026%20T%C3%A9rminos%20de%20Referencia.pdf"
+      },
+      {
+        "name": "Anexo 5 - Formato de Oferta Técnica.docx",
+        "url": "https://www.bcie.org/api/files/file/UCMFA03893929-Anexo%205%20-%20Formato%20de%20Oferta%20T%C3%A9cnica.docx"
+      }
     ]
   },
   "taiwanCompanySuggestions": {
@@ -223,7 +325,9 @@
         "url": "https://www.ctci.com/"
       }
     ],
-    "160014": []
+    "160014": [],
+    "160015": [],
+    "160016": []
   },
   "translationCache": {
     "51d9f5a7107c46af5ce8b18c49cb28b7dcd5f8a9de745800590be17c10df89f3": "CABEI Zero Waste to Landfill 認證的診斷和準備諮詢機構在其在宏都拉斯，薩爾瓦多，瓜地馬拉，哥斯大黎加和尼加拉瓜的設施",
@@ -479,6 +583,24 @@
     "33d0649e84919ef1ecd8728a3ea960f617a47ae70d0cf80e198c13a01bd22acc": "公司必須擁有至少(5)三年在第三方資源管理和供應(outsourcing)的經驗，以滿足所要求的專業資料 1.4.2 具體經驗:",
     "a10f5f9fb21621c9f24ef8cb005f5d946346538981253eda2215caa6b3b5fe32": "【待校訂：分段保護翻譯】1.6 採購期限 1.6.1 他的 CABEI 承包商將簽訂契約，以 1 1月的 2027 阿爾 31 十二月的 2027, 可每年更新( 12 五年之久(五年之久) 5 (二)年間，與 CABEI 契約主體，由 承包商的表現。",
     "2036273e279eda8db415d2e0fd75cbb588fa703e6fb0b09f456901250320ec06": "UNA VEZ APROBADO 提議的契約，在那裡 3 經驗或更多 30 經驗證明 2 經驗 25 經驗類似的職業職位與一個(專業 30% 1 年經驗 20 最低 3 經驗在民用工程或類似的專案)。",
-    "e48302785e1217e217ed6ddf5ba8e94d9af7b914a307e558d86555a75ee5f9ff": "支援環境監測器符合環境管理系統(SGA)的ISO 14001:2015認證標準，並支援每年維護認證所需的活動。"
+    "e48302785e1217e217ed6ddf5ba8e94d9af7b914a307e558d86555a75ee5f9ff": "支援環境監測器符合環境管理系統(SGA)的ISO 14001:2015認證標準，並支援每年維護認證所需的活動。",
+    "032331fd7d651f8102bf23cb4c035fced7fb80c7ce8006f6ce25a1ab5f1f2a7a": "機構過程地圖設計與模擬服務",
+    "1420a0b3e4eff67ca47b1362728487c320741bf2c829f7e82624a9566835024d": "確定過程元件的識別和特徵標準，包括名稱和編碼標準，以及每個過程必須保持的最低屬性，如目標、範圍、輸入、輸出、負責人、客戶和供應商。",
+    "07dcc3ef04ba4f2768dbaed41de6eaded77937e4a6559cbc6ca5c4a10661c623": "提高每個過程的資訊，主要是透過每個過程的當前規範檔案(政策，手冊，程式，指南和格式)，採訪，如果需要，以及他認為相關的其他收集技術，確定其目標，範圍， 活動， 5 V09-2026-2 公共:",
+    "62cd8f19bd71d6026d0af4a03efd334a86c3d6bb1d9c601c44827a99f8e1973e": "【待校訂：分段保護翻譯】1.2 契約的目的為 CABEI 需要採購公司服務，以審查和評估當前的過程地圖。 CABEI ，設計機構過程地圖，並進行在該地圖中識別的過程的模型。",
+    "eef541a3b4581f5ff45f63fa13c832969fd8ce36d9ac9398bf09930ade201c02": "承包商應當在其技術報價中詳細說明戰略、估計的努力和分配的團隊，以滿足服務期限內範圍內的所有過程。",
+    "ac58d63c7efb5e6eea702814b87a6564f933224e19991a622a617a6075402168": "在合夥公司的情況下，每個參與企業必須至少有五年(5)的市場存在，並滿足所需的具體經驗。",
+    "7b73ca4d054d2f88ebe32a6dfe4ee4b34f0e8eb5e3e65d6666a43fbd682bc8c2": "承包商必須至少有以下具體經驗:",
+    "277c00af7b04da57f72d32141ca33769ce60c6cffd12b6943f532bf8dddcbc8d": "在銀行或金融服務專案，多邊銀行或國際機構的經驗。",
+    "f1a7f5f44878d992606767a0373e0ef9569bd0664e3954e38911adbef91f6aea": "承包商應提出一個多學科工作團隊，並具有以下經驗:",
+    "f2ce8933f558f375ca617a855d727dc2628e3db081d8e70d3d217c3bc49c04ef": "2040年度視野設計和執行過程的諮詢，為SICA國家",
+    "41ab16ab044c19780d1e893ef6ed4d84c40e8c4c79f01e28e2f7871ae7976764": "總體經驗應透過契約、證書、認證、接收檔案、機構參考檔案或其他可驗證的檔案進行認證，至少說明服務的物件、承包商、執行期限和簽名參與範圍。",
+    "1149e5cb12ddce11c113f80a408c006ce25a6dc40e2c63e1764ef6e448a7e633": "經驗必須透過契約、證書、證書、參考信件或其他可驗證的檔案進行驗證，以便明確地確定客戶、諮詢服務的物件、提供的服務的範圍、執行期限和簽名所發揮的作用。 顧問。",
+    "2b3f8d190a29927fa5033eee9b15cfc4097f7b588f5fbc616b131d27efa96bee": "顧問簽名必須是合法設立的實體，並證明其技術、運營和行政能力，以開展涉及多個國家、機構和部門的區域範圍服務。",
+    "48a891ed54b4879782ea5eaf440d36dd5bc5c899dc5aca81434d444e0db39a94": "1.4.2 至少，您必須獲得10年(10)在以下領域之一或多個相關諮詢服務的總經驗:",
+    "548c7b0f2c53b10def682909569385126acc0c49c0d83fdc8aa5394a8db01676": "1.5 需要的工作團隊經驗 1.5.1 諮詢公司必須提供至少以下關鍵人員:",
+    "17bccaa17d316aa92974ea51ec1d3b224a46bcdcf9acadfe45984040cb914227": "十五年(15)的總體經驗；",
+    "0cc04901929981546856baff9cb9fb4df4f5190756af1426c5d8e92d7c450ff3": "10年(10)經驗和經驗證明的參與，促進戰略對話，建立共識和管理與多個部門和機構的高層參與過程。",
+    "2c84a1b0d4fdc8b6f469ba04e14e0a7ad58fdd7cda154db1850eb74df66986bd": "10年(10)在區域發展、經濟融入、戰略規劃或可持續發展議程設計方面的經驗；"
   }
 }
