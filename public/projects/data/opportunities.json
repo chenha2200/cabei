@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:20:57.415Z",
+  "generatedAt": "2026-11-26T08:32:11.747Z",
   "source": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion",
   "opportunities": [
     {
@@ -437,6 +437,50 @@
       ]
     },
     {
+      "id": "302",
+      "document": "302",
+      "process": "SLV-2026-2237-34040-B",
+      "originalTitle": "SUMINISTRO DE EQUIPO INFORMÁTICO, SOFTWARE, LICENCIAS Y PROGRAMA DE FORTALECIMIENTO TÉCNICO EN ENTORNOS COLABORATIVOS DE INTEROPERABILIDAD DIGITAL Y SERVICIOS CONEXOS PARA LA UNIDAD EJECUTORA DEL PROGRAMA",
+      "title": "【待校訂：分段翻譯】SUMINISTRO DE EQUIPO 資訊, SOFTWARE , LICENCIAS 與 PROGRAMA DE FORTALECIMIENTO 技術 EN ENTORNOS COLABORATIVOS DE INTEROPERABILIDAD DIGI",
+      "sourceUrl": "https://www.bcie.org/adquisiciones-en-proyectos/avisos-de-adquisicion/302-SLV-2026-2237-34040-B",
+      "officialSummary": "- Fortalecer la capacidad operativa y técnica de la Unidad Coordinadora del Programa PCT-II, mediante la provisión de equipo informático, multimedia, software y licencias que permitan un desempeño eficiente en planificación, seguimiento, monitoreo y gestión administrativa del Programa BCIE-2237. - Modernizar y estandarizar las herramientas tecnológicas del personal, garantizando equipos y software de alto rendimiento que faciliten el análisis de información técnica, la elaboración de informes, la supervisión de proyectos y el manejo de plataformas institucionales y del BCIE. - Asegurar la disponibilidad de soluciones tecnológicas confiables y seguras, con estándares adecuados de calidad.",
+      "executor": "Ministerio de Obras Públicas y de Transporte (MOPT)",
+      "sourceLanguage": "es",
+      "country": "薩爾瓦多",
+      "industry": "數位與資通訊",
+      "category": "貨品",
+      "method": "國際公開招標／一階段一信封",
+      "originalMethod": "Licitación Pública Internacional-1E-1S-Una etapa - un sobre",
+      "published": "2026-11-25",
+      "deadlineUtc": "2027-01-29T06:00:00.000Z",
+      "deadlineDate": "2027-01-29",
+      "capabilities": [
+        "資料中心",
+        "系統整合"
+      ],
+      "fit": 88,
+      "reason": "台灣相關技術與工程供應鏈可評估；仍須確認在地履約、實績與聯合投標條款。",
+      "noCompanyReason": "暫無經逐案核對的具名台灣廠商；可先評估供應鏈及當地合作通路。",
+      "amount": "未載明",
+      "amountNote": "僅列文件明示的美元金額；API 數值欄位未標示幣別，不推定為美元。",
+      "sourceAmount": "709495.59",
+      "summary": "CABEI 公開採購「【待校訂：分段翻譯】SUMINISTRO DE EQUIPO 資訊, SOFTWARE , LICENCIAS 與 PROGRAMA DE FORTALECIMIENTO 技術 EN ENTORNOS COLABORATIVOS DE INTEROPERABILIDAD DIGITAL 與 SERVICIOS CONEXOS PARA LA UNIDAD EJECUTORA DEL PROGRAMA」。- 透過提供計算機裝置、多媒體、軟體和許可證,加強PCT-II方案協調股的業務和技術能力,以便能夠在BCIE-2237方案的規劃、監測、監測和行政管理方面有效發揮作用。 使工作人員的技術工具現代化和標準化,保證高",
+      "qualifications": [
+        "官方文件未擷取到明確的廠商資格條文，請直接核對 TOR。"
+      ],
+      "documentSummary": "尚未擷取附件文字；以下僅為官方公告範疇摘要：- 透過提供計算機裝置、多媒體、軟體和許可證,加強PCT-II方案協調股的業務和技術能力,以便能夠在BCIE-2237方案的規劃、監測、監測和行政管理方面有效發揮作用。 使工作人員的技術工具現代化和標準化,保證高效能裝置和軟體便於分析技術資訊、編寫報告、監督專案以及管理機構平臺和BCIE。 具備可靠和安全的技術解決辦法,並具有適當的質量標準。",
+      "analysisMode": "offline-translation",
+      "documentAccess": "-Descargarlas en el sitio web: www.comprasal.gob.sv sin costo alguno, desde las 09:00 horas del 26 de noviembre de 2026 hasta las 23:55 horas del 28 de enero de 2027. -Descargarlas desde la página del Ministerio de Obras Públicas y de Transporte www.mop.gob.sv. a partir del día 26 de noviembre de 2026. Para completar el proceso de descarga por medio de la Página web antes mencionada deberán enviar un correo a la dirección ucp@mop.gob.sv; debiendo proporcionar nombre de la sociedad, correos electrónicos y números de teléfono para contacto, de lo contrario no se dará por completado el proceso de descarga de las Bases. Las Oficinas de la Unidad de Compras Públicas, Ministerio de Obras Públicas y de Transporte, Modulo “E”, Plantel La Lechuza Km. 5 ½ Carretera a Santa Tecla Frente al Estado Mayor de la Fuerza Armada, San Salvador, El Salvador, C.A.",
+      "translationFingerprint": "651bdaf194fee800a5ded915a867500df0310d04ee423bcd52131cdf157f61ed",
+      "translationModel": "OPUS-MT es-en/en-zh pinned-hans-v2 (es→zh) + OpenCC s2twp",
+      "translationVersion": "offline-opus-v2",
+      "translationUpdatedAt": "2026-11-26T08:32:29.428346+00:00",
+      "documentAccessZh": "【待校訂：分段翻譯】- 在網站:www.comprorasal.gob.sv 免費下載。 09:00 小時 26 聯 合 國 2026 直到 23:55 小時 28 一月份的會費 2027. - 公共工程和運輸部從今天起下載www.mop.gob.sv.。 26 聯 合 國 【待校訂：分段翻譯】2026. 要完成透過上述網站的下載程式, 您必須傳送電子郵件到地址 ucp@mop.gob.sv ;透過提供公司名稱、電子郵件和電話號碼進行聯絡,否則程序將無法完成 公共工程和運輸部公共採購股辦公室,Modulo“E”,Plantel La Lechuza Km. 5 1⁄2 Carretera a Santa Tecla對面武裝部隊總參謀部,聖薩爾瓦多,薩爾瓦多,C.A。",
+      "translationWarnings": [
+        "重要資料檢查未通過，保留原文"
+      ]
+    },
+    {
       "id": "288",
       "document": "288",
       "process": "CRI-2026-2341-34907-O",
@@ -527,7 +571,8 @@
         "name": "官方文件取得入口",
         "url": "https://compras.chaco.gob.ar/organismos"
       }
-    ]
+    ],
+    "302": []
   },
   "taiwanCompanySuggestions": {
     "281": [
@@ -673,7 +718,21 @@
       }
     ],
     "300": [],
-    "301": []
+    "301": [],
+    "302": [
+      {
+        "name": "精誠資訊（SYSTEX）",
+        "role": "企業 IT 整合",
+        "why": "企業軟體、資料中心與維運服務可對應授權或設備支援案件。",
+        "url": "https://www.systex.com/"
+      },
+      {
+        "name": "資拓宏宇（IISI）",
+        "role": "系統整合與維運",
+        "why": "可評估平台整合、資料中心服務與技術維運；須確認指定品牌授權。",
+        "url": "https://www.iisigroup.com/en/about-en/services/"
+      }
+    ]
   },
   "translationCache": {
     "d7c6c88d61deb7c7fa5ea8c96cd982d156f402aab84768a3402841a1eafae561": "【待校訂：分段翻譯】徵聘1名行政助理 CABEI (徵聘一人,在行政股和他的能力範圍內,協助執行股行政主管) 48 月",
@@ -821,6 +880,9 @@
     "803b872bbdd7fb219ef3250ca70397c257b4e59828d5b3be0f771a6cffc68985": "911設施和警察分隊的建造和裝置",
     "c9d7ce22c5e1ea6934f91d82d4b7d0de27faa81644eb703ac6e66832e5fcf536": "氣體探測器、呼吸裝置、ERA、A級裝置、B級裝置和熱攝像頭",
     "b015d0f358ebb3c753a345bf9a009cada69d47ad2dec4d624024290c89d0f0de": "【待校訂：分段翻譯】購置用於消防和大氣救援作業的開路自主呼吸保護裝置 IDLH 由高熱抗力的人類工程學原理構成, 180 °, 碳纖維氣瓶 4500 PSI  ( 45 (分鐘)和 * 在查科省2301公民安全方案框架內,採用綜合數字監測技術,遵守現行國際NFPA和IRAM標準。",
-    "25dfa84696468da9a3d5f675684cee32659242630404b191fdd3e6a1a9077041": "https://compras.chaco.gob.ar/organismos https://compras.chaco.gob.ar/organismos機構:安全部"
+    "25dfa84696468da9a3d5f675684cee32659242630404b191fdd3e6a1a9077041": "https://compras.chaco.gob.ar/organismos https://compras.chaco.gob.ar/organismos機構:安全部",
+    "d5671b24c8db5d73e98d167e8242706aec668615d1c6e06b9a8a2c2e7606a5bf": "【待校訂：分段翻譯】SUMINISTRO DE EQUIPO 資訊, SOFTWARE ,  LICENCIAS 與 PROGRAMA DE FORTALECIMIENTO 技術 EN ENTORNOS COLABORATIVOS DE INTEROPERABILIDAD DIGITAL 與 SERVICIOS CONEXOS PARA LA UNIDAD EJECUTORA DEL PROGRAMA",
+    "cda65a87904b823ec8672a77ab12fa8f572506450e41e60be7a041bf91c12991": "- 透過提供計算機裝置、多媒體、軟體和許可證,加強PCT-II方案協調股的業務和技術能力,以便能夠在BCIE-2237方案的規劃、監測、監測和行政管理方面有效發揮作用。 使工作人員的技術工具現代化和標準化,保證高效能裝置和軟體便於分析技術資訊、編寫報告、監督專案以及管理機構平臺和BCIE。 具備可靠和安全的技術解決辦法,並具有適當的質量標準。",
+    "bc605d3d4f510434844a86e738f153194adc34087b6438d5d88399a0de8c5b68": "【待校訂：分段翻譯】- 在網站:www.comprorasal.gob.sv 免費下載。 09:00 小時 26 聯 合 國 2026 直到 23:55 小時 28 一月份的會費 2027. - 公共工程和運輸部從今天起下載www.mop.gob.sv.。 26 聯 合 國 【待校訂：分段翻譯】2026. 要完成透過上述網站的下載程式, 您必須傳送電子郵件到地址 ucp@mop.gob.sv ;透過提供公司名稱、電子郵件和電話號碼進行聯絡,否則程序將無法完成 公共工程和運輸部公共採購股辦公室,Modulo“E”,Plantel La Lechuza Km. 5 1⁄2 Carretera a Santa Tecla對面武裝部隊總參謀部,聖薩爾瓦多,薩爾瓦多,C.A。"
   }
 }
